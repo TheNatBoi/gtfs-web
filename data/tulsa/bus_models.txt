@@ -1,0 +1,17 @@
+0504-0511,Gillig Low Floor 35',2004,Diesel,https://cptdb.ca/wiki/index.php/Tulsa_Transit_0504-0511
+0901-0903,Gillig BRT 29',2009,Diesel,https://cptdb.ca/wiki/index.php/Tulsa_Transit_0901-0903
+0904-0905,Gillig BRT 35',2009,Diesel,https://cptdb.ca/wiki/index.php/Tulsa_Transit_0904-0905
+1101-1111,Gillig BRT CNG 35',2011,CNG,https://cptdb.ca/wiki/index.php/Tulsa_Transit_1101-1111
+1112-1115,Gillig BRT CNG 40',2011,CNG,https://cptdb.ca/wiki/index.php/Tulsa_Transit_1112-1115
+1301-1305,Gillig BRT CNG 35',2013,CNG,https://cptdb.ca/wiki/index.php/Tulsa_Transit_1301-1305
+1307-1309,Gillig BRT CNG 40',2013,CNG,https://cptdb.ca/wiki/index.php/Tulsa_Transit_1307-1309
+1310-1312,Gillig BRT CNG 35',2013,CNG,https://cptdb.ca/wiki/index.php/Tulsa_Transit_1310-1312
+1601-1602,Gillig BRT CNG 40',2016,CNG,https://cptdb.ca/wiki/index.php/Tulsa_Transit_1601-1602
+1701-1708,Gillig BRT CNG 35',2017,CNG,https://cptdb.ca/wiki/index.php/Tulsa_Transit_1701-1708
+1901-1911,Gillig BRTPlus CNG 40',2019,CNG,https://cptdb.ca/wiki/index.php/Tulsa_Transit_1901-1911
+2001-2002,Gillig BRT CNG 35',2020,CNG,https://cptdb.ca/wiki/index.php/Tulsa_Transit_2001-2002
+2003-2004,Gillig BRT CNG 40',2020,CNG,https://cptdb.ca/wiki/index.php/Tulsa_Transit_2003-2004
+2101-2104,Proterra ZX5 40',2021,Electric,https://cptdb.ca/wiki/index.php/Tulsa_Transit_2101-2104
+2201,Gillig BRT CNG 35',2022,CNG,https://cptdb.ca/wiki/index.php/Tulsa_Transit_2201
+2301-2303,Gillig BRT CNG 35',2023,CNG,https://cptdb.ca/wiki/index.php/Tulsa_Transit_2301-2303
+2401-2409,Gillig BRT CNG 40',2024,CNG,https://cptdb.ca/wiki/index.php/Tulsa_Transit_2401-2409

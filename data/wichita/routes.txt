@@ -1,0 +1,20 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order
+11,0,"Route11: Maple-R","Route11: Maple-Ridge-21st-NewMrk",,3,,F35C29,FFFFFF,5
+12,0,"Route12: Douglas","Route12: Douglas-Central-Tyler-N",,3,,8CC541,FFFFFF,6
+13,0,"Route13: N Bdwy-","Route13: N Bdwy-NoMar-37th St",,3,,6A2E7D,FFFFFF,7
+14,0,"Route14: Douglas","Route14: Douglas-Meridian-PwnePl",,3,,CD2D7D,FFFFFF,8
+15,0,"Route15: Douglas","Route15: Douglas-West-13th-TwnLk",,3,,00733C,FFFFFF,9
+16,0,"Route16: S Bdwy-","Route16: S Bdwy-Lincoln-Seneca-4",,3,,DCB228,FFFFFF,10
+17,0,"Route17: Riversi","Route17: Riverside-Waco-Twin La",,3,,26A7DF,FFFFFF,11
+21,0,"Route21: Douglas","Route21: Douglas-Hillside-WSU-Gr",,3,,F35C29,FFFFFF,12
+22,0,"Route22: S Bdwy-","Route22: S Bdwy-E Harry-EKllg Wa",,3,,8CC541,FFFFFF,14
+23,0,"Route23: PwnePla","Route23: PwnePlaza-Planeview-Spi",,3,,6A2E7D,FFFFFF,15
+25,0,"Route25: E Centr","Route25: E Central-Wesley-Towne",,3,,00733C,FFFFFF,18
+26,0,"Route26: PwnePla","Route26: PwnePlaza-S Hydraulic-",,3,,DCB228,FFFFFF,20
+27,0,"Route27: N Bdwy-","Route27: N Bdwy-E13th-Waterfront",,3,,26A7D7,FFFFFF,22
+28,0,"Route28: KU Med-","Route28: KU Med-NGrove-25thSt",,3,,F68E20,FFFFFF,24
+29,0,"Route29: Hydraul","Route29: Hydraulic-ELincoln-Town",,3,,F68E20,FFFFFF,26
+200,0,"200","Route 200",,3,,de45c4,0d0d0d,27
+201,0,"Route201: Rock R","Route201: Rock Road",,3,,6A2E7D,FFFFFF,28
+2021,0,"202: Olive","Route 202: Oliver",,3,,FFCB05,FFFFFF,29
+4000,0,"Q-Line Clifton t","Q-Line Clifton to Walnut",,3,,F35C29,FFFFFF,52

@@ -1,0 +1,18 @@
+195-198,Nova Bus LFS 40102,2008,Diesel,https://cptdb.ca/wiki/index.php/Guelph_Transit_Commission_195-198
+199-205,Nova Bus LFS 40102,2008,Diesel,https://cptdb.ca/wiki/index.php/Guelph_Transit_199-205
+206-220,Nova Bus LFS 40102,2009,Diesel,https://cptdb.ca/wiki/index.php/Guelph_Transit_206-220
+221-224,Nova Bus LFS 40102,2010,Diesel,https://cptdb.ca/wiki/index.php/Guelph_Transit_Commission_Commission_221-224
+225-228,Nova Bus LFS 40102,2011,Diesel,https://cptdb.ca/wiki/index.php/Guelph_Transit_Commission_225-228
+229,Nova Bus LFS 40102,2010,Diesel,https://cptdb.ca/wiki/index.php/Guelph_Transit_Commission_229
+234,Nova Bus LFS 40102,2012,Diesel,https://cptdb.ca/wiki/index.php/Guelph_Transit_Commission_234
+236,Nova Bus LFS 40102,2012,Diesel,https://cptdb.ca/wiki/index.php/Guelph_Transit_Commission_236
+237-239,Nova Bus LFS 40102,2013,Diesel,https://cptdb.ca/wiki/index.php/Guelph_Transit_Commission_237-239
+240-243,Nova Bus LFS 40102,2014,Diesel,https://cptdb.ca/wiki/index.php/Guelph_Transit_Commission_240-243
+244-247,Nova Bus LFS 40102,2015,Diesel,https://cptdb.ca/wiki/index.php/Guelph_Transit_Commission_244-247
+248-251,Nova Bus LFS 40102,2016,Diesel,https://cptdb.ca/wiki/index.php/Guelph_Transit_Commission_248-251
+252-275,Nova Bus LFS 40102,2017,Diesel,https://cptdb.ca/wiki/index.php/Guelph_Transit_252-275
+276-280,Nova Bus LFS 40102,2020,Diesel,https://cptdb.ca/wiki/index.php/Guelph_Transit_276-280
+281-284,Nova Bus LFS 40102,2020,Diesel,https://cptdb.ca/wiki/index.php/Guelph_Transit_281-284
+285-288,Nova Bus LFSe+,2022,Electric,https://cptdb.ca/wiki/index.php/Guelph_Transit_285-288
+289-295,Nova Bus LFSe+,2023,Electric,https://cptdb.ca/wiki/index.php/Guelph_Transit_289-295
+296-303,Nova Bus LFSe+,2025,Electric,https://cptdb.ca/wiki/index.php/Guelph_Transit_296-303

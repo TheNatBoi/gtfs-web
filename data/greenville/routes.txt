@@ -1,0 +1,18 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color
+907,1,907,Game Day North,,3,D93646,FFFFFF
+509,1,509,E North,,3,AAF442,000000
+503,1,503,Poinsett,,3,4E0963,FFFFFF
+507,1,507,Augusta,,3,000000,FFFFFF
+504,1,504,Anderson,,3,46C8C2,000000
+508,1,508,Wade Hampton,,3,F72BAC,FFFFFF
+602,1,602,Woodruff Connector,,3,B502FC,FFFFFF
+501,1,501,Pleasantburg,,3,AD0101,FFFFFF
+510,1,510,Laurens,,3,F78B2C,000000
+550,1,550,White Horse/Woodside,,3,E643CB,000000
+551,1,551,Wade Hampton/Rutherford,,3,C6C811,000000
+601,1,601,Simpsonville Connector,,3,9E2D4D,FFFFFF
+502,1,502,White Horse,,3,0D7215,FFFFFF
+909,1,909,About Town,,3,201E54,FFFFFF
+908,1,908,Game Day South,,3,503F94,FFFFFF
+506,1,506,Woodside,,3,06048F,FFFFFF
+505,1,505,Rutherford,,3,2BD8F7,000000

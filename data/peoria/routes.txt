@@ -1,0 +1,18 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order
+1,0,"1","University","1 University",3,https://www.ridecitylink.org/route/route-1/,00b2eb,ffffff,1
+2,0,"2","North Adams","2 North Adams",3,https://www.ridecitylink.org/route/route-2/,0072bc,ffffff,2
+3,0,"3","Northwest Peoria","3 Northwest Peoria",3,https://www.ridecitylink.org/route/route-3/,fff200,ffffff,3
+4,0,"4","Sheridan","4 Sheridan",3,https://www.ridecitylink.org/route/route-4/,f89f6d,ffffff,4
+5,0,"5","West Peoria","5 West Peoria",3,https://www.ridecitylink.org/route/route-5/,007db0,ffffff,5
+7,0,"7","John Gwynn","7 John Gwynn",3,https://www.ridecitylink.org/route/route-7/,99ca3c,ffffff,7
+8,0,"8","East Peoria","8 East Peoria",3,https://www.ridecitylink.org/route/route-8/,a76535,ffffff,8
+10,0,"10","Forrest Hill","10 Forrest Hill",3,https://www.ridecitylink.org/route/route-10/,bf1e74,ffffff,10
+11,0,"11","Western","11 Western",3,https://www.ridecitylink.org/route/route-11/,522f91,ffffff,11
+12,0,"12","Heights","12 Heights",3,https://www.ridecitylink.org/route/route-12/,d2232a,ffffff,12
+13,0,"13","South Adams","13 South Adams",3,https://www.ridecitylink.org/route/route-13/,f3c828,ffffff,13
+14,0,"14","Wisconsin","14 Wisconsin",3,https://www.ridecitylink.org/route/route-14/,008f4c,ffffff,14
+15,0,"15","Lincoln","15 Lincoln",3,https://www.ridecitylink.org/route/route-15/,993e97,ffffff,15
+17,0,"17","Pekin North","17 Pekin North",3,https://www.ridecitylink.org/route/route-17/,f99d1c,ffffff,17
+18,0,"18","Pekin South","18 Pekin South",3,https://www.ridecitylink.org/route/route-18/,f99d1c,ffffff,18
+20,0,"20","ICC Express","20 ICC Express",3,https://www.ridecitylink.org/route/route-20/,86a6b2,ffffff,20
+23,0,"23","Peoria to Pekin","23 Peoria to Pekin",3,https://www.ridecitylink.org/route/route-23/,dc6d1d,ffffff,23

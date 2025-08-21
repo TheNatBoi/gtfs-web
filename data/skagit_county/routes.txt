@@ -1,0 +1,20 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color
+70X,e0e4541a-2714-487b-b30c-f5c6cb4a310f,70X,Upriver Connector,Concrete-MV ,3,0E0E0E,FFFFFF
+300,e0e4541a-2714-487b-b30c-f5c6cb4a310f,300,Route 300,Job Corps / Chuckanut,3,40AAF8,000000
+717,e0e4541a-2714-487b-b30c-f5c6cb4a310f,717,Route 717,Sedro-Woolley / Concrete,3,2F4F4F,FFFFFF
+513,e0e4541a-2714-487b-b30c-f5c6cb4a310f,513,Route 513,Marchs Point / Chuckanut,3,1E90FF,000000
+615,e0e4541a-2714-487b-b30c-f5c6cb4a310f,615,Route 615,Station / Conner / Casino / March,3,32CD32,000000
+80X,e0e4541a-2714-487b-b30c-f5c6cb4a310f,80X,County Connector Whatcom/Skagit,Bellingham Station to Skagit Station,3,20B2AA,000000
+90X,e0e4541a-2714-487b-b30c-f5c6cb4a310f,90X,County Connector Snohomish/Skagit,Everett Station to Skagit Station,3,006400,FFFFFF
+101,e0e4541a-2714-487b-b30c-f5c6cb4a310f,101,Route 101,Burlington Circulator,3,6AFC54,000000
+301,e0e4541a-2714-487b-b30c-f5c6cb4a310f,301,Route 301,Burlington/Sedro-Woolley Connector,3,B17AF1,000000
+207,e0e4541a-2714-487b-b30c-f5c6cb4a310f,207,Route 207,Skagit Station / Walmart / Skagit Hospital,3,00FFFF,000000
+305,e0e4541a-2714-487b-b30c-f5c6cb4a310f,305,Route 305,Sedro Woolley / SVC,3,00CED1,000000
+40X,e0e4541a-2714-487b-b30c-f5c6cb4a310f,40X,County Connector Island/Skagit,"March's Point to Skagit Station",3,000000,FFFFFF
+204,e0e4541a-2714-487b-b30c-f5c6cb4a310f,204,Route 204,Skagit Station / Skagit Hospital / Skagit College,3,8B4513,000000
+409,e0e4541a-2714-487b-b30c-f5c6cb4a310f,409,Route 409,Anacortes Downtown,3,4169E1,000000
+208,e0e4541a-2714-487b-b30c-f5c6cb4a310f,208,Route 208,Skagit Station / Mall / Chuck PNR,3,F5732E,000000
+410,e0e4541a-2714-487b-b30c-f5c6cb4a310f,410,Route 410,WA Ferry / March Point,3,800080,FFFFFF
+206,e0e4541a-2714-487b-b30c-f5c6cb4a310f,206,Route 206,Jefferson Elementary / South Mount Vernon,3,008B8B,000000
+205,e0e4541a-2714-487b-b30c-f5c6cb4a310f,205,Route 205,SVC / Skagit Station,3,FA36FA,000000
+202,e0e4541a-2714-487b-b30c-f5c6cb4a310f,202,Route 202,Skagit Station to Brit Slough to Reginal Justice centerl,3,831D6D,FFFFFF

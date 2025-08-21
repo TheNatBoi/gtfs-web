@@ -1,0 +1,21 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order
+1,0,"1","Walmart","Route Walmart",3,http://www.linktransit.com/routes_and_schedules/wenatchee_routes/route_1.php,F5841F,000000,1
+2,0,"2","E Wen/Walmart",,3,https://linktransit.com/routes_and_schedules/wenatchee_routes/route_2.php,9f3293,ffffff,3
+3,0,"3","Hospital",,3,http://www.linktransit.com/routes_and_schedules/wenatchee_routes/route_3.php,0064B0,ffffff,4
+4,0,"4","Riverside Dr",,3,http://www.linktransit.com/routes_and_schedules/wenatchee_routes/route_4.php,28ce12,000000,5
+5,0,"5","Cherry/Westrn",,3,http://www.linktransit.com/routes_and_schedules/wenatchee_routes/route_5.php,FFCC33,000000,8
+6,0,"6","S Wen Ave","Route S Wen Ave",3,,f04800,ffffff,15
+7,0,"7","Target",,3,http://www.linktransit.com/routes_and_schedules/wenatchee_routes/route_7.php,ED1D24,000000,20
+8,0,"8","Miller St",,3,https://linktransit.com/routes_and_schedules/route_8.php,000000,ffffff,25
+9,0,"9","Lincoln Park",,3,https://linktransit.com/routes_and_schedules/route_9.php,28ce12,000000,30
+11,0,"11","E Wenatchee",,3,http://www.linktransit.com/routes_and_schedules/east_wenatchee_routes/route_11_east_wenatchee.php,0064B0,ffffff,35
+12,0,"12","Fred Meyer",,3,https://linktransit.com/routes_and_schedules/east_wenatchee_routes/route_12.php,ED1D24,000000,40
+18,0,"18","E Wen/WVC",,3,http://www.linktransit.com/routes_and_schedules/east_wenatchee_routes/route18.php,FFCC33,000000,45
+21,0,"21","Manson",,3,http://www.linktransit.com/routes_and_schedules/intercity_routes/route_21_wenatchee_to_manson_via_entiat.php,00A850,ffffff,50
+22,0,"22","Leavenworth",,3,http://www.linktransit.com/routes_and_schedules/intercity_routes/route_22_wenatchee_to_leavenworth.php,F5841F,000000,55
+23,0,"23","Rock Island",,3,http://www.linktransit.com/routes_and_schedules/east_wenatchee_routes/route_23.php,00A850,ffffff,60
+24,0,"24","Malaga",,3,http://www.linktransit.com/routes_and_schedules/intercity_routes/route_24_wenatchee_to_malaga.php,000000,ffffff,65
+25,0,"25","Waterville",,3,http://www.linktransit.com/routes_and_schedules/east_wenatchee_routes/route_25.php,F5841F,000000,70
+28,0,"28","Cashmere",,3,http://www.linktransit.com/routes_and_schedules/small_city_routes/route_28_-_wenatchee_to_cashmere.php,b52a2e,ffffff,80
+32,0,"32","Leavenworth Local","Route Leavenworth Local",3,,056303,ffffff,90
+122,0,"122","Express",,3,https://linktransit.com/routes_and_schedules/wenatchee_routes/route_122.php,ED1D24,ffffff,122

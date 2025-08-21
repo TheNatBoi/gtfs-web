@@ -1,0 +1,12 @@
+1950-1954,New Flyer D40LF,2009,Diesel,https://cptdb.ca/wiki/index.php/Fort_McMurray_Transit_1950-1954
+1955-1961,New Flyer D40LF,2009,Diesel,https://cptdb.ca/wiki/index.php/Fort_McMurray_Transit_1955-1961
+1962-1975,New Flyer D40LFR,2010,Diesel,https://cptdb.ca/wiki/index.php/Fort_McMurray_Transit_1962-1975
+1976-1983,New Flyer XD40,2011,Diesel,https://cptdb.ca/wiki/index.php/Fort_McMurray_Transit_1976-1983
+1984-1988,New Flyer XD40,2012,Diesel,https://cptdb.ca/wiki/index.php/Fort_McMurray_Transit_1984-1988
+1989-1994,New Flyer XD40,2013,Diesel,https://cptdb.ca/wiki/index.php/Fort_McMurray_Transit_1989-1994
+1995-1996,ElDorado National E-Z Rider II MAX,2014,Unknown,https://cptdb.ca/wiki/index.php/Fort_McMurray_Transit_1995-1996
+1997-1999,New Flyer XD40,2015,Diesel,https://cptdb.ca/wiki/index.php/Fort_McMurray_Transit_1997-1999,_19-100_to_19-108
+19–100-19–108,New Flyer XD40,2015,Diesel,https://cptdb.ca/wiki/index.php/Fort_McMurray_Transit_1997-1999,_19-100_to_19-108
+19–109-19–112,New Flyer MD35,2015,Diesel,https://cptdb.ca/wiki/index.php/Fort_McMurray_Transit_19-109_to_19-112
+19–113-19–121,New Flyer MD35,2016,Diesel,https://cptdb.ca/wiki/index.php/Fort_McMurray_Transit_19-113_to_19-121
+19–122-19–126,Glaval Titan II,2016,Unknown,https://cptdb.ca/wiki/index.php/Fort_McMurray_Transit_19-122_to_19-126

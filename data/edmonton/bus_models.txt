@@ -1,0 +1,25 @@
+2000-2015,Grande West Vicinity,2017,Diesel,https://cptdb.ca/wiki/index.php/Edmonton_Transit_Service_2000-2015
+2016-2048,Grande West Vicinity,2018,Diesel,https://cptdb.ca/wiki/index.php/Edmonton_Transit_Service_2016-2048
+4300-4352,New Flyer D40LF,2002,Diesel,https://cptdb.ca/wiki/index.php/Edmonton_Transit_System_4300-4352
+4353-4402,New Flyer D40LF,2003,Diesel,https://cptdb.ca/wiki/index.php/Edmonton_Transit_System_4353-4402
+4403-4437,New Flyer D40LF,2004,Diesel,https://cptdb.ca/wiki/index.php/Edmonton_Transit_System_4403-4437
+4438-4477,New Flyer D40LF,2004-2005,Diesel,https://cptdb.ca/wiki/index.php/Edmonton_Transit_System_4438-4477
+4478-4522,New Flyer D40LF,2005-2006,Diesel,https://cptdb.ca/wiki/index.php/Edmonton_Transit_System_4478-4522
+4523-4753,New Flyer D40LFR,2007,Diesel,https://cptdb.ca/wiki/index.php/Edmonton_Transit_System_4523-4753
+4754-4874,New Flyer D40LFR,2009,Diesel,https://cptdb.ca/wiki/index.php/Edmonton_Transit_System_4754-4874
+4875,New Flyer D40LFR,2010,Diesel,https://cptdb.ca/wiki/index.php/Edmonton_Transit_System_4875
+4876-4879,New Flyer D40LFR,2012,Diesel,https://cptdb.ca/wiki/index.php/Edmonton_Transit_System_4876-4879
+4880-4888,New Flyer XD40,2013,Diesel,https://cptdb.ca/wiki/index.php/Edmonton_Transit_System_4880-4888
+4913-4932,New Flyer D60LFR,2011,Diesel,https://cptdb.ca/wiki/index.php/Edmonton_Transit_System_4913-4932
+4933-4967,New Flyer XD60,2019-2020,Diesel,https://cptdb.ca/wiki/index.php/Edmonton_Transit_Service_4933-4967
+6003-6004,New Flyer DE40LFR,2006,Diesel,https://cptdb.ca/wiki/index.php/Edmonton_Transit_System_6003-6004
+6016,New Flyer XHE40,2022,Hydrogen,https://cptdb.ca/wiki/index.php/Edmonton_Transit_Service_6016
+6900-6905,New Flyer XD40,2016,Diesel,https://cptdb.ca/wiki/index.php/Spruce_Grove_Transit_6900-6905
+6950-6952,New Flyer XD40,2017,Diesel,https://cptdb.ca/wiki/index.php/Beaumont_Transit_6950-6952
+7000-7109,New Flyer XD40,2018,Diesel,https://cptdb.ca/wiki/index.php/Edmonton_Transit_Service_7000-7109
+7110-7201,New Flyer XD40,2019-2020,Diesel,https://cptdb.ca/wiki/index.php/Edmonton_Transit_Service_7110-7201
+7202-7218,New Flyer XD40,2022,Diesel,https://cptdb.ca/wiki/index.php/Edmonton_Transit_Service_7202-7218
+7219-7236,New Flyer XD40,2023,Diesel,https://cptdb.ca/wiki/index.php/Edmonton_Transit_Service_7219-7236
+7237-7267,New Flyer XD40,2024,Diesel,https://cptdb.ca/wiki/index.php/Edmonton_Transit_Service_7237-7267
+8000-8039,Proterra ZX5MAX,2019-2020,Electric,https://cptdb.ca/wiki/index.php/Edmonton_Transit_Service_8000-8039
+8040-8059,Proterra ZX5MAX,2022,Electric,https://cptdb.ca/wiki/index.php/Edmonton_Transit_Service_8040-8059

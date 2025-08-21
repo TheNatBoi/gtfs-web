@@ -1,0 +1,9 @@
+1101-1107,Gillig Low Floor 35',2011,Diesel,https://cptdb.ca/wiki/index.php/Greater_Portland_Transit_District_1101-1107
+1401-1405,Gillig Low Floor CNG 35',2014,CNG,https://cptdb.ca/wiki/index.php/Greater_Portland_Transit_District_1401-1405
+1810-1814,New Flyer XN40,2018,CNG,https://cptdb.ca/wiki/index.php/Greater_Portland_Transit_District_1810-1814
+1815-1820,New Flyer XD40,2018,Diesel,https://cptdb.ca/wiki/index.php/Greater_Portland_Transit_District_1815-1820
+1921-1926,New Flyer XD40,2019,Diesel,https://cptdb.ca/wiki/index.php/Greater_Portland_Transit_District_1921-1926
+2027-2033,New Flyer XD40,2020,Diesel,https://cptdb.ca/wiki/index.php/Greater_Portland_Transit_District_2027-2033
+2134-2135,New Flyer XD40,2021,Diesel,https://cptdb.ca/wiki/index.php/Greater_Portland_Transit_District_2134-2135
+2236-2237,Proterra ZX5 35',2021,Electric,https://cptdb.ca/wiki/index.php/Greater_Portland_Transit_District_2236-2237
+2338-2341,New Flyer XD35,2023,Diesel,https://cptdb.ca/wiki/index.php/Greater_Portland_Transit_District_2338-2341

@@ -1,0 +1,5 @@
+﻿route_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+1-WIL,1,Community Bus,3,004B8D,FFFFFF
+2-WIL,2,Broadway,3,8CC63F,FFFFFF
+3-WIL,3,South Lakeside,3,F37521,FFFFFF
+4-WIL,4,Sugar Cane,3,ED1D8F,FFFFFF

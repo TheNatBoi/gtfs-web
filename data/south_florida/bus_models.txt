@@ -1,0 +1,10 @@
+807-809,Morrison-Knudsen F40PH-3C Locomotive,1992,Diesel,https://cptdb.ca/wiki/index.php/Tri-Rail_807-809
+810-811,EMD F40PH-3C Locomotive,1976-1984,Diesel,https://cptdb.ca/wiki/index.php/Tri-Rail_810-811
+812-817,EMD GP49PH-3 Locomotive, ,Diesel,https://cptdb.ca/wiki/index.php/Tri-Rail_812-817
+818-829,Brookville BL36PH Locomotive,2012-2014,Diesel,https://cptdb.ca/wiki/index.php/Tri-Rail_818-829
+501-506,UTDC BiLevel Cab Car,1987,Passenger Car,https://cptdb.ca/wiki/index.php/Tri-Rail_501-506
+507-511,Bombardier BiLevel Cab Car,1996,Passenger Car,https://cptdb.ca/wiki/index.php/Tri-Rail_507-511
+512-521,Hyundai Rotem Passenger Coach Cab Car,2010-2011,Passenger Car,https://cptdb.ca/wiki/index.php/Tri-Rail_512-521
+1001-1012,UTDC BiLevel Coach,1987,Passenger Car,https://cptdb.ca/wiki/index.php/Tri-Rail_1001-1012
+1013-1015,UTDC BiLevel Coach,1991,Passenger Car,https://cptdb.ca/wiki/index.php/Tri-Rail_1013-1015
+1101-1114,Hyundai Rotem Passenger Coach,2010-2011,Passenger Car,https://cptdb.ca/wiki/index.php/Tri-Rail_1101-1114

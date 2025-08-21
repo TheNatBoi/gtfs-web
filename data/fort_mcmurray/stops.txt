@@ -1,0 +1,230 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,wheelchair_boarding
+10017,0,King Street Across Keyano Colleg,,56.71325,-111.352126,RMWB,,0,,2
+10062,0,Fitzgerald Avenue Before Hospita,,56.71582557,-111.3632543,RMWB,,0,,2
+10023,0,Franklin Avenue Across River Cit,,56.72009157,-111.3616394,RMWB,,0,,2
+10042,0,Alberta Drive Before Biggs Avenu,,56.71734769,-111.3680336,RMWB,,0,,2
+10071,0,Alberta Drive At Blair Crescent,,56.71859106,-111.3720694,RMWB,,0,,2
+10041,0,Alberta Drive At Harris Crescent,,56.72064719,-111.3714941,RMWB,,0,,2
+10053,0,Biggs Avenue Across From Ells Cr,,56.71955969,-111.3661337,RMWB,,0,,2
+10034,0,Main Street Terminal,,56.727364,-111.382054,RMWB,,0,,2
+10009,0,Franklin Avenue At River City Ce,,56.7199521,-111.3620879,RMWB,,0,,2
+10011,0,Fitzgerald Ave After Hospital St,,56.71584915,-111.3638812,RMWB,,0,,2
+10016,0,King Street At Keyano College,,56.713412,-111.351671,RMWB,,0,,2
+10050,0,Penhorwood St After Franklin Ave,,56.71272671,-111.3449228,RMWB,,0,,2
+10039,0,Syncrude Sport & Wellness Centre,,56.711244,-111.346767,RMWB,,0,,2
+09012,0,Denholm Gate Before Franklin Ave,,56.71175211,-111.3412091,RMWB,,0,,2
+10002,0,Macdonald Drive At Macdonald Isl,,56.73790723,-111.3847366,RMWB,,0,,2
+10040,0,Hospital Street At Walmart,,56.72202277,-111.3574204,RMWB,,0,,2
+10014,0,Tolen Drive Across Heritage Park,,56.71008112,-111.3550561,RMWB,,0,,2
+09001,0,Tolen Drive Across Parkview Driv,,56.70477401,-111.351165,RMWB,,0,,2
+09002,0,Tolen Drive Across Pelican Drive,,56.70340439,-111.3478618,RMWB,,0,,2
+09003,0,Mccormick Drive Across J. Howard,,56.70147992,-111.3428172,RMWB,,0,,2
+09004,0,Tomlinson Street & Hughes Avenue,,56.70003501,-111.341122,RMWB,,0,,2
+09005,0,Huggard Street & Bulyea Avenue,,56.69886501,-111.338054,RMWB,,0,,2
+06033,0,Macalpine Crescent At Oilsands D,,56.66976782,-111.3444447,RMWB,,0,,2
+06034,0,Macalpine Crescent Before Macken,,56.66750783,-111.344756,RMWB,,0,,2
+06051,0,Macalpine Crescent Before Macken,,56.66333228,-111.3424754,RMWB,,0,,2
+06035,0,Macdonald Crescent After Mackenz,,56.66370422,-111.3387717,RMWB,,0,,2
+06036,0,Macdonald Crescent Before Macken,,56.66335863,-111.3330503,RMWB,,0,,2
+06038,0,Mackay Crescent After Mackenzie,,56.66435003,-111.3290562,RMWB,,0,,2
+06049,0,Mcmillan Road After Mackay Cresc,,56.6658649,-111.323048,RMWB,,0,,2
+06048,0,Maclennan Crescent After Mcmilla,,56.66419457,-111.3227293,RMWB,,0,,2
+06053,0,Maclennan Crescent Before Macken,,56.66204127,-111.3259299,RMWB,,0,,2
+06039,0,Mackenzie Boulevard,,56.66073269,-111.3284234,RMWB,,0,,2
+06040,0,Mackenzie Boulevard Across From,,56.65817827,-111.3268836,RMWB,,0,,2
+06003,0,Arabian Drive Before Mustang Roa,,56.65553524,-111.3279638,RMWB,,0,,2
+06043,0,Mustang Road Before Rodeo Drive,,56.65388779,-111.3309069,RMWB,,0,,2
+06044,0,Rodeo Drive After Mustang Road,,56.65532246,-111.3343988,RMWB,,0,,2
+10021,0,Franklin Avenue After King Stree,,56.71579786,-111.3514672,RMWB,,0,,2
+10022,0,Franklin Avenue Across Dr. K.A.,,56.71778319,-111.355632,RMWB,,0,,2
+10024,0,Franklin Avenue After Riedel Str,,56.7218375,-111.3661399,RMWB,,0,,2
+10025,0,Franklin Avenue After Mcleod Str,,56.7232877,-111.3697927,RMWB,,0,,2
+10026,0,Franklin Avenue After Father Mer,,56.72482072,-111.3737447,RMWB,,0,,2
+10027,0,Franklin Avenue Across Peter Pon,,56.72596701,-111.376614,RMWB,,0,,2
+10070,0,Biggs Avenue At Hardin Street Bu,,56.72548158,-111.3817368,RMWB,,0,,2
+400,0,Quarry Ridge Tim Hortons,,56.6712875181138,-111.352931957018,RMWB,,0,,2
+06012,0,Mackenzie Boulevard Before Macdo,,56.67047562,-111.3394507,RMWB,,0,,2
+06037,0,Mackenzie Boulevard Before  2Nd,,56.66189489,-111.3293729,RMWB,,0,,2
+11004,0,Fort Mcmurray International Airp,,56.65002691,-111.2309651,RMWB,,0,,2
+06046,0,Mackenzie Boulevard Keyano Colle,,56.65806043,-111.3264264,RMWB,,0,,2
+06004,0,Mackenzie Boulevard Before Macle,,56.66090601,-111.328058,RMWB,,0,,2
+06062,0,Mackenzie Boulevard Before Macka,,56.66372059,-111.3303081,RMWB,,0,,2
+06061,0,Mackenzie Boulevard After Mackay,,56.67161192,-111.3404782,RMWB,,0,,2
+06050,0,Gregoire Drive Across From Sawri,,56.67473399,-111.3452272,RMWB,,0,,2
+06020,0,Gregoire Drive At  Grenfell Cres,,56.67800001,-111.347639,RMWB,,0,,2
+06021,0,Gregoire Drive At Esso Station,,56.68046832,-111.3481526,RMWB,,0,,2
+06022,0,Gregoire Drive Across From Advan,,56.68418001,-111.348454,RMWB,,0,,2
+10073,0,Penhorwood Street Across From Sy,,56.71098536,-111.346792,RMWB,,0,,2
+07144,0,Wastewater Treatment Plant At 84,,56.76362,-111.418257,RMWB,,0,,2
+07145,0,Diversified Shop At 920 Memorial,,56.767811,-111.420314,RMWB,,0,,2
+07119,0,Taiganova Crescent After Hwy 63,,56.77171321,-111.4202471,RMWB,,0,,2
+07120,0,Taiganova Crescent & Boreal Aven,,56.7741323,-111.4168046,RMWB,,0,,2
+07121,0,Taiganova Crescent Before Forest,,56.77636751,-111.4200981,RMWB,,0,,2
+07142,0,Best Western Sawridge Hotel,,56.77619,-111.422443,RMWB,,0,,2
+07104,0,Eagle Ridge Blvd Before Loutit,,56.75261405,-111.4293814,RMWB,,0,,2
+07065,0,Loutit Road Before Sparrow Hawk,,56.75223801,-111.435954,RMWB,,0,,2
+07032,0,Eagle Ridge Gate After Loutit Ro,,56.75369601,-111.440576,RMWB,,0,,2
+07066,0,Plamondon Drive at Prospect Poin,,56.75813107,-111.4431893,RMWB,,0,,2
+07096,0,Powder Drive After Paquette Driv,,56.75854801,-111.452979,RMWB,,0,,2
+07097,0,Powder Drive At Holy Trinity,,56.75825467,-111.4573757,RMWB,,0,,2
+07099,0,Powder Drive,,56.75660434,-111.4637212,RMWB,,0,,2
+07108,0,Parsons Creek Drive After Millen,,56.75883006,-111.4646209,RMWB,,0,,2
+07106,0,Parsons Creek Drive & Ecole Mcta,,56.76201255,-111.4535512,RMWB,,0,,2
+101,0,Timberlea Terminal,,56.7559571,-111.4546161,RMWB,,0,,2
+07094,0,Powder Drive,,56.7574682492428,-111.459859877598,RMWB,,0,,2
+07067,0,Plamondon Drive Across Prospect,,56.75799701,-111.443096,RMWB,,0,,2
+07031,0,Eagle Ridge Gate Before Loutit R,,56.75398101,-111.441102,RMWB,,0,,2
+07029,0,Loutit Road Before Grouse Way,,56.75265501,-111.440162,RMWB,,0,,2
+07105,0,Eagle Ridge Blvd After Loutit Rd,,56.75304134,-111.4290428,RMWB,,0,,2
+102,0,Thickwood Terminal,,56.731304,-111.437949,RMWB,,0,,2
+05046,0,Tamarack Way At Fort Mcmurray Ch,,56.73263601,-111.4359487,RMWB,,0,,2
+05041,0,Timberline Drive Before Robichau,,56.742854,-111.418498,RMWB,,0,,2
+05024,0,Ross Haven Drive & St. Pauls Ele,,56.73427267,-111.4203832,RMWB,,0,,2
+05025,0,Ross Haven Drive & Romany Street,,56.73653612,-111.4166766,RMWB,,0,,2
+05026,0,Ross Haven Drive Near Rosslyn St,,56.73808194,-111.414823,RMWB,,0,,2
+05027,0,Ross Haven Drive Before Rosslyn,,56.74047863,-111.412296,RMWB,,0,,2
+05028,0,Thicket Drive & Romar Street,,56.7392181,-111.4080727,RMWB,,0,,2
+05029,0,Thicket Drive & Rowan Street,,56.73679487,-111.4120143,RMWB,,0,,2
+05030,0,Thicket Drive & Robin Crescent,,56.7355921,-111.4146545,RMWB,,0,,2
+05075,0,Thicket Drive After Romany Stree,,56.73279082,-111.4180691,RMWB,,0,,2
+05076,0,Thicket Drive & Silin Forest,,56.73146348,-111.4174003,RMWB,,0,,2
+05031,0,Thicket Drive & Siesta Garden,,56.72931688,-111.4155142,RMWB,,0,,2
+05032,0,Thicket Drive & Silvertip Place,,56.72679328,-111.4168527,RMWB,,0,,2
+05033,0,Sifton Avenue & Silvanus Crescen,,56.72644979,-111.4187321,RMWB,,0,,2
+05034,0,Sifton Avenue & Sibley Road,,56.72667599,-111.4233844,RMWB,,0,,2
+05035,0,Sifton Avenue & Simcoe Way,,56.72716746,-111.4248789,RMWB,,0,,2
+05065,0,Signal Road At St. Thomas' Angli,,56.72906501,-111.426298,RMWB,,0,,2
+05063,0,Signal Road Across From Silver S,,56.72696461,-111.4281835,RMWB,,0,,2
+05067,0,Signal Road Across From Hillcres,,56.72592101,-111.43428,RMWB,,0,,2
+05001,0,Signal Road At Hilltop Crescent,,56.72522567,-111.4388779,RMWB,,0,,2
+05002,0,Signal Road After Hitch Place,,56.72451386,-111.4445155,RMWB,,0,,2
+05004,0,Signal Road Across From Thickwoo,,56.72589001,-111.447451,RMWB,,0,,2
+05005,0,Signal Road At St. Gabriel Schoo,,56.72831716,-111.4490261,RMWB,,0,,2
+05081,0,Signal Road At Thickwood Shoppin,,56.73138789,-111.4264194,RMWB,,0,,2
+05010,0,Silin Forest Road Behind Thickwo,,56.72953501,-111.428077,RMWB,,0,,2
+05012,0,Silin Forest Road Across Father,,56.73164417,-111.4316087,RMWB,,0,,2
+05072,0,Cornwall Drive After Duncan Driv,,56.73444142,-111.4473132,RMWB,,0,,2
+05071,0,Cornwall Drive & Cardinal Cresce,,56.73527985,-111.4494596,RMWB,,0,,2
+05070,0,Cardinal Drive After 1St Cochran,,56.7338702,-111.454963,RMWB,,0,,2
+05069,0,Cornwall Drive After Cardinal Dr,,56.73370849,-111.4578375,RMWB,,0,,2
+05082,0,Dickins Drive After Thickwood Bo,,56.73392335,-111.4641763,RMWB,,0,,2
+05022,0,Dickins Drive & Mcconachie Cresc,,56.73542988,-111.4643186,RMWB,,0,,2
+05023,0,Dickins Drive & Pentacostal Asse,,56.73754201,-111.466733,RMWB,,0,,2
+05084,0,Dickins Drive & Kennedy Crescent,,56.737138,-111.474041,RMWB,,0,,2
+05100,0,Abraham Landing,,56.737301,-111.481771,RMWB,,0,,0
+05102,0,AL@ Daycare,,56.737983,-111.484773,RMWB,,0,,0
+05103,0,Al@Temple,,56.737822,-111.484988,RMWB,,0,,0
+05101,0,Abraham Landing,,56.737037,-111.481784,RMWB,,0,,0
+05085,0,Dickins Drive Before Fullerton D,,56.737125,-111.474,RMWB,,0,,2
+05087,0,Dickins Drive At Heritage Glen,,56.73675101,-111.465554,RMWB,,0,,2
+05088,0,Dickins Drive & Cruickshank Road,,56.73548304,-111.4645703,RMWB,,0,,2
+05089,0,Dickins Drive Before Thickwood B,,56.73386805,-111.4644916,RMWB,,0,,2
+05073,0,Real Martin Drive After J.W. Man,,56.73107724,-111.4654509,RMWB,,0,,2
+05074,0,Williams Drive After Wolff Way,,56.7276961,-111.4641086,RMWB,,0,,2
+05015,0,Williams Drive & Williams Garden,,56.72654801,-111.464039,RMWB,,0,,2
+05016,0,Williams Drive & Williams Road,,56.72390945,-111.4639643,RMWB,,0,,2
+05017,0,Williams Drive & 1St Wilson Driv,,56.72117103,-111.4669838,RMWB,,0,,2
+05018,0,Williams Drive & 2Nd Wilson Driv,,56.71818936,-111.4668185,RMWB,,0,,2
+05019,0,Real Martin Drive & Wilson Drive,,56.72080968,-111.4707802,RMWB,,0,,2
+05068,0,Real Martin Drive At Warren Road,,56.72267681,-111.4726111,RMWB,,0,,2
+05020,0,Real Martin Drive After Webb Dri,,56.72658843,-111.4688304,RMWB,,0,,2
+05021,0,Real Martin Drive & J.W. Mann Dr,,56.7311945,-111.4649226,RMWB,,0,,2
+05058,0,Tundra Drive At Evergreen Christ,,56.732078,-111.458606,RMWB,,0,,2
+05059,0,Tundra Drive Across From Bird Cr,,56.73032591,-111.4581496,RMWB,,0,,2
+05060,0,Tundra Drive At Westwood Communi,,56.728815,-111.449876,RMWB,,0,,2
+05061,0,Signal Road At Westwood Communit,,56.72813801,-111.44948,RMWB,,0,,2
+05099,0,Wolverine Drive At Westview Scho,,56.72654918,-111.4495383,RMWB,,0,,2
+05097,0,Wolverine Drive Across From Whit,,56.72549597,-111.4552866,RMWB,,0,,2
+05095,0,Wolverine Drive And Wapiti Cresc,,56.72298351,-111.4524985,RMWB,,0,,2
+05093,0,Wolverine Drive And Piven Place,,56.7247652006927,-111.447601407016,RMWB,,0,,2
+05090,0,Eymundson Road Across From Elmor,,56.72777227,-111.4442325,RMWB,,0,,2
+05091,0,Eymundson Road Before Casman Cen,,56.72771994,-111.439582,RMWB,,0,,2
+05079,0,Eymundson Road At Casman Centre,,56.7296932,-111.4389718,RMWB,,0,,2
+07093,0,Paquette Drive Before Rainbow Cr,,56.7659942,-111.4554515,RMWB,,0,,2
+07124,0,Rainbow Creek Drive at Lodgepole,,56.76484337,-111.4638192,RMWB,,0,,2
+07123,0,Rainbow Creek Drive Before Coyot,,56.76304594,-111.4690131,RMWB,,0,,2
+07113,0,Millenium Drive after Rainbow Cr,,56.76315044,-111.4740175,RMWB,,0,,2
+07112,0,Millennium Drive Before Fir Stre,,56.76490567,-111.4736206,RMWB,,0,,2
+07111,0,Millennium Drive Before Elm Stre,,56.7676379,-111.4703399,RMWB,,0,,2
+07110,0,Millenium Drive after Lodgepole,,56.76840585,-111.4636732,RMWB,,0,,2
+07131,0,Rainbow Creek Drive After Mayflo,,56.7678348,-111.4562447,RMWB,,0,,2
+73001,0,Heritage Drive At Blackburn Driv,,56.77070595,-111.4510877,RMWB,,0,,2
+73003,0,Heritage Drive Before Callen Dri,,56.77302276,-111.4510315,RMWB,,0,,2
+07056,0,Brett Drive Across From Recyclin,,56.75280701,-111.460101,RMWB,,0,,2
+07036,0,Lougheed Dr Before Loutit Rd,,56.752061,-111.451047,RMWB,,0,,2
+07062,0,Loutit Road After Sandpiper Road,,56.75275701,-111.444586,RMWB,,0,,2
+07063,0,Sparrow Hawk Drive After Loutit,,56.751762,-111.435789,RMWB,,0,,2
+07064,0,Sparrow Hawk Drive & Sandpiper R,,56.74877871,-111.4365095,RMWB,,0,,2
+07026,0,Sparrow Hawk Drive After Killdee,,56.74792401,-111.430775,RMWB,,0,,2
+07024,0,Sparrow Hawk Drive Across From C,,56.74940701,-111.425871,RMWB,,0,,2
+07022,0,Loutit Road After Sparrow Hawk D,,56.75239213,-111.4265999,RMWB,,0,,2
+07035,0,Loutit Road At Lakewood Manor,,56.754705,-111.451341,RMWB,,0,,2
+10015,0,Tolen Drive At Heritage Park,,56.710258,-111.35485,RMWB,,0,,2
+01001,0,Athabasca Avenue At Athabasca Ma,,56.71151294,-111.3758845,RMWB,,0,,2
+01002,0,Abbottswood Drive & Airmont Cour,,56.7110823,-111.3733278,RMWB,,0,,2
+01003,0,Aldergrove Avenue & Amberwood Co,,56.71005329,-111.370554,RMWB,,0,,2
+01004,0,Athabasca Crescent Before Athaba,,56.708425,-111.3715303,RMWB,,0,,2
+01005,0,Abasand Drive At Ecole Father Be,,56.70974018,-111.3759027,RMWB,,0,,2
+01006,0,Abasand Drive & Alderwood Drive,,56.70929951,-111.3784343,RMWB,,0,,2
+01007,0,Abasand Drive & Acacia Drive,,56.70963648,-111.3822742,RMWB,,0,,2
+01018,0,Abasand Drive At Scolaire Boreal,,56.71234781,-111.3784485,RMWB,,0,,2
+01008,0,Athabasca Avenue At Playground,,56.72692975,-111.3924408,RMWB,,0,,2
+01009,0,Athabasca Avenue & Rice Bay,,56.72521246,-111.39093,RMWB,,0,,2
+01010,0,Athabasca Avenue & Robinson Lane,,56.72415363,-111.3891172,RMWB,,0,,2
+01011,0,Athabasca Avenue At Simons & Luc,,56.72227328,-111.3881838,RMWB,,0,,2
+01012,0,Athabasca Avenue & Alexander Cre,,56.71978501,-111.384315,RMWB,,0,,2
+01013,0,Athabasca Avenue & Atkinson Road,,56.71636001,-111.3791688,RMWB,,0,,2
+01015,0,Athabasca Avenue & Avery Bay,,56.71383001,-111.377193,RMWB,,0,,2
+01016,0,Grayling Crescent & Graham Place,,56.70851871,-111.3602387,RMWB,,0,,2
+01017,0,Grayling Crescent & Gipsy Place,,56.70888801,-111.361795,RMWB,,0,,2
+02003,0,Beacon Hill Drive At Beacon Hill,,56.69262663,-111.3622587,RMWB,,0,,2
+02004,0,Beacon Hill Drive At Good Sheppa,,56.69474415,-111.3630234,RMWB,,0,,2
+02005,0,Beacon Hill Drive & Beaveridge C,,56.69656257,-111.3673675,RMWB,,0,,2
+02006,0,Beacon Hill Drive & Beaconsfield,,56.69883266,-111.3682258,RMWB,,0,,2
+02007,0,Beacon Hill Drive & Beaverglen C,,56.70038307,-111.3644648,RMWB,,0,,2
+02008,0,Beacon Hill Drive & Beaverlodge,,56.70148116,-111.363194,RMWB,,0,,2
+02009,0,Beacon Hill Drive Before Beaconw,,56.70312409,-111.3613055,RMWB,,0,,2
+02010,0,Beacon Hill Drive After Beaconwo,,56.69992693,-111.3561111,RMWB,,0,,2
+02011,0,Beacon Hill Drive & Beale Cresce,,56.69729781,-111.357235,RMWB,,0,,2
+02012,0,Beacon Hill Drive & Beaumont Cre,,56.69509901,-111.357806,RMWB,,0,,2
+02013,0,Beacon Hill Drive & Beaconwood R,,56.69377901,-111.3570088,RMWB,,0,,2
+07107,0,Paquette Drive After Ecole Mctav,,56.76108063,-111.4516824,RMWB,,0,,2
+07074,0,Millennium Drive At St. Martha S,,56.76038798,-111.4714909,RMWB,,0,,2
+07075,0,Morgan Avenue Before Mckinlay Cr,,56.76131201,-111.473893,RMWB,,0,,2
+07076,0,Mckinlay Crescent At 1St Mcinnes,,56.76396801,-111.477372,RMWB,,0,,2
+07014,0,Mckinlay Crescent After Mcinnes,,56.76556508,-111.4797887,RMWB,,0,,2
+07077,0,Mckinlay Crescent At 2Nd Mcinnes,,56.76325041,-111.4799774,RMWB,,0,,2
+07078,0,Mckinlay Crescent After 1St Mcta,,56.76063203,-111.4795643,RMWB,,0,,2
+07079,0,Mckinlay Crescent After 2Nd Mcta,,56.75992044,-111.4767078,RMWB,,0,,2
+07080,0,Morgan Avenue After Mckinlay Cre,,56.76116131,-111.473693,RMWB,,0,,2
+07088,0,Millennium Drive & Dominion Driv,,56.75885562,-111.4700407,RMWB,,0,,2
+07008,0,Dominion Drive & Campbell Cresce,,56.75645343,-111.4725611,RMWB,,0,,2
+07098,0,Dominion Drive & Chandler Bay,,56.75411219,-111.4756822,RMWB,,0,,2
+07117,0,Harpe Way Before Hunter Street,,56.75614759,-111.4766997,RMWB,,0,,2
+07100,0,Hoehne Street After Harpe Way,,56.75725184,-111.4784995,RMWB,,0,,2
+07101,0,Harpe Way At Cartier Road,,56.75471703,-111.480078,RMWB,,0,,2
+07129,0,Carteret Drive After Couture Lan,,56.744776,-111.478731,RMWB,,0,,2
+07052,0,Brett Drive After Confederation,,56.74713965,-111.4692402,RMWB,,0,,2
+07146,0,Parsons Creek Dr & Paris Cr,,56.760371,-111.459387,RMWB,,0,,2
+07071,0,Plamondon Drive After Plamondon,,56.76137032,-111.4474626,RMWB,,0,,2
+07069,0,Plamondon Drive Before Powder Dr,,56.75932972,-111.4474489,RMWB,,0,,2
+07015,0,Prospect Drive After Riverstone,,56.75913721,-111.4404799,RMWB,,0,,2
+07016,0,Prospect Drive & Siltstone Place,,56.76176429,-111.43891,RMWB,,0,,2
+07009,0,Prospect Drive After 1St Siltsto,,56.76424749,-111.4389451,RMWB,,0,,2
+07017,0,Prospect Dr After 2nd Siltstone,,56.76602898,-111.435908,RMWB,,0,,2
+07018,0,Prospect Drive After Shalestone,,56.76411281,-111.4310123,RMWB,,0,,2
+07020,0,Prospect Dr Before Gravelstone,,56.76191075,-111.431221,RMWB,,0,,2
+07019,0,Limestone Link & Sandstone Lane,,56.75976901,-111.434176,RMWB,,0,,2
+07068,0,Plamondon Drive after Powder Dr,,56.75933285,-111.4471532,RMWB,,0,,2
+07070,0,Plamondon Drive after Paulson St,,56.76162301,-111.447196,RMWB,,0,,2
+05006,0,Signal Road At Thistle Heights S,,56.72973901,-111.44827,RMWB,,0,,2
+05083,0,Dickins Drive & Becker Crescent,,56.73792561,-111.4697713,RMWB,,0,,2
+07040,0,Eglert Drive & Burry Road,,56.74326316,-111.4742397,RMWB,,0,,2
+07041,0,Eglert Drive & Bussieres Drive,,56.74494257,-111.4681437,RMWB,,0,,2
+07042,0,Brett Drive Across St. Anne Scho,,56.74459511,-111.464448,RMWB,,0,,2
+07044,0,Brett Drive Before 1St Brosseau,,56.74561822,-111.4602392,RMWB,,0,,2
+07046,0,Brett Drive After Burns Place,,56.74645001,-111.45323,RMWB,,0,,2
+07059,0,Brett Drive After Lougheed Drive,,56.74992583,-111.4537615,RMWB,,0,,2
+07057,0,Brett Drive & Laffont Way,,56.75248001,-111.458037,RMWB,,0,,2
+07118,0,Brett Drive At Recycling Depot,,56.75313401,-111.4603793,RMWB,,0,,2
+07095,0,Powder Drive Before Paquette Dri,,56.75831343,-111.4529944,RMWB,,0,,2

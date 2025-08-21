@@ -1,0 +1,21 @@
+526-534,Nova Bus LFS,2012,Diesel,https://cptdb.ca/wiki/index.php/Halifax_Transit_526-534
+535-540,Glaval Legacy,2013,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_535-540
+717-731,Nova Bus LFS Artic,2010,Diesel,https://cptdb.ca/wiki/index.php/Halifax_Transit_717-731
+732-741,Nova Bus LFS Artic,2010,Diesel,https://cptdb.ca/wiki/index.php/Halifax_Transit_732-741
+742-761,Nova Bus LFS Artic,2012,Diesel,https://cptdb.ca/wiki/index.php/Halifax_Transit_742-761
+1083-1107,New Flyer D40LF,2006,Diesel,https://cptdb.ca/wiki/index.php/Halifax_Transit_1083-1107
+1108-1130,New Flyer D40LF,2007,Diesel,https://cptdb.ca/wiki/index.php/Halifax_Transit_1108-1130
+1131-1153,New Flyer D40LF,2008,Diesel,https://cptdb.ca/wiki/index.php/Halifax_Transit_1131-1153
+1154-1159,New Flyer D40LF,2009,Diesel,https://cptdb.ca/wiki/index.php/Halifax_Transit_1154-1159
+1160-1161,Nova Bus LFS,2012,Diesel,https://cptdb.ca/wiki/index.php/Halifax_Transit_1160-1161
+1162-1183,New Flyer XD40,2013,Diesel,https://cptdb.ca/wiki/index.php/Halifax_Transit_1162-1183
+1184-1198,New Flyer XD40,2014,Diesel,https://cptdb.ca/wiki/index.php/Halifax_Transit_1184-1198
+1199-1207,New Flyer XD40,2015,Diesel,https://cptdb.ca/wiki/index.php/Halifax_Transit_1199-1207
+1208-1237,Nova Bus LFS,2016,Diesel,https://cptdb.ca/wiki/index.php/Halifax_Transit_1208-1276
+1238-1276,Nova Bus LFS,2017,Diesel,https://cptdb.ca/wiki/index.php/Halifax_Transit_1208-1276
+1277-1299,Nova Bus LFS,2018,Diesel,https://cptdb.ca/wiki/index.php/Halifax_Transit_1277-1299
+1300-1334,Nova Bus LFS,2019,Diesel,https://cptdb.ca/wiki/index.php/Halifax_Transit_1300-1334
+1335-1406,Nova Bus LFS,2021,Diesel,https://cptdb.ca/wiki/index.php/Halifax_Transit_1335-1406
+1407-1413,Nova Bus LFS,2022,Diesel,https://cptdb.ca/wiki/index.php/Halifax_Transit_1407-1413
+2000,Nova Bus LFSe+,2023,https://cptdb.ca/wiki/index.php/Halifax_Transit_2000-2059
+2001-2059,Nova Bus LFSe+,2024,https://cptdb.ca/wiki/index.php/Halifax_Transit_2000-2059

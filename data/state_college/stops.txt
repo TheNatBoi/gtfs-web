@@ -1,0 +1,334 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,wheelchair_boarding
+1,1,"E. College Ave at S. Allen Street",,40.794559,-77.861549,,,0,,0
+1001,1001,"Thon Dr.",,40.7711312655,-77.856812147,,,0,,0
+1002,1002,"513 Gerald St",,40.8321269637,-77.8126962743,,,0,,0
+1011,1011,"East Marylyn Ave at Foxdale Village",,40.7837559051,-77.838702066,,,0,,0
+1012,1012,"E Mall Entrance on Shiloh Rd",,40.8346421017,-77.7963361222,,,0,,0
+1013,1013,"Science St. at the Ramada",,40.7845635835,-77.8387070451,,,0,,0
+110,110,"1001 University Dr",,40.79707,-77.84353,,,0,,0
+111,111,"University Dr at E. Waring Ave (SSA Offi",,40.79775,-77.84527,,,0,,0
+112,112,"University Dr at Bellaire Ave (Inbound)",,40.79901,-77.84756,,,0,,0
+118,118,"Trout Road at Pleasant Pointe",,40.8380517745,-77.8074014319,,,0,,0
+147,147,"Gerald St at Matthew Circle Outbound",,40.83268,-77.81384,,,0,,0
+148,148,"Curtin Rd at McCoy Natatorium",,40.80519,-77.86056,,,0,,0
+149,149,"Curtin Rd at Shields Building",,40.80713,-77.85871,,,0,,0
+15,15,"801 W Aaron Dr at Park Forest Apartments",,40.804315,-77.895921,,,0,,0
+150,150,"University Dr at the Pegula Ice Arena",,40.80749,-77.85639,,,0,,0
+151,151,"University Dr at Hastings Rd",,40.80502,-77.85255,,,0,,0
+152,152,"University Dr at Lot 83 West",,40.80462,-77.85201,,,0,,0
+153,153,"University Dr at Jordan Center Gate D",,40.80741,-77.85592,,,0,,0
+154,154,"Curtin Rd at the Intramural Building",,40.807,-77.859,,,0,,0
+155,155,"East Halls at Curtin Hall",,40.80513,-77.86076,,,0,,0
+156,156,"South Atherton at Creekside Plaza",,40.785124,-77.834581,,,0,,0
+157,157,"1661 S Atherton St at IHOP",,40.7853275061,-77.8350426822,,,0,,0
+159,159,"Bigler Rd at Nittany Community Center",,40.80259,-77.85712,,,0,,0
+16,16,"1003 W Aaron Dr near State College Colle",,40.802631,-77.898163,,,0,,0
+160,160,"Opposite 1031 E College Ave",,40.80607,-77.84031,,,0,,0
+161,161,"E College Ave at Your Building Center",,40.8078,-77.83627,,,0,,0
+162,162,"E College Ave at Squirrel Dr Outbound",,40.8091603812,-77.8334900883,,,0,,0
+163,163,"Walmart - Inbound",,40.8324222055,-77.8059515423,,,0,,0
+164,164,"Ross/Harbor Freight",,40.8314294403,-77.8066180847,,,0,,0
+165,165,"Nittany Mall Main Entrance",,40.83367,-77.80072,,,0,,0
+169,169,"E College Av at Hickeys",,40.809801,-77.832697,,,0,,0
+170,170,"E College Ave at Puddintown Rd",,40.8081,-77.83629,,,0,,0
+171,171,"1031 East College Ave at Hampton Inn",,40.80626,-77.84061,,,0,,0
+2001,2001,"Westerly Pkwy at Plaza Dr",,40.7828788715,-77.854111069,,,0,,0
+2003,2003,"S Allen St near Riviera Apts",,40.7858135788,-77.8488734524,,,0,,0
+2004,2004,"Easterly Pkwy at S Pugh St",,40.7880514782,-77.8492954161,,,0,,0
+212,212,"W Whitehall Road at CATA",,40.761013,-77.87622,,,0,,0
+246,246,"W Beaver Ave at S Barnard St",,40.78967,-77.86525,,,0,,0
+247,247,"W College Ave at N Barnard St",,40.79103,-77.86617,,,0,,0
+249,249,"Colonnade Blvd at Home Goods",,40.8116210301,-77.9053267755,,,0,,0
+250,250,"Colonnade Blvd at Target/Dicks",,40.811734,-77.905593,,,0,,0
+251,251,"850 Toftrees Avenue - The View",,40.8231888366,-77.8838663031,,,0,,0
+252,252,"Colonnade Blvd Opposite Kohls",,40.814682,-77.902018,,,0,,0
+253,253,"Opposite 240 Toftrees Ave",,40.823074,-77.898646,,,0,,0
+254,254,"240 Toftrees Ave (Turtle Creek Apts)",,40.82294,-77.89859,,,0,,0
+255,255,"301 Toftrees Ave",,40.82333,-77.89657,,,0,,0
+256,256,"Opposite 301 Toftrees Ave",,40.82323,-77.89653,,,0,,0
+257,257,"359 Toftrees Ave (Parkgate Apartments)",,40.82387,-77.89377,,,0,,0
+258,258,"350 Toftrees Ave (Turtle Creek Apts)",,40.82376,-77.89366,,,0,,0
+260,260,"Cricklewood Dr at N Barkway Lane",,40.825807,-77.893102,,,0,,0
+261,261,"Cricklewood Dr at S Barkway Lane",,40.82563,-77.89289,,,0,,0
+262,262,"Cricklewood Dr at Wilts Lane Outbound",,40.82773,-77.89093,,,0,,0
+263,263,"Cricklewood Dr at Wilts Lane Inbound",,40.82763,-77.89081,,,0,,0
+264,264,"541 Cricklewood Dr",,40.82854,-77.88868,,,0,,0
+265,265,"711 Cricklewood Dr",,40.8299,-77.88697,,,0,,0
+266,266,"Opposite 711 Cricklewood Dr",,40.82972,-77.887,,,0,,0
+267,267,"Cricklewood Dr at the American Ale House",,40.8311758757,-77.885944373,,,0,,0
+268,268,"Cricklewood Dr at Cricklewood Apts",,40.8310693453,-77.8858232068,,,0,,0
+269,269,"Opposite 910 Cricklewood Dr",,40.83227,-77.88379,,,0,,0
+270,270,"910 Cricklewood Dr",,40.83215,-77.88363,,,0,,0
+275,275,"Cricklewood Dr at Cricklewood Circle",,40.82851,-77.88851,,,0,,0
+277,277,"Fox Hollow Rd at Orchard Rd Inbound",,40.81815,-77.85952,,,0,,0
+278,278,"Fox Hollow Rd at Orchard Rd Outbound",,40.81801,-77.859,,,0,,0
+279,279,"Porter Rd at Beaver Stadium East",,40.8136,-77.85516,,,0,,0
+280,280,"Athletic Administration Building",,40.81384,-77.85526,,,0,,0
+281,281,"Porter Rd at Jordan East Parking",,40.8111015565,-77.8527997319,,,0,,0
+282,282,"Hastings Rd at Lot 43 East",,40.80769,-77.8486,,,0,,0
+283,283,"Hastings Rd at Forest Research Lab",,40.80509,-77.85108,,,0,,0
+285,285,"Walker Building",,40.79267,-77.86681,,,0,,0
+287,287,"Curtin Rd at Bryce Jordan Center",,40.81014,-77.85581,,,0,,0
+288,288,"W College Ave at N Sparks St",,40.78862,-77.86939,,,0,,0
+289,289,"W Beaver Ave at S Sparks St",,40.78802,-77.86745,,,0,,0
+290,290,"W College Ave at N Butz St",,40.78683,-77.8717,,,0,,0
+291,291,"W College Ave at Buckhout St & Haus",,40.7869,-77.8714,,,0,,0
+292,292,"W College Ave near Corl St",,40.784549,-77.874434,,,0,,0
+293,293,"W College Ave at Hoy St",,40.78462,-77.87416,,,0,,0
+294,294,"1445 W College Ave",,40.78304,-77.87624,,,0,,0
+295,295,"1400 W College Ave",,40.78305,-77.876,,,0,,0
+296,296,"Opposite 1506 W College Ave",,40.78158,-77.87802,,,0,,0
+297,297,"1506 W College Ave",,40.78138,-77.87795,,,0,,0
+304,304,"W College Ave at Holly Circle Inbound",,40.770745,-77.887405,,,0,,0
+305,305,"W College Ave at Chelsea Lane Inbound",,40.76809,-77.88609,,,0,,0
+306,306,"W College Ave at Chelsea Lane Outbound",,40.76831,-77.88657,,,0,,0
+307,307,"W College Ave at Bristol Ave Inbound",,40.76634,-77.884325,,,0,,0
+308,308,"W College Ave at Bristol Ave Outbound",,40.766435,-77.884675,,,0,,0
+310,310,"Enterprise Dr at Bristol Ave",,40.766301,-77.882222,,,0,,0
+312,312,"Opposite 3035 Enterprise Dr",,40.765908,-77.881962,,,0,,0
+313,313,"3075 Enterprise Drive",,40.764918,-77.880799,,,0,,0
+314,314,"Enterprise Dr at Cato Ave",,40.763661,-77.879674,,,0,,0
+315,315,"Cato Ave at Enterprise Dr",,40.763426,-77.879482,,,0,,0
+316,316,"Cato Ave at Research Dr",,40.764255,-77.878063,,,0,,0
+319,319,"Toftrees Ave at Hillside and Fox Run",,40.823697,-77.89174,,,0,,0
+320,320,"Nittany Mall (Aldi)",,40.834631,-77.801263,,,0,,0
+321,321,"200 Shiloh Rd",,40.8381401156,-77.8032334087,,,0,,0
+326,326,"Toftrees Ave at Wildridge Apts.",,40.823629,-77.889463,,,0,,0
+328,328,"2601 E College Ave",,40.82755,-77.8075,,,0,,0
+329,329,"Waupelani Drive at OBryan Lane",,40.780695,-77.853079,,,0,,0
+330,330,"E College Ave at Struble Rd",,40.826185,-77.80892,,,0,,0
+331,331,"E College Ave at Nittany Commons",,40.823815,-77.811955,,,0,,0
+332,332,"E College Ave opp Nittany Commons",,40.82398,-77.812195,,,0,,0
+333,333,"E College Ave at Limerock Terrace",,40.821935,-77.81436,,,0,,0
+334,334,"Pike St at Limerock Terrace Inbound",,40.817235,-77.818465,,,0,,0
+335,335,"Pike St at Limerock Terrace Outbound",,40.81723,-77.818315,,,0,,0
+336,336,"Pike St at Hickory Lane Inbound",,40.81504,-77.81889,,,0,,0
+337,337,"Pike St at Hickory Lane Outbound",,40.81495,-77.8187,,,0,,0
+338,338,"542 Pike St",,40.81369,-77.81913,,,0,,0
+339,339,"537 Pike St",,40.813755,-77.818945,,,0,,0
+340,340,"Pike St at Dale St Outbound",,40.81123,-77.818285,,,0,,0
+341,341,"Pike St at Dale St Inbound",,40.81136,-77.8184,,,0,,0
+342,342,"Pike St at Mary St Inbound",,40.80983,-77.818755,,,0,,0
+343,343,"Pike St at Mary St Outbound",,40.809485,-77.81874,,,0,,0
+344,344,"Elmwood St at Elm St",,40.81013,-77.822075,,,0,,0
+345,345,"700 Elmwood St",,40.810035,-77.82152,,,0,,0
+346,346,"Elmwood St at Clover Rd",,40.81017,-77.82475,,,0,,0
+347,347,"Elmwood St at Hillview Ave",,40.810285,-77.824555,,,0,,0
+348,348,"200 Elmwood St",,40.8103,-77.828735,,,0,,0
+349,349,"201 Elmwood St",,40.810395,-77.828365,,,0,,0
+355,355,"Curtin Rd at Stadium West Parking Lot",,40.81015,-77.85595,,,0,,0
+356,356,"Curtin Rd at Visual Arts Building",,40.80094,-77.86477,,,0,,0
+357,357,"Pattee Transit Center Westbound",,40.79739,-77.86752,,,0,,0
+358,358,"Burrowes Rd at Rec Hall",,40.79596,-77.8683,,,0,,0
+359,359,"Burrowes Road at Westgate Building",,40.79422,-77.86604,,,0,,0
+360,360,"S Burrowes St at the James Elliott Bldg",,40.792136,-77.863248,,,0,,0
+361,361,"Beaver Ave at Schlow Library/CATA Office",,40.793662,-77.859912,,,0,,0
+362,362,"Trout Road at Centre County PAWS",,40.8361392415,-77.8104664085,,,0,,0
+363,363,"Opposite 240 S Pugh St",,40.793773,-77.858053,,,0,,0
+364,364,"240 S Pugh St (oLiv Highland)",,40.79357,-77.85781,,,0,,0
+365,365,"S Pugh St at E Nittany Ave",,40.79268,-77.85609,,,0,,0
+366,366,"S Pugh St at E Fairmount Ave",,40.79257,-77.85565,,,0,,0
+367,367,"S Pugh St at E Hamilton Ave Inbound",,40.79136,-77.85323,,,0,,0
+368,368,"S Pugh St at E Hamilton Ave Outbound",,40.79128,-77.85326,,,0,,0
+369,369,"S Pugh St at Waring Ave",,40.79009,-77.85077,,,0,,0
+370,370,"909 S Pugh St",,40.79,-77.85039,,,0,,0
+371,371,"1015 S Pugh St",,40.78894,-77.8492,,,0,,0
+372,372,"1006 S Pugh St",,40.788983,-77.849408,,,0,,0
+373,373,"Easterly Pkwy at Old Boalsburg Rd",,40.78815,-77.8494,,,0,,0
+374,374,"S Atherton near S Allen Street",,40.784737,-77.849043,,,0,,0
+375,375,"1218 S Allen St",,40.7855,-77.8488,,,0,,0
+376,376,"S Pugh St at E Ellen Ave",,40.78735,-77.84747,,,0,,0
+377,377,"1248 S Atherton St (Citizens Bank)",,40.78438,-77.84715,,,0,,0
+378,378,"S Pugh St at Bradley Ave",,40.78502,-77.84488,,,0,,0
+379,379,"1306 S Atherton St",,40.78435,-77.84432,,,0,,0
+38,38,"Waupelani Dr opposite Jaru Copy",,40.783595,-77.848728,,,0,,0
+380,380,"S Atherton St at Norma Street",,40.78465,-77.84162,,,0,,0
+381,381,"S Atherton St at Whitehall Rd",,40.7848548647,-77.8413371865,,,0,,0
+382,382,"S Atherton St at Science St",,40.78522,-77.83857,,,0,,0
+384,384,"Easterly Pkwy at Manorway Apts",,40.7948970702,-77.8440797669,,,0,,0
+386,386,"Rolling Ridge Drive at Hills Plaza",,40.786432,-77.829181,,,0,,0
+388,388,"Rolling Ridge Dr at Hills Plaza South",,40.78571,-77.82915,,,0,,0
+389,389,"Opposite 383 Rolling Ridge Dr",,40.7867,-77.82655,,,0,,0
+39,39,"1100 W Aaron Dr at State College Collect",,40.80188,-77.898979,,,0,,0
+390,390,"Opposite 501 Rolling Ridge Dr",,40.78617,-77.82353,,,0,,0
+391,391,"Windmere Dr at Wellington Dr",,40.7874677239,-77.82171866,,,0,,0
+393,393,"Geisinger Medical Center at Scenery Park",,40.78492,-77.82018,,,0,,0
+394,394,"S Atherton St at W Beaver Ave Outbound",,40.79109,-77.8642,,,0,,0
+395,395,"S Atherton Street at Highland Alley",,40.790469,-77.863144,,,0,,0
+396,396,"S Atherton St at Fairmount Ave Outbound",,40.78816,-77.86038,,,0,,0
+397,397,"S Atherton St at W Fairmount Ave Inbound",,40.788115,-77.860035,,,0,,0
+398,398,"S. Atherton St. near Parkway Plaza Apts",,40.78592,-77.85542,,,0,,0
+399,399,"805 S Atherton St",,40.78604,-77.855255,,,0,,0
+4,4,"Pattee Transit Center Eastbound",,40.797836,-77.866722,,,0,,0
+40,40,"720 W Aaron Dr at Aaron Village",,40.804222,-77.895844,,,0,,0
+400,400,"Research Drive at CATA",,40.762135,-77.875632,,,0,,0
+401,401,"S Atherton St at Centre Lane",,40.78499,-77.84956,,,0,,0
+402,402,"Waupelani Dr at S Allen St",,40.78383,-77.848515,,,0,,0
+403,403,"Waupelani Dr at The Retreat",,40.782015,-77.850237,,,0,,0
+406,406,"Waupelani Dr at Executive House",,40.7796,-77.85425,,,0,,0
+407,407,"Waupelani Dr at Lions Gate Apts",,40.77982,-77.85395,,,0,,0
+408,408,"445 Waupelani Dr (Nittany Gardens)",,40.77789,-77.85471,,,0,,0
+409,409,"450 Waupelani Dr (Hearthside)",,40.777605,-77.854585,,,0,,0
+410,410,"Waupelani Dr at Southgate Dr Inbound",,40.775585,-77.856265,,,0,,0
+411,411,"Waupelani Dr at Southgate Dr Outbound",,40.77533,-77.85663,,,0,,0
+412,412,"712 Southgate Dr",,40.775255,-77.858415,,,0,,0
+413,413,"Southgate Dr at Highlandon Ct",,40.774545,-77.860625,,,0,,0
+414,414,"Southgate Dr at Ashwicken Ct",,40.773145,-77.862115,,,0,,0
+415,415,"Southgate Dr at Blue Course Dr",,40.77199,-77.86386,,,0,,0
+416,416,"Stratford Dr at Blue Course Dr",,40.77107,-77.86208,,,0,,0
+417,417,"803 Stratford Dr",,40.77267,-77.85977,,,0,,0
+418,418,"Stratford Dr at Waupelani Dr",,40.77425,-77.85708,,,0,,0
+420,420,"N Atherton St at Arbor Way",,40.79812,-77.87484,,,0,,0
+422,422,"Blue Course Dr at BB&T Bank",,40.803059,-77.884857,,,0,,0
+423,423,"Northland Center Outbound",,40.802559,-77.885963,,,0,,0
+424,424,"Northland Center Inbound",,40.802559,-77.885834,,,0,,0
+425,425,"Blue Course Dr near Teaberry Lane",,40.7972149974,-77.887763356,,,0,,0
+426,426,"Blue Course Dr at Blue Course Commons",,40.79873,-77.88692,,,0,,0
+427,427,"Havershire Blvd. at The Heights",,40.788789,-77.894889,,,0,,0
+428,428,"Havershire Blvd. across from The Heights",,40.788954,-77.895099,,,0,,0
+429,429,"Havershire Blvd. at Northwick (Inbound)",,40.790708,-77.898045,,,0,,0
+430,430,"Havershire Blvd. at Northwick (Outbound)",,40.790834,-77.898015,,,0,,0
+433,433,"Circleville Rd at Farmstead Lane Inbound",,40.79039,-77.90334,,,0,,0
+434,434,"Circleville Rd at Farmstead Ln Outbound",,40.7904,-77.903655,,,0,,0
+435,435,"Valley Vista Dr at State College Collect",,40.790771,-77.90773,,,0,,0
+459,459,"Galen Drive at Kenley Ct",,40.809764,-77.921637,,,0,,0
+46,46,"1224 N Atherton St - Discovery Space",,40.802467,-77.882167,,,0,,0
+461,461,"Amblewood Way at School Drive",,40.80801,-77.92313,,,0,,0
+463,463,"Mount Nittany Health Toftrees",,40.8227002576,-77.9088804652,,,0,,0
+464,464,"Galen Dr at Amblewood Way",,40.80556,-77.92431,,,0,,0
+467,467,"Carnegie Dr at Vista Lofts",,40.808695,-77.925545,,,0,,0
+47,47,"N Atherton St at Mitchell Ave Inbound",,40.80027,-77.87804,,,0,,0
+470,470,"Valley Vista Drive at Lowes Center",,40.810817,-77.923776,,,0,,0
+471,471,"N Atherton St at Douglas Dr",,40.810132,-77.914486,,,0,,0
+472,472,"N Atherton St at Hawbaker Industrial Dr",,40.81029,-77.913947,,,0,,0
+473,473,"N Atherton St at Fairwood Lane",,40.809765,-77.91147,,,0,,0
+474,474,"N Atherton St near Fairfield Inn",,40.809807,-77.910067,,,0,,0
+475,475,"Colonnade Blvd at Chicos",,40.810512,-77.906824,,,0,,0
+476,476,"Colonnade Blvd at Wegmans",,40.810703,-77.906905,,,0,,0
+477,477,"Martin St at Park Crest Lane Inbound",,40.801872,-77.887276,,,0,,0
+478,478,"Martin St at Park Crest Lane Outbound",,40.8019770639,-77.8871271638,,,0,,0
+479,479,"1400 Martin St at Parkcrest Terrace",,40.802948,-77.888809,,,0,,0
+480,480,"Opposite 1400 Martin St",,40.803079,-77.888692,,,0,,0
+481,481,"Martin Street at Herman Drive",,40.8044836032,-77.8913654038,,,0,,0
+482,482,"1471 Martin St at Weis",,40.8042176664,-77.8906452712,,,0,,0
+484,484,"1521 Martin St at Northland Bowl",,40.8052065749,-77.8921375423,,,0,,0
+485,485,"Park Lane at Aaron Dr",,40.80125,-77.90033,,,0,,0
+486,486,"Park Lane at Devonshire Dr",,40.801315,-77.90023,,,0,,0
+487,487,"Park Lane at Cornwall Rd Inbound",,40.80256,-77.90159,,,0,,0
+488,488,"Park Lane at Cornwall Rd Outbound",,40.80251,-77.90135,,,0,,0
+489,489,"Park Lane at Sierra Lane",,40.804787,-77.904572,,,0,,0
+490,490,"Park Lane at Shannon Lane",,40.804783,-77.904411,,,0,,0
+491,491,"Park Lane at Park Forest Ave Inbound",,40.806595,-77.90534,,,0,,0
+492,492,"Park Lane at Park Forest Ave Outbound",,40.806629,-77.90522,,,0,,0
+493,493,"Park Forest Ave at Northbrook Greens",,40.807479,-77.903377,,,0,,0
+494,494,"Park Forest Ave Opposite Northbrook",,40.807541,-77.903569,,,0,,0
+495,495,"Park Forest Ave at N Atherton Outbound",,40.808365,-77.902205,,,0,,0
+496,496,"Park Forest Ave at N Atherton Inbound",,40.808502,-77.902283,,,0,,0
+497,497,"Trader Joes Plaza",,40.809584,-77.902198,,,0,,0
+498,498,"1870 North Atherton Street",,40.8089272498,-77.9040936651,,,0,,0
+499,499,"N Atherton St at Chick-Fil-A",,40.809163,-77.906342,,,0,,0
+5,5,"Hastings Rd at University Drive",,40.804695,-77.85278,,,0,,0
+500,500,"N Atherton St at Colonnade Blvd",,40.809495,-77.907497,,,0,,0
+501,501,"Middle of Oakwood Ave Outbound",,40.81886,-77.89325,,,0,,0
+502,502,"658 Oakwood Ave",,40.81908,-77.88955,,,0,,0
+503,503,"Vairo Blvd at Vairo Village (Upper)",,40.816269,-77.887268,,,0,,0
+504,504,"Vairo Blvd opposite Vairo Village(Upper)",,40.81627,-77.88796,,,0,,0
+506,506,"Vairo Blvd opposite Vairo Village(lower)",,40.81588,-77.88646,,,0,,0
+507,507,"Vairo Blvd at Vairo Village(lower)",,40.81544,-77.88426,,,0,,0
+508,508,"Vairo Blvd at Tremont Inbound(lower)",,40.815521,-77.884628,,,0,,0
+509,509,"Vairo Blvd at Tremont Inbound upper",,40.81246,-77.88627,,,0,,0
+51,51,"Curtin Rd at Pavilion Theatre",,40.80088,-77.86465,,,0,,0
+510,510,"Vairo Blvd at Tremont Outbound",,40.81222,-77.88628,,,0,,0
+511,511,"Vairo Blvd at The Pointe Inbound",,40.810268,-77.890236,,,0,,0
+512,512,"Vairo Blvd at The Pointe Outbound",,40.810001,-77.890587,,,0,,0
+513,513,"Vairo Blvd at The Bryn Inbound",,40.80993,-77.89189,,,0,,0
+516,516,"Williamsburg Sq. - Holiday Inn/Spring Hi",,40.816315,-77.896873,,,0,,0
+517,517,"Oakwood Ave at Texas Roadhouse",,40.816196,-77.896767,,,0,,0
+518,518,"Middle of Oakwood Ave Inbound",,40.818726,-77.893219,,,0,,0
+519,519,"Oakwood Ave at Benjamin Ct",,40.818935,-77.889603,,,0,,0
+52,52,"E College Ave at Atherton Hall",,40.797195,-77.858063,,,0,,0
+520,520,"North Atherton Place at Walmart",,40.809042,-77.896356,,,0,,0
+521,521,"North Atherton Place at McDonalds",,40.808894,-77.896201,,,0,,0
+522,522,"1611 North Atheron (Champs)",,40.807671,-77.892625,,,0,,0
+523,523,"1450 N Atherton St at Hoss",,40.806141,-77.889069,,,0,,0
+524,524,"N Atherton St at Denton Ave",,40.806147,-77.888714,,,0,,0
+525,525,"N Atherton St at N Hills Place Inbound",,40.805255,-77.88742,,,0,,0
+526,526,"N Atherton St at N Hills Place Outbound",,40.805164,-77.886925,,,0,,0
+527,527,"N Atherton St at E Clinton Ave",,40.803445,-77.883648,,,0,,0
+53,53,"Bigler Rd at Computer Building",,40.803905,-77.860947,,,0,,0
+538,538,"W College Ave at Holly Circle Outbound",,40.769975,-77.887415,,,0,,0
+54,54,"Shortlidge Rd at White Building",,40.79905,-77.858991,,,0,,0
+55,55,"Pollock Rd at Millennium Science Cplx",,40.80127,-77.85906,,,0,,0
+550,550,"Science Park Rd at Torron Group",,40.77381,-77.88997,,,0,,0
+551,551,"301 Science Park Rd (ARL West IV)",,40.77604,-77.89375,,,0,,0
+552,552,"300 Science Park Rd (PSU Tech Support)",,40.775885,-77.89383,,,0,,0
+553,553,"385 Science Park Rd at Accuweather",,40.78022,-77.897665,,,0,,0
+554,554,"500 Science Park Rd at Davita",,40.78008,-77.897735,,,0,,0
+557,557,"Science Park Rd at Sandy Dr (Wonderland)",,40.784855,-77.902385,,,0,,0
+56,56,"University Dr at Bellaire Ave (Outbound)",,40.79896,-77.84765,,,0,,0
+563,563,"University Drive ramp at The Meridian",,40.80123,-77.85152,,,0,,0
+564,564,"E Beaver Ave at Calder Commons",,40.79886,-77.85297,,,0,,0
+565,565,"E Beaver Ave at Beaver Hill Apts",,40.796288,-77.856394,,,0,,0
+569,569,"Porter Rd at Medlar Field",,40.811206,-77.852586,,,0,,0
+57,57,"University Dr at E. Waring Ave(Outbound)",,40.79759,-77.84519,,,0,,0
+572,572,"EES Building WB",,40.7936316695,-77.8705748893,,,0,,0
+58,58,"University Dr at Easterly Pkwy",,40.79657,-77.84311,,,0,,0
+6,6,"West Park Ave at North Burrowes St",,40.79845,-77.8711,,,0,,0
+624,624,"1290 Circleville Rd",,40.796614,-77.891114,,,0,,0
+625,625,"1381 Circleville Road",,40.796605,-77.89153,,,0,,0
+64,64,"Waupelani Dr at Waupelani Lofts",,40.782265,-77.850159,,,0,,0
+682,682,"Circleville Rd at Knob Hill Pl",,40.795807,-77.894318,,,0,,0
+7,7,"N Atherton St at Hillcrest Ave",,40.798056,-77.874489,,,0,,0
+700,700,"Toftrees Avenue near Beaumanor Drive",,40.825921,-77.880501,,,0,,0
+701,701,"Toftrees Avenue near Alma Mater Drive",,40.826011,-77.880228,,,0,,0
+703,703,"Circleville Rd at W Park Hills Ave",,40.79356,-77.897335,,,0,,0
+705,705,"1612 N Atherton St (KBB Realtors)",,40.807647,-77.893663,,,0,,0
+708,708,"Circleville Rd at E Park Hills Ave",,40.795825,-77.894725,,,0,,0
+709,709,"972 Oakwood Ave",,40.818123,-77.896378,,,0,,0
+710,710,"Opposite 972 Oakwood Ave",,40.818066,-77.89621,,,0,,0
+711,711,"Circleville Rd opposite W Park Hills Ave",,40.793385,-77.897445,,,0,,0
+714,714,"Oakwood Ave at Vairo Village Comm Ctr",,40.81745,-77.889,,,0,,0
+715,715,"545 Oakwood Ave at State College Collect",,40.81736,-77.88919,,,0,,0
+716,716,"323 Easterly Pkwy",,40.79251,-77.84632,,,0,,0
+717,717,"233 Easterly Pkwy",,40.78916,-77.84811,,,0,,0
+718,718,"Easterly Pkwy at Garner St",,40.79251,-77.84617,,,0,,0
+719,719,"234 Easterly Pkwy (Easterly Pkwy Elem)",,40.78909,-77.84795,,,0,,0
+720,720,"1245 S Atherton St (Happy Vly Motor Inn)",,40.78454,-77.84717,,,0,,0
+722,722,"1550 S Atherton St (Courtyd by Marriott)",,40.78512,-77.83755,,,0,,0
+723,723,"Opposite 474 Windmere Dr",,40.78803,-77.82317,,,0,,0
+724,724,"Opposite 428 Windmere Dr",,40.78795,-77.82626,,,0,,0
+725,725,"123 Rolling Ridge Dr",,40.78603,-77.82922,,,0,,0
+726,726,"University Drive at Jordan Center Gate A",,40.807923,-77.856874,,,0,,0
+732,732,"Waupelani Dr. at Briarwood Apts",,40.773922,-77.855912,,,0,,0
+745,745,"Benner Pike at Barnes and Noble",,40.830262,-77.805062,,,0,,0
+753,753,"East College Ave at Green Acres Lane",,40.8147896404,-77.8241847202,,,0,,0
+754,754,"East College Avenue at Grandview Road",,40.8145453447,-77.8243468221,,,0,,0
+755,755,"Woodledge Dr Inbound (To Campus)",,40.82757,-77.88127,,,0,,0
+756,756,"Woodledge Dr Outbound (To Toftrees)",,40.82764,-77.88104,,,0,,0
+761,761,"Colonnade Blvd at Kohls",,40.814663,-77.902489,,,0,,0
+768,768,"3054 Enterprise Drive",,40.764853,-77.880884,,,0,,0
+776,776,"Martin St at Best Buy",,40.8067577974,-77.8953058155,,,0,,0
+777,777,"Waddle Rd at the Bryn",,40.8106895168,-77.8941471146,,,0,,0
+778,778,"Oakwood Ave at Clearview Ave",,40.8163303897,-77.8910775517,,,0,,0
+779,779,"Science Park Rd at Sandy Dr near CVIM",,40.7849344347,-77.9022377197,,,0,,0
+780,780,"Blue Course Dr at Blue Course Med Ctr",,40.7830774546,-77.886221227,,,0,,0
+788,788,"Fox Hollow at Big Hollow",,40.822512,-77.867386,,,0,,0
+789,789,"Fox Hollow opp Big Hollow",,40.822721,-77.867395,,,0,,0
+8,8,"1101 N. Atherton St at CVS",,40.801405,-77.879826,,,0,,0
+809,809,"East College Ave at Citi Clean",,40.82205,-77.8146,,,0,,0
+813,813,"Science Park Rd at the ARL Building",,40.774961,-77.892075,,,0,,0
+824,824,"Oakwood Ave at State College Collective",,40.816508,-77.89056,,,0,,0
+832,832,"Woodledge Dr at Woodledge Circle",,40.831299,-77.882255,,,0,,0
+833,833,"Woodledge Dr opposite Woodledge Circle",,40.831383,-77.882178,,,0,,0
+839,839,"Opposite 225 Science Park Rd (ARL Bldg)",,40.77478,-77.892122,,,0,,0
+840,840,"1700 Old Gatesburg Rd at Blue Course Med",,40.781939,-77.887386,,,0,,0
+848,848,"Blue Course Dr near West College Ave",,40.780132,-77.880513,,,0,,0
+849,849,"1610 West College Ave (Waffle Shop)",,40.78005,-77.879478,,,0,,0
+867,867,"The Yards at Old State",,40.7677268597,-77.8590667116,,,0,,0
+868,868,"Blue Course Drive at Stratford Drive",,40.770826,-77.862051,,,0,,0
+873,873,"West Deck",,40.7915728027,-77.8721259711,,,0,,0
+874,874,"EES Building EB",,40.7933165657,-77.8707751248,,,0,,0
+880,880,"Sams Club",,40.833169,-77.805413,,,0,,0
+882,882,"Villas at Happy Valley",,40.834051,-77.809978,,,0,,0
+9,9,"801 Toftrees Avenue - The Station",,40.824063329,-77.8865689067,,,0,,0
+935,935,"Windmere Drive at Scenery Court",,40.787733,-77.821953,,,0,,0

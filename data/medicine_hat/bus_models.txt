@@ -1,0 +1,4 @@
+743-747,Grande West Vicinity 30',2019,Diesel,https://cptdb.ca/wiki/index.php/Medicine_Hat_Transit_743-747_(3rd)
+748-753,Grande West Vicinity 30' CNG,2019,CNG,https://cptdb.ca/wiki/index.php/Medicine_Hat_Transit_748-753_(3rd)
+754-759,New Flyer XN40,2014,CNG,https://cptdb.ca/wiki/index.php/Medicine_Hat_Transit_754-759_(2nd)
+760-761,New Flyer C40LFR,2012,Gasoline,https://cptdb.ca/wiki/index.php/Medicine_Hat_Transit_760-761

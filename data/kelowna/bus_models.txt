@@ -1,0 +1,62 @@
+1020-1044,2013 New Flyer XN40,2013,CNG,https://cptdb.ca/wiki/index.php/BC_Transit_1020-1044
+1045-1069,2015 New Flyer XN40,2015,CNG,https://cptdb.ca/wiki/index.php/BC_Transit_1045-1069
+1070-1114,2016 New Flyer XN40,2016,CNG,https://cptdb.ca/wiki/index.php/BC_Transit_1070-1114
+1115-1139,2017 New Flyer XN40,2017,CNG,https://cptdb.ca/wiki/index.php/BC_Transit_1115-1139
+1140-1147,2018 New Flyer XN40,2018,CNG,https://cptdb.ca/wiki/index.php/BC_Transit_1140-1147
+1148-1185,2019 New Flyer XN40,2019,CNG,https://cptdb.ca/wiki/index.php/BC_Transit_1148-1185
+1186-1202,2020 New Flyer XN40,2020,CNG,https://cptdb.ca/wiki/index.php/BC_Transit_1186-1202
+1203-1212,2020 New Flyer XN40,2020,CNG,https://cptdb.ca/wiki/index.php/BC_Transit_1203-1212
+1213-1232,2021 New Flyer XN40,2021,CNG,https://cptdb.ca/wiki/index.php/BC_Transit_1213-1232
+1233-1253,2022 New Flyer XN40,2022,CNG,https://cptdb.ca/wiki/index.php/BC_Transit_1233-1253
+1254-1261,2024 New Flyer XN40,2024,CNG,https://cptdb.ca/wiki/index.php/BC_Transit_1254-1261
+1262-1277,2025 New Flyer XN40,2025,CNG,https://cptdb.ca/wiki/index.php/BC_Transit_1262-1277
+4007-4061,2017 Grande West Vicinity 30',2017,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_4007-4061
+4062-4070,2017 Grande West Vicinity 30',2017,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_4062-4070
+4071-4073,2018 Grande West Vicinity 30',2018,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_4071-4073
+4200-4233,2020 Grande West Vicinity 30' CNG,2020,CNG,https://cptdb.ca/wiki/index.php/BC_Transit_4200-4233
+4234-4248,2022 VMC Classic Vi30 CNG,2022,CNG,https://cptdb.ca/wiki/index.php/BC_Transit_4234-4248
+4400-4432,2017 Grande West Vicinity 35',2017,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_4400-4432
+4433-4474,2018-2019 Grande West Vicinity 35',2018-2019,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_4433-4474
+6000-6029,2017 Nova Bus LFS,2017,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_6000-6029
+7500-7524,2025 New Flyer XE40,2025,Electric,https://cptdb.ca/wiki/index.php/BC_Transit_7500-7524
+9041-9049,2004 Alexander Dennis Enviro500,2004,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_9041-9049
+9201-9210,2006 Nova Bus LFS,2006,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_9201-9210
+9211-9231,2006 Nova Bus LFS,2006,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_9211-9231
+9232-9267,2007 Nova Bus LFS,2007,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_9232-9267
+9268-9289,2008 Nova Bus LFS,2008,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_9268-9289
+9290-9300,2008 Nova Bus LFS Suburban,2008,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_9290-9300
+9301-9318,2008 Nova Bus LFS,2008,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_9301-9318
+9319-9433,2009 Nova Bus LFS,2009,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_9319-9433
+9434,2012 Nova Bus LFS,2012,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_9434
+9435-9446,2013 Nova Bus LFS,2013,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_9435-9446
+9447-9486,2015 Nova Bus LFS,2015,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_9447-9486
+9501-9526,2008 Alexander Dennis Enviro500,2008,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_9501-9526
+9528,2007 Alexander Dennis Enviro500,2007,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_9528
+9529-9531,2008 Alexander Dennis Enviro500,2008,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_9529-9531
+9532-9542,2020 Alexander Dennis Enviro500,2020,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_9532-9542
+9543-9550,2021 Alexander Dennis Enviro500,2021,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_9543-9550
+2316-2339,2012 Chevrolet ARBOC 4500 SOM28D,2012,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_2316-2339
+2342-2344,2012 Chevrolet ARBOC 4500 SOM28D,2012,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_2342-2344
+2347-2367,2012 Chevrolet ARBOC 4500 SOM28D,2012,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_2347-2367
+2369-2377,2012 Chevrolet ARBOC 4500 SOM28D,2012,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_2369-2377
+2378-2449,2013 Chevrolet ARBOC 4500 SOM28D,2013,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_2378-2449
+2451-2557,2014 Chevrolet ARBOC 4500 SOM28D,2014,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_2451-2557
+2558-2618,2015 Chevrolet ARBOC 4500 SOM28D,2015,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_2558-2618
+2619-2624,2015 Chevrolet ARBOC 4500 SOM28G,2015,Gasoline,https://cptdb.ca/wiki/index.php/BC_Transit_2619-2624
+2625-2636,2016 Chevrolet ARBOC 4500 SOM28D,2016,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_2625-2636
+2637-2640,2016 Chevrolet ARBOC 4500 SOM28G,2016,Gasoline,https://cptdb.ca/wiki/index.php/BC_Transit_2637-2640
+2641-2662,2017 Chevrolet ARBOC 4500 SOM 28,2017,Gasoline,https://cptdb.ca/wiki/index.php/BC_Transit_2641-2662
+2663-2687,2018 Chevrolet ARBOC 4500 SOM 28,2018,Gasoline,https://cptdb.ca/wiki/index.php/BC_Transit_2663-2687
+2688-2722,2020 Chevrolet Girardin 4500 Micro Bird G5,2020,Gasoline,https://cptdb.ca/wiki/index.php/BC_Transit_2688-2722
+2723-2756,2020 Chevrolet ARBOC 4500 SOF 27,2020,Gasoline,https://cptdb.ca/wiki/index.php/BC_Transit_2723-2756
+2757-2784,2021 Chevrolet Girardin 4500 Micro Bird G5,2021,Gasoline,https://cptdb.ca/wiki/index.php/BC_Transit_2757-2784
+2785-2801,2021 Ford Girardin T-350 Micro Bird MB-II,2021,Gasoline,https://cptdb.ca/wiki/index.php/BC_Transit_2785-2801
+2802-2860,2022 Chevrolet ARBOC 4500 SOF 27,2022,Gasoline,https://cptdb.ca/wiki/index.php/BC_Transit_2802-2860
+2861-2895,2023 Chevrolet ARBOC 4500 SOF 27,2023,Gasoline,https://cptdb.ca/wiki/index.php/BC_Transit_2861-2895
+2896-2976,2024 Chevrolet ARBOC 4500 SOF 27,2024,Gasoline,https://cptdb.ca/wiki/index.php/BC_Transit_2896-2976
+3001-3015,2013 Grande West Vicinity 27.5',2013,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_3001-3015
+3016-3019,2015 ElDorado Aero Elite,2015,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_3016-3019
+3021,2015 ElDorado Aero Elite,2015,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_3021
+3023,2015 ElDorado Aero Elite,2015,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_3023
+3024-3028,2018 ElDorado Aero Elite,2018,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_3024-3028
+3029-3034,2022 ElDorado Advantage,2022,Diesel,https://cptdb.ca/wiki/index.php/BC_Transit_3029-3034

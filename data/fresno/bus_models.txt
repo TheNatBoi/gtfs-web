@@ -1,0 +1,17 @@
+0601-0615,New Flyer C40LFR,2006,CNG,https://cptdb.ca/wiki/index.php/Fresno_Area_Express_0601-0615
+0901-0916,New Flyer C40LFR,2009,CNG,https://cptdb.ca/wiki/index.php/Fresno_Area_Express_0901-0916
+1101,Gillig BRT CNG 40',2011,CNG,https://cptdb.ca/wiki/index.php/Fresno_Area_Express_1101
+1102-1109,Gillig BRT CNG 40',2012,CNG,https://cptdb.ca/wiki/index.php/Fresno_Area_Express_1102-1109
+1201-1203,Gillig BRT CNG 29',2012,CNG,https://cptdb.ca/wiki/index.php/Fresno_Area_Express_1201-1203
+1401-1410,Gillig BRT CNG 40',2014,CNG,https://cptdb.ca/wiki/index.php/Fresno_Area_Express_1401-1410
+1601-1611,Gillig BRT Plus CNG 40',2016,CNG,https://cptdb.ca/wiki/index.php/Fresno_Area_Express_1601-1611
+1612-1617,Gillig BRT CNG 40',2016,CNG,https://cptdb.ca/wiki/index.php/Fresno_Area_Express_1612-1617
+1701-1726,Gillig BRT Plus CNG 40',2017,CNG,https://cptdb.ca/wiki/index.php/Fresno_Area_Express_1701-1726
+1801,Gillig BRT Plus CNG 40',2018,CNG,https://cptdb.ca/wiki/index.php/Fresno_Area_Express_1801
+1905-1906,Gillig BRT Plus CNG 40',2019,CNG,https://cptdb.ca/wiki/index.php/Fresno_Area_Express_1905-1906
+2001-2008,Gillig BRT Plus CNG 40',2020,CNG,https://cptdb.ca/wiki/index.php/Fresno_Area_Express_2001-2008
+2101-2102,Proterra ZX5 40',2021,Electric,https://cptdb.ca/wiki/index.php/Fresno_Area_Express_2101-2102
+2103-2108,Gillig BRT Plus CNG 40',2021,CNG,https://cptdb.ca/wiki/index.php/Fresno_Area_Express_2103-2108
+2201-2207,Proterra ZX5 40',2022,Electric,https://cptdb.ca/wiki/index.php/Fresno_Area_Express_2201-2207
+2401-2402,New Flyer XHE40,2024,Hydrogen Fuel Cell,https://cptdb.ca/wiki/index.php/Fresno_Area_Express_2401-2402
+2403-2414,Gillig BRT Plus CNG 40',2024,CNG,https://cptdb.ca/wiki/index.php/Fresno_Area_Express_2403-2414

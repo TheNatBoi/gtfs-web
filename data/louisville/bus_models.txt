@@ -1,0 +1,20 @@
+1001-1009,Gillig Low Floor HEV 40',2010,Hybrid,https://cptdb.ca/wiki/index.php/Transit_Authority_of_River_City_1001-1009
+1117-1121,Optima AH-28,2005,Diesel,https://cptdb.ca/wiki/index.php/Transit_Authority_of_River_City_1117-1121
+1301-1316,Gillig Low Floor 40',2013,Diesel,https://cptdb.ca/wiki/index.php/Transit_Authority_of_River_City_1301-1316
+1320-1330,Gillig Low Floor HEV 40',2013,Hybrid,https://cptdb.ca/wiki/index.php/Transit_Authority_of_River_City_1320-1330
+1350-1370,Gillig BRT 40',2013,Diesel,https://cptdb.ca/wiki/index.php/Transit_Authority_of_River_City_1350-1370
+1401-1412,Gillig Low Floor 40',2014,Diesel,https://cptdb.ca/wiki/index.php/Transit_Authority_of_River_City_1401-1412
+1601-1625,Gillig Low Floor 40',2016,Diesel,https://cptdb.ca/wiki/index.php/Transit_Authority_of_River_City_1601-1625
+1630-1630,Gillig Low Floor HEV 40',2016,Hybrid,https://cptdb.ca/wiki/index.php/Transit_Authority_of_River_City_1630
+1701-1702,Gillig Low Floor 35',2017,Diesel,https://cptdb.ca/wiki/index.php/Transit_Authority_of_River_City_1701-1702
+1901-1910,Gillig Low Floor 40',2019,Diesel,https://cptdb.ca/wiki/index.php/Transit_Authority_of_River_City_1901-1910
+1921-1928,Gillig BRT 40',2019,Diesel,https://cptdb.ca/wiki/index.php/Transit_Authority_of_River_City_1921-1928
+2121-2122,Gillig BRT 40',2021,Diesel,https://cptdb.ca/wiki/index.php/Transit_Authority_of_River_City_2121-2122
+2130-2170,Gillig Low Floor 40',2021,Diesel,https://cptdb.ca/wiki/index.php/Transit_Authority_of_River_City_2130-2170
+2180-2183,Gillig Low Floor 35',2021,Diesel,https://cptdb.ca/wiki/index.php/Transit_Authority_of_River_City_2180-2183
+2201-2205,Gillig Low Floor 40',2022,Diesel,https://cptdb.ca/wiki/index.php/Transit_Authority_of_River_City_2201-2205
+2206-2214,Gillig Low Floor 40',2023,Diesel,https://cptdb.ca/wiki/index.php/Transit_Authority_of_River_City_2206-2214
+2321-2331,Gillig Low Floor 40',2023,Diesel,https://cptdb.ca/wiki/index.php/Transit_Authority_of_River_City_2321-2331
+2910-2926,Gillig Low Floor 40',2009,Diesel,https://cptdb.ca/wiki/index.php/Transit_Authority_of_River_City_2910-2926
+E01-E10,Proterra EcoRide BE35,2014,Electric,https://cptdb.ca/wiki/index.php/Transit_Authority_of_River_City_E01-E10
+E12-E17,Proterra Catalyst BE40,2016,Electric,https://cptdb.ca/wiki/index.php/Transit_Authority_of_River_City_E12-E17

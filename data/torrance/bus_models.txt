@@ -1,0 +1,4 @@
+300-309,New Flyer GE40LFR,2010,Hybrid,https://cptdb.ca/wiki/index.php/Torrance_Transit_300-309
+310-329,New Flyer C40LFR,2011,CNG,https://cptdb.ca/wiki/index.php/Torrance_Transit_310-329
+330-338,New Flyer XN40,2012,CNG,https://cptdb.ca/wiki/index.php/Torrance_Transit_330-338
+339-362,New Flyer XN40,2016,CNG,https://cptdb.ca/wiki/index.php/Torrance_Transit_339-362

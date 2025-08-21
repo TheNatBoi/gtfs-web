@@ -1,0 +1,1403 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+2338,1201,Hillsborough St at Mayo St (EB),,35.781525,-78.653343,,,,,,0
+2405,1284,Wilmington St at Cabarrus St,,35.774365,-78.638356,,,,,,0
+2449,1539,Hammond Rd at Chapanoke Rd (SECU),,35.735381,-78.640415,,,,,,0
+2455,1540,Hammond Rd at Chapanoke Rd (Detention Center),,35.735253,-78.640096,,,,,,0
+2461,1703,Hillsborough St at Dawson St,,35.780485,-78.644119,,,,,,0
+2789,1888,Zebulon Park-and-Ride,,35.821669,-78.323486,,,,,,0
+2797,1889,E 4th St at Wendell Park-and-Ride (EB),,35.78258,-78.367838,,,,,,0
+2806,1890,E 4th St at Wendell Park-and-Ride (WB),,35.782706,-78.367856,,,,,,0
+2815,1891,New Bern Ave at WakeMed (EB),,35.786069,-78.588989,,,,,,0
+2879,1961,Fuquay-Varina South Park-and-Ride,,35.573105,-78.80199,,,,,,0
+2895,1969,Salisbury St at W Davie St,,35.775449,-78.640364,,,,,,0
+1970,6689,Brier Creek Pkwy at Skyland Ridge Pkwy,,35.913981,-78.780543,,,,,,0
+2032,8001,GoRaleigh Station,,35.777526,-78.637157,,,,,,0
+2043,8002,Wilmington St at Morgan St,,35.779882,-78.63806,,,,,,0
+2053,8003,Wilmington St at Jones St,,35.781895,-78.637949,,,,,,0
+2084,8006,Wilmington St at North St,,35.785049,-78.637737,,,,,,0
+2095,8007,Wilmington St at Polk St,,35.78617,-78.637745,,,,,,0
+2113,8009,N Person St at E Franklin St,,35.79031,-78.63423,,,,,,0
+2119,8010,Wake Forest Rd at Sasser St (Salvation Army),,35.79213,-78.632604,,,,,,0
+2134,8012,Wake Forest Rd at Frank St,,35.796221,-78.630159,,,,,,0
+2155,8014,Automotive Way at Brookside Dr,,35.799632,-78.625286,,,,,,0
+2162,8015,Capital Blvd at Fenton St,,35.802421,-78.62003,,,,,,0
+2165,8016,Capital Blvd at Wake Tech Adult Ed,,35.804176,-78.617776,,,,,,0
+2168,8017,Capital Blvd at Hodges St (NB),,35.810621,-78.61219,,,,,,0
+2169,8018,Capital Blvd at Westinghouse Blvd,,35.815931,-78.60178,,,,,,0
+2170,8019,Capital Blvd at Brentwood Rd (NB),,35.818491,-78.59637,,,,,,0
+2171,8020,Capital Blvd at Trawick Rd,,35.820481,-78.59207,,,,,,0
+2175,8021,Capital Blvd at Starmount Dr,,35.823851,-78.58749,,,,,,0
+2186,8022,Capital Blvd at Old Buffaloe Rd (NB),,35.828621,-78.58517,,,,,,0
+2197,8023,Capital Blvd at Greywood Dr (NB),,35.831851,-78.58415,,,,,,0
+2207,8024,Poole Rd at New Hope Rd (EB),,35.764941,-78.55882,,,,,,0
+2214,8025,Capital Blvd At Calvary Dr,,35.845301,-78.57982,,,,,,0
+2220,8026,Capital Blvd at New Hope Rd,,35.850631,-78.58041,,,,,,0
+2226,8027,Capital Blvd at Spring Forest Rd (south side),,35.853621,-78.58069,,,,,,0
+2229,8028,Poole Rd at Old Poole Rd (WB),,35.763081,-78.55596,,,,,,0
+2230,8029,Capital Blvd at Oak Forest Dr (NB),,35.861697,-78.581597,,,,,,0
+2231,8030,Triangle Town Center Mall at Orvis (Park and Ride),,35.863747,-78.576637,,,,,,0
+2232,8031,Poole Rd at Old Poole Rd (EB),,35.762451,-78.55557,,,,,,0
+2233,8032,Triangle Town Center Mall at Barnes and Noble,,35.865881,-78.57653,,,,,,0
+2234,8033,Capital Blvd at Sumner Blvd (SB),,35.865598,-78.582402,,,,,,0
+2235,8034,Capital Blvd at Oak Forest Dr (SB),,35.860743,-78.581924,,,,,,0
+2236,8035,Capital Blvd at Spring Forest Rd (SB),,35.8534,-78.581127,,,,,,0
+2237,8036,Capital Blvd at Millbrook Rd,,35.849061,-78.580702,,,,,,0
+2238,8037,Capital Blvd at Sumner Blvd (NB),,35.865703,-78.58194,,,,,,0
+2246,8038,Capital Blvd At Calvary Dr,,35.843725,-78.580113,,,,,,0
+2248,8039,Capital Blvd at Deana Dr,,35.837751,-78.58104,,,,,,0
+2259,8040,Capital Blvd at New Hope Church Rd,,35.834181,-78.58329,,,,,,0
+2264,8041,Capital Blvd at Greywood Dr (SB),,35.832341,-78.58436,,,,,,0
+2269,8042,Capital Blvd at Old Buffaloe Rd (SB),,35.827588,-78.585933,,,,,,0
+2276,8043,Capital Blvd at Mayflower Dr,,35.825211,-78.58696,,,,,,0
+2281,8044,Capital Blvd at Huntleigh Dr,,35.820871,-78.59201,,,,,,0
+2283,8045,Capital Blvd at Brentwood Rd (SB),,35.818688,-78.596864,,,,,,0
+2292,8046,Capital Blvd at Highwoods Blvd,,35.81754,-78.599335,,,,,,0
+2302,8047,Capital Blvd at Hodges St (SB),,35.810801,-78.612367,,,,,,0
+2309,8048,Capital Blvd at Crabtree Blvd (SB),,35.806918,-78.616121,,,,,,0
+2318,8049,Capital Blvd at Tillery Pl,,35.804239,-78.620105,,,,,,0
+2322,8050,Barwell Rd at Charles St (NB),,35.752481,-78.53525,,,,,,0
+2323,8051,Wake Forest Rd at Brookside Dr,,35.800178,-78.625555,,,,,,0
+2324,8052,Barwell Rd at Charles St (SB),,35.752771,-78.53553,,,,,,0
+2325,8053,Wake Forest Rd at Sycamore St,,35.797522,-78.629469,,,,,,0
+2330,8054,Wake Forest Rd at Chestnut St,,35.796173,-78.630363,,,,,,0
+2333,8055,Barwell Rd at Damon Ct,,35.745423,-78.536453,,,,,,0
+2334,8058,Salisbury St at Parking Deck,,35.787055,-78.639666,,,,,,0
+2335,8059,Salisbury St at Lane St,,35.785108,-78.639975,,,,,,0
+2336,8060,Barwell Rd at Chatmoss Dr,,35.744877,-78.537812,,,,,,0
+2337,8062,Salisbury St at W Edenton St,,35.781581,-78.640078,,,,,,0
+2339,8064,W Morgan St at Mayo St OB,,35.779909,-78.653943,,,,,,0
+2340,8065,Gorman St at Burt Dr,,35.776932,-78.687845,,,,,,0
+2341,8066,Gorman St at Marcom S,,35.779131,-78.68711,,,,,,0
+2342,8070,W Edenton St at S McDowell St,,35.781374,-78.642213,,,,,,0
+2343,8071,W Edenton St at S Harrington St,,35.781472,-78.644369,,,,,,0
+2344,8072,Glenwood Ave at Hillsborough St,,35.781231,-78.64743,,,,,,0
+2345,8073,Blue Ridge Rd at Rex Way,,35.819728,-78.704713,,,,,,0
+2346,8074,Glenwood Ave at W Lane St,,35.78422,-78.647379,,,,,,0
+2347,8075,Glenwood Ave at Tucker St,,35.786661,-78.6472,,,,,,0
+2348,8076,Blue Ridge Rd at Macon Pond Rd,,35.819594,-78.704965,,,,,,0
+2349,8077,Glenwood Ave at Devereux St,,35.789871,-78.64701,,,,,,0
+2350,8079,Glenwood Ave at Washington St (NB),,35.792842,-78.646605,,,,,,0
+2351,8081,Glenwood Ave at Cole St (NB),,35.796709,-78.646244,,,,,,0
+2352,8082,Glenwood Ave at Harvey St (NB),,35.800468,-78.645989,,,,,,0
+2353,8083,Blue Ridge Rd at Reedy Creek Rd (NC Museum of Art),,35.810186,-78.705432,,,,,,0
+2354,8084,Whitaker Mill Rd at Fairview Rd (EB),,35.804273,-78.645064,,,,,,0
+2355,8085,Whitaker Mill Rd at Sunset Dr (EB),,35.805083,-78.642515,,,,,,0
+2356,8086,Blue Ridge Rd at Reedy Creek Rd (SB),,35.809358,-78.705754,,,,,,0
+2357,8087,Blue Ridge Rd at District Dr (NB),,35.806446,-78.706225,,,,,,0
+2358,8089,Blue Ridge Rd at District Dr (SB),,35.805761,-78.706689,,,,,,0
+2359,8090,Whitaker Mill Rd at Pine Dr,,35.80757,-78.636293,,,,,,0
+2360,8092,Whitaker Mill Rd at Center Rd,,35.806585,-78.632507,,,,,,0
+2361,8094,Whitaker Mill Rd at Pershing Rd,,35.806916,-78.629233,,,,,,0
+2362,8095,Whitaker Mill Rd at Hilton St,,35.807256,-78.626641,,,,,,0
+2363,8096,Wake Forest Rd at Whitaker Mill Rd,,35.808068,-78.624829,,,,,,0
+2364,8097,Wake Forest Rd at Mills St,,35.810393,-78.625637,,,,,,0
+2365,8099,Wake Forest Rd at Hodges St (NB),,35.815161,-78.626221,,,,,,0
+2366,8101,Wake Forest Rd at Six Forks Rd (Costco),,35.819436,-78.62402,,,,,,0
+2367,8102,Barwell Rd at Barwell Park (NB),,35.732291,-78.55514,,,,,,0
+2368,8103,Wake Forest Rd at Wake Towne Dr (NB),,35.82296,-78.622379,,,,,,0
+2369,8104,Wake Forest Rd at Navaho Dr (NB),,35.827582,-78.620088,,,,,,0
+2370,8105,Barwell Rd at Barwell Park (SB),,35.732561,-78.55519,,,,,,0
+2371,8106,Poole Rd at Maybrook Dr (EB),,35.760601,-78.55248,,,,,,0
+2372,8107,Poole Rd at Hickory Hollow Ln,,35.760731,-78.55211,,,,,,0
+2373,8108,Wake Forest Rd at Dresser Ct (NB),,35.832803,-78.617153,,,,,,0
+2374,8109,Poole Rd at River Knoll Dr (EB),,35.757492,-78.545804,,,,,,0
+2375,8110,Wake Forest Rd at New Hope Church Rd,,35.837343,-78.612987,,,,,,0
+2376,8111,Wake Forest Rd at Ronald Dr,,35.839143,-78.611881,,,,,,0
+2377,8112,Falls of Neuse Rd at Old Wake Forest Rd (NB),,35.841509,-78.611817,,,,,,0
+2378,8113,Falls of Neuse Rd at Pacific Dr,,35.842911,-78.61293,,,,,,0
+2379,8114,Poole Rd at River Knoll Dr (WB),,35.758331,-78.54779,,,,,,0
+2380,8115,Falls of Neuse Rd at Cedarhurst Dr (NB),,35.84846,-78.61473,,,,,,0
+2381,8118,Falls of Neuse Rd at Quail Ridge Rd,,35.852083,-78.61434,,,,,,0
+2382,8119,Blue Ridge Rd at Westchase Blvd (SB),,35.800712,-78.707517,,,,,,0
+2383,8120,Blue Ridge Rd at Westchase Blvd (Ramada Inn),,35.801154,-78.707259,,,,,,0
+2384,8121,Falls of Neuse Rd at Fairfax Dr (NB),,35.857221,-78.61591,,,,,,0
+2385,8122,Falls of Neuse Rd at Manassas Ct (NB),,35.859604,-78.617561,,,,,,0
+2386,8123,Falls of Neuse Rd at Falls Church Rd,,35.862201,-78.61936,,,,,,0
+2387,8125,Volant Dr at Carlos Dr,,35.864861,-78.61745,,,,,,0
+2388,8126,Carlos Dr at Falls of the Neuse Rd,,35.864651,-78.61895,,,,,,0
+2389,8127,Falls of Neuse Rd at Springfield Commons Dr,,35.867158,-78.620577,,,,,,0
+2390,8128,Falls of Neuse Rd at Bullard Ct,,35.869165,-78.620955,,,,,,0
+2391,8129,Blue Ridge Rd at Trinity Rd (NB),,35.797942,-78.707561,,,,,,0
+2392,8130,Falls of Neuse Rd at Sandy Forks Rd,,35.873201,-78.62227,,,,,,0
+2393,8132,Falls of Neuse Rd at Fox Hunt Ln,,35.877171,-78.62393,,,,,,0
+2394,8133,Blue Ridge Rd at Hillsborough St (NB),,35.796167,-78.707153,,,,,,0
+2395,8134,Falls of Neuse Rd at Harps Mill Rd (NB),,35.88146,-78.625768,,,,,,0
+2396,8136,Falls of Neuse Rd at Weathergreen Dr (NB),,35.888921,-78.627362,,,,,,0
+2397,8139,Falls of Neuse Rd at Weathergreen Dr,,35.888711,-78.62766,,,,,,0
+89,8141,Enterprise St at Clark Ave,,35.880861,-78.6257,,,,,,0
+2398,8143,Falls of Neuse Rd at Hunting Ridge Rd,,35.874286,-78.622864,,,,,,0
+2399,8144,Falls of Neuse Rd at Spring Forest Rd,,35.869141,-78.621123,,,,,,0
+2400,8145,Falls of Neuse Rd at Ridgefield Dr,,35.866001,-78.62066,,,,,,0
+2401,8146,Falls of Neuse Rd at Logger Ct,,35.863541,-78.61998,,,,,,0
+2402,8147,Falls of Neuse Rd at North Bend Dr,,35.861041,-78.61926,,,,,,0
+2403,8148,Falls of Neuse Rd at Fairfax Dr (SB),,35.856721,-78.6159,,,,,,0
+2404,8149,Falls of Neuse Rd at Fireside Dr,,35.854371,-78.615173,,,,,,0
+2406,8150,Blue Ridge Rd at Crimson Cross Ct,,35.787822,-78.703529,,,,,,0
+2407,8151,Falls of Neuse Rd at E Millbrook Rd (SB),,35.851356,-78.614599,,,,,,0
+2408,8152,Falls of Neuse Rd at Cedarhurst Dr (SB),,35.849115,-78.614789,,,,,,0
+2409,8153,Falls of Neuse Rd at Pemberton Dr,,35.844671,-78.61462,,,,,,0
+2410,8154,Falls of Neuse Rd at Old Wake Forest Rd (SB),,35.84123,-78.61197,,,,,,0
+2411,8155,Wake Forest Rd at Ollie St,,35.839101,-78.61212,,,,,,0
+2412,8156,Wake Forest Rd at Hardimont Rd,,35.837528,-78.613047,,,,,,0
+2413,8157,Wake Forest Rd at Colby Dr,,35.835386,-78.615052,,,,,,0
+2414,8158,Wake Forest Rd at Dresser Ct (SB),,35.832777,-78.61747,,,,,,0
+2415,8159,Wake Forest Rd at St Albans Dr (Hilton Midtown),,35.83005,-78.619151,,,,,,0
+2416,8160,Wake Forest Rd at Navaho Dr (SB),,35.827524,-78.620415,,,,,,0
+2417,8161,Wake Forest Rd at Wake Towne Dr (SB),,35.823564,-78.622366,,,,,,0
+2418,8163,Wake Forest Rd at Six Forks Rd (Creekside Crossing,,35.818558,-78.624727,,,,,,0
+2419,8164,Wake Forest Rd at Hodges St (SB),,35.815489,-78.626266,,,,,,0
+2420,8165,Wake Forest Rd at McNeil St,,35.813461,-78.62677,,,,,,0
+2421,8166,McNeil St at Bernard St,,35.814257,-78.629003,,,,,,0
+2422,8167,Noble Rd at McNeil St,,35.814361,-78.63171,,,,,,0
+2423,8168,Noble Rd at Wayne Dr,,35.812511,-78.63317,,,,,,0
+2424,8169,Noble Rd at North of Pine Dr,,35.810071,-78.63507,,,,,,0
+2425,8170,Pine Dr at Whitaker Mill Rd,,35.807824,-78.636288,,,,,,0
+2426,8172,Whitaker Mill Rd at McCarthy St,,35.80561,-78.641484,,,,,,0
+2427,8173,Whitaker Mill Rd at Fairview Rd (WB),,35.804371,-78.64513,,,,,,0
+2428,8174,Glenwood Ave at Glen Ave,,35.80321,-78.646102,,,,,,0
+2429,8175,Glenwood Ave at Harvey St (SB),,35.800946,-78.646154,,,,,,0
+2430,8176,Glenwood Ave at Cole St (Raleigh Charter High Scho,,35.795871,-78.646488,,,,,,0
+2431,8177,Glenwood Ave at Washington St (SB),,35.792814,-78.646883,,,,,,0
+2432,8179,Glenwood Ave at W Peace St,,35.789481,-78.64726,,,,,,0
+2433,8180,Glenwood Ave at W Johnson St,,35.787014,-78.647258,,,,,,0
+2434,8182,Glenwood Ave at W Jones St,,35.782931,-78.64749,,,,,,0
+2435,8183,Glenwood Ave at Willard Pl,,35.781822,-78.647582,,,,,,0
+2436,8184,Morgan St at Glenwood Ave OB,,35.779956,-78.648372,,,,,,0
+2437,8185,W Morgan St at S Harrington St,,35.779685,-78.643602,,,,,,0
+2438,8187,E Morgan St at S Wilmington St,,35.779509,-78.63729,,,,,,0
+2439,8188,E Morgan St at S Person St,,35.779991,-78.63505,,,,,,0
+2440,8191,Rock Quarry Rd at Interlock Dr (SB),,35.732596,-78.559854,,,,,,0
+2441,8200,Rock Quarry Rd at Riverbrooke Dr,,35.742602,-78.576286,,,,,,0
+2442,8201,Rock Quarry Rd at Rockwood Dr,,35.743042,-78.576924,,,,,,0
+2443,8202,Rock Quarry Rd at Trassacks Dr,,35.743917,-78.579772,,,,,,0
+2444,8204,Rock Quarry Rd at Holloway Rd,,35.744307,-78.580285,,,,,,0
+2445,8208,Rock Quarry Rd at Sunnybrook Rd (SB),,35.746839,-78.587629,,,,,,0
+2446,8209,Rock Quarry Rd at Sunnybrook Rd (NB),,35.746789,-78.586797,,,,,,0
+2447,8210,Rock Quarry Rd at Rock Quarry Crossing,,35.747646,-78.59265,,,,,,0
+2448,8211,Rock Quarry Rd at New Birch Dr,,35.747276,-78.598585,,,,,,0
+2450,8212,Rock Quarry Rd at Southeast Raleigh High School,,35.747135,-78.601989,,,,,,0
+2451,8213,Rock Quarry Rd at Compassionate Dr (NB),,35.74732,-78.602155,,,,,,0
+2452,8214,Rock Quarry Rd at Sanderford Rd,,35.75076,-78.611927,,,,,,0
+2453,8217,Glascock St at State St,,35.792903,-78.620856,,,,,,0
+2454,8218,Glascock St at Brookside Dr,,35.793079,-78.624731,,,,,,0
+2456,8226,Western Blvd at Merendino St,,35.78573,-78.705313,,,,,,0
+2457,8228,Hillsborough St at Glenwood Ave,,35.780871,-78.64855,,,,,,0
+2458,8229,Peyton St at Louise St,,35.768411,-78.607,,,,,,0
+2459,8230,Peyton St at Brigham Rd,,35.766161,-78.60595,,,,,,0
+2460,8231,Hillsborough St at St Marys St,,35.781034,-78.651203,,,,,,0
+2462,8232,Hillsborough St at Mayo St (Saint Mary's School),,35.781854,-78.653634,,,,,,0
+2463,8233,Birch Ridge Dr at Poole Rd,,35.767121,-78.57758,,,,,,0
+2464,8234,Hillsborough St at Park Ave (WB),,35.783534,-78.656298,,,,,,0
+2465,8235,Hillsborough St at Forest Rd (WB),,35.784757,-78.659081,,,,,,0
+2466,8236,Middle Branch Rd at Sunnybrook Rd (WB),,35.765321,-78.58054,,,,,,0
+2467,8237,Hillsborough St at Enterprise St (North Hall),,35.78687,-78.664474,,,,,,0
+2468,8238,Hillsborough St at Horne St (WB),,35.787931,-78.668456,,,,,,0
+2469,8239,Little John Rd at Weston St (WB),,35.763171,-78.59381,,,,,,0
+2470,8240,Hillsborough St at Brooks Ave (WB),,35.788819,-78.672491,,,,,,0
+2471,8241,Hillsborough St at Dixie Trail,,35.789424,-78.675338,,,,,,0
+2472,8242,Dixie Trail at Clark Ave (NB),,35.792829,-78.67566,,,,,,0
+2473,8243,Dixie Trail at Fowler Ave,,35.795751,-78.675918,,,,,,0
+2474,8244,Dixie Trail at Mayview Rd,,35.797513,-78.676509,,,,,,0
+2475,8245,Dixie Trail at O'Berry St (NB),,35.799734,-78.676256,,,,,,0
+2476,8247,Wade Ave at Faircloth St (OB),,35.801133,-78.683318,,,,,,0
+2477,8248,Ridge Rd at Wade Ave (NB),,35.802664,-78.687422,,,,,,0
+2478,8249,Ridge Rd at Lewis Farm Rd,,35.809346,-78.684786,,,,,,0
+2479,8250,Ridge Rd at Darien Dr,,35.814601,-78.68253,,,,,,0
+2480,8253,Lake Boone Tr at Wycliff Rd,,35.815761,-78.69523,,,,,,0
+2481,8254,Rex Hospital (Outbound),,35.816911,-78.704585,,,,,,0
+2482,8257,Bell Dr at Edison Rd (NB),,35.765861,-78.5839,,,,,,0
+2483,8258,Cooper Rd at Bell Dr (SB),,35.766911,-78.5864,,,,,,0
+2484,8259,Little John Rd at Cooper Rd,,35.763751,-78.58785,,,,,,0
+2485,8260,Little John Rd at Beverly Dr,,35.762931,-78.59614,,,,,,0
+2486,8261,Beverly Dr at Bromley St (NB),,35.766031,-78.59504,,,,,,0
+2487,8262,Beverly Dr at Friar Tuck Rd (NB),,35.769191,-78.59441,,,,,,0
+2488,8263,Lake Boone Tr at Myron Dr,,35.81561,-78.693548,,,,,,0
+2489,8264,Western Blvd at Powell Dr,,35.786636,-78.712925,,,,,,0
+2490,8265,Ridge Rd at Horton St,,35.811677,-78.684278,,,,,,0
+2491,8266,Ridge Rd at Anclote Pl,,35.805547,-78.686685,,,,,,0
+2492,8267,Ridge Rd at Wade Ave (SB),,35.802695,-78.687552,,,,,,0
+2493,8268,Wade Ave at Ridge Rd (Meredith College),,35.801492,-78.686649,,,,,,0
+2494,8270,Dixie Trail at O'Berry St (SB),,35.799839,-78.676358,,,,,,0
+2495,8271,Dixie Trail at Ruffin St,,35.796691,-78.67634,,,,,,0
+2496,8272,Dixie Trail at Clark Ave (SB),,35.792712,-78.675822,,,,,,0
+2497,8273,Hillsborough St at Friendly Dr,,35.789556,-78.676498,,,,,,0
+2498,8274,Hillsborough St at Gardner St (NCSU),,35.788413,-78.67137,,,,,,0
+2499,8275,Hillsborough St at Western Blvd,,35.787156,-78.717827,,,,,,0
+2500,8276,Hillsborough St at Horne St (EB),,35.787639,-78.667865,,,,,,0
+2501,8277,Hillsborough St at Enterprise St (NCSU Bell Tower),,35.786468,-78.663746,,,,,,0
+2502,8279,Hillsborough St at Powell Dr,,35.790662,-78.715848,,,,,,0
+2503,8280,Hillsborough St at Forest Rd (EB),,35.784616,-78.659043,,,,,,0
+2504,8281,Hillsborough St at NC State Fairgrounds,,35.793046,-78.709216,,,,,,0
+2505,8282,Hillsborough St at Park Ave (EB),,35.783627,-78.656859,,,,,,0
+2506,8283,Blue Ridge Rd at Forest View Rd (SB),,35.816584,-78.705248,,,,,,0
+2507,8284,Edwards Mill Rd at Kingdom Way,,35.797934,-78.727312,,,,,,0
+2508,8285,Rock Quarry Rd at Edwin Dr (NB),,35.751168,-78.612069,,,,,,0
+2509,8288,Martin Luther King Jr Blvd at Grantland Dr (EB),,35.770826,-78.610806,,,,,,0
+2510,8289,Martin Luther King Jr Blvd at Peyton St (EB),,35.770874,-78.606422,,,,,,0
+2511,8290,W Jones St at N Salisbury St,,35.782572,-78.640399,,,,,,0
+2512,8291,Rock Quarry Rd at Vardaman St,,35.770304,-78.619818,,,,,,0
+2513,8292,Rock Quarry Rd at Raleigh Blvd (SB),,35.766111,-78.61587,,,,,,0
+2514,8293,Rock Quarry Rd at Southeast Raleigh YMCA,,35.761051,-78.61394,,,,,,0
+2515,8294,Proctor St at Rock Quarry Rd,,35.754311,-78.61177,,,,,,0
+2516,8295,Proctor St at Fountain Dr,,35.753331,-78.60947,,,,,,0
+2517,8296,Atkins Dr at Southgate Dr,,35.75412,-78.606705,,,,,,0
+2518,8297,2008 Atkins Dr,,35.752457,-78.606112,,,,,,0
+2519,8298,Atkins Dr at Tee Dee St,,35.749845,-78.606575,,,,,,0
+2520,8299,Atkins Dr at Rock Quarry Rd,,35.748983,-78.607392,,,,,,0
+2521,8300,Sanderford Rd at Rock Quarry Rd,,35.750501,-78.61196,,,,,,0
+2522,8301,Sanderford Rd at Altama Cir,,35.745341,-78.61399,,,,,,0
+2523,8302,Rock Quarry Rd at Raleigh Blvd (NB),,35.766166,-78.615629,,,,,,0
+2524,8304,Idlewood Village Dr at Sanderford Rd,,35.738991,-78.612513,,,,,,0
+2525,8306,Snowberry Dr at Oak Hill Ct,,35.738672,-78.614349,,,,,,0
+2526,8307,Savannah Dr at Quince Dr,,35.740231,-78.615521,,,,,,0
+2527,8308,Savannah Dr at Daytona Dr,,35.74026,-78.617627,,,,,,0
+2528,8309,Sylvester St at Seabrook Rd,,35.741651,-78.61947,,,,,,0
+2529,8310,Cross Link Rd at Crown Crossing Ln,,35.744721,-78.62342,,,,,,0
+2530,8311,Dandridge Dr at Elkhart Dr,,35.747621,-78.62345,,,,,,0
+2531,8312,Dandridge Dr at Newcombe Rd,,35.749471,-78.622646,,,,,,0
+2532,8314,Cross Link Rd at Merrik St,,35.754036,-78.614215,,,,,,0
+2533,8315,Rock Quarry Rd at Proctor St,,35.755141,-78.612302,,,,,,0
+2534,8316,Rock Quarry Rd at Central Wake High School,,35.761051,-78.61364,,,,,,0
+2535,8318,Rock Quarry Rd at Merrywood Dr,,35.769338,-78.617959,,,,,,0
+2536,8319,Rock Quarry Rd at Bart St (Helping Hand Mission),,35.771255,-78.620904,,,,,,0
+2537,8320,E Lenoir St at Rock Quarry Rd,,35.772465,-78.621763,,,,,,0
+2538,8323,E Lenoir St at Chavis Way IB,,35.772771,-78.63155,,,,,,0
+2539,8324,Crabtree Valley Ave at Edwards Mill Rd,,35.838694,-78.681022,,,,,,0
+2540,8325,Glenwood Ave at Creedmoor Rd,,35.843583,-78.681668,,,,,,0
+2541,8328,Deep Hollow Dr at Duraleigh Rd,,35.853001,-78.71047,,,,,,0
+2542,8330,New Bern Ave at West Campus Dr (EB),,35.784465,-78.590762,,,,,,0
+2543,8331,Grove Barton Rd at Lynn Rd,,35.871145,-78.717135,,,,,,0
+2544,8332,Avent Ferry Rd at Centennial Pkwy (SB),,35.776991,-78.678749,,,,,,0
+2545,8333,Grove Barton Rd at Lynn Rd,,35.871265,-78.717713,,,,,,0
+2546,8335,Sunnybrook Rd at Kidd Rd,,35.778374,-78.583459,,,,,,0
+2547,8337,N Tarboro Rd at E Edenton St,,35.780231,-78.622303,,,,,,0
+2548,8338,Poole Rd at S Fisher St,,35.778311,-78.615745,,,,,,0
+2549,8340,Glenwood Ave at Munford Rd (SB),,35.855559,-78.702002,,,,,,0
+2550,8343,McDowell St at Martin St,,35.77684,-78.641813,,,,,,0
+2551,8348,Glenwood Ave at Alexander Rd,,35.806545,-78.647165,,,,,,0
+2552,8349,Glenwood Ave at St Marys St (NB),,35.813499,-78.651411,,,,,,0
+2553,8350,Glenwood Ave at Argyle Dr,,35.815466,-78.653088,,,,,,0
+2554,8353,Glenwood Ave at Pasquatank Dr (NB),,35.82542,-78.665597,,,,,,0
+2555,8354,Glenwood at Women's Club Dr,,35.830544,-78.666709,,,,,,0
+2556,8355,Crabtree Valley Mall,,35.838069,-78.678078,,,,,,0
+2557,8356,Crabtree Valley Ave at Creedmoor Rd (NB),,35.841041,-78.684081,,,,,,0
+2558,8358,Glenwood Ave at Moorehead Dr,,35.845616,-78.68778,,,,,,0
+2559,8359,Glenwood Ave at Carolina Corporate,,35.849256,-78.692303,,,,,,0
+2560,8360,Glenwood Ave at Rembert Dr,,35.852055,-78.69631,,,,,,0
+2561,8362,Glenwood Ave at Deblyn Ave,,35.853406,-78.698237,,,,,,0
+2562,8363,Glenwood Ave at Holly Ridge Dr,,35.85491,-78.700398,,,,,,0
+2563,8364,Glenwood Ave at Munford Rd (Pleasant Valley Promen,,35.856372,-78.702509,,,,,,0
+2564,8365,Glenwood Ave at Pleasant Valley Rd (Chili's),,35.858153,-78.705089,,,,,,0
+2565,8366,Townridge Shopping Center,,35.859921,-78.70718,,,,,,0
+2566,8367,Duraleigh Rd at Glenwood Ave,,35.861622,-78.712621,,,,,,0
+2567,8368,Duraleigh Rd at Pleasant Valley Rd,,35.860003,-78.71297,,,,,,0
+2568,8369,Duraleigh Rd at Delta Lake Dr,,35.856559,-78.712389,,,,,,0
+2569,8370,Deep Hollow Dr at St Giles St,,35.852832,-78.707636,,,,,,0
+2570,8371,St Giles St at Deep Hollow Dr,,35.854888,-78.706022,,,,,,0
+2571,8372,St Giles St at Oak Park Rd,,35.853889,-78.703198,,,,,,0
+2572,8373,Glenwood Ave Service Rd at Oak Park,,35.855278,-78.701782,,,,,,0
+2573,8374,Glenwood Ave at Holly Ridge Dr,,35.854576,-78.700541,,,,,,0
+2574,8375,Glenwood Ave at Glen Forest Dr,,35.85309,-78.698414,,,,,,0
+2575,8376,Glenwood Ave at Fairhill Dr,,35.852001,-78.69683,,,,,,0
+2576,8377,Glenwood Ave at Fairhill Dr,,35.850758,-78.695113,,,,,,0
+2577,8378,Glenwood Ave at Bluestone Dr,,35.84929,-78.692986,,,,,,0
+2578,8379,Glenwood Ave at Beta Center (north),,35.847228,-78.69056,,,,,,0
+2579,8380,Glenwood Ave at Beta Center (south),,35.846075,-78.689187,,,,,,0
+2580,8383,Glenwood Ave at Women's Club Dr,,35.831242,-78.667249,,,,,,0
+2581,8384,Glenwood Ave at Tolar Pl,,35.828385,-78.666606,,,,,,0
+2582,8385,Glenwood Ave at Pasquatank Dr (SB),,35.82606,-78.666084,,,,,,0
+2583,8386,Glenwood Ave at Vick Ave,,35.824132,-78.665585,,,,,,0
+2584,8387,Glenwood Ave at Glen Eden Dr,,35.82178,-78.66461,,,,,,0
+2585,8388,Glenwood Ave at Oberlin Rd (SB),,35.816599,-78.660812,,,,,,0
+2586,8389,Glenwood Ave at Argyle Dr,,35.81587,-78.655478,,,,,,0
+2587,8390,Glenwood Ave at St Marys St (SB),,35.811965,-78.650745,,,,,,0
+2588,8391,Glenwood Ave at Woodland Ave,,35.809996,-78.649556,,,,,,0
+2589,8392,Glenwood Ave at Mrytle Ave,,35.807049,-78.647762,,,,,,0
+2590,8398,S Saunders St at Prospect Ave,,35.763161,-78.64919,,,,,,0
+2591,8399,S Saunders St at Gilbert Ave,,35.759641,-78.64932,,,,,,0
+2592,8400,S Saunders St at Hubert St,,35.757591,-78.64927,,,,,,0
+2593,8404,S Saunders St at Chapanoke Rd,,35.735947,-78.650621,,,,,,0
+2594,8405,S Saunders St at Olympia Dr,,35.73383,-78.650977,,,,,,0
+2595,8407,Garner Station Blvd at North Station (Carlie C's),,35.72497,-78.655283,,,,,,0
+2596,8408,Garner Station Blvd at South Station (Big Lots),,35.724711,-78.65527,,,,,,0
+2597,8409,Garner Station Blvd at Goodberry's,,35.724731,-78.65329,,,,,,0
+2598,8411,Garner Station Blvd at Rupert Rd,,35.722255,-78.662628,,,,,,0
+2599,8412,S Wilmington St at Mechanical Blvd,,35.724961,-78.65038,,,,,,0
+2600,8413,Wilmington St Service Rd at Mechanical Blvd,,35.727062,-78.649181,,,,,,0
+2601,8414,Wilmington St Service Rd at Tryon Rd,,35.730465,-78.650171,,,,,,0
+2602,8415,Wilmington St Service Rd at Chapanoke Rd,,35.735361,-78.64897,,,,,,0
+2603,8416,S Saunders St at Illeagnes St,,35.744194,-78.648677,,,,,,0
+2604,8419,S Saunders St at Penmarc Dr,,35.757801,-78.64897,,,,,,0
+2605,8420,S Saunders St at Maywood Ave,,35.760576,-78.649028,,,,,,0
+2606,8421,S Saunders St at Dorothea Dr,,35.771136,-78.648012,,,,,,0
+2607,8422,W Lenoir St at West St (IB),,35.77309,-78.645821,,,,,,0
+2608,8434,St Marys St at Hillsborough St (NB),,35.781201,-78.650431,,,,,,0
+2609,8436,St Marys St at North St (NB),,35.785267,-78.650669,,,,,,0
+2610,8437,St Marys St at Peace St (NB),,35.789111,-78.65106,,,,,,0
+2611,8438,St Marys St at Clay St (NB),,35.791637,-78.65196,,,,,,0
+2612,8439,St Marys St at Nichols Dr,,35.794381,-78.65322,,,,,,0
+2613,8440,St Marys St at Wade Ave (NB),,35.797076,-78.652681,,,,,,0
+2614,8441,St Marys St at Williamson Dr (NB),,35.798639,-78.65294,,,,,,0
+2615,8442,St Mary's St at Iredell Dr,,35.801655,-78.653521,,,,,,0
+2616,8443,St Mary's St at Harvey St,,35.804061,-78.65352,,,,,,0
+2617,8444,St Mary's St at Stone St,,35.806231,-78.654222,,,,,,0
+2618,8445,St Mary's St at Fairview Rd,,35.808839,-78.653734,,,,,,0
+2619,8447,Lassiter Mill Rd at Millstream Pl,,35.824821,-78.64946,,,,,,0
+2620,8449,Midtown - North Hills Mall (North State Bank),,35.837415,-78.641749,,,,,,0
+2621,8450,Midtown - North Hills Mall (Bank of America),,35.83714,-78.641669,,,,,,0
+2622,8451,Six Forks Rd at Rowan St,,35.842751,-78.64318,,,,,,0
+2623,8452,Six Forks Rd at Capital Towers,,35.845909,-78.644063,,,,,,0
+2624,8453,Six Forks Rd at North Glenn Dr (OB),,35.848352,-78.644148,,,,,,0
+2625,8454,Six Forks Rd at Grace Lutheran Church (NB),,35.850384,-78.643487,,,,,,0
+2626,8455,W Millbrook Rd at Six Forks Rd,,35.856331,-78.64218,,,,,,0
+2627,8456,Six Forks Rd at Grace Lutheran Church (SB),,35.849805,-78.643896,,,,,,0
+2628,8457,W Millbrook Rd at Snelling Rd,,35.856284,-78.645571,,,,,,0
+2629,8470,Six Forks Rd at Loft Ln,,35.859281,-78.63942,,,,,,0
+2630,8471,Six Forks Rd at W Millbrook Rd,,35.856691,-78.64102,,,,,,0
+2631,8472,Six Forks Rd at Snelling Rd,,35.854151,-78.64238,,,,,,0
+2632,8473,Six Forks Rd at Shelley Rd,,35.851281,-78.64338,,,,,,0
+2633,8474,Six Forks Rd at Cranbrook Rd,,35.848331,-78.64431,,,,,,0
+2634,8475,Six Forks Rd at Trinity Baptist Church,,35.846082,-78.644234,,,,,,0
+2635,8477,Six Forks Rd at Rowan St,,35.841731,-78.6431,,,,,,0
+2636,8480,Lassiter Mill Rd at Marlowe Rd,,35.829081,-78.64848,,,,,,0
+2637,8481,Lassiter Mill Rd at Millstream Pl,,35.824621,-78.64983,,,,,,0
+2638,8482,Lassiter Mill Rd at Scotland St,,35.822791,-78.65122,,,,,,0
+2639,8484,St Mary's St at Fairview Rd,,35.809091,-78.65373,,,,,,0
+2640,8485,St Mary's St at Colonial Rd,,35.806061,-78.65443,,,,,,0
+2641,8486,St Mary's St at Craig St,,35.802731,-78.65381,,,,,,0
+2642,8487,St Marys St at Wade Ave (Employment Sec Comm),,35.797061,-78.65278,,,,,,0
+2643,8488,St Marys St at Wade Ave (SB),,35.794965,-78.653196,,,,,,0
+2644,8490,St Marys St at Clay St (SB),,35.792461,-78.65284,,,,,,0
+2645,8493,St Marys St at Peace St (SB),,35.788906,-78.651124,,,,,,0
+2646,8494,St Marys St at North St (Wiley School),,35.785148,-78.650764,,,,,,0
+2647,8495,Hill St at Booker Dr,,35.786152,-78.61722,,,,,,0
+2648,8496,Milburnie Rd at Fisher St,,35.787377,-78.615302,,,,,,0
+2649,8497,E Lane St at Idlewild Ave,,35.78334,-78.625765,,,,,,0
+2650,8498,Oakwood Ave at Tarboro St (EB),,35.784187,-78.621018,,,,,,0
+2651,8499,Oakwood Ave at St Augustine Ave,,35.784115,-78.619472,,,,,,0
+2652,8503,Milburnie Rd at Colleton Rd,,35.788206,-78.612171,,,,,,0
+2653,8504,Milburnie Rd at N King Charles Rd,,35.788693,-78.609748,,,,,,0
+2654,8505,N King Charles Rd at Glascock St,,35.792289,-78.609438,,,,,,0
+2655,8506,Glascock St at Brighton Rd,,35.792559,-78.607447,,,,,,0
+2656,8507,Glascock St at Marlborough Rd,,35.792252,-78.604825,,,,,,0
+2657,8508,Rock Quarry Rd at Battle Bridge Rd (Shoppes at Bat,,35.723631,-78.548973,,,,,,0
+2658,8509,Glascock St at Culpepper Ln,,35.791486,-78.601418,,,,,,0
+2659,8510,Milburne Rd at Culpepper Ln,,35.789143,-78.602459,,,,,,0
+2660,8512,Milburne Rd at Chatham Ln,,35.78779,-78.598499,,,,,,0
+2661,8513,Chatham Ln at Stevens Rd,,35.786672,-78.598588,,,,,,0
+2662,8514,Chatham Ln at Bertie Dr,,35.78542,-78.598964,,,,,,0
+2663,8515,Bertie Dr at Culpepper Ln,,35.786412,-78.603001,,,,,,0
+2664,8516,Bertie Dr at Locke Ln,,35.786101,-78.60698,,,,,,0
+2665,8518,Oakwood Ave at Fisher St,,35.784169,-78.614727,,,,,,0
+2666,8519,Oakwood Ave at Hill St,,35.784214,-78.617735,,,,,,0
+2667,8520,Oakwood Ave at Tarboro St (St Augustine's Universi,,35.784313,-78.620589,,,,,,0
+2668,8521,Tarboro Rd at E Lane St,,35.783538,-78.622248,,,,,,0
+2669,8522,E Lane St at Seawell Ave,,35.783556,-78.627015,,,,,,0
+2670,8524,Western Blvd at Ashe Ave,,35.777668,-78.662236,,,,,,0
+2671,8525,Morrill Dr at Carmichael Gym,,35.782363,-78.671319,,,,,,0
+2672,8526,Avent Ferry Complex,,35.780074,-78.676247,,,,,,0
+2673,8528,Avent Ferry Rd at Varsity Dr (Carolyn Apts),,35.775114,-78.681523,,,,,,0
+2674,8529,Avent Ferry Rd at Crest Rd,,35.771632,-78.686386,,,,,,0
+2675,8530,Avent Ferry Rd at Brigadoon Dr OB,,35.770272,-78.689142,,,,,,0
+2676,8533,Gorman St at Walnut Creek Greenway (SB),,35.765343,-78.69447,,,,,,0
+2677,8534,Gorman St at Walnut Creek Pkwy,,35.757671,-78.69989,,,,,,0
+2678,8535,Thistledown Dr at Gorman St (EB),,35.756192,-78.69943,,,,,,0
+2679,8536,Thistledown Dr at Lethbridge Ct,,35.755033,-78.695675,,,,,,0
+2680,8538,Lineberry Dr at University Woods Rd,,35.750252,-78.693809,,,,,,0
+2681,8539,Lineberry Dr at Pauls Penny,,35.750361,-78.69219,,,,,,0
+2682,8540,Lineberry Dr at Leadenhall Way,,35.749987,-78.686827,,,,,,0
+2683,8541,Lineberry Dr at Mountain Mist Ct,,35.750361,-78.68456,,,,,,0
+2684,8543,Sierra Dr at Lake Wheeler Rd,,35.750879,-78.669014,,,,,,0
+2685,8544,Gorman St at Avent Ferry Rd (NB),,35.767908,-78.694094,,,,,,0
+2686,8546,Sierra Dr at Rabbit Run,,35.749491,-78.66403,,,,,,0
+2687,8554,Thistledown Dr at Trailwood Dr,,35.754638,-78.694611,,,,,,0
+2688,8555,Thistledown Dr at Nesfield Ct,,35.755791,-78.69669,,,,,,0
+2689,8556,Thistledown Dr at Gorman St (WB),,35.756393,-78.699706,,,,,,0
+2690,8557,Gorman St at Shire Ln,,35.762247,-78.695552,,,,,,0
+2691,8558,Gorman St at Walnut Creek Greenway (NB),,35.765273,-78.694213,,,,,,0
+2692,8559,S Boylan Ave at Dorothea Dr (Inbound),,35.771774,-78.652528,,,,,,0
+2693,8564,Avent Ferry Rd at Centennial View Ln,,35.773281,-78.683141,,,,,,0
+2694,8565,Avent Ferry Rd at Centennial Pkwy (NB),,35.77689,-78.678514,,,,,,0
+2695,8566,Avent Ferry Rd at Western Blvd,,35.779323,-78.676558,,,,,,0
+2696,8567,Morrill Dr at Cates Ave (NB),,35.781983,-78.671357,,,,,,0
+2697,8568,Western Blvd at Bilyeu St,,35.777527,-78.662502,,,,,,0
+2698,8569,Western Blvd at Hunt Dr (EB),,35.774558,-78.656429,,,,,,0
+2699,8570,South St at Florence St,,35.772473,-78.650258,,,,,,0
+2700,8571,Peace St at Seaboard Station Dr,,35.788187,-78.639367,,,,,,0
+2701,8573,W Peace St at Glenwood Ave (WB),,35.788705,-78.647574,,,,,,0
+2702,8574,Peace St at St Marys St (WB),,35.788721,-78.65125,,,,,,0
+2703,8577,Cameron St at Woodburn Rd (WB),,35.791031,-78.658852,,,,,,0
+2704,8578,Cameron St at Daniels St (WB),,35.790985,-78.660788,,,,,,0
+2705,8585,Hillsborough St at Furches St,,35.792333,-78.682154,,,,,,0
+2706,8586,Hillsborough St at Faircloth St,,35.793328,-78.684042,,,,,,0
+2707,8587,Hillsborough St at Meredith College (WB),,35.794377,-78.688478,,,,,,0
+2708,8588,Beryl Rd at Method Rd,,35.794551,-78.69276,,,,,,0
+2709,8591,Kent Rd at Perserverance Ct,,35.781876,-78.693844,,,,,,0
+2710,8592,Kent Rd at Warwick Dr,,35.77974,-78.693864,,,,,,0
+2711,8593,Kent Rd at Trexler Ct,,35.774469,-78.6926,,,,,,0
+2712,8595,Gorman St at McKimmon Center,,35.783588,-78.687016,,,,,,0
+2713,8596,Gorman St at Lexington Dr,,35.786021,-78.68698,,,,,,0
+2714,8597,Hillsborough St at Turner St,,35.792221,-78.682262,,,,,,0
+2715,8601,Method Rd at Ligon St,,35.788999,-78.69391,,,,,,0
+2716,8608,W Peace St at Glenwood Ave (EB),,35.788591,-78.64785,,,,,,0
+2717,8610,Peace St at West St,,35.788577,-78.644637,,,,,,0
+2718,8614,New Bern Ave at S Swain St,,35.78002,-78.628772,,,,,,0
+2719,8618,New Bern Ave at S East St,,35.780091,-78.63205,,,,,,0
+2720,8619,New Bern Ave at Idlewild Ave,,35.779921,-78.62568,,,,,,0
+2721,8620,New Bern Ave at S Tarboro St,,35.779823,-78.623152,,,,,,0
+2722,8621,New Bern Ave at S Pettigrew St,,35.779743,-78.620995,,,,,,0
+2723,8622,New Bern Ave at Sunbury St,,35.779756,-78.618184,,,,,,0
+2724,8623,New Bern Ave at Carver St,,35.779871,-78.61605,,,,,,0
+2725,8624,New Bern Ave at Raleigh Blvd (EB),,35.779762,-78.613156,,,,,,0
+2726,8625,New Bern Ave at Russ St,,35.779601,-78.60914,,,,,,0
+2727,8626,New Bern Ave at N Lord Ashley Rd,,35.779541,-78.60677,,,,,,0
+2728,8627,New Bern Ave at Lord Berkley Rd,,35.779674,-78.604164,,,,,,0
+2729,8629,New Bern Ave at Dickens Dr (EB),,35.779911,-78.59956,,,,,,0
+2730,8630,New Bern Ave at Donald Ross Dr,,35.782742,-78.59268,,,,,,0
+2731,8631,West Campus Dr at Galahad Dr,,35.783671,-78.588958,,,,,,0
+2732,8632,WakeMed at Wake Tech,,35.784341,-78.58632,,,,,,0
+2733,8633,WakeMed at the Andrews Center,,35.786124,-78.58807,,,,,,0
+2734,8640,Falstaff Rd at Sunnybrook Rd,,35.782225,-78.583757,,,,,,0
+2735,8642,Swinburne Rd at Kidd Rd (WCDSS),,35.779207,-78.585074,,,,,,0
+2736,8644,New Bern Ave at West Campus Dr (WB),,35.784569,-78.591145,,,,,,0
+2737,8645,New Bern Ave at N Peartree Ln,,35.783501,-78.5923,,,,,,0
+2738,8647,New Bern Ave at Dickens Dr (WB),,35.780091,-78.60059,,,,,,0
+2739,8648,New Bern Ave at Clarendon Cresent,,35.780006,-78.602752,,,,,,0
+2740,8650,New Bern Ave at N King Charles Rd,,35.779771,-78.60855,,,,,,0
+2741,8651,New Bern Ave at Bertie Dr,,35.779901,-78.61145,,,,,,0
+2742,8652,New Bern Ave at Raleigh Blvd (WB),,35.780081,-78.61421,,,,,,0
+2743,8653,New Bern Ave at Hill St,,35.780091,-78.61792,,,,,,0
+2744,8654,E Edenton St at N Tarboro St,,35.780566,-78.621888,,,,,,0
+2745,8656,E Edenton St at Idlewild Ave,,35.780831,-78.62634,,,,,,0
+2746,8658,E Edenton St at Ray St,,35.780951,-78.62959,,,,,,0
+2747,8659,E Edenton St at N East St,,35.781011,-78.63204,,,,,,0
+2748,8660,E Edenton St at N Person St,,35.781091,-78.63457,,,,,,0
+2749,8662,E Edenton St at N Wilmington St,,35.78125,-78.637853,,,,,,0
+2750,8668,Rex Hospital (Inbound),,35.816916,-78.704752,,,,,,0
+2751,8669,St Mary's St at Wedgedale Dr,,35.817891,-78.65136,,,,,,0
+2752,8671,St Mary's St at Wedgedale Dr,,35.817588,-78.651043,,,,,,0
+2753,8673,Martin Luther King Jr Blvd at S State St (EB),,35.767692,-78.624529,,,,,,0
+2754,8674,Martin Luther King Jr Blvd at Coleman St (EB),,35.767685,-78.623,,,,,,0
+2755,8675,Martin Luther King Jr Blvd at Vardaman St,,35.767892,-78.619837,,,,,,0
+2756,8676,Martin Luther King Jr Blvd at Rock Quarry Rd (EB),,35.768633,-78.617569,,,,,,0
+2757,8677,Creedmoor Rd at Magellan Way (NB),,35.862825,-78.680631,,,,,,0
+2758,8683,Creedmoor Rd at Marriott Dr,,35.84562,-78.680032,,,,,,0
+2759,8684,Creedmoor Rd at Tall Timber Dr (NB),,35.850847,-78.680179,,,,,,0
+2760,8685,Creedmoor Rd at Plaza Pl (NB),,35.85767,-78.680361,,,,,,0
+2761,8687,Creedmoor Rd at Jefferys Grove School Rd (NB),,35.870171,-78.67975,,,,,,0
+2762,8688,Creedmoor Rd at Kendricks Ct,,35.878282,-78.678704,,,,,,0
+2763,8689,Creedmoor Rd at Sawmill Rd (NB),,35.883212,-78.678985,,,,,,0
+2764,8690,Creedmoor Rd at Stonehenge Dr (NB),,35.887024,-78.679442,,,,,,0
+2765,8691,Creedmoor Rd at Morgans Way (NB),,35.894504,-78.680211,,,,,,0
+2766,8692,Creedmoor Rd at Lodestar Dr (NB),,35.896989,-78.680485,,,,,,0
+2767,8693,Brennan Dr at Creedmoor Rd (Towne North Shopping C,,35.899793,-78.6817,,,,,,0
+2768,8694,Creedmoor Rd at Morgans Way (SB),,35.893481,-78.68038,,,,,,0
+2769,8695,Creedmoor Rd at Howard Rd,,35.889105,-78.67993,,,,,,0
+2770,8696,Creedmoor Rd at Stonehenge Dr (SB),,35.885807,-78.679585,,,,,,0
+2771,8697,Creedmoor Rd at Sawmill Rd (SB),,35.88259,-78.679228,,,,,,0
+2772,8698,Creedmoor Rd at Mapleton Ln,,35.87793,-78.679047,,,,,,0
+2773,8699,Creedmoor Rd at Lynn Rd (SB),,35.872432,-78.679741,,,,,,0
+2774,8700,Creedmoor Rd at Jefferyss Grove School Rd (SB),,35.865556,-78.680644,,,,,,0
+2775,8701,Creedmoor Rd at Magellan Way (SB),,35.86296,-78.68093,,,,,,0
+2776,8702,Creedmoor Rd at Plaza Pl (SB),,35.858237,-78.680772,,,,,,0
+2777,8703,Creedmoor Rd at Tall Timber Dr (SB),,35.849946,-78.680522,,,,,,0
+2778,8704,Creedmoor Rd at Isabella Cannon Dr,,35.847333,-78.680442,,,,,,0
+2779,8705,Creedmoor Rd at Glenwood Ave,,35.842221,-78.682876,,,,,,0
+2780,8706,Crabtree Valley Ave at Creedmoor Rd (SB),,35.841004,-78.684245,,,,,,0
+2781,8707,Creedmoor Rd at Jefferys Grove School Rd (Beverly,,35.8657,-78.680312,,,,,,0
+2782,8708,Peace St at West St,,35.788725,-78.645089,,,,,,0
+2783,8712,Millbrook Rd at Lead Mine Rd (EB),,35.856475,-78.671227,,,,,,0
+2784,8713,Millbrook Rd at Paces Forest Ct (EB),,35.857407,-78.66848,,,,,,0
+2785,8714,W Millbrook Rd at Oldetowne Rd,,35.857431,-78.66605,,,,,,0
+2786,8715,W Millbrook Rd at North Hills Dr,,35.856401,-78.65602,,,,,,0
+2787,8716,W Millbrook Rd at Dixon Dr,,35.856201,-78.6502,,,,,,0
+2788,8717,W Millbrook Rd at Snelling Rd,,35.856129,-78.645646,,,,,,0
+2790,8719,E Millbrook Rd at Six Forks Rd,,35.855953,-78.640754,,,,,,0
+2791,8720,E Millbrook Rd at Farley Dr,,35.853901,-78.63645,,,,,,0
+2792,8722,E Millbrook Rd at Flint Ridge Pl,,35.851556,-78.629016,,,,,,0
+2793,8724,E Millbrook Rd at Quail Meadows Dr,,35.850718,-78.619425,,,,,,0
+2794,8725,E Millbrook Rd at Falls of Neuse Rd (Quail Corners,,35.850531,-78.61564,,,,,,0
+2795,8727,E Millbrook Rd at Professional Ct,,35.850078,-78.609197,,,,,,0
+2796,8728,Millbrook Rd at Old Wake Forest Rd,,35.850049,-78.605597,,,,,,0
+2798,8729,E Millbrook Rd at Atlantic Ave (EB),,35.849407,-78.602852,,,,,,0
+2799,8730,E Millbrook Rd at Leafcrest Ct,,35.848501,-78.59945,,,,,,0
+2800,8731,E Millbrook Rd at Departure Dr,,35.848051,-78.5964,,,,,,0
+2801,8733,E Millbrook Rd at Green Rd (EB),,35.849221,-78.58738,,,,,,0
+2802,8734,E Millbrook Rd at Signett Dr,,35.84946,-78.58388,,,,,,0
+2803,8736,New Hope Rd at Wallingford Dr,,35.848801,-78.57557,,,,,,0
+2804,8737,New Hope Rd at Tapers Dr,,35.847135,-78.574779,,,,,,0
+2805,8738,New Hope Rd at Rolling Green Ct,,35.845627,-78.574497,,,,,,0
+2807,8741,E Millbrook Rd at Cedarhurst Rd (EB),,35.850416,-78.613665,,,,,,0
+2808,8742,E Millbrook Rd at Green Rd (WB),,35.849438,-78.587866,,,,,,0
+2809,8743,E Millbrook Rd at Hargrove Rd,,35.848307,-78.591212,,,,,,0
+2810,8744,E Millbrook Rd at Departure Dr,,35.848195,-78.595801,,,,,,0
+2811,8745,E Millbrook Rd at Atlantic Ave (WB),,35.849339,-78.602125,,,,,,0
+2812,8746,E Millbrook Rd at Old Wake Forest R,,35.850241,-78.60601,,,,,,0
+2813,8747,E Millbrook Rd at Professional Ct,,35.850301,-78.60865,,,,,,0
+2814,8750,E Millbrook Rd at Quail Meadows Dr,,35.850916,-78.619942,,,,,,0
+2816,8751,E Millbrook Rd at Tall Pines Ct,,35.851651,-78.625235,,,,,,0
+2817,8752,E Millbrook Rd at Sweetbriar St,,35.851771,-78.62968,,,,,,0
+2818,8753,E Millbrook Rd at Knollwood Dr,,35.852091,-78.633541,,,,,,0
+2819,8754,E Millbrook Rd at Farley Dr,,35.854101,-78.63616,,,,,,0
+2820,8755,E Millbrook Rd at Burnlee Pl,,35.855911,-78.64011,,,,,,0
+2821,8759,W Millbrook Rd at North Hills Dr,,35.856621,-78.65594,,,,,,0
+2822,8760,W Millbrook Rd at Oldetowne Rd,,35.857611,-78.66575,,,,,,0
+2823,8761,Millbrook Rd at Paces Forest Ct (WB),,35.857493,-78.668709,,,,,,0
+2824,8763,Old Wake Forest Rd at Ruritania St,,35.869951,-78.5834,,,,,,0
+2825,8777,W Millbrook Rd at Dixon Dr,,35.856392,-78.650048,,,,,,0
+2826,8778,Six Forks Rd at Office Center Dr (IB),,35.895278,-78.649655,,,,,,0
+2827,8783,Six Forks Rd at Woods Ream Dr,,35.868205,-78.63865,,,,,,0
+2828,8784,Six Forks Rd at West Brook Dr,,35.871491,-78.64139,,,,,,0
+2829,8785,Six Forks Rd at Sandy Forks Rd,,35.861703,-78.63793,,,,,,0
+2830,8786,Six Forks Rd at Lynn Rd (NB),,35.864489,-78.637356,,,,,,0
+2831,8788,Six Forks Rd at Wind Chime Ct,,35.874131,-78.64377,,,,,,0
+2832,8789,Six Forks Rd at Newton Rd,,35.878726,-78.64561,,,,,,0
+2833,8790,Six Forks Rd at Crown Oaks Ct,,35.884801,-78.64638,,,,,,0
+2834,8791,Six Forks Rd at Farrington Dr,,35.887261,-78.64681,,,,,,0
+2835,8792,Six Forks Rd at Featherstone Dr,,35.891821,-78.6483,,,,,,0
+2836,8793,Six Forks Rd at Office Center Dr (OB),,35.894479,-78.649198,,,,,,0
+2837,8797,Six Forks Rd at Monument Ln,,35.892761,-78.64882,,,,,,0
+2838,8798,Six Forks Rd at Renwick Ct,,35.888831,-78.64759,,,,,,0
+2839,8800,Six Forks Rd at Horizon Dr,,35.885241,-78.64674,,,,,,0
+2840,8801,Six Forks Rd at Sawmill Rd,,35.883721,-78.64645,,,,,,0
+2841,8807,Six Forks Rd at West Brook Dr,,35.871731,-78.64202,,,,,,0
+2842,8808,Six Forks Rd at Woods Ream Dr,,35.867561,-78.63854,,,,,,0
+2843,8809,Six Forks Rd at Northclift Dr,,35.861861,-78.63804,,,,,,0
+2844,8817,Blount St at Bledsoe Ave,,35.768468,-78.637177,,,,,,0
+2845,8819,Blount St at Bragg St,,35.765882,-78.637288,,,,,,0
+2846,8820,Blount St at City Farm Rd,,35.760528,-78.637618,,,,,,0
+2847,8821,City Farm Rd at Wilmington St,,35.759104,-78.639376,,,,,,0
+2848,8822,Wilmington St Center,,35.762024,-78.639697,,,,,,0
+2849,8823,Keeter Ctr at Branch St,,35.763592,-78.639974,,,,,,0
+2850,8825,McCauley St at McLendon St,,35.765241,-78.641169,,,,,,0
+2851,8829,Fayetteville St at Prospect St,,35.76297,-78.643977,,,,,,0
+2852,8830,Maywood Ave at Summit Ave,,35.760878,-78.645116,,,,,,0
+2853,8831,Maywood Ave at S Saunders St,,35.760859,-78.649439,,,,,,0
+2854,8832,Maywood Ave at Summit Ave,,35.760868,-78.65154,,,,,,0
+2855,8833,Maywood Ave at Moring St,,35.760886,-78.653221,,,,,,0
+2856,8834,Maywood Ave at Lake Wheeler Rd,,35.761573,-78.659555,,,,,,0
+2857,8835,Lake Wheeler Rd at Goode St,,35.762885,-78.658098,,,,,,0
+2858,8836,Lake Wheeler Rd at Daladams St,,35.764562,-78.655556,,,,,,0
+2859,8837,Lake Wheeler Rd at Fuller St,,35.766906,-78.652106,,,,,,0
+2860,8838,Blount St at Hoke St,,35.763565,-78.637143,,,,,,0
+2861,8839,Maywood Ave at Green St,,35.760896,-78.648068,,,,,,0
+2862,8841,Six Forks Rd at Forum Dr,,35.898321,-78.65068,,,,,,0
+2863,8843,Six Forks Rd at Forum Dr,,35.897501,-78.65058,,,,,,0
+2864,8844,Oberlin Rd at Smallwood Dr,,35.792612,-78.662657,,,,,,0
+2865,8845,Oberlin Rd at Mayview Rd,,35.798241,-78.65991,,,,,,0
+2866,8846,Oberlin Rd at Annapolis Dr,,35.800214,-78.659919,,,,,,0
+2867,8847,Oberlin Rd at Craig St,,35.802594,-78.658249,,,,,,0
+2868,8848,Oberlin Rd at Fairview Rd,,35.808552,-78.655276,,,,,,0
+2869,8851,Oberlin Rd at Cartier Dr,,35.814361,-78.658996,,,,,,0
+2870,8853,Six Forks Rd at Chesterbrook Ct,,35.873971,-78.64407,,,,,,0
+2871,8855,Six Forks Rd at Newton Rd,,35.878741,-78.64595,,,,,,0
+2872,8856,Oberlin Rd at Chester Rd,,35.801251,-78.659486,,,,,,0
+2874,8857,Oberlin Rd at Mayview Rd,,35.796858,-78.660427,,,,,,0
+2875,8859,Oberlin Rd at Bedford Ave,,35.793398,-78.662573,,,,,,0
+2876,8861,Cameron St at Daniels St (EB),,35.790841,-78.661573,,,,,,0
+2877,8862,Cameron St at Woodburn Rd (EB),,35.790917,-78.658694,,,,,,0
+2878,8866,S State St at Peterson St OB (Carnage Middle Schoo,,35.761394,-78.624526,,,,,,0
+2880,8870,Garner Rd at Peterson St (Greenway),,35.758997,-78.631426,,,,,,0
+2881,8871,Six Forks Rd at Lynn Rd (SB),,35.864553,-78.637596,,,,,,0
+2882,8877,Hadley Dr at Gilliam Ln,,35.75066,-78.620523,,,,,,0
+2883,8878,S State St at Bunche Dr,,35.753025,-78.621344,,,,,,0
+2884,8879,S State St at Peterson St,,35.761127,-78.624354,,,,,,0
+2885,8880,Tryon Rd at Trailwood Dr,,35.746395,-78.695347,,,,,,0
+2886,8885,Lenoir St at Freeman St,,35.772624,-78.62477,,,,,,0
+2887,8887,Lenoir St at Haywood St,,35.772754,-78.628872,,,,,,0
+2888,8889,E Lenoir St at S Blount St,,35.7729,-78.63708,,,,,,0
+2889,8894,S Blount St at E Davie St,,35.775769,-78.636785,,,,,,0
+2890,8895,W Lenoir St at S Salisbury St,,35.77301,-78.640293,,,,,,0
+2891,8896,Martin Luther King Jr Blvd at East St,,35.768307,-78.632341,,,,,,0
+2892,8897,Rock Quarry Rd at Martin Luther King Jr Memorial G,,35.768138,-78.616821,,,,,,0
+2893,8900,Brier Creek Pkwy at Brier Leaf Ln,,35.908525,-78.785575,,,,,,0
+2894,8901,Ebenezer Church Rd at Winchester Dr,,35.88237,-78.741305,,,,,,0
+2896,8904,Arco Corporate Dr at Brier Creek Pkwy,,35.910958,-78.782337,,,,,,0
+2897,8907,E Bragg St at S Person St,,35.765904,-78.635394,,,,,,0
+2898,8908,Wilmington St at Davie St,,35.776271,-78.638255,,,,,,0
+2899,8909,Blount St at GoRaleigh Station,,35.777682,-78.636708,,,,,,0
+2900,8911,Rock Quarry Rd at Cross Link Rd,,35.755055,-78.612459,,,,,,0
+2901,8914,St Marys St at Anderson Dr,,35.814084,-78.651016,,,,,,0
+2902,8916,St Mary's St at White Oak Rd,,35.82205,-78.6508,,,,,,0
+2903,8917,Lassiter Mill Rd at Marlowe Rd,,35.828781,-78.648489,,,,,,0
+2904,8918,Lassiter Mill Rd at Ramblewood Dr,,35.833617,-78.646533,,,,,,0
+2905,8920,Six Forks Rd at Lassiter Mill Rd,,35.839871,-78.64255,,,,,,0
+2906,8921,Lassiter Mill Rd at Currituck Dr,,35.83592,-78.646074,,,,,,0
+2907,8922,Lassiter Mill Rd at Ramblewood Dr,,35.833731,-78.6467,,,,,,0
+2908,8923,St Marys St at Glenwood Ave (SB),,35.81341,-78.65118,,,,,,0
+2909,8924,St Mary's St at Wake Dr,,35.812109,-78.65131,,,,,,0
+2910,8925,Martin Luther King Jr Blvd at S State St (WB),,35.7679,-78.624935,,,,,,0
+2911,8926,Martin Luther King Jr Blvd at Haywood St,,35.767996,-78.627289,,,,,,0
+2912,8927,Martin Luther King Jr Blvd at S East St,,35.769032,-78.633215,,,,,,0
+2913,8932,Six Forks Rd at Barrett Dr,,35.828038,-78.634349,,,,,,0
+2914,8933,S State St at Darby St IB,,35.757321,-78.623531,,,,,,0
+2916,8940,Wake Forest Rd at Six Forks (SB),,35.821288,-78.623441,,,,,,0
+2917,8941,Six Forks Rd at Computer Dr,,35.83165,-78.636194,,,,,,0
+2918,8942,Peyton St at Belmont Dr (NB),,35.764904,-78.604359,,,,,,0
+2919,8943,Peyton St at Ellerbe Ln,,35.767738,-78.606835,,,,,,0
+2920,8944,Peyton St at Dacian Rd,,35.770095,-78.607002,,,,,,0
+2921,8945,Martin Luther King Jr Blvd at Grantland Dr (WB),,35.771089,-78.609764,,,,,,0
+2922,8947,Homewood Banks Dr at Vilana Ridge (The Marq at Cra,,35.834664,-78.680106,,,,,,0
+2923,8948,Homewood Banks Dr at Homewood Suites,,35.835964,-78.679995,,,,,,0
+2924,8949,Lassiter Mill Rd at Currituck Dr (Outbound),,35.836002,-78.645881,,,,,,0
+2925,8951,Falls Church Rd at Nottoway Ct,,35.862683,-78.617402,,,,,,0
+2926,8953,Falls of Neuse Rd at Raven Ridge Rd,,35.916438,-78.594316,,,,,,0
+2928,8954,Raven Ridge Rd at Dapping Dr,,35.912856,-78.591891,,,,,,0
+2930,8955,Raven Ridge Rd at Rio Falls Dr,,35.906845,-78.59092,,,,,,0
+2931,8956,Durant Rd at Raven Ridge Rd,,35.905056,-78.590459,,,,,,0
+2932,8957,Durant Rd at Durant Road Middle School,,35.903958,-78.586148,,,,,,0
+2933,8958,Durant Rd at Deerland Grove Dr,,35.902346,-78.581747,,,,,,0
+2935,8959,Durant Rd at Camp Durant Rd,,35.900381,-78.577624,,,,,,0
+2938,8960,Durant Rd at Leslieshire Dr,,35.897437,-78.570604,,,,,,0
+2939,8961,Durant Rd at Capital Blvd,,35.893819,-78.561512,,,,,,0
+2942,8962,Perry Creek Rd at Capital Blvd,,35.891812,-78.558173,,,,,,0
+2944,8963,Perry Creek Rd at McGuire Dr,,35.888624,-78.555826,,,,,,0
+2945,8964,Perry Creek Rd at Liston Dr,,35.886198,-78.554068,,,,,,0
+2947,8965,Perry Creek Rd at Berkshire Downs Dr,,35.882028,-78.549811,,,,,,0
+2948,8966,Perry Creek Rd at Bentley Cir,,35.878932,-78.545874,,,,,,0
+2949,8967,Perry Creek Rd at Louisburg Rd,,35.876096,-78.5408,,,,,,0
+2950,8968,Fox Rd at Louisburg Rd,,35.869334,-78.546639,,,,,,0
+2951,8969,Fox Rd at Beaverwood Dr,,35.871607,-78.551927,,,,,,0
+2952,8970,Fox Rd at Fox Haven Pl,,35.871493,-78.553481,,,,,,0
+2958,8971,Fox Rd at Jeffreys Creek Ln,,35.871236,-78.556084,,,,,,0
+2959,8972,Fox Rd at Town Dr,,35.868573,-78.560459,,,,,,0
+2960,8973,Fox Rd at Segal Dr,,35.867413,-78.564057,,,,,,0
+2961,8974,Fox Rd at Sterling Town Center Apartments,,35.86743,-78.567418,,,,,,0
+2962,8975,Sumner Blvd at Triangle Town Blvd,,35.86344,-78.571942,,,,,,0
+2963,8976,Perry Creek Rd at Capital Blvd,,35.891976,-78.557908,,,,,,0
+2964,8978,Blue Ridge Rd at Crabtree Valley Ave,,35.835961,-78.675469,,,,,,0
+2965,8981,Rush St at Hammond Rd (near side),,35.742545,-78.639349,,,,,,0
+2966,9000,Raleigh Union Station,,35.777539,-78.646168,,,,,,0
+2967,9015,Six Forks Rd at Mourning Dove Rd,,35.881591,-78.64604,,,,,,0
+2968,9017,Belmont Dr at Glenbrook Dr,,35.766201,-78.60368,,,,,,0
+2969,9046,Atlantic Ave at Dixie Forest Rd,,35.862861,-78.59878,,,,,,0
+2970,9047,Spring Forest Rd at Dixie Forest Rd (WB),,35.861645,-78.600797,,,,,,0
+2971,9048,Spring Forest Rd at Quail Ridge Rd (WB),,35.864284,-78.603949,,,,,,0
+2972,9049,Spring Forest Rd at Exchange Park (WB),,35.866499,-78.60781,,,,,,0
+2973,9050,Volant Dr at Hemphill Dr,,35.865991,-78.613448,,,,,,0
+2974,9051,Avent Ferry at Crab Orchard Dr WB,,35.766944,-78.701654,,,,,,0
+2986,9065,Western Blvd at Heather Dr,,35.786405,-78.713748,,,,,,0
+2987,9070,Schaub Dr at Deboy St,,35.782152,-78.706196,,,,,,0
+2988,9098,New Hope Church Rd at Wake Forest Rd (EB),,35.835681,-78.61041,,,,,,0
+2989,9099,New Hope Church Rd at Atlantic Ave (EB),,35.834411,-78.60409,,,,,,0
+2990,9100,New Hope Church Rd at Brinkley Dr,,35.835281,-78.59712,,,,,,0
+2991,9102,Green Rd at New Hope Church Rd,,35.835781,-78.5929,,,,,,0
+2992,9104,Green Rd at Greenock Dr (NB),,35.838878,-78.591349,,,,,,0
+2993,9105,Green Rd at Kilcullen Dr,,35.842451,-78.58953,,,,,,0
+2994,9106,Green Rd at Hallmark Pl (NB),,35.849107,-78.586395,,,,,,0
+2995,9107,New Hope Rd at Capital Blvd,,35.84993,-78.579133,,,,,,0
+2996,9111,Spring Forest Rd at Casa Del Ray Dr,,35.855341,-78.57677,,,,,,0
+2997,9112,Hollenden Dr at Hylton Dr,,35.852831,-78.57539,,,,,,0
+2998,9113,Hollenden Dr at Pebble Beach Dr,,35.851121,-78.575874,,,,,,0
+2999,9114,New Hope Rd at Green Acres Rd,,35.85005,-78.578732,,,,,,0
+3000,9115,E Millbrook Rd at Signett Dr,,35.849791,-78.58316,,,,,,0
+3001,9117,Green Rd at Kilcullen Dr,,35.841952,-78.590099,,,,,,0
+3002,9118,Green Rd at Brockton Dr,,35.838932,-78.59155,,,,,,0
+3003,9119,Green Rd at New Hope Church Rd,,35.836301,-78.59286,,,,,,0
+3004,9121,New Hope Church Rd at Brentwood Rd (WB),,35.835067,-78.59989,,,,,,0
+3005,9122,New Hope Church Rd at Atlantic Ave (WB),,35.834651,-78.60274,,,,,,0
+3006,9123,New Hope Church Rd at Wake Forest Rd (Walmart),,35.835841,-78.61038,,,,,,0
+3007,9124,E Martin St at Chavis Way,,35.776581,-78.63118,,,,,,0
+3008,9128,Six Forks Rd at Selby Dr,,35.821339,-78.628512,,,,,,0
+3009,9131,Six Forks Rd at Millbrook Rd (OB),,35.85552,-78.641512,,,,,,0
+3010,9145,New Bern Ave at Trawick Rd (WB),,35.798267,-78.575603,,,,,,0
+3011,9147,E Lane St at Linden Ave,,35.78361,-78.629017,,,,,,0
+3012,9149,N East St at E Lane St,,35.78352,-78.632015,,,,,,0
+3013,9151,E Lane St at N East St,,35.783718,-78.631716,,,,,,0
+3014,9160,Garner Rd at Bailey Dr,,35.754708,-78.631352,,,,,,0
+3015,9161,Garner Rd at Warehouse Dr,,35.752093,-78.631248,,,,,,0
+3016,9165,McDowell St at Davie St,,35.774982,-78.641951,,,,,,0
+3017,9168,Sunnybrook Rd at Poole Rd (SB),,35.772208,-78.583217,,,,,,0
+3018,9174,Peace St at Vaughn Ct,,35.788044,-78.639814,,,,,,0
+3019,9177,Old Wake Forest Rd at Sumner Blvd,,35.867401,-78.58849,,,,,,0
+3020,9178,Old Wake Forest Rd at Shadowland Crossing,,35.865621,-78.59218,,,,,,0
+3021,9179,Sunnybrook Rd at Calumet Dr (WakeMed Medical Park),,35.787004,-78.586464,,,,,,0
+3022,9181,Oberlin Rd at Colonial Rd,,35.805497,-78.65648,,,,,,0
+3023,9182,Little John Rd at St George Rd,,35.763544,-78.58904,,,,,,0
+3024,9183,Bell Dr at Friar Tuck Rd,,35.766778,-78.585135,,,,,,0
+3025,9184,Bell Dr at Edison Rd,,35.76566,-78.583908,,,,,,0
+3026,9186,Poole Rd at Peyton St,,35.774768,-78.606068,,,,,,0
+3027,9187,E Martin at S East St,,35.776643,-78.632766,,,,,,0
+1812,9196,E Bragg St at Garner Rd,,35.765762,-78.632117,,,,,,0
+1813,9198,S Person St at Bledsoe Ave,,35.76822,-78.635393,,,,,,0
+1814,9200,S Person St at Worth St,,35.770474,-78.635317,,,,,,0
+1815,9201,S Person St at Lenoir St,,35.772679,-78.635178,,,,,,0
+1816,9203,E Hargett St at Fayetteville St,,35.778324,-78.638953,,,,,,0
+1817,9204,E Martin St at S State St,,35.776358,-78.624072,,,,,,0
+1818,9205,S Tarboro Rd at E Hargett St (NB),,35.777545,-78.622314,,,,,,0
+1819,9206,S Tarboro Rd at New Bern Ave,,35.779404,-78.622248,,,,,,0
+1820,9208,Poole Rd at Bus Way,,35.768247,-78.565123,,,,,,0
+1821,9209,Poole Rd at Carya Dr (EB),,35.767935,-78.568893,,,,,,0
+1822,9217,Glenbrook Dr at Ellerbe Ln,,35.767482,-78.603553,,,,,,0
+1823,9218,Glenbrook Dr at Dacian Rd (NB),,35.768202,-78.602997,,,,,,0
+1824,9219,Glenbrook Dr at Fernbrook Rd (EB),,35.769587,-78.601627,,,,,,0
+1825,9220,Glenbrook Dr at Martin Luther King Jr Blvd (NB),,35.771606,-78.60035,,,,,,0
+1826,9221,Poole Rd at Carya Dr (WB),,35.768114,-78.568976,,,,,,0
+1827,9222,Poole Rd at Shellum St,,35.775264,-78.607185,,,,,,0
+1828,9223,Poole Rd at Kennedy St,,35.77603,-78.609352,,,,,,0
+1829,9225,Poole Rd at Lightner Ln,,35.777545,-78.613389,,,,,,0
+1830,9226,Poole Rd at Fisher St,,35.778338,-78.615557,,,,,,0
+1831,9227,Poole Rd at Sunbury St,,35.779239,-78.617946,,,,,,0
+1832,9229,S Tarboro Rd at E Hargett St (SB),,35.778607,-78.622442,,,,,,0
+1833,9230,E Hargett St at Camden St,,35.777923,-78.626255,,,,,,0
+1834,9231,E Hargett St at S Swain St,,35.778013,-78.629459,,,,,,0
+1835,9234,E Martin St at S Swain St,,35.776517,-78.629039,,,,,,0
+1836,9235,S Tarboro Rd at E Martin St,,35.77608,-78.622524,,,,,,0
+1837,9237,E Hargett St at S East St,,35.778092,-78.631763,,,,,,0
+1838,9238,Poole Rd at Angier Ave,,35.776585,-78.611163,,,,,,0
+1839,9239,Lake Wheeler Rd at Grissom St,,35.765924,-78.653533,,,,,,0
+1840,9244,Poole Rd at Heath St,,35.778933,-78.617448,,,,,,0
+1841,9246,Poole Rd at Raleigh Blvd (EB),,35.777761,-78.614307,,,,,,0
+1842,9248,Poole Rd at Lumpkin Rd,,35.777301,-78.613024,,,,,,0
+1843,9250,Poole Rd at Parnell Dr,,35.775751,-78.608832,,,,,,0
+1844,9251,Martin Luther King Jr Blvd at Glenbrook Dr (EB),,35.772044,-78.60091,,,,,,0
+1845,9253,Martin Luther King Jr Blvd at Glenbrook Dr (WB),,35.772231,-78.600958,,,,,,0
+1846,9255,Martin Luther King Jr Blvd at Peyton St (WB),,35.771108,-78.606712,,,,,,0
+1847,9256,Poole Rd at Rose Ln (EB),,35.772156,-78.597685,,,,,,0
+1848,9257,Peyton St. at Melvid Ct (NB),,35.772201,-78.606938,,,,,,0
+1849,9258,Poole Rd at Beverly Dr (EB),,35.77144,-78.594655,,,,,,0
+1850,9260,Beverly Dr at Friar Tuck Rd (north),,35.769376,-78.594556,,,,,,0
+1851,9262,Beverly Dr at Bromley St (SB),,35.766006,-78.595188,,,,,,0
+1852,9264,Beverly Dr at Friar Tuck Rd (south),,35.763942,-78.596339,,,,,,0
+1853,9266,Beverly Dr at Little John Rd,,35.762954,-78.596346,,,,,,0
+1854,9268,Little John Rd at Weston St,,35.763085,-78.593685,,,,,,0
+1855,9270,Little John Rd at Carlisle St,,35.763346,-78.591219,,,,,,0
+1856,9274,Cooper Rd at Bell Dr,,35.766644,-78.586418,,,,,,0
+1857,9276,Edison Rd at Sunnybrook Rd,,35.76603,-78.582813,,,,,,0
+1858,9278,Middle Branch Rd at Sunnybrook Rd (EB),,35.765173,-78.580945,,,,,,0
+1859,9280,Birch Ridge Dr at Middle Branch Rd,,35.765568,-78.577118,,,,,,0
+1860,9286,Poole Rd at Sunnybrook Rd,,35.771545,-78.583563,,,,,,0
+1861,9290,Poole Rd at Rawls Dr (WB),,35.772466,-78.5874,,,,,,0
+1862,9292,Poole Rd at Ralph Dr,,35.772611,-78.590618,,,,,,0
+1863,9294,Poole Rd at Donald Ross Dr,,35.772093,-78.592583,,,,,,0
+1864,9296,Poole Rd at Beverly Dr (WB),,35.771621,-78.595173,,,,,,0
+1865,9298,Poole Rd at Rose Ln (WB),,35.772333,-78.597815,,,,,,0
+1866,9301,E Millbrook Rd at Falls of Neuse Rd (WB),,35.850762,-78.616307,,,,,,0
+1867,9302,Bellwood Ave at Clark Ave,,35.789581,-78.656418,,,,,,0
+1868,9303,Peace St at St Marys St (EB),,35.788601,-78.65131,,,,,,0
+1869,9306,Poole Rd at Coke St,,35.776892,-78.611601,,,,,,0
+1870,9311,Calvary Dr at Louisburg Rd,,35.843101,-78.57662,,,,,,0
+1871,9315,E Lenoir St at Chavis Way OB,,35.772705,-78.631361,,,,,,0
+1872,9316,E Lenoir St at S Haywood St,,35.772638,-78.62825,,,,,,0
+1873,9317,E Lenoir St at S State St,,35.772517,-78.624632,,,,,,0
+1874,9320,Creedmoor Rd at Sherborne Pl (Magnolia Glen),,35.853951,-78.680706,,,,,,0
+1875,9328,Wake Forest Rd at Poplar St,,35.793983,-78.631695,,,,,,0
+1876,9329,Capital Blvd at Spring Forest Rd (north side),,35.855601,-78.580926,,,,,,0
+1877,9330,Rock Quarry Rd at Martin Luther King Jr Blvd,,35.769268,-78.618194,,,,,,0
+1878,9332,1518 Cross Link Rd,,35.752928,-78.615971,,,,,,0
+1879,9333,Lake Wheeler at Tryon,,35.743951,-78.679382,,,,,,0
+1880,9337,Carolina Pines Ave at Quaker Landing,,35.752215,-78.666825,,,,,,0
+1881,9339,Carolina Pines Ave at Henslowe Dr,,35.751241,-78.66022,,,,,,0
+1882,9343,Carolina Pines Ave at S Saunders St,,35.748833,-78.649614,,,,,,0
+1883,9344,Pecan Rd at S Saunders St,,35.748571,-78.64794,,,,,,0
+1884,9345,Rush St at Hammond Rd,,35.742841,-78.64279,,,,,,0
+1885,9346,Falls of Neuse Rd at Manassas Ct (SB),,35.858876,-78.617293,,,,,,0
+1886,9347,Rush St at Boone Tr,,35.74113,-78.6338,,,,,,0
+1887,9349,Rush St at Garner Rd,,35.740264,-78.629714,,,,,,0
+1888,9351,Cross Link Rd at Seabrook Rd,,35.742234,-78.623873,,,,,,0
+1889,9352,Cross Link Rd at Crown Crossing Ln,,35.744641,-78.62372,,,,,,0
+1699,9354,Cross Link Rd at Platinum Ave,,35.75126,-78.6171,,,,,,0
+9,9356,Elm Ave at White St (Park-and-Ride),,35.75449,-78.613589,,,,,,0
+1890,9358,Cross Link Rd at Hadley Rd,,35.751602,-78.617045,,,,,,0
+1891,9359,Cross Link Rd at Dandridge Dr,,35.746456,-78.622843,,,,,,0
+1892,9360,Cross Link Rd at Seabrook Rd,,35.742155,-78.624074,,,,,,0
+1893,9361,Rush St at Disco Ln,,35.741359,-78.634486,,,,,,0
+1894,9362,Cross Link Rd at Garner Rd,,35.740491,-78.63009,,,,,,0
+1895,9364,Rush St at Sheldon Dr,,35.741701,-78.6361,,,,,,0
+1896,9365,Rush St at S Wilmington St,,35.743925,-78.646224,,,,,,0
+1897,9366,Pecan Rd at S Saunders St,,35.748765,-78.648396,,,,,,0
+1898,9367,Carolina Pine Ave at S Saunders St,,35.748941,-78.64988,,,,,,0
+1899,9368,Carolina Pines Ave at Marble St,,35.747661,-78.65221,,,,,,0
+1900,9369,Carolina Pines Ave at Springhill Ave (WB),,35.746651,-78.65676,,,,,,0
+1901,9370,Carolina Pines Ave at Sardis Dr (NB),,35.749255,-78.658449,,,,,,0
+1902,9376,Lake Wheeler Rd at Henslowe Dr,,35.749181,-78.671813,,,,,,0
+1903,9377,Lake Wheeler Rd at Lineberry Dr,,35.747136,-78.675074,,,,,,0
+1904,9380,Glenwood Ave at Fairview Rd,,35.802724,-78.645836,,,,,,0
+1905,9384,E Peace St at N Blount St,,35.787802,-78.63624,,,,,,0
+1906,9391,Lake Boone Tr at Nancy Ann Dr,,35.815491,-78.697637,,,,,,0
+1907,9392,Sanderford Rd at Fox Run,,35.748073,-78.613315,,,,,,0
+1908,9394,Peyton St at Belmont Dr (SB),,35.764731,-78.60437,,,,,,0
+1909,9397,S Saunders St at Maywood Ave,,35.760961,-78.64936,,,,,,0
+1910,9400,Six Forks Rd at Windel Dr,,35.853091,-78.642546,,,,,,0
+1911,9401,Method Rd at Western Blvd,,35.784311,-78.69387,,,,,,0
+1912,9402,Kaplan Dr at Kent Rd,,35.776763,-78.693556,,,,,,0
+1913,9403,Kaplan Dr at Hunters Club Dr,,35.77591,-78.692203,,,,,,0
+1914,9404,S Person St at Davie St,,35.774982,-78.635041,,,,,,0
+1915,9406,E Millbrook Rd at Walenda Dr,,35.847957,-78.594828,,,,,,0
+1916,9407,Method Rd at Woods Pl,,35.792367,-78.693744,,,,,,0
+1917,9410,St Marys St at Williamson Dr (SB),,35.798518,-78.653045,,,,,,0
+1918,9413,Lake Boone Tr at Myron Dr,,35.815818,-78.6932,,,,,,0
+1919,9414,Lake Boone Tr at Rexwood Dr,,35.815607,-78.701457,,,,,,0
+1920,9415,WakeMed Perimeter Rd at Swinburne St,,35.783015,-78.586785,,,,,,0
+1921,9416,Halifax St at E Peace St,,35.788323,-78.63852,,,,,,0
+1922,9417,Halifax St at Oak Chase Ln,,35.792913,-78.63824,,,,,,0
+1923,9418,Cedar St at Harp St,,35.794091,-78.636884,,,,,,0
+1924,9426,Gorman St at Sullivan Dr,,35.788799,-78.686279,,,,,,0
+1925,9430,Sanderford Rd at Seabrook Rd,,35.74221,-78.613706,,,,,,0
+1926,9432,Lake Boone Tr at Landmark Dr,,35.815532,-78.699594,,,,,,0
+1927,9433,Lake Boone Tr at Rexwood Dr,,35.815444,-78.701023,,,,,,0
+1928,9437,Morgan St at Boylan Ave,,35.779899,-78.649307,,,,,,0
+1929,9440,Glascock St at Delany Dr,,35.792425,-78.616286,,,,,,0
+1930,9442,Wake Forest Rd at Mimosa St (Mordecai Historic Par,,35.792218,-78.632755,,,,,,0
+1931,9443,Capital Blvd at Capital Square Shopping Center,,35.822937,-78.588905,,,,,,0
+1932,9444,Capital Blvd at NC Library Association (SB),,35.805693,-78.617595,,,,,,0
+1933,9445,Hillsborough St at Dixie Trail (EB),,35.789292,-78.675324,,,,,,0
+1934,9453,E Lane St at N Wilmington St,,35.783907,-78.637722,,,,,,0
+1935,9454,E Lane St at N Blount St,,35.783844,-78.635875,,,,,,0
+1936,9455,N East St at E Edenton St,,35.780874,-78.632178,,,,,,0
+1937,9456,N East St at E Jones St,,35.782159,-78.63207,,,,,,0
+1938,9457,E Lane St at Seawell Ave,,35.783394,-78.627038,,,,,,0
+1939,9458,E Lane St at N State St,,35.783281,-78.623143,,,,,,0
+1940,9460,E Lane St at Linden Ave,,35.783475,-78.629559,,,,,,0
+1941,9461,Hill St at Oakwood Ave,,35.784521,-78.617337,,,,,,0
+1942,9462,N King Charles Rd at Brighton Rd,,35.789549,-78.609394,,,,,,0
+1943,9463,E Lane St at N State St,,35.783421,-78.623266,,,,,,0
+1944,9464,E Lane St at Heck St,,35.783475,-78.624527,,,,,,0
+1945,9467,Ridge Rd at Lewis Farm Rd,,35.809548,-78.684894,,,,,,0
+1946,9468,Ridge Rd at Ridgecrest Ct,,35.812276,-78.683764,,,,,,0
+1947,9469,Ridge Rd at Churchill Rd,,35.805629,-78.686519,,,,,,0
+1948,9471,N Blount St at E Franklin St,,35.790247,-78.635948,,,,,,0
+1949,9475,Glascock St at Wake Forest Rd,,35.79329,-78.631639,,,,,,0
+1950,9476,W Hargett St at S Salisbury St,,35.778343,-78.640498,,,,,,0
+1951,9477,W Hargett St at S Dawson St,,35.77848,-78.643259,,,,,,0
+1952,9479,Harrington St at Hillsborough St,,35.780772,-78.644963,,,,,,0
+1953,9483,Hillsborough St at Boylan St,,35.78078,-78.649792,,,,,,0
+1954,9487,Oberlin Rd at Stafford Ave,,35.789961,-78.66292,,,,,,0
+1955,9498,Lead Mine Rd at Belsay Dr,,35.852869,-78.672831,,,,,,0
+1956,9499,Lead Mine Rd at Town and Country Rd,,35.848931,-78.6731,,,,,,0
+1957,9500,Lead Mine Rd at Sugar Bush Rd,,35.844991,-78.67416,,,,,,0
+1958,9502,Lead Mine Rd at Philcrest Rd,,35.841711,-78.6742,,,,,,0
+1959,9503,Lead Mine Rd at Sugar Bush Rd,,35.845527,-78.673729,,,,,,0
+1960,9504,Lead Mine Rd at French Dr,,35.849211,-78.672841,,,,,,0
+1961,9505,Glenbrook Dr at Martin Luther King Jr Blvd (SB),,35.771741,-78.600476,,,,,,0
+1962,9506,Glenbrook Dr at Fernbrook Rd (WB),,35.769693,-78.601734,,,,,,0
+1963,9507,Glenbrook Dr at Dacian Rd (SB),,35.76819,-78.603219,,,,,,0
+1964,9508,Glenbrook Dr at Belmont Dr,,35.766703,-78.603767,,,,,,0
+1965,9516,Martin Luther King Jr Blvd at Raleigh Blvd (EB),,35.769749,-78.614252,,,,,,0
+1966,9517,Poole Rd at King Richard Rd,,35.772485,-78.590762,,,,,,0
+1967,9518,Poole Rd at Rawls Dr (EB),,35.772412,-78.588074,,,,,,0
+1968,9519,Poole Rd at Cooper Rd (EB),,35.772242,-78.585575,,,,,,0
+1969,9525,Spring Forest Rd at New Market Way (EB),,35.869031,-78.617166,,,,,,0
+1971,9526,Spring Forest Rd at Andsley Dr,,35.868991,-78.61265,,,,,,0
+1972,9528,Spring Forest Rd at Exchange Park (EB),,35.866371,-78.607991,,,,,,0
+1973,9529,Spring Forest Rd at Quail Ridge Rd (EB),,35.864514,-78.604809,,,,,,0
+1974,9530,Spring Forest Rd at Timber Ridge Dr (EB),,35.862846,-78.602561,,,,,,0
+1975,9531,Atlantic Ave at Spring Forest Rd,,35.861718,-78.599911,,,,,,0
+1976,9532,Capital Blvd at Wayside Furniture,,35.8636,-78.5818,,,,,,0
+1977,9541,Wake Tech Community College - North,,35.867326,-78.541795,,,,,,0
+1978,9542,Louisburg Rd at Fox Rd,,35.86872,-78.545085,,,,,,0
+1979,9543,Louisburg Rd at Harnett Dr,,35.872501,-78.54336,,,,,,0
+1980,9545,Fox Rd at Herman Pl,,35.871311,-78.55374,,,,,,0
+1981,9546,Perry Creek Rd at Clarks Fork Dr,,35.889336,-78.556024,,,,,,0
+1982,9547,Durant Rd at Capital Blvd,,35.894334,-78.562243,,,,,,0
+1983,9563,St Marys St at Glenwood Ave (NB),,35.811955,-78.651303,,,,,,0
+1984,9566,Poole Rd at Ashford St,,35.772007,-78.592478,,,,,,0
+1985,9568,Sunnybrook Rd at Poole Rd (NB),,35.773103,-78.583186,,,,,,0
+1986,9569,Sungate Blvd at Sunnybrook Rd,,35.77643,-78.582742,,,,,,0
+1987,9570,Morgan St at Glenwood Ave,,35.779836,-78.646308,,,,,,0
+1988,9572,Old Wake Forest Rd at Oak Forest Dr,,35.865431,-78.591934,,,,,,0
+1989,9573,Old Wake Forest Rd at Barrow Dr,,35.867351,-78.58778,,,,,,0
+1990,9574,Old Wake Forest Rd at Capital Blvd,,35.87007,-78.582556,,,,,,0
+1991,9575,Triangle Town Center Blvd at Sumner Blvd,,35.864114,-78.571393,,,,,,0
+1992,9576,Triangle Town Center Blvd at Middle Poyner Dr,,35.865559,-78.571401,,,,,,0
+1993,9577,Old Wake Forest Rd at Triangle Town Center Blvd,,35.867279,-78.569186,,,,,,0
+1994,9578,Fox Rd at Bivens Dr,,35.867441,-78.56248,,,,,,0
+1995,9579,Fox Rd at Terrace Park Ct,,35.868811,-78.55982,,,,,,0
+1996,9580,Fox Rd at Werribee Dr,,35.871111,-78.55613,,,,,,0
+1997,9581,Perry Creek Rd at North Raleigh Christian Academy,,35.877961,-78.543323,,,,,,0
+1998,9582,Perry Creek Rd at Filbin Creek Dr,,35.88677,-78.554213,,,,,,0
+1999,9583,Durant Rd at Leslieshire Dr,,35.897577,-78.570453,,,,,,0
+2000,9584,Durant Rd at Camp Durant Rd,,35.90113,-78.578936,,,,,,0
+2001,9585,Durant Rd at Deerland Grove Dr,,35.902591,-78.5818,,,,,,0
+2002,9586,Durant Rd at Deponie Dr,,35.903882,-78.585091,,,,,,0
+2003,9588,Durant Rd at Raven Ridge Rd,,35.905419,-78.591109,,,,,,0
+2004,9589,Durant Rd at Rio Wild Dr,,35.907641,-78.5975,,,,,,0
+2005,9595,Fox Rd at Beaverwood Dr,,35.871471,-78.55116,,,,,,0
+2006,9596,Fox Rd at Louisburg Rd,,35.868731,-78.54629,,,,,,0
+2007,9597,Perry Creek Rd at Berkshire Downs Dr (WRAL Soccer,,35.882187,-78.549673,,,,,,0
+2008,9600,S Boylan Ave at Dorothea Dr (Outbound),,35.771794,-78.652854,,,,,,0
+2009,9601,W Lenoir St at S Saunders St,,35.773324,-78.648592,,,,,,0
+2010,9602,Trailwood Dr at Lineberry Dr,,35.750911,-78.69464,,,,,,0
+2011,9604,Avent Ferry Rd at Trailwood Dr (Kensington Apts),,35.769364,-78.690985,,,,,,0
+2012,9605,Avent Ferry Rd at Pineview Dr,,35.766884,-78.705196,,,,,,0
+2013,9608,Martin Luther King Jr Blvd at Raleigh Blvd (WB),,35.77016,-78.61369,,,,,,0
+2014,9609,Martin Luther King Jr Blvd at Rock Quarry Rd (WB),,35.768686,-78.617872,,,,,,0
+2015,9610,Martin Luther King Jr Blvd at Coleman St (WB),,35.767808,-78.622927,,,,,,0
+2016,9612,Cates Ave at Jensen Dr (EB),,35.781909,-78.668017,,,,,,0
+2017,9613,Dunn Ave at Jeter Dr (Coliseum Parking Deck),,35.783856,-78.668215,,,,,,0
+2018,9614,Morrill Dr at Faucette Dr,,35.781443,-78.674684,,,,,,0
+2019,9620,New Bern Ave at Trawick Rd (EB),,35.797424,-78.577199,,,,,,0
+2020,9621,New Bern Ave at Plainview Dr,,35.797946,-78.575297,,,,,,0
+2021,9622,New Bern Ave at Corporation Pkwy (EB),,35.7989,-78.569036,,,,,,0
+2022,9623,New Hope Commons Walmart,,35.80135,-78.561575,,,,,,0
+2023,9624,Corporation Pkwy at Lake Woodard Dr,,35.802401,-78.56703,,,,,,0
+2024,9625,Corporation Pkwy at New Bern Ave,,35.799761,-78.56849,,,,,,0
+2025,9626,New Bern Ave at Corporation Pkwy (WB),,35.799255,-78.569877,,,,,,0
+2026,9629,Lake Woodard Dr at Summerdale Dr,,35.801581,-78.58248,,,,,,0
+2027,9630,Lake Woodard Dr at Billingham Ct,,35.802281,-78.58514,,,,,,0
+2028,9631,Lake Woodard Dr at Timberlake Apts,,35.806131,-78.5939,,,,,,0
+2029,9632,Brentwood Rd at Westinghouse Blvd,,35.808725,-78.594344,,,,,,0
+2030,9633,Brentwood Rd at Skycrest Dr,,35.810782,-78.593894,,,,,,0
+2034,9636,Buffaloe Rd at Capital Blvd,,35.834781,-78.58213,,,,,,0
+2035,9637,Buffaloe Rd at Bison Hill Ln,,35.831801,-78.579492,,,,,,0
+2036,9639,Buffaloe at Durwood,,35.830395,-78.572962,,,,,,0
+2037,9640,Buffaloe Rd at New Hope Rd,,35.831071,-78.569498,,,,,,0
+2038,9641,New Hope Rd at Donna Rd,,35.826791,-78.56936,,,,,,0
+2039,9642,New Hope Rd at Butler Blvd,,35.82426,-78.569325,,,,,,0
+2040,9643,Marsh Creek Rd at New Hope Rd,,35.821691,-78.57053,,,,,,0
+2041,9644,Marsh Creek Rd at Vena Wilburn Elementary School,,35.819605,-78.575567,,,,,,0
+2042,9645,Marsh Creek Rd at Pinehurst Dr,,35.818343,-78.578432,,,,,,0
+2044,9646,Trawick Rd at Streams of Fields Dr,,35.814631,-78.57943,,,,,,0
+2045,9647,Skycrest Dr at Trawick Rd,,35.810586,-78.577074,,,,,,0
+2046,9648,Skycrest Dr at Hatton Way,,35.810501,-78.57266,,,,,,0
+2047,9649,Skycrest Dr at Charny Dr,,35.811276,-78.567621,,,,,,0
+27,9650,New Hope Rd at Charney Dr,,35.80907,-78.56523,,,,,,0
+2048,9651,New Hope Rd at Willow Oak R,,35.805538,-78.564817,,,,,,0
+2049,9653,E Hargett St at S State St,,35.777816,-78.623094,,,,,,0
+2050,9654,Carolina Pines Ave at Sardis Dr (SB),,35.749384,-78.658589,,,,,,0
+2051,9656,Pecan Rd at S Wilmington St (EB),,35.748328,-78.644496,,,,,,0
+2052,9657,Pecan Rd at S Wilmington St (WB),,35.748458,-78.644377,,,,,,0
+2054,9659,S Blount St at E South Ave,,35.771781,-78.636973,,,,,,0
+2055,9660,Martin Luther King Jr Blvd at S Person St (EB),,35.769336,-78.635681,,,,,,0
+2056,9661,Martin Luther King Jr Blvd at S Person St (WB),,35.769505,-78.635636,,,,,,0
+2057,9663,Creedmoor Rd at Sherborne Pl (NB),,35.854696,-78.680293,,,,,,0
+2058,9665,Camelot Dr at Dartmouth Rd,,35.838274,-78.638906,,,,,,0
+2059,9666,St Albans St at Camelot Dr,,35.836959,-78.636223,,,,,,0
+2060,9667,Hardimont Rd at Quail Hollow Dr,,35.835867,-78.625635,,,,,,0
+2061,9668,Hardimont Rd at Colby Dr,,35.837364,-78.61867,,,,,,0
+2062,9669,Hardimont Rd at Bland Rd (EB),,35.837158,-78.614544,,,,,,0
+2063,9671,Lassiter Mill Rd at Six Forks Rd,,35.839342,-78.643091,,,,,,0
+2064,9672,Six Forks Rd at Anderson Dr,,35.823259,-78.632107,,,,,,0
+2065,9674,Edenton St at Salisbury St,,35.781329,-78.640255,,,,,,0
+2066,9676,St Marys St at Johnson St (NB),,35.787633,-78.650837,,,,,,0
+2067,9677,Peace St at Smallwood Dr,,35.788689,-78.654438,,,,,,0
+2068,9678,Oberlin Rd at Van Dyke Ave,,35.795309,-78.661134,,,,,,0
+2069,9679,Glenwood Ave at Granville Dr,,35.820491,-78.663735,,,,,,0
+2070,9681,Blue Ridge Rd at Noremac Dr,,35.830584,-78.686052,,,,,,0
+2071,9682,Blue Ridge Rd at Glen Eden Dr (SB),,35.828077,-78.690909,,,,,,0
+2072,9683,Blue Ridge Rd at Edgemont Dr,,35.825847,-78.696241,,,,,,0
+2073,9684,Blue Ridge Rd at Burch Dr (SB),,35.824629,-78.698487,,,,,,0
+2074,9685,Blue Ridge Rd at Carovel Ct (SB),,35.823393,-78.700466,,,,,,0
+2075,9686,Blue Ridge Rd at Bentley Bridge Rd,,35.822906,-78.701296,,,,,,0
+2076,9687,Blue Ridge Rd at Ed Dr (SB),,35.822085,-78.702778,,,,,,0
+2077,9688,Blue Ridge Rd at Forest View Rd (NB),,35.817016,-78.704931,,,,,,0
+2078,9689,Blue Ridge Rd at Duraleigh Rd,,35.821193,-78.704384,,,,,,0
+2079,9690,Blue Ridge Rd at Ed Dr (NB),,35.822315,-78.70184,,,,,,0
+2080,9691,Blue Ridge Rd at Carovel Ct (NB),,35.823258,-78.700344,,,,,,0
+2081,9692,Blue Ridge Rd at Burch Dr (NB),,35.824313,-78.698652,,,,,,0
+2082,9693,Blue Ridge Rd at Morningside Dr,,35.826109,-78.694825,,,,,,0
+2083,9694,Blue Ridge Rd at Glen Eden Dr (NB),,35.828925,-78.690043,,,,,,0
+2085,9695,Blue Ridge Rd at Arbor Dr,,35.829854,-78.687723,,,,,,0
+2086,9696,Blue Ridge Rd at Homewood Banks Dr,,35.832723,-78.681151,,,,,,0
+2087,9697,Oberlin Rd at Cartier Dr,,35.814887,-78.659483,,,,,,0
+2088,9698,Oberlin Rd at Ashland St,,35.812481,-78.65773,,,,,,0
+2089,9699,Oberlin Rd at Fairview Rd,,35.809081,-78.65556,,,,,,0
+2090,9700,Oberlin Rd at Colonial Rd,,35.805821,-78.65643,,,,,,0
+2091,9701,Oberlin Rd at Craig St,,35.803171,-78.65811,,,,,,0
+2092,9702,St Marys St at Johnson St (SB),,35.78796,-78.650997,,,,,,0
+2093,9704,Morgan St at McDowell St,,35.779598,-78.641139,,,,,,0
+2094,9708,Crosslink Rd at Brumlow Ln,,35.739919,-78.626877,,,,,,0
+2096,9709,Garner Station Blvd at Lennox Place,,35.724684,-78.658954,,,,,,0
+2097,9717,Halifax St at E Franklin St,,35.791469,-78.638291,,,,,,0
+2098,9719,Culpepper Rd at Boswell Rd,,35.790321,-78.601896,,,,,,0
+2099,9721,Hadley Dr at Cross Link Rd,,35.75139,-78.61735,,,,,,0
+2100,9722,Southgate Dr at Crawford Rd,,35.753565,-78.607778,,,,,,0
+2101,9724,Seabrook Rd at Golden St,,35.741909,-78.621806,,,,,,0
+2102,9725,1322 Crosslink Rd,,35.749557,-78.61823,,,,,,0
+2103,9726,Lenoir St at Coleman St,,35.77257,-78.622591,,,,,,0
+2104,9730,Southeast St at E Cabarrus St,,35.77377,-78.632668,,,,,,0
+2105,9731,E Hargett St at S Person St,,35.778157,-78.634624,,,,,,0
+2106,9732,E Hargett St at S Blount St,,35.778243,-78.63644,,,,,,0
+2107,9733,Martin Luther King Jr Blvd at Holmes St (EB),,35.767912,-78.628407,,,,,,0
+2108,9735,Carolina Pines Ave at Carolina Hills Ln,,35.751587,-78.661475,,,,,,0
+2109,9736,Glen Royal Rd at Brownleigh Dr,,35.882562,-78.746965,,,,,,0
+2110,9737,Maitland Dr at New Bern Ave,,35.796715,-78.580752,,,,,,0
+2111,9738,Maitland Dr at Bastion Ln,,35.796842,-78.582776,,,,,,0
+2112,9740,Bastion Ln at Tower Shopping Center,,35.799038,-78.582032,,,,,,0
+2114,9741,Bastion Ln at Lake Woodard Dr,,35.801398,-78.580575,,,,,,0
+2115,9743,E Davie St at Fayetteville St,,35.775659,-78.639095,,,,,,0
+2116,9744,W Davie at S Dawson St,,35.7758,-78.643035,,,,,,0
+2117,9745,S Wilmington St at Illeagnes Rd,,35.744915,-78.646165,,,,,,0
+2118,9746,S Wilmington St at Rush St,,35.744878,-78.64586,,,,,,0
+2120,9756,Ridge Rd at Lake Boone Rd,,35.814697,-78.682676,,,,,,0
+2121,9758,Carolina Pines Ave at Marble St,,35.747491,-78.65204,,,,,,0
+2122,9759,Rush St at Sheldon Dr,,35.741935,-78.636929,,,,,,0
+2123,9760,Cross Link Rd at Laodicea Dr,,35.740057,-78.627274,,,,,,0
+2124,9761,Rush St at Hammond Rd,,35.74298,-78.642623,,,,,,0
+2125,9762,Carolina Pines Ave at Springhill Ave,,35.750949,-78.659388,,,,,,0
+2126,9764,Alexander Promenade at Walmart,,35.913329,-78.777034,,,,,,0
+2127,9768,Creedmoor Rd at Falcon Rest Cir,,35.891881,-78.679921,,,,,,0
+2128,9770,Arco Corporate Dr at Macaw St,,35.906069,-78.778328,,,,,,0
+2129,9775,Michael J Smith Ln at Carl Sandburg Ct,,35.779494,-78.580095,,,,,,0
+2130,9778,Creedmoor Rd at Lynn Rd (NB),,35.874288,-78.679217,,,,,,0
+2131,9779,Lineberry Dr at Broad Oaks Pl,,35.751091,-78.680459,,,,,,0
+2132,9781,Sierra Dr at Shenandoah Rd,,35.751171,-78.67402,,,,,,0
+2133,9782,Sierra Dr at Balboa Rd,,35.750971,-78.67232,,,,,,0
+2135,9783,Sierra Dr at Lake Wheeler Rd,,35.751041,-78.66973,,,,,,0
+2136,9786,Glenwood Ave at The Circle,,35.809014,-78.648703,,,,,,0
+2137,9787,Purser Dr at Wal-Mart,,35.717761,-78.659559,,,,,,0
+2138,9788,N Blount St at Polk St,,35.786349,-78.636219,,,,,,0
+2139,9789,N Blount St at E Lane St,,35.783979,-78.636351,,,,,,0
+2140,9790,N Blount St at Morgan St,,35.779896,-78.63656,,,,,,0
+2141,9791,Gorman St at Hillsborough St,,35.793045,-78.684368,,,,,,0
+2142,9792,Trailwood Hills Dr at Tryon Rd,,35.743695,-78.683248,,,,,,0
+2143,9793,Trailwood Hills Dr at Alder Ridge Ln,,35.747381,-78.685079,,,,,,0
+2144,9794,Trailwood Hills Dr at Laurel Falls Ln,,35.749364,-78.685002,,,,,,0
+2145,9795,Trailwood Hills Dr at Tryon Rd,,35.743565,-78.683426,,,,,,0
+2146,9796,Tryon Rd at Disk Dr,,35.743624,-78.687793,,,,,,0
+2147,9797,Rush St at Hammond Rd (VA Clinic),,35.742458,-78.639549,,,,,,0
+2148,9798,Tryon Rd at Tryon Grove Dr,,35.744488,-78.689998,,,,,,0
+2149,9799,Lineberry Dr at Deep Forest Trl,,35.749472,-78.689373,,,,,,0
+2150,9801,Trailwood Hills Dr at Laurel Falls Ln,,35.749355,-78.685179,,,,,,0
+2151,9802,Poplar St at Mordecai St,,35.794569,-78.632459,,,,,,0
+2152,9803,Trailwood Hills Dr at Barrymore St,,35.745246,-78.683828,,,,,,0
+2153,9805,Trailwood Dr at Tryon Rd,,35.748446,-78.695355,,,,,,0
+2154,9806,Trailwood Hills Dr at Alder Ridge Ln,,35.746723,-78.684581,,,,,,0
+2156,9808,S Boylan Ave at W Lenoir St,,35.773071,-78.650759,,,,,,0
+2157,9809,Western Blvd at Hunt Dr (WB),,35.775237,-78.65696,,,,,,0
+2158,9810,Pullen Rd at Cates Ave,,35.781637,-78.666104,,,,,,0
+2159,9900,Raleigh Convention Center,,35.773332,-78.640529,,,,,,0
+2160,9901,South St at Performing Arts Center,,35.772124,-78.639205,,,,,,0
+2161,9902,Wilmington St at Cabarrus St,,35.774759,-78.63834,,,,,,0
+2163,9910,West St at Johnson St,,35.787816,-78.64565,,,,,,0
+2164,9917,Harrington St at Hargett St,,35.777624,-78.645052,,,,,,0
+2166,9923,New Bern Ave at WakeMed (WB),,35.786327,-78.589272,,,,,,0
+2167,9924,Avent Ferry Rd at Avery Close Apts,,35.773929,-78.68275,,,,,,0
+2172,1637,White Oak Shopping,,35.692079,-78.581758,,,,,,0
+2173,1915,7th Ave at Forest Hills Dr,,35.706306,-78.623006,,,,,,0
+2174,1918,Timber Dr at Benson Rd (Timber Crossings),,35.686106,-78.606198,,,,,,0
+2176,1920,Timber Dr at Aversboro Rd,,35.686099,-78.615529,,,,,,0
+2177,1922,Aversboro Rd at Claymore Dr,,35.689837,-78.61709,,,,,,0
+2178,1926,Vandora Springs at Beichler Rd.,,35.708797,-78.624712,,,,,,0
+2179,8313,Garner Rd at Branch St,,35.764284,-78.631403,,,,,,0
+2180,8317,Garner Rd at Hoke St,,35.762861,-78.63161,,,,,,0
+2181,8321,Garner Rd at Raleigh View Rd OB,,35.746007,-78.631552,,,,,,0
+2182,8322,Garner at Hilltop Dr.,,35.741383,-78.630955,,,,,,0
+2183,8326,Garner at Raleigh Pines Dr.,,35.738566,-78.629655,,,,,,0
+2184,8327,Garner Rd at Tryon Rd OB,,35.732539,-78.627879,,,,,,0
+2185,8329,Garner at Meadowbrook Dr.,,35.726072,-78.626261,,,,,,0
+2187,8334,Garner Rd at Willow Vista Rd,,35.720983,-78.624381,,,,,,0
+2188,8336,Garner Rd at Yeargan Rd OB,,35.716666,-78.623967,,,,,,0
+2189,8339,Vandora Springs at Bobbitt Dr. (Hardee's),,35.712144,-78.621114,,,,,,0
+2190,8342,Aversboro Rd at Brooks Ave,,35.703114,-78.61863,,,,,,0
+2191,8345,Aversboro Rd at Lakeside Dr,,35.697532,-78.616862,,,,,,0
+2192,8346,Poole Dr at Aversboro Rd (Garner Family Practice),,35.695295,-78.615986,,,,,,0
+2193,8347,Heather Park Dr at Gulley Glen Dr,,35.693568,-78.612859,,,,,,0
+2194,8357,Heather Park Dr at Southerby Bluffs Ct,,35.691647,-78.614488,,,,,,0
+2195,8361,Timber Dr at Benson Rd,,35.686131,-78.603255,,,,,,0
+2196,8381,Cabela Dr at Eagle Wing Way,,35.69783,-78.5864,,,,,,0
+2198,8382,Jones Sausage Rd at Partlo St,,35.701228,-78.588487,,,,,,0
+2199,8393,Garner Rd at Jones Sausage Rd,,35.703993,-78.593102,,,,,,0
+2200,8395,Garner Rd at Broughton St (Performing Arts Ctr),,35.711208,-78.612934,,,,,,0
+2201,8397,Garner at Vandora Springs,,35.713156,-78.620495,,,,,,0
+2202,8401,Garner Rd at Yeargan Rd,,35.716772,-78.623802,,,,,,0
+2203,8402,Garner Rd at Willow Vista Rd IB,,35.721642,-78.624124,,,,,,0
+2204,8403,Garner Rd at Meadowbrook Dr,,35.72598,-78.626096,,,,,,0
+2205,8406,Garner Rd at Tryon Rd,,35.732617,-78.62774,,,,,,0
+2206,8417,Garner Rd at Raleigh Pines Dr,,35.738613,-78.629507,,,,,,0
+2208,8423,Garner Rd at Hilltop Dr IB,,35.741059,-78.630659,,,,,,0
+2209,8424,Garner Rd at Raleigh View Rd,,35.746194,-78.631376,,,,,,0
+2210,8425,Garner Rd at Warehouse Dr,,35.752032,-78.631106,,,,,,0
+2211,8426,Garner Rd at Bailey Dr,,35.755874,-78.631203,,,,,,0
+2212,8427,Garner Rd at Peterson St IB,,35.76029,-78.631312,,,,,,0
+2213,8428,Timber Dr. at White Oak Rd,,35.687774,-78.591611,,,,,,0
+2215,8446,Knightdale Blvd at Park Commons Dr,,35.797184,-78.503337,,,,,,0
+2216,8458,McKnight Dr. at Village Park Dr,,35.796865,-78.492249,,,,,,0
+2217,8459,McKnight Dr at Electric Ave,,35.793755,-78.48816,,,,,,0
+2218,8460,Main St at 2nd Ave,,35.789679,-78.480736,,,,,,0
+2219,8462,N. 1st Ave. at Knightdale Station,,35.796281,-78.47556,,,,,,0
+2221,8478,1st Ave at Knightdale Station Run,,35.796914,-78.475479,,,,,,0
+2222,8479,Main St at 2nd Ave,,35.789851,-78.480687,,,,,,0
+2223,8483,McKnight Dr at Electric Ave,,35.793842,-78.488288,,,,,,0
+2224,8489,Knightdale Blvd at Mammoth Dr,,35.799136,-78.496597,,,,,,0
+2225,8491,Knightdale Blvd at Shoppes at Midway (Arby's),,35.797543,-78.503535,,,,,,0
+2227,8549,Knightdale Blvd at Hodge Rd,,35.795389,-78.521285,,,,,,0
+2228,8550,New Bern Ave at Rogers Ln (Aldi),,35.793449,-78.547411,,,,,,0
+1715,8551,New Bern Ave at Raleigh Beach Rd,,35.79609,-78.5524,,,,,,0
+2239,9906,West St at North St,,35.784193,-78.645821,,,,,,0
+2240,9907,West St at Hargett St,,35.779693,-78.646045,,,,,,0
+2241,9915,West St at Jones St,,35.782638,-78.64573,,,,,,0
+2242,9922,West St at Tucker St,,35.786414,-78.645561,,,,,,0
+2243,9927,West St at Peace St,,35.788205,-78.645412,,,,,,0
+2244,9931,Salisbury St at Martin St,,35.777752,-78.640298,,,,,,0
+2245,8162,Garner Rd at Bragg St,,35.765891,-78.631696,,,,,,0
+2247,8679,Garner Rd at Benson Rd,,35.711132,-78.613516,,,,,,0
+2249,8680,Garner Rd at Garner Senior Center,,35.706716,-78.604097,,,,,,0
+2250,8681,Garner Rd at Jones Sausage Rd,,35.703837,-78.593222,,,,,,0
+2251,8682,Eagle Wing Way at Cabela Dr,,35.697821,-78.585595,,,,,,0
+2252,8686,Timber Dr East Midblock B,,35.687973,-78.592026,,,,,,0
+2253,8709,Timber Dr East at Benson St,,35.686273,-78.599792,,,,,,0
+2254,8710,Garner Rd at Wilson St OB,,35.735142,-78.628039,,,,,,0
+2255,8711,Timber Dr at Aversboro Rd,,35.686332,-78.61623,,,,,,0
+2256,8726,Garner Rd at Wilson IB,,35.735244,-78.627911,,,,,,0
+2257,8735,Heather Park Dr at Southerby Bluffs Ct B,,35.691707,-78.613717,,,,,,0
+2258,8749,Heather Park Dr at Dartmouth Glen Dr,,35.693247,-78.612686,,,,,,0
+2260,8757,Poole Dr at Bayleigh Ct (Garner Family Practice,,35.695435,-78.615963,,,,,,0
+2261,8758,Aversboro Dr at Lakeside Dr B,,35.697597,-78.616641,,,,,,0
+2262,8764,Aversboro Dr at Delbridge St,,35.702912,-78.618331,,,,,,0
+2263,1875,Wake Tech South Park and Ride,,35.646987,-78.706435,,,,,,0
+2265,9075,Powell Dr at Driftwood Dr,,35.781789,-78.712879,,,,,,0
+2266,9096,Avent Ferry at Trailwood Dr IB,,35.768672,-78.692196,,,,,,0
+2267,9606,Avent Ferry at Gorman St WB,,35.768354,-78.694538,,,,,,0
+2268,8278,Hillsborough St at Oberlin Rd,,35.78562,-78.661348,,,,,,0
+2270,8774,Timber Dr East at White Oak Village SB,,35.688224,-78.577164,,,,,,0
+2271,8775,Timber Dr East at Health Park Dr SB,,35.686898,-78.576236,,,,,,0
+2272,8776,Timber Dr East at Element Cir,,35.681334,-78.572001,,,,,,0
+2273,8779,Timber Dr East at Health Park Dr NB,,35.686095,-78.575286,,,,,,0
+2274,8780,Timber Dr East at White Oak Village NB,,35.688392,-78.576987,,,,,,0
+2275,8773,Timber Dr. at Shenstone,,35.689512,-78.580172,,,,,,0
+2277,8810,S Saunders St at Prospect Ave (NB),,35.762674,-78.648823,,,,,,0
+2278,8826,Levister Ct at Fayetteville St,,35.765924,-78.642717,,,,,,0
+2279,9680,Blue Ridge Rd at Hillcrest (SB),,35.832644,-78.681625,,,,,,0
+2280,1098,Elm Ave at White St (Park and Ride),,35.975332,-78.510345,,,,,,0
+2282,1810,Holding Ave At Brooks St (WB),,35.970827,-78.510848,,,,,,0
+2284,8198,Rock Quarry at Kasota Ln,,35.733467,-78.560461,,,,,,0
+2285,8537,Trailwood Dr at Centennial Knoll Cir,,35.753766,-78.694587,,,,,,0
+2286,8812,Rock Quarry Rd at Keyser St,,35.736176,-78.564346,,,,,,0
+2287,1532,7th Ave at Garner Town Hall IB,,35.705365,-78.620625,,,,,,0
+2288,1533,7th Ave at Forest Hills Dr IB,,35.706785,-78.623494,,,,,,0
+2289,1917,Timber Dr at Chapwith Rd,,35.686374,-78.606256,,,,,,0
+2290,1921,Aversboro Dr at Claymore Dr B,,35.689585,-78.61691,,,,,,0
+2291,1925,Vandora Springs Rd at Beichler Rd IB,,35.70895,-78.624347,,,,,,0
+2293,8893,Enterprise St at Hillsborough St,,35.787201,-78.66397,,,,,,0
+2294,8098,Barwell Rd at Chastel Trl (IB),,35.737021,-78.551571,,,,,,0
+2295,8782,Country Trl at Silhouette Pl,,35.884696,-78.736692,,,,,,0
+2296,8787,Marvino Ln at Sone Cellar Dr,,35.887061,-78.737323,,,,,,0
+2297,8794,Marvino Ln at Ebenezer Church Rd,,35.887446,-78.740739,,,,,,0
+2298,8795,Marvino Ln at Saltwood Pl,,35.887971,-78.74397,,,,,,0
+2299,8796,St Giles St at Oak Park Rd,,35.854091,-78.703293,,,,,,0
+2300,8799,St Giles St at Deep Hollow Dr (SB),,35.854428,-78.706431,,,,,,0
+2301,8802,Deep Hollow Dr at St Giles St (WB),,35.852953,-78.70763,,,,,,0
+2303,8803,Deep Hollow Dr at Duraleigh Rd (WB),,35.853095,-78.71062,,,,,,0
+2304,8804,Duraleigh Rd at Delta Lake Dr (NB),,35.856553,-78.712167,,,,,,0
+2305,8814,Poole Rd at Samuel Rd (Social Security Office),,35.769357,-78.581232,,,,,,0
+36,1734,Wilmington St at Hargett St,,35.778082,-78.638152,,,,,,0
+2306,8813,Poole Rd Park-n-Ride,,35.766704,-78.56293,,,,,,0
+2307,1187,Hillsborough St at Meredith College (EB),,35.794227,-78.688589,,,,,,0
+2308,8824,Pylon Dr OB,,35.793235,-78.701525,,,,,,0
+2310,8852,Blue Ridge and Western IB,,35.785321,-78.703113,,,,,,0
+2311,8854,Blue Ridge Rd at Ligon St,,35.788482,-78.703669,,,,,,0
+2312,8865,Pylon Dr IB,,35.793555,-78.701397,,,,,,0
+2313,8872,Beryl Rd at Method Rd EB,,35.794436,-78.693311,,,,,,0
+2314,8886,W Morgan St at Mayo St IB,,35.779867,-78.653962,,,,,,0
+2315,8892,W Hargett St at McDowell St,,35.778311,-78.64148,,,,,,0
+2316,8899,S State St at Darby St OB,,35.756045,-78.622979,,,,,,0
+2317,8902,S State St at Bunche Dr OB,,35.753061,-78.621463,,,,,,0
+2319,8905,Rock Quarry Rd at Lyndhurst Dr,,35.752894,-78.612709,,,,,,0
+2320,8912,West St at Jones St (SB),,35.782911,-78.64588,,,,,,0
+2321,8913,West St at Hillsborough St (SB),,35.780941,-78.646,,,,,,0
+2326,8068,Rock Quarry at Laurel Glen IB,,35.728406,-78.553739,,,,,,0
+2327,8649,Knightdale Blvd at Blue Arrow Way,,35.805084,-78.466065,,,,,,0
+2328,8875,Beverly Dr at Carlisle St,,35.767602,-78.595209,,,,,,0
+2329,8919,Upward Dr at Inspiration Cir,,35.806427,-78.417227,,,,,,0
+2331,8983,Sunnybrook Rd at Falstaff Rd OB,,35.782491,-78.583199,,,,,,0
+2332,8984,Knightdale Blvd at Carolinian Ave,,35.801635,-78.47041,,,,,,0
+1467,1905,McKnight Dr at Village Park Dr,,35.796935,-78.492081,,,,,,0
+1637,1916,7th Ave at Garner Town Hall OB,,35.705228,-78.620704,,,,,,0
+131,8005,Capital Blvd at Crabtree Blvd (NB),,35.806423,-78.616116,,,,,,0
+134,8008,Poole Rd at New Hope Rd (WB),,35.765799,-78.559531,,,,,,0
+139,8013,Raleigh Blvd at Millbank St OB,,35.796584,-78.610576,,,,,,0
+182,8056,N Blount St at Cedar St,,35.79395,-78.63569,,,,,,0
+183,8057,Lafayette Village,,35.89554,-78.6207,,,,,,0
+187,8061,Salisbury St at W Jones St,,35.793509,-78.638293,,,,,,0
+189,8063,Salisbury St at W Morgan St,,35.779922,-78.640177,,,,,,0
+1791,8069,Rock Quarry Rd at Laurel Glen OB,,35.72804,-78.553447,,,,,,0
+212,8088,Whitaker Mill Rd at Sunrise Ave,,35.806529,-78.638979,,,,,,0
+215,8091,Barwell Rd at Berkeley Lake Rd,,35.74065,-78.5425,,,,,,0
+217,8093,Barwell Rd at Neals Creek Dr,,35.74068,-78.54271,,,,,,0
+2873,8100,Barwell Rd at Chastel Trl SB,,35.737143,-78.551679,,,,,,0
+255,8135,Falls of Neuse Rd at Ravenscroft Dr (NB),,35.884602,-78.62683,,,,,,0
+258,8138,Falls of Neuse at Strickland Rd,,35.89172,-78.62691,,,,,,0
+290,8171,Whitaker Mill Rd at Reeves Dr,,35.80692,-78.63838,,,,,,0
+305,8186,W Morgan St at S Dawson St,,35.798483,-78.710028,,,,,,0
+309,8190,Shoppes at Battle Bridge,,35.724393,-78.546978,,,,,,0
+311,8192,Glascock St at Clifton St,,35.79305,-78.62767,,,,,,0
+312,8193,Glascock St at Brookside Dr,,35.79291,-78.62466,,,,,,0
+313,8194,Glascock St at Raleigh Blvd,,35.79285,-78.61371,,,,,,0
+314,8195,Raleigh Blvd at Cantwell Ct,,35.794098,-78.612792,,,,,,0
+315,8196,Trinity Rd at Youth Center Dr,,35.79887,-78.71684,,,,,,0
+316,8197,Chapel Hill Rd at Hillsborough St,,35.7901,-78.71717,,,,,,0
+317,8199,Chapel Hill Rd at Hillsborough St,,35.78928,-78.72634,,,,,,0
+321,8203,Edwards Mill Rd at Corinthian Way,,35.79496,-78.72727,,,,,,0
+324,8206,Hillsborough St at Etta Burke Ct,,35.78809,-78.71787,,,,,,0
+337,8219,Glascock St at Clifton St,,35.793146,-78.627557,,,,,,0
+364,8246,Brigadoon Dr,,35.77177,-78.68837,,,,,,0
+369,8251,Lake Boone Tr at Thomas Rd,,35.81616,-78.68348,,,,,,0
+370,8252,Lake Boone Tr at Horton St,,35.8155,-78.6891,,,,,,0
+373,8255,Duraleigh Rd at Edwards Mill Rd (NB),,35.82314,-78.706,,,,,,0
+374,8256,Edwards Mill Rd at Ed Dr,,35.825298,-78.70545,,,,,,0
+387,8269,Wade Ave at Dogwood Ln,,35.801025,-78.68074,,,,,,0
+420,8303,Peyton St at Martin Luther King Jr Blvd (SB),,35.771442,-78.60715,,,,,,0
+448,8341,Raleigh Blvd at Yonkers Rd,,35.808938,-78.602735,,,,,,0
+450,8344,Lenoir St at Fayetteville St,,35.7729,-78.64024,,,,,,0
+454,8351,Glenwood Ave at Oberlin Rd (The Carolinian),,35.811232,-78.599207,,,,,,0
+455,8352,Glenwood Ave at Oberlin Rd (NB),,35.816733,-78.660391,,,,,,0
+1492,8394,Garner Rd at Creech Rd (Park),,35.70623,-78.60232,,,,,,0
+492,8396,W Lenoir St at S West St,,35.773217,-78.646092,,,,,,0
+507,8418,S Saunders St at Pecan Rd,,35.81183,-78.597191,,,,,,0
+1506,8429,New Bern Ave at New Hope Rd,,35.798159,-78.562235,,,,,,0
+1507,8430,New Bern Ave at Kings Pkwy,,35.7962,-78.553658,,,,,,0
+1508,8431,New Bern Ave at Rogers Ln (Dairy Queen),,35.792923,-78.547212,,,,,,0
+1509,8432,Knightdale Blvd at Hodge Rd,,35.795158,-78.519025,,,,,,0
+1510,8433,Knightdale Blvd at Rex,,35.796128,-78.507956,,,,,,0
+1512,8448,Knightdale Blvd at Parkside Commons Dr,,35.798502,-78.495562,,,,,,0
+1529,8492,Knightdale Blvd at Shoppes at Midway (Chili's),,35.796339,-78.508624,,,,,,0
+571,8517,Oakwood Ave at N King Charles Rd,,35.783573,-78.611276,,,,,,0
+577,8523,Western Blvd at Hunt Dr (Governor Morehead School),,35.775569,-78.658781,,,,,,0
+584,8531,Avent Ferry Shopping Center,,35.809869,-78.5963,,,,,,0
+585,8532,Gorman St at Avent Ferry Rd (SB),,35.767532,-78.69435,,,,,,0
+594,8542,Lineberry Dr at Sterling Park Dr,,35.816653,-78.59909,,,,,,0
+1628,8548,Rock Quarry Rd at Old Williams Rd,,35.746134,-78.585779,,,,,,0
+1533,8552,Rock Quarry Rd at Walnut Creek (Coastal Credit Union Music Park),,35.74555,-78.583517,,,,,,0
+1601,8553,White St at Elm St.,,35.814772,-78.596659,,,,,,0
+605,8562,Avent Ferry Rd at Brigadoon Dr (IB),,35.770567,-78.688106,,,,,,0
+614,8572,Peace St at Capital Blvd,,35.81256,-78.59721,,,,,,0
+621,8584,Hillsborough St at Shepherd St,,35.790267,-78.678721,,,,,,0
+627,8589,Raleigh Blvd at Crabtree Creek Greenway,,35.804729,-78.607941,,,,,,0
+635,8598,Hillsborough St at Stanhope Ave,,35.790598,-78.679437,,,,,,0
+639,8612,St Marys St at Hillsborough St (SB),,35.781108,-78.650633,,,,,,0
+1618,8615,Garner Rd at Chris St,,35.748122,-78.631608,,,,,,0
+1619,8616,Raleigh Blvd at Appliance Ct (IB),,35.81126,-78.599692,,,,,,0
+1620,8617,Raleigh Blvd at Yonkers Rd IB,,35.808601,-78.603252,,,,,,0
+663,8641,Falstaff Rd at Swinburne Rd,,35.781822,-78.58556,,,,,,0
+1622,8643,Knighdale Blvd at Sugar Magnolia Ln,,35.799472,-78.472975,,,,,,0
+2915,8646,Carl Sandburg Ct at Sunnybrook Rd,,35.780237,-78.583142,,,,,,0
+1641,8657,Rogers Rd at S Franklin St B,,35.823171,-78.706214,,,,,,0
+1642,8661,Heritage Lake Rd at Rogers Rd B,,35.755544,-78.538583,,,,,,0
+1643,8663,Heritage Lake Rd at Smith Creek Soccer Center B,,35.820896,-78.704954,,,,,,0
+679,8667,Edwards Mill Rd at John Humphries Wynd,,35.825386,-78.705689,,,,,,0
+682,8670,Lake Boone Tr at Horton St,,35.815323,-78.689603,,,,,,0
+723,8721,E Millbrook Rd at Edgewood Dr,,35.851899,-78.633583,,,,,,0
+733,8732,E Millbrook Rd at Hoyle Dr,,35.847812,-78.59218,,,,,,0
+739,8739,Calvary Dr at Capital Blvd (Mini City Marketplace),,35.844506,-78.57869,,,,,,0
+740,8740,Calvary Dr at Capital Blvd (WB),,35.844678,-78.580589,,,,,,0
+748,8748,E Millbrook Rd at Cedarhurst Dr (WB),,35.850402,-78.61254,,,,,,0
+1732,8805,Duraleigh Rd at Pleasant Valley Rd (NB),,35.859507,-78.712751,,,,,,0
+1737,8815,W Morgan St at Hillsborough St OB,,35.781756,-78.655473,,,,,,0
+1738,8816,Beryl Rd at Arboretum WB,,35.794967,-78.699531,,,,,,0
+2927,8818,Raleigh Blvd at Crabtree Blvd IB,,35.802898,-78.608296,,,,,,0
+2929,8828,Raleigh Blvd at Park Glen Dr IB,,35.80072,-78.608873,,,,,,0
+798,8842,Strickland Rd at Six Forks Rd,,35.900682,-78.65127,,,,,,0
+812,8858,Raleigh Blvd at Glascock St IB,,35.79317,-78.613199,,,,,,0
+814,8860,Raleigh Blvd at Millbank St IB,,35.797072,-78.610828,,,,,,0
+818,8864,S State St at Bragg St,,35.764358,-78.624681,,,,,,0
+820,8867,Peterson St at Carnage Dr,,35.79498,-78.612504,,,,,,0
+2934,8868,Knightdale Blvd at Farmwell Rd (WB),,35.796444,-78.527745,,,,,,0
+1743,8869,Beryl Rd at Arboretum EB,,35.794865,-78.699606,,,,,,0
+1734,8873,Enterprise St at Clark Ave,,35.789223,-78.664027,,,,,,0
+2936,8874,N New Hope Rd at Lake Woodard Dr,,35.80017,-78.56279,,,,,,0
+2937,8876,Glascock St at Ben Lloyd Dr,,35.792579,-78.616526,,,,,,0
+827,8881,S State St at Bragg St IB,,35.765269,-78.624592,,,,,,0
+828,8882,S State St at Martin Luther King Jr Blvd,,35.7953,-78.5627,,,,,,0
+829,8883,S State St at Tipton St,,35.79188,-78.56154,,,,,,0
+1745,8884,W Morgan St at Tryon Hill Dr,,35.780958,-78.655911,,,,,,0
+2940,8890,N New Hope Rd at Durach Rd SB,,35.7865,-78.56066,,,,,,0
+2941,8891,N New Hope Rd at Global St SB,,35.78159,-78.56213,,,,,,0
+835,8896,Martin Luther King Jr Blvd at East St,,35.768308,-78.632341,,,,,,0
+840,8903,Wake Tech Community College,,35.64921,-78.70593,,,,,,0
+2943,8906,Poole Rd at Williams Rd,,35.769202,-78.581335,,,,,,0
+2946,8929,Halifax St at W Franklin St IB,,35.790117,-78.638535,,,,,,0
+860,8930,Green Rd at Waterbury Rd,,35.77523,-78.56034,,,,,,0
+863,8934,Edwards Mill Rd at Parklake Ave (NB),,35.83663,-78.688551,,,,,,0
+864,8935,Edwards Mill Rd at Arckelton Dr,,35.838451,-78.686335,,,,,,0
+865,8936,Edwards Mill Rd at Crabtree Valley Ave,,35.838174,-78.682395,,,,,,0
+866,8937,Edwards Mill Rd at Sunrise Senior Center,,35.839172,-78.685392,,,,,,0
+867,8938,Edwards Mill Rd at Parklake Ave (SB),,35.836556,-78.688915,,,,,,0
+1753,8939,Bastion Ln at Maitland Dr,,35.797852,-78.58439,,,,,,0
+874,8946,W Davie St at S Dawson St,,35.7713,-78.5601,,,,,,0
+878,8950,S Wilmington St Service Rd at Sherwee Dr,,35.733671,-78.650271,,,,,,0
+880,8952,Falls of Neuse Rd at Durant Rd,,35.909581,-78.598934,,,,,,0
+905,8977,Edwards Mill Rd at Carriage Dr (SB),,35.831289,-78.700271,,,,,,0
+1798,8979,Edwards Mill Rd at Stablewood Dr,,35.838191,-78.681913,,,,,,0
+907,8980,Corporation Pkwy at New Hope Rd,,35.803144,-78.565436,,,,,,0
+2953,8985,Sunnybrook Rd at Holston Ln SB,,35.785028,-78.584264,,,,,,0
+2954,8986,Sunnybrook Rd at Holston Ln NB,,35.785215,-78.584194,,,,,,0
+2955,8987,Sunnybrook Rd at Calumet Dr SB,,35.786511,-78.586246,,,,,,0
+2956,8988,Poole Rd at Woodard St EB,,35.755387,-78.539052,,,,,,0
+2957,8989,Knightdale Blvd at Farmwell Rd (EB),,35.796625,-78.528823,,,,,,0
+918,9052,Athens Dr at Avent Ferry Rd - Athen,,35.769004,-78.709249,,,,,,0
+919,9053,Athens Dr at Smithdale Dr,,35.771778,-78.714074,,,,,,0
+920,9054,Athens Dr at Bouree Ct,,35.776621,-78.719609,,,,,,0
+921,9055,Jones Franklin Rd at Barringer Dr (North),,35.778304,-78.72166,,,,,,0
+922,9056,Jones Franklin Rd at Barringer Dr (South),,35.77517,-78.722158,,,,,,0
+923,9057,Fort Sumter Rd at Jones Franklin Rd,,35.772972,-78.723336,,,,,,0
+924,9058,Dana Dr at Fort Sumter Rd,,35.773989,-78.727323,,,,,,0
+925,9059,Dana Dr at Brook Hill Apts (across),,35.772203,-78.728143,,,,,,0
+926,9060,Buck Jones Rd at Bashford Rd,,35.776642,-78.73235,,,,,,0
+927,9061,Buck Jones Rd at Portree Pl,,35.779855,-78.729801,,,,,,0
+928,9062,Buck Jones Rd at Fieldspring Ln,,35.783427,-78.723776,,,,,,0
+929,9063,Jones Franklin Rd at Buck Jones Rd,,35.784154,-78.721795,,,,,,0
+930,9064,Western Blvd at Carolina Ave,,35.78636,-78.71653,,,,,,0
+932,9066,Western Blvd at Deboy St,,35.785869,-78.706524,,,,,,0
+933,9067,Western Blvd at Schaub Dr,,35.78492,-78.703665,,,,,,0
+934,9068,Schaub Dr at Sandlin Pl,,35.782846,-78.704069,,,,,,0
+937,9071,Deboy St at Driftwood Dr,,35.781916,-78.707784,,,,,,0
+939,9073,Kaplan Dr at Pineview Dr,,35.775089,-78.710624,,,,,,0
+940,9074,Kaplan Dr at Swallow Dr,,35.773131,-78.713834,,,,,,0
+1671,9076,Powell Dr at Huntingdon Dr,,35.778414,-78.713416,,,,,,0
+1672,9077,Melbourne Rd at Beltline,,35.777381,-78.709965,,,,,,0
+942,9089,Athens Dr at Jones Franklin Rd,,35.779064,-78.720941,,,,,,0
+943,9090,Athens Dr at Smithdale Dr IB,,35.771706,-78.714262,,,,,,0
+944,9091,Athens Dr at Pauls Rd (Lake Johnson),,35.770281,-78.711559,,,,,,0
+945,9092,Avent Ferry Rd at Lake Dam Rd,,35.766769,-78.705554,,,,,,0
+946,9093,Avent Ferry Rd at Crab Orchard Dr,,35.766744,-78.701034,,,,,,0
+1673,9094,Avent Ferry at Greek Way,,35.766917,-78.698378,,,,,,0
+1674,9095,Avent Ferry at Gorman St,,35.768028,-78.695094,,,,,,0
+961,9116,Green Rd at Hallmark Pl (SB),,35.846,-78.58726,,,,,,0
+976,9159,Martin Luther King Jr Blvd at Gregg St,,35.767854,-78.626747,,,,,,0
+984,9170,Oberlin Rd at Clark Ave,,35.789707,-78.663116,,,,,,0
+1009,9207,Bus Way at Poole Rd,,35.766871,-78.564037,,,,,,0
+2975,9210,S New Hope Rd at Trademark Dr SB,,35.76827,-78.55799,,,,,,0
+2976,9211,S New Hope Rd at Trademark Dr NB,,35.76649,-78.55795,,,,,,0
+2977,9212,S New Hope Rd at Rogers Ln NB,,35.77037,-78.55883,,,,,,0
+2978,9213,S New Hope Rd at Commodity Pkwy NB,,35.7749,-78.56011,,,,,,0
+2979,9214,N New Hope Rd at Global St NB,,35.781228,-78.562082,,,,,,0
+2980,9215,N New Hope Rd at Durach Rd NB,,35.78665,-78.56042,,,,,,0
+2981,9216,N New Hope Rd at Duke Energy NB,,35.79203,-78.56139,,,,,,0
+2982,9233,N New Hope Rd at Board of Elections NB,,35.79525,-78.56249,,,,,,0
+2983,9252,Gorman St at Kaplan Dr WB,,35.773046,-78.692817,,,,,,0
+2984,9254,Gorman St at Octavia St,,35.769264,-78.694288,,,,,,0
+1051,9282,Birch Ridge Dr at Rock Bridge Rd,,35.766668,-78.576963,,,,,,0
+2985,9304,Milburnie Rd at N Peartree Ln,,35.786871,-78.592213,,,,,,0
+1061,9305,1281 Cross Link Rd,,35.749512,-78.618412,,,,,,0
+1063,9308,Norman Pl at Buck Jones Rd,,35.775061,-78.732687,,,,,,0
+1064,9310,Edwards Mill Rd at Glen Eden Dr (NB),,35.833939,-78.697256,,,,,,0
+1069,9319,S State St at MLK Jr Blvd,,35.774326,-78.685709,,,,,,0
+1071,9321,Fort Sumter Rd at Dana Dr,,35.7742,-78.726319,,,,,,0
+1072,9322,Western Blvd at Jones Franklin Rd,,35.785215,-78.720693,,,,,,0
+1073,9323,Western Blvd at Pineland Cir (EB),,35.78644,-78.708943,,,,,,0
+1075,9325,Buck Jones Rd at Wilmot Dr,,35.78168,-78.726659,,,,,,0
+1076,9326,Dana Dr At Jefferies Rd,,35.769636,-78.729753,,,,,,0
+1087,9342,Conifer Dr at Gorman St,,35.77452,-78.68891,,,,,,0
+1097,9353,Cross Link Rd at Dandridge Dr,,35.746355,-78.622754,,,,,,0
+1100,9357,1515 Cross Link Rd (First Cosmopolitan Baptist Chu,,35.752961,-78.616132,,,,,,0
+1118,9381,Glascock St at State St,,35.792755,-78.620018,,,,,,0
+1120,9388,Edwards Mill Rd at Mill Village Rd,,35.83761,-78.69096,,,,,,0
+1121,9389,Edwards Mill Rd at Laurel Hills Rd (north),,35.834966,-78.695633,,,,,,0
+1124,9393,Poplar St at N Blount St,,35.795674,-78.635284,,,,,,0
+1133,9405,Sunnybrook Rd at Sungate Blvd,,35.776555,-78.583428,,,,,,0
+1138,9412,Green Rd at Calvary Dr,,35.845941,-78.58691,,,,,,0
+1145,9420,Poplar St at Mordecai St,,35.794532,-78.632673,,,,,,0
+1158,9448,Barksdale Dr at Raleigh Blvd,,35.802472,-78.608052,,,,,,0
+1187,9501,Lead Mine Rd at Charles Dr,,35.841287,-78.67425,,,,,,0
+1201,9527,Spring Forest Rd at Meadowview Dr (EB),,35.868116,-78.611075,,,,,,0
+1239,9599,Athers Dr at Athena Woods Ln,,35.770886,-78.712272,,,,,,0
+1243,9603,Lead Mine Rd at Belsay Dr,,35.85329,-78.672459,,,,,,0
+1249,9611,Martin Luther King Jr Blvd at Holmes St (WB),,35.768008,-78.628448,,,,,,0
+1253,9615,Athens Dr at Kaplan Dr,,35.773164,-78.715159,,,,,,0
+1254,9616,Athens Dr at Hailey Dr,,35.775559,-78.718037,,,,,,0
+1255,9617,Athens Dr at Avent Ferry Rd (Athens Drive High Sch,,35.768974,-78.709439,,,,,,0
+1269,9634,Brentwood Rd at Stony Brook Dr,,35.817262,-78.59496,,,,,,0
+1270,9635,Brentwood Rd at Capital Blvd,,35.817972,-78.595188,,,,,,0
+1331,9710,Maywood Ave at Herring St,,35.761313,-78.656913,,,,,,0
+1333,9718,Glascock St at Benjamin St,,35.793153,-78.63112,,,,,,0
+1340,9727,Lenoir St at Bloodworth St,,35.77276,-78.633473,,,,,,0
+1351,9742,W Davie St at Fayetteville St,,35.8007,-78.608636,,,,,,0
+1356,9749,Edwards Mill Rd at Blueberry St,,35.828383,-78.702651,,,,,,0
+1357,9751,Edwards Mill Rd at Glen Laurel Dr (Stough Elementa,,35.836836,-78.691955,,,,,,0
+1358,9753,Edwards Mill Rd at Glen Eden Dr (SB),,35.833204,-78.698472,,,,,,0
+1359,9754,Edwards Mill Rd at Carriage Dr (Laurel Hills Park),,35.830859,-78.700375,,,,,,0
+1360,9755,Edwards Mill Rd at Laurel Hills Rd (south),,35.828273,-78.702982,,,,,,0
+1369,9766,Lake Wheeler Rd at Stewart Dr,,35.74572,-78.67709,,,,,,0
+1372,9769,Macaw St at Brier Creek Pkwy,,35.905487,-78.783672,,,,,,0
+1403,9811,Avent Ferry Rd at Varsity Dr,,35.775709,-78.680446,,,,,,0

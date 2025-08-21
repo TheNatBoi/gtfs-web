@@ -1,0 +1,17 @@
+0411,New Flyer D40LF,2005,Diesel,https://cptdb.ca/wiki/index.php/Hamilton_Street_Railway_0411
+1001-1015,New Flyer D40LF,2010,Diesel,https://cptdb.ca/wiki/index.php/Hamilton_Street_Railway_1001-1015
+1101-1117,New Flyer XD40,2012,Diesel,https://cptdb.ca/wiki/index.php/Hamilton_Street_Railway_1101-1117
+1201-1224,New Flyer XD40,2012,Diesel,https://cptdb.ca/wiki/index.php/Hamilton_Street_Railway_1201-1224
+1420-1437,New Flyer XN60,2015,CNG,https://cptdb.ca/wiki/index.php/Hamilton_Street_Railway_1420-1437
+1501-1524,Nova Bus LFS Natural Gas,2015,CNG,https://cptdb.ca/wiki/index.php/Hamilton_Street_Railway_1501-1524
+1601-1643,Nova Bus LFS Natural Gas,2016,CNG,https://cptdb.ca/wiki/index.php/Hamilton_Street_Railway_1601-1643
+1701-1719,Nova Bus LFS Natural Gas,2018,CNG,https://cptdb.ca/wiki/index.php/Hamilton_Street_Railway_1701-1719
+1801-1811,Nova Bus LFS Natural Gas,2018,CNG,https://cptdb.ca/wiki/index.php/Hamilton_Street_Railway_1801-1811
+1820-1830,New Flyer XN60,2018,CNG,https://cptdb.ca/wiki/index.php/Hamilton_Street_Railway_1820-1830
+1840-1844,Grande West Vicinity CNG,2018,CNG,https://cptdb.ca/wiki/index.php/Hamilton_Street_Railway_1840-1844
+1845-1850,Grande West Vicinity CNG,2019,CNG,https://cptdb.ca/wiki/index.php/Hamilton_Street_Railway_1845-1850
+2101-2120,Nova Bus LFS Natural Gas,2022,CNG,https://cptdb.ca/wiki/index.php/Hamilton_Street_Railway_2101-2120
+2201-2231,Nova Bus LFS Natural Gas,2022,CNG,https://cptdb.ca/wiki/index.php/Hamilton_Street_Railway_2201-2231
+2251-2292,Nova Bus LFS Natural Gas,2023,CNG,https://cptdb.ca/wiki/index.php/Hamilton_Street_Railway_2251-2292
+2301-2314,Nova Bus LFS Natural Gas,2024,CNG,https://cptdb.ca/wiki/index.php/Hamilton_Street_Railway_2301-2314
+2351-2370,New Flyer XN60,2023,CNG,https://cptdb.ca/wiki/index.php/Hamilton_Street_Railway_2351-2370

@@ -1,0 +1,7 @@
+route_long_name,route_type,route_text_color,route_color,agency_id,route_id,route_url,route_desc,route_short_name
+Bustang West Line,3,000000,14A9E1,CDOT,WEST,https://www.ridebustang.com/,This Route Travels Eastbound & Westbound,West
+Bustang Snowstang,3,000000,14A9E1,CDOT,SNOW,https://www.ridebustang.com/,This Route Travels Eastbound & Westbound,Snow
+Bustang Pegasus,3,000000,00BFE1,CDOT,PEGA,https://www.ridebustang.com/,This Route Travels Eastbound & Westbound,Pegasus
+Bustang South Line,3,000000,EC892D,CDOT,SOUT,https://www.ridebustang.com/,This Route Travels Northbound & Southbound,South
+Bustang Estes Park Line,3,000000,817350,CDOT,ESTS,https://www.ridebustang.com/,This Route Travels Eastbound & Westbound,Estes
+Bustang North Line,3,000000,43B024,CDOT,NRTH,https://www.ridebustang.com/,This Route Travels Northbound & Southbound,North

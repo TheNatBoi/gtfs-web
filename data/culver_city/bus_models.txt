@@ -1,0 +1,6 @@
+7106-7111,New Flyer C40LFR,2009,CNG,https://cptdb.ca/wiki/index.php/Culver_CityBus_7106-7111
+7112-7115,New Flyer XN40,2011,CNG,https://cptdb.ca/wiki/index.php/Culver_CityBus_7112-7131
+7116-7131,New Flyer XN40,2012,CNG,https://cptdb.ca/wiki/index.php/Culver_CityBus_7112-7131
+7132-7137,New Flyer XN40,2014,CNG,https://cptdb.ca/wiki/index.php/Culver_CityBus_7132-7137
+7138-7155,New Flyer XN40,2016,CNG,https://cptdb.ca/wiki/index.php/Culver_CityBus_7138-7155
+7156-7161,New Flyer XE40,2021,Electric,https://cptdb.ca/wiki/index.php/Culver_CityBus_7156-7161

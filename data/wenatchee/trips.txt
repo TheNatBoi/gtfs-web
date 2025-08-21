@@ -1,0 +1,2537 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+1,18,t211-b641-sl12,"Columbia Station via Wenatchee Ave",1,1601,11680_shp,0,0
+1,18,t22A-b641-sl12,"Walmart via Wenatchee Ave",0,1601,11684_shp,0,0
+1,18,t261-b641-sl12,"Columbia Station via Wenatchee Ave",1,1601,11680_shp,0,0
+1,18,t27F-b642-sl12,"Columbia Station via Wenatchee Ave",1,1602,11680_shp,0,0
+1,18,t28E-b641-sl12,"Walmart via Wenatchee Ave",0,1601,11684_shp,0,0
+1,18,t2C5-b641-sl12,"Columbia Station via Wenatchee Ave",1,1601,11680_shp,0,0
+1,18,t2D4-b642-sl12,"Walmart via Wenatchee Ave",0,1602,11684_shp,0,0
+1,18,t2E3-b642-sl12,"Columbia Station via Wenatchee Ave",1,1602,11680_shp,0,0
+1,18,t2F2-b641-sl12,"Walmart via Wenatchee Ave",0,1601,11684_shp,0,0
+1,18,t329-b641-sl12,"Columbia Station via Wenatchee Ave",1,1601,11680_shp,0,0
+1,18,t338-b642-sl12,"Walmart via Wenatchee Ave",0,1602,11684_shp,0,0
+1,18,t347-b642-sl12,"Columbia Station via Wenatchee Ave",1,1602,11680_shp,0,0
+1,18,t355-b641-sl12,"Walmart via Wenatchee Ave",0,1601,11684_shp,0,0
+1,18,t38D-b641-sl12,"Columbia Station via Wenatchee Ave",1,1601,11680_shp,0,0
+1,18,t39B-b642-sl12,"Walmart via Wenatchee Ave",0,1602,11684_shp,0,0
+1,18,t3AB-b642-sl12,"Columbia Station via Wenatchee Ave",1,1602,11680_shp,0,0
+1,18,t3B9-b641-sl12,"Walmart via Wenatchee Ave",0,1601,11684_shp,0,0
+1,18,t3F1-b641-sl12,"Columbia Station via Wenatchee Ave",1,1601,11680_shp,0,0
+1,18,t3FF-b642-sl12,"Walmart via Wenatchee Ave",0,1602,11684_shp,0,0
+1,18,t40F-b642-sl12,"Columbia Station via Wenatchee Ave",1,1602,11680_shp,0,0
+1,18,t41D-b641-sl12,"Walmart via Wenatchee Ave",0,1601,11684_shp,0,0
+1,18,t455-b641-sl12,"Columbia Station via Wenatchee Ave",1,1601,11680_shp,0,0
+1,18,t465-b642-sl12,"Walmart via Wenatchee Ave",0,1602,11684_shp,0,0
+1,18,t476-b642-sl12,"Columbia Station via Wenatchee Ave",1,1602,11680_shp,0,0
+1,18,t483-b641-sl12,"Walmart via Wenatchee Ave",0,1601,11684_shp,0,0
+1,18,t4BC-b641-sl12,"Columbia Station via Wenatchee Ave",1,1601,11680_shp,0,0
+1,18,t4C9-b642-sl12,"Walmart via Wenatchee Ave",0,1602,11684_shp,0,0
+1,18,t4DA-b642-sl12,"Columbia Station via Wenatchee Ave",1,1602,11680_shp,0,0
+1,18,t4E7-b641-sl12,"Walmart via Wenatchee Ave",0,1601,11684_shp,0,0
+1,18,t520-b641-sl12,"Columbia Station via Wenatchee Ave",1,1601,11680_shp,0,0
+1,18,t52E-b642-sl12,"Walmart via Wenatchee Ave",0,1602,11684_shp,0,0
+1,18,t53E-b642-sl12,"Columbia Station via Wenatchee Ave",1,1602,11680_shp,0,0
+1,18,t54C-b641-sl12,"Walmart via Wenatchee Ave",0,1601,11684_shp,0,0
+1,18,t584-b641-sl12,"Columbia Station via Wenatchee Ave",1,1601,11680_shp,0,0
+1,18,t592-b642-sl12,"Walmart via Wenatchee Ave",0,1602,11684_shp,0,0
+1,18,t5A2-b642-sl12,"Columbia Station via Wenatchee Ave",1,1602,11680_shp,0,0
+1,18,t5B0-b641-sl12,"Walmart via Wenatchee Ave",0,1601,11684_shp,0,0
+1,18,t5E8-b641-sl12,"Columbia Station via Wenatchee Ave",1,1601,11680_shp,0,0
+1,18,t5F7-b642-sl12,"Walmart via Wenatchee Ave",0,1602,11684_shp,0,0
+1,18,t607-b642-sl12,"Columbia Station via Wenatchee Ave",1,1602,11680_shp,0,0
+1,18,t615-b641-sl12,"Walmart via Wenatchee Ave",0,1601,11684_shp,0,0
+1,18,t64D-b641-sl12,"Columbia Station via Wenatchee Ave",1,1601,11680_shp,0,0
+1,18,t65B-b642-sl12,"Walmart via Wenatchee Ave",0,1602,11684_shp,0,0
+1,18,t66B-b642-sl12,"Columbia Station via Wenatchee Ave",1,1602,11680_shp,0,0
+1,18,t679-b641-sl12,"Walmart via Wenatchee Ave",0,1601,11684_shp,0,0
+1,18,t6B1-b641-sl12,"Columbia Station via Wenatchee Ave",1,1601,11680_shp,0,0
+1,18,t6BF-b642-sl12,"Walmart via Wenatchee Ave",0,1602,11684_shp,0,0
+1,18,t6CE-b642-sl12,"Columbia Station via Wenatchee Ave",1,1602,11680_shp,0,0
+1,18,t6DD-b641-sl12,"Walmart via Wenatchee Ave",0,1601,11684_shp,0,0
+1,18,t714-b641-sl12,"Columbia Station via Wenatchee Ave",1,1601,11680_shp,0,0
+1,18,t720-b642-sl12,"Walmart via Wenatchee Ave",0,1602,11684_shp,0,0
+1,18,t72F-b642-sl12,"Columbia Station via Wenatchee Ave",1,1602,11680_shp,0,0
+1,18,t784-b642-sl12,"Walmart via Wenatchee Ave",0,1602,11684_shp,0,0
+1,18,t793-b642-sl12,"Columbia Station via Wenatchee Ave",1,1602,11680_shp,0,0
+1,18,t7E8-b642-sl12,"Walmart via Wenatchee Ave",0,1602,11684_shp,0,0
+1,18,t7F7-b642-sl12,"Columbia Station via Wenatchee Ave",1,1602,11680_shp,0,0
+1,18,t84C-b642-sl12,"Walmart via Wenatchee Ave",0,1602,11684_shp,0,0
+1,19,t2E5-b5462-sl13,"Columbia Station via Wenatchee Ave",1,21602,11681_shp,0,0
+1,19,t339-b5462-sl13,"Walmart via Wenatchee Ave",0,21602,11685_shp,0,0
+1,19,t349-b5462-sl13,"Columbia Station via Wenatchee Ave",1,21602,11681_shp,0,0
+1,19,t39D-b5462-sl13,"Walmart via Wenatchee Ave",0,21602,11685_shp,0,0
+1,19,t3AD-b5462-sl13,"Columbia Station via Wenatchee Ave",1,21602,11681_shp,0,0
+1,19,t401-b5462-sl13,"Walmart via Wenatchee Ave",0,21602,11685_shp,0,0
+1,19,t411-b5462-sl13,"Columbia Station via Wenatchee Ave",1,21602,11681_shp,0,0
+1,19,t465-b5462-sl13,"Walmart via Wenatchee Ave",0,21602,11685_shp,0,0
+1,19,t475-b5462-sl13,"Columbia Station via Wenatchee Ave",1,21602,11681_shp,0,0
+1,19,t4C9-b5600-sl13,"Walmart via Wenatchee Ave",0,22016,11685_shp,0,0
+1,19,t4D9-b5600-sl13,"Columbia Station via Wenatchee Ave",1,22016,11681_shp,0,0
+1,19,t52D-b5600-sl13,"Walmart via Wenatchee Ave",0,22016,11685_shp,0,0
+1,19,t53D-b5600-sl13,"Columbia Station via Wenatchee Ave",1,22016,11681_shp,0,0
+1,19,t591-b5600-sl13,"Walmart via Wenatchee Ave",0,22016,11685_shp,0,0
+1,19,t5A1-b5600-sl13,"Columbia Station via Wenatchee Ave",1,22016,11681_shp,0,0
+1,19,t5F5-b5600-sl13,"Walmart via Wenatchee Ave",0,22016,11685_shp,0,0
+1,19,t605-b5600-sl13,"Columbia Station via Wenatchee Ave",1,22016,11681_shp,0,0
+1,19,t659-b5600-sl13,"Walmart via Wenatchee Ave",0,22016,11685_shp,0,0
+1,19,t669-b5600-sl13,"Columbia Station via Wenatchee Ave",1,22016,11681_shp,0,0
+1,19,t6BD-b5600-sl13,"Walmart via Wenatchee Ave",0,22016,11685_shp,0,0
+1,20,t3AD-b7531-sl14,"Columbia Station via Wenatchee Ave",1,30001,11682_shp,0,0
+1,20,t401-b7531-sl14,"Walmart via Wenatchee Ave",0,30001,11686_shp,0,0
+1,20,t411-b7531-sl14,"Columbia Station via Wenatchee Ave",1,30001,11682_shp,0,0
+1,20,t465-b7531-sl14,"Walmart via Wenatchee Ave",0,30001,11686_shp,0,0
+1,20,t475-b7531-sl14,"Columbia Station via Wenatchee Ave",1,30001,11682_shp,0,0
+1,20,t4C9-b7531-sl14,"Walmart via Wenatchee Ave",0,30001,11686_shp,0,0
+1,20,t4D9-b7531-sl14,"Columbia Station via Wenatchee Ave",1,30001,11682_shp,0,0
+1,20,t52D-b7531-sl14,"Walmart via Wenatchee Ave",0,30001,11686_shp,0,0
+1,20,t53D-b7531-sl14,"Columbia Station via Wenatchee Ave",1,30001,11682_shp,0,0
+1,20,t591-b7531-sl14,"Walmart via Wenatchee Ave",0,30001,11686_shp,0,0
+1,20,t5A1-b7531-sl14,"Columbia Station via Wenatchee Ave",1,30001,11682_shp,0,0
+1,20,t5F5-b7531-sl14,"Walmart via Wenatchee Ave",0,30001,11686_shp,0,0
+1,20,t605-b7531-sl14,"Columbia Station via Wenatchee Ave",1,30001,11682_shp,0,0
+1,20,t659-b7531-sl14,"Walmart via Wenatchee Ave",0,30001,11686_shp,0,0
+1,20,t669-b7531-sl14,"Columbia Station via Wenatchee Ave",1,30001,11682_shp,0,0
+1,20,t6BD-b7531-sl14,"Walmart via Wenatchee Ave",0,30001,11686_shp,0,0
+1,40,t3AD-b14124-sl28,"Columbia Station via Wenatchee Ave",1,82212,11343_shp,0,0
+1,40,t401-b14124-sl28,"Walmart via Wenatchee Ave",0,82212,11369_shp,0,0
+1,40,t411-b14124-sl28,"Columbia Station via Wenatchee Ave",1,82212,11343_shp,0,0
+1,40,t465-b14124-sl28,"Walmart via Wenatchee Ave",0,82212,11369_shp,0,0
+1,40,t475-b14124-sl28,"Columbia Station via Wenatchee Ave",1,82212,11343_shp,0,0
+1,40,t4C9-b14124-sl28,"Walmart via Wenatchee Ave",0,82212,11369_shp,0,0
+1,40,t4D9-b14124-sl28,"Columbia Station via Wenatchee Ave",1,82212,11343_shp,0,0
+1,40,t52D-b14124-sl28,"Walmart via Wenatchee Ave",0,82212,11369_shp,0,0
+1,40,t53D-b14124-sl28,"Columbia Station via Wenatchee Ave",1,82212,11343_shp,0,0
+1,40,t591-b14124-sl28,"Walmart via Wenatchee Ave",0,82212,11369_shp,0,0
+1,40,t5A1-b14124-sl28,"Columbia Station via Wenatchee Ave",1,82212,11343_shp,0,0
+1,40,t5F5-b14124-sl28,"Walmart via Wenatchee Ave",0,82212,11369_shp,0,0
+1,40,t605-b14124-sl28,"Columbia Station via Wenatchee Ave",1,82212,11343_shp,0,0
+1,40,t659-b14124-sl28,"Walmart via Wenatchee Ave",0,82212,11369_shp,0,0
+1,40,t669-b14124-sl28,"Columbia Station via Wenatchee Ave",1,82212,11343_shp,0,0
+1,40,t6BD-b14124-sl28,"Walmart via Wenatchee Ave",0,82212,11369_shp,0,0
+1,43,t2E5-bF0A2-sl2B,"Columbia Station via Wenatchee Ave",1,61602,11444_shp,0,0
+1,43,t339-bF0A2-sl2B,"Walmart via Wenatchee Ave",0,61602,11486_shp,0,0
+1,43,t349-bF0A2-sl2B,"Columbia Station via Wenatchee Ave",1,61602,11444_shp,0,0
+1,43,t39D-bF0A2-sl2B,"Walmart via Wenatchee Ave",0,61602,11486_shp,0,0
+1,43,t3AD-bF0A2-sl2B,"Columbia Station via Wenatchee Ave",1,61602,11444_shp,0,0
+1,43,t401-bF0A2-sl2B,"Walmart via Wenatchee Ave",0,61602,11486_shp,0,0
+1,43,t411-bF0A2-sl2B,"Columbia Station via Wenatchee Ave",1,61602,11444_shp,0,0
+1,43,t465-bF0A2-sl2B,"Walmart via Wenatchee Ave",0,61602,11486_shp,0,0
+1,43,t475-bF0A2-sl2B,"Columbia Station via Wenatchee Ave",1,61602,11444_shp,0,0
+1,43,t4C9-bF240-sl2B,"Walmart via Wenatchee Ave",0,62016,11486_shp,0,0
+1,43,t4D9-bF240-sl2B,"Columbia Station via Wenatchee Ave",1,62016,11444_shp,0,0
+1,43,t52D-bF240-sl2B,"Walmart via Wenatchee Ave",0,62016,11486_shp,0,0
+1,43,t53D-bF240-sl2B,"Columbia Station via Wenatchee Ave",1,62016,11444_shp,0,0
+1,43,t591-bF240-sl2B,"Walmart via Wenatchee Ave",0,62016,11486_shp,0,0
+1,43,t5A1-bF240-sl2B,"Columbia Station via Wenatchee Ave",1,62016,11444_shp,0,0
+1,43,t5F5-bF240-sl2B,"Walmart via Wenatchee Ave",0,62016,11486_shp,0,0
+1,43,t605-bF240-sl2B,"Columbia Station via Wenatchee Ave",1,62016,11444_shp,0,0
+1,43,t659-bF240-sl2B,"Walmart via Wenatchee Ave",0,62016,11486_shp,0,0
+1,43,t669-bF240-sl2B,"Columbia Station via Wenatchee Ave",1,62016,11444_shp,0,0
+1,43,t6BD-bF240-sl2B,"Walmart via Wenatchee Ave",0,62016,11486_shp,0,0
+2,18,t22A-b7D1-sl12,"East Wenatchee Ave via Downtown/Mall",1,2001,11679_shp,0,0
+2,18,t258-b7D2-sl12,"Walmart via Downtown",0,2002,11676_shp,0,0
+2,18,t270-b7D2-sl12,"East Wenatchee Ave via Downtown/Mall",1,2002,11679_shp,0,0
+2,18,t276-b7D1-sl12,"Walmart via Downtown",0,2001,11676_shp,0,0
+2,18,t28E-b7D1-sl12,"East Wenatchee Ave via Downtown/Mall",1,2001,11679_shp,0,0
+2,18,t2BC-b7D2-sl12,"Walmart via Downtown",0,2002,11676_shp,0,0
+2,18,t2D4-b7D2-sl12,"East Wenatchee Ave via Downtown/Mall",1,2002,11679_shp,0,0
+2,18,t2DA-b7D1-sl12,"Walmart via Downtown",0,2001,11676_shp,0,0
+2,18,t2F2-b7D1-sl12,"East Wenatchee Ave via Downtown/Mall",1,2001,11679_shp,0,0
+2,18,t320-b7D2-sl12,"Walmart via Downtown",0,2002,11676_shp,0,0
+2,18,t338-b7D2-sl12,"East Wenatchee Ave via Downtown/Mall",1,2002,11679_shp,0,0
+2,18,t33E-b7D1-sl12,"Walmart via Downtown",0,2001,11676_shp,0,0
+2,18,t356-b7D1-sl12,"East Wenatchee Ave via Downtown/Mall",1,2001,11679_shp,0,0
+2,18,t384-b7D2-sl12,"Walmart via Downtown",0,2002,11676_shp,0,0
+2,18,t39C-b7D2-sl12,"East Wenatchee Ave via Downtown/Mall",1,2002,11679_shp,0,0
+2,18,t3A2-b7D1-sl12,"Walmart via Downtown",0,2001,11676_shp,0,0
+2,18,t3BA-b7D1-sl12,"East Wenatchee Ave via Downtown/Mall",1,2001,11679_shp,0,0
+2,18,t3E8-b7D2-sl12,"Walmart via Downtown",0,2002,11676_shp,0,0
+2,18,t400-b7D2-sl12,"East Wenatchee Ave via Downtown/Mall",1,2002,11679_shp,0,0
+2,18,t406-b7D1-sl12,"Walmart via Downtown",0,2001,11676_shp,0,0
+2,18,t41E-b7D5-sl12,"East Wenatchee Ave via Downtown/Mall",1,2005,11679_shp,0,0
+2,18,t44C-b7D2-sl12,"Walmart via Downtown",0,2002,11676_shp,0,0
+2,18,t464-b7D2-sl12,"East Wenatchee Ave via Downtown/Mall",1,2002,11679_shp,0,0
+2,18,t46A-b7D5-sl12,"Walmart via Downtown",0,2005,11676_shp,0,0
+2,18,t485-b7D5-sl12,"East Wenatchee Ave via Downtown/Mall",1,2005,11679_shp,0,0
+2,18,t4B0-b7D3-sl12,"Walmart via Downtown",0,2003,11676_shp,0,0
+2,18,t4CB-b7D3-sl12,"East Wenatchee Ave via Downtown/Mall",1,2003,11679_shp,0,0
+2,18,t4CE-b7D2-sl12,"Walmart via Downtown",0,2002,11676_shp,0,0
+2,18,t4E9-b7D2-sl12,"East Wenatchee Ave via Downtown/Mall",1,2002,11679_shp,0,0
+2,18,t514-b7D5-sl12,"Walmart via Downtown",0,2005,11676_shp,0,0
+2,18,t52F-b7D5-sl12,"East Wenatchee Ave via Downtown/Mall",1,2005,11679_shp,0,0
+2,18,t532-b7D3-sl12,"Walmart via Downtown",0,2003,11676_shp,0,0
+2,18,t54D-b7D3-sl12,"East Wenatchee Ave via Downtown/Mall",1,2003,11679_shp,0,0
+2,18,t578-b7D2-sl12,"Walmart via Downtown",0,2002,11676_shp,0,0
+2,18,t593-b7D2-sl12,"East Wenatchee Ave via Downtown/Mall",1,2002,11679_shp,0,0
+2,18,t596-b7D5-sl12,"Walmart via Downtown",0,2005,11676_shp,0,0
+2,18,t5B1-b7D5-sl12,"East Wenatchee Ave via Downtown/Mall",1,2005,11679_shp,0,0
+2,18,t5DC-b7D3-sl12,"Walmart via Downtown",0,2003,11676_shp,0,0
+2,18,t5F7-b7D3-sl12,"East Wenatchee Ave via Downtown/Mall",1,2003,11679_shp,0,0
+2,18,t5FA-b7D2-sl12,"Walmart via Downtown",0,2002,11676_shp,0,0
+2,18,t616-b7D2-sl12,"East Wenatchee Ave via Downtown/Mall",1,2002,11679_shp,0,0
+2,18,t640-b7D5-sl12,"Walmart via Downtown",0,2005,11676_shp,0,0
+2,18,t65C-b7D5-sl12,"East Wenatchee Ave via Downtown/Mall",1,2005,11679_shp,0,0
+2,18,t65E-b7D2-sl12,"Walmart via Downtown",0,2002,11676_shp,0,0
+2,18,t67A-b7D2-sl12,"East Wenatchee Ave via Downtown/Mall",1,2002,11679_shp,0,0
+2,18,t6A4-b7D5-sl12,"Walmart via Downtown",0,2005,11676_shp,0,0
+2,18,t6C0-b7D5-sl12,"East Wenatchee Ave via Downtown/Mall",1,2005,11679_shp,0,0
+2,18,t6C2-b7D2-sl12,"Walmart via Downtown",0,2002,11676_shp,0,0
+2,18,t6DD-b7D2-sl12,"East Wenatchee Ave via Downtown/Mall",1,2002,11679_shp,0,0
+2,18,t708-b7D5-sl12,"Walmart via Downtown",0,2005,11676_shp,0,0
+2,18,t723-b7D5-sl12,"East Wenatchee Ave via Downtown/Mall",1,2005,11679_shp,0,0
+2,18,t735-b7D2-sl12,"Walmart via Downtown",0,2002,11676_shp,0,0
+2,18,t775-b7D2-sl12,"East Wenatchee Ave via Downtown/Mall",1,2002,11679_shp,0,0
+2,18,t799-b7D2-sl12,"Walmart via Downtown",0,2002,11676_shp,0,0
+2,18,t7D9-b7D2-sl12,"East Wenatchee Ave via Downtown/Mall",1,2002,11679_shp,0,0
+2,18,t7FD-b7D2-sl12,"Walmart via Downtown",0,2002,11676_shp,0,0
+2,19,t2C7-b5600-sl13,"East Wenatchee Ave via Downtown/Mall",1,22016,11674_shp,0,0
+2,19,t2E9-b5600-sl13,"Walmart via Downtown",0,22016,11677_shp,0,0
+2,19,t32B-b5600-sl13,"East Wenatchee Ave via Downtown/Mall",1,22016,11674_shp,0,0
+2,19,t34D-b5600-sl13,"Walmart via Downtown",0,22016,11677_shp,0,0
+2,19,t38F-b5600-sl13,"East Wenatchee Ave via Downtown/Mall",1,22016,11674_shp,0,0
+2,19,t3B1-b5600-sl13,"Walmart via Downtown",0,22016,11677_shp,0,0
+2,19,t3F3-b5600-sl13,"East Wenatchee Ave via Downtown/Mall",1,22016,11674_shp,0,0
+2,19,t415-b5600-sl13,"Walmart via Downtown",0,22016,11677_shp,0,0
+2,19,t457-b5600-sl13,"East Wenatchee Ave via Downtown/Mall",1,22016,11674_shp,0,0
+2,19,t479-b5600-sl13,"Walmart via Downtown",0,22016,11677_shp,0,0
+2,19,t4BB-b5600-sl13,"East Wenatchee Ave via Downtown/Mall",1,22016,11672_shp,0,0
+2,19,t4C8-b5462-sl13,"East Wenatchee Ave via Downtown/Mall",1,21602,11673_shp,0,0
+2,19,t4DD-b5462-sl13,"Walmart via Downtown",0,21602,11677_shp,0,0
+2,19,t51F-b5462-sl13,"East Wenatchee Ave via Downtown/Mall",1,21602,11674_shp,0,0
+2,19,t541-b5462-sl13,"Walmart via Downtown",0,21602,11677_shp,0,0
+2,19,t583-b5462-sl13,"East Wenatchee Ave via Downtown/Mall",1,21602,11674_shp,0,0
+2,19,t5A5-b5462-sl13,"Walmart via Downtown",0,21602,11677_shp,0,0
+2,19,t5E7-b5462-sl13,"East Wenatchee Ave via Downtown/Mall",1,21602,11674_shp,0,0
+2,19,t609-b5462-sl13,"Walmart via Downtown",0,21602,11677_shp,0,0
+2,19,t64B-b5462-sl13,"East Wenatchee Ave via Downtown/Mall",1,21602,11674_shp,0,0
+2,19,t66D-b5462-sl13,"Walmart via Downtown",0,21602,11677_shp,0,0
+2,19,t6AF-b5462-sl13,"East Wenatchee Ave via Downtown/Mall",1,21602,11674_shp,0,0
+2,19,t6D1-b5462-sl13,"Walmart via Downtown",0,21602,11677_shp,0,0
+2,20,t38F-b7532-sl14,"East Wenatchee Ave via Downtown/Mall",1,30002,11675_shp,0,0
+2,20,t3B1-b7532-sl14,"Walmart via Downtown",0,30002,11678_shp,0,0
+2,20,t3F3-b7532-sl14,"East Wenatchee Ave via Downtown/Mall",1,30002,11675_shp,0,0
+2,20,t415-b7532-sl14,"Walmart via Downtown",0,30002,11678_shp,0,0
+2,20,t457-b7532-sl14,"East Wenatchee Ave via Downtown/Mall",1,30002,11675_shp,0,0
+2,20,t479-b7532-sl14,"Walmart via Downtown",0,30002,11678_shp,0,0
+2,20,t4BB-b7532-sl14,"East Wenatchee Ave via Downtown/Mall",1,30002,11675_shp,0,0
+2,20,t4DD-b7532-sl14,"Walmart via Downtown",0,30002,11678_shp,0,0
+2,20,t51F-b7532-sl14,"East Wenatchee Ave via Downtown/Mall",1,30002,11675_shp,0,0
+2,20,t541-b7532-sl14,"Walmart via Downtown",0,30002,11678_shp,0,0
+2,20,t583-b7532-sl14,"East Wenatchee Ave via Downtown/Mall",1,30002,11675_shp,0,0
+2,20,t5A5-b7532-sl14,"Walmart via Downtown",0,30002,11678_shp,0,0
+2,20,t5E7-b7532-sl14,"East Wenatchee Ave via Downtown/Mall",1,30002,11675_shp,0,0
+2,20,t609-b7532-sl14,"Walmart via Downtown",0,30002,11678_shp,0,0
+2,20,t64B-b7532-sl14,"East Wenatchee Ave via Downtown/Mall",1,30002,11675_shp,0,0
+2,20,t66D-b7532-sl14,"Walmart via Downtown",0,30002,11678_shp,0,0
+2,20,t6AF-b7532-sl14,"East Wenatchee Ave via Downtown/Mall",1,30002,11675_shp,0,0
+2,20,t6D1-b7532-sl14,"Walmart via Downtown",0,30002,11678_shp,0,0
+2,40,t38F-b14125-sl28,"East Wenatchee Ave via Downtown/Mall",1,82213,11350_shp,0,0
+2,40,t3B1-b14125-sl28,"Walmart via Downtown",0,82213,11368_shp,0,0
+2,40,t3F3-b14125-sl28,"East Wenatchee Ave via Downtown/Mall",1,82213,11350_shp,0,0
+2,40,t415-b14125-sl28,"Walmart via Downtown",0,82213,11368_shp,0,0
+2,40,t457-b14125-sl28,"East Wenatchee Ave via Downtown/Mall",1,82213,11350_shp,0,0
+2,40,t479-b14125-sl28,"Walmart via Downtown",0,82213,11368_shp,0,0
+2,40,t4BB-b14125-sl28,"East Wenatchee Ave via Downtown/Mall",1,82213,11350_shp,0,0
+2,40,t4DD-b14125-sl28,"Walmart via Downtown",0,82213,11368_shp,0,0
+2,40,t51F-b14125-sl28,"East Wenatchee Ave via Downtown/Mall",1,82213,11350_shp,0,0
+2,40,t541-b14125-sl28,"Walmart via Downtown",0,82213,11368_shp,0,0
+2,40,t583-b14125-sl28,"East Wenatchee Ave via Downtown/Mall",1,82213,11350_shp,0,0
+2,40,t5A5-b14125-sl28,"Walmart via Downtown",0,82213,11368_shp,0,0
+2,40,t5E7-b14125-sl28,"East Wenatchee Ave via Downtown/Mall",1,82213,11350_shp,0,0
+2,40,t609-b14125-sl28,"Walmart via Downtown",0,82213,11368_shp,0,0
+2,40,t64B-b14125-sl28,"East Wenatchee Ave via Downtown/Mall",1,82213,11350_shp,0,0
+2,40,t66D-b14125-sl28,"Walmart via Downtown",0,82213,11368_shp,0,0
+2,40,t6AF-b14125-sl28,"East Wenatchee Ave via Downtown/Mall",1,82213,11350_shp,0,0
+2,40,t6D1-b14125-sl28,"Walmart via Downtown",0,82213,11368_shp,0,0
+2,43,t2C7-bF240-sl2B,"East Wenatchee Ave via Downtown/Mall",1,62016,11450_shp,0,0
+2,43,t2E9-bF240-sl2B,"Walmart via Downtown",0,62016,11485_shp,0,0
+2,43,t32B-bF240-sl2B,"East Wenatchee Ave via Downtown/Mall",1,62016,11450_shp,0,0
+2,43,t34D-bF240-sl2B,"Walmart via Downtown",0,62016,11485_shp,0,0
+2,43,t38F-bF240-sl2B,"East Wenatchee Ave via Downtown/Mall",1,62016,11450_shp,0,0
+2,43,t3B1-bF240-sl2B,"Walmart via Downtown",0,62016,11485_shp,0,0
+2,43,t3F3-bF240-sl2B,"East Wenatchee Ave via Downtown/Mall",1,62016,11450_shp,0,0
+2,43,t415-bF240-sl2B,"Walmart via Downtown",0,62016,11485_shp,0,0
+2,43,t457-bF240-sl2B,"East Wenatchee Ave via Downtown/Mall",1,62016,11450_shp,0,0
+2,43,t479-bF240-sl2B,"Walmart via Downtown",0,62016,11485_shp,0,0
+2,43,t4BB-bF240-sl2B,"East Wenatchee Ave via Downtown/Mall",1,62016,11467_shp,0,0
+2,43,t4C8-bF0A2-sl2B,"East Wenatchee Ave via Downtown/Mall",1,61602,11471_shp,0,0
+2,43,t4DD-bF0A2-sl2B,"Walmart via Downtown",0,61602,11485_shp,0,0
+2,43,t51F-bF0A2-sl2B,"East Wenatchee Ave via Downtown/Mall",1,61602,11450_shp,0,0
+2,43,t541-bF0A2-sl2B,"Walmart via Downtown",0,61602,11485_shp,0,0
+2,43,t583-bF0A2-sl2B,"East Wenatchee Ave via Downtown/Mall",1,61602,11450_shp,0,0
+2,43,t5A5-bF0A2-sl2B,"Walmart via Downtown",0,61602,11485_shp,0,0
+2,43,t5E7-bF0A2-sl2B,"East Wenatchee Ave via Downtown/Mall",1,61602,11450_shp,0,0
+2,43,t609-bF0A2-sl2B,"Walmart via Downtown",0,61602,11485_shp,0,0
+2,43,t64B-bF0A2-sl2B,"East Wenatchee Ave via Downtown/Mall",1,61602,11450_shp,0,0
+2,43,t66D-bF0A2-sl2B,"Walmart via Downtown",0,61602,11485_shp,0,0
+2,43,t6AF-bF0A2-sl2B,"East Wenatchee Ave via Downtown/Mall",1,61602,11450_shp,0,0
+2,43,t6D1-bF0A2-sl2B,"Walmart via Downtown",0,61602,11485_shp,0,0
+3,18,t276-bED2-sl12,"Saddle Rock via Hospital",0,3794,11639_shp,0,0
+3,18,t27E-bED2-sl12,"Columbia Station via Hospital",1,3794,11670_shp,0,0
+3,18,t2BC-bECF-sl12,"Saddle Rock via Hospital",0,3791,11639_shp,0,0
+3,18,t2C4-bECF-sl12,"Columbia Station via Hospital",1,3791,11670_shp,0,0
+3,18,t2DA-bED1-sl12,"Saddle Rock via Hospital",0,3793,11639_shp,0,0
+3,18,t2E2-bED1-sl12,"Columbia Station via Hospital",1,3793,11670_shp,0,0
+3,18,t320-bED0-sl12,"Saddle Rock via Hospital",0,3792,11639_shp,0,0
+3,18,t328-bED0-sl12,"Columbia Station via Hospital",1,3792,11670_shp,0,0
+3,18,t33E-bED2-sl12,"Saddle Rock via Hospital",0,3794,11639_shp,0,0
+3,18,t346-bED2-sl12,"Columbia Station via Hospital",1,3794,11670_shp,0,0
+3,18,t384-bECF-sl12,"Saddle Rock via Hospital",0,3791,11639_shp,0,0
+3,18,t38C-bECF-sl12,"Columbia Station via Hospital",1,3791,11670_shp,0,0
+3,18,t3A2-bED1-sl12,"Saddle Rock via Hospital",0,3793,11639_shp,0,0
+3,18,t3AA-bED1-sl12,"Columbia Station via Hospital",1,3793,11670_shp,0,0
+3,18,t3E8-bED0-sl12,"Saddle Rock via Hospital",0,3792,11639_shp,0,0
+3,18,t3F0-bED0-sl12,"Columbia Station via Hospital",1,3792,11670_shp,0,0
+3,18,t406-bED2-sl12,"Saddle Rock via Hospital",0,3794,11639_shp,0,0
+3,18,t40E-bED2-sl12,"Columbia Station via Hospital",1,3794,11670_shp,0,0
+3,18,t44C-bECF-sl12,"Saddle Rock via Hospital",0,3791,11639_shp,0,0
+3,18,t454-bECF-sl12,"Columbia Station via Hospital",1,3791,11670_shp,0,0
+3,18,t46A-bED1-sl12,"Saddle Rock via Hospital",0,3793,11639_shp,0,0
+3,18,t472-bED1-sl12,"Columbia Station via Hospital",1,3793,11670_shp,0,0
+3,18,t4B0-bED0-sl12,"Saddle Rock via Hospital",0,3792,11639_shp,0,0
+3,18,t4B8-bED0-sl12,"Columbia Station via Hospital",1,3792,11670_shp,0,0
+3,18,t4CE-bED2-sl12,"Saddle Rock via Hospital",0,3794,11639_shp,0,0
+3,18,t4D6-bED2-sl12,"Columbia Station via Hospital",1,3794,11670_shp,0,0
+3,18,t514-bECF-sl12,"Saddle Rock via Hospital",0,3791,11639_shp,0,0
+3,18,t51C-bECF-sl12,"Columbia Station via Hospital",1,3791,11670_shp,0,0
+3,18,t532-bED1-sl12,"Saddle Rock via Hospital",0,3793,11639_shp,0,0
+3,18,t53A-bED1-sl12,"Columbia Station via Hospital",1,3793,11670_shp,0,0
+3,18,t578-bED0-sl12,"Saddle Rock via Hospital",0,3792,11639_shp,0,0
+3,18,t580-bED0-sl12,"Columbia Station via Hospital",1,3792,11670_shp,0,0
+3,18,t596-bED2-sl12,"Saddle Rock via Hospital",0,3794,11639_shp,0,0
+3,18,t59E-bED2-sl12,"Columbia Station via Hospital",1,3794,11670_shp,0,0
+3,18,t5DC-bECF-sl12,"Saddle Rock via Hospital",0,3791,11639_shp,0,0
+3,18,t5E4-bECF-sl12,"Columbia Station via Hospital",1,3791,11670_shp,0,0
+3,18,t5FA-bED1-sl12,"Saddle Rock via Hospital",0,3793,11639_shp,0,0
+3,18,t602-bED1-sl12,"Columbia Station via Hospital",1,3793,11670_shp,0,0
+3,18,t640-bED0-sl12,"Saddle Rock via Hospital",0,3792,11639_shp,0,0
+3,18,t648-bED0-sl12,"Columbia Station via Hospital",1,3792,11670_shp,0,0
+3,18,t65E-bED2-sl12,"Saddle Rock via Hospital",0,3794,11639_shp,0,0
+3,18,t666-bED2-sl12,"Columbia Station via Hospital",1,3794,11670_shp,0,0
+3,18,t6A4-bECF-sl12,"Saddle Rock via Hospital",0,3791,11639_shp,0,0
+3,18,t6AC-bECF-sl12,"Columbia Station via Hospital",1,3791,11670_shp,0,0
+3,18,t6C2-bED1-sl12,"Saddle Rock via Hospital",0,3793,11639_shp,0,0
+3,18,t6CA-bED1-sl12,"Columbia Station via Hospital",1,3793,11670_shp,0,0
+3,18,t708-bED0-sl12,"Saddle Rock via Hospital",0,3792,11639_shp,0,0
+3,18,t710-bED0-sl12,"Columbia Station via Hospital",1,3792,11670_shp,0,0
+3,18,t726-bED2-sl12,"Saddle Rock via Hospital",0,3794,11639_shp,0,0
+3,18,t72E-bED2-sl12,"Columbia Station via Hospital",1,3794,11670_shp,0,0
+3,18,t76C-bECF-sl12,"Saddle Rock via Hospital",0,3791,11639_shp,0,0
+3,18,t774-bECF-sl12,"Columbia Station via Hospital",1,3791,11670_shp,0,0
+3,18,t78A-bED0-sl12,"Saddle Rock via Hospital",0,3792,11639_shp,0,0
+3,18,t792-bED0-sl12,"Columbia Station via Hospital",1,3792,11670_shp,0,0
+3,19,t320-b5321-sl13,"Saddle Rock via Hospital",0,21281,11641_shp,0,0
+3,19,t328-b5321-sl13,"Columbia Station via Hospital",1,21281,11635_shp,0,0
+3,19,t384-b5321-sl13,"Saddle Rock via Hospital",0,21281,11641_shp,0,0
+3,19,t38C-b5321-sl13,"Columbia Station via Hospital",1,21281,11635_shp,0,0
+3,19,t3E8-b5321-sl13,"Saddle Rock via Hospital",0,21281,11641_shp,0,0
+3,19,t3F0-b5321-sl13,"Columbia Station via Hospital",1,21281,11635_shp,0,0
+3,19,t44C-b5321-sl13,"Saddle Rock via Hospital",0,21281,11641_shp,0,0
+3,19,t454-b5321-sl13,"Columbia Station via Hospital",1,21281,11635_shp,0,0
+3,19,t4B0-b71C1-sl13,"Saddle Rock via Hospital",0,29121,11641_shp,0,0
+3,19,t4B8-b71C1-sl13,"Columbia Station via Hospital",1,29121,11635_shp,0,0
+3,19,t514-b5323-sl13,"Saddle Rock via Hospital",0,21283,11641_shp,0,0
+3,19,t51C-b5323-sl13,"Columbia Station via Hospital",1,21283,11635_shp,0,0
+3,19,t578-b5323-sl13,"Saddle Rock via Hospital",0,21283,11641_shp,0,0
+3,19,t580-b5323-sl13,"Columbia Station via Hospital",1,21283,11635_shp,0,0
+3,19,t5DC-b5323-sl13,"Saddle Rock via Hospital",0,21283,11641_shp,0,0
+3,19,t5E4-b5323-sl13,"Columbia Station via Hospital",1,21283,11635_shp,0,0
+3,19,t640-b5323-sl13,"Saddle Rock via Hospital",0,21283,11641_shp,0,0
+3,19,t648-b5323-sl13,"Columbia Station via Hospital",1,21283,11635_shp,0,0
+3,19,t6A4-b50E7-sl13,"Saddle Rock via Hospital",0,20711,11641_shp,0,0
+3,19,t6AC-b50E7-sl13,"Columbia Station via Hospital",1,20711,11635_shp,0,0
+3,20,t3E8-b83A5-sl14,"Saddle Rock via Hospital",0,33701,11643_shp,0,0
+3,20,t3F0-b83A5-sl14,"Columbia Station via Hospital",1,33701,11637_shp,0,0
+3,20,t44C-b83A6-sl14,"Saddle Rock via Hospital",0,33702,11643_shp,0,0
+3,20,t454-b83A6-sl14,"Columbia Station via Hospital",1,33702,11637_shp,0,0
+3,20,t4B0-b83A5-sl14,"Saddle Rock via Hospital",0,33701,11643_shp,0,0
+3,20,t4B8-b83A5-sl14,"Columbia Station via Hospital",1,33701,11637_shp,0,0
+3,20,t514-b83A6-sl14,"Saddle Rock via Hospital",0,33702,11643_shp,0,0
+3,20,t51C-b83A6-sl14,"Columbia Station via Hospital",1,33702,11637_shp,0,0
+3,20,t578-b83A5-sl14,"Saddle Rock via Hospital",0,33701,11643_shp,0,0
+3,20,t580-b83A5-sl14,"Columbia Station via Hospital",1,33701,11637_shp,0,0
+3,20,t5DC-b83A6-sl14,"Saddle Rock via Hospital",0,33702,11643_shp,0,0
+3,20,t5E4-b83A6-sl14,"Columbia Station via Hospital",1,33702,11637_shp,0,0
+3,20,t640-b83A5-sl14,"Saddle Rock via Hospital",0,33701,11643_shp,0,0
+3,20,t648-b83A5-sl14,"Columbia Station via Hospital",1,33701,11637_shp,0,0
+3,20,t6A4-b83A6-sl14,"Saddle Rock via Hospital",0,33702,11643_shp,0,0
+3,20,t6AC-b83A6-sl14,"Columbia Station via Hospital",1,33702,11637_shp,0,0
+3,40,t3E8-b14120-sl28,"Saddle Rock via Hospital",0,82208,11365_shp,0,0
+3,40,t3F0-b14120-sl28,"Columbia Station via Hospital",1,82208,11346_shp,0,0
+3,40,t44C-b14121-sl28,"Saddle Rock via Hospital",0,82209,11365_shp,0,0
+3,40,t454-b14121-sl28,"Columbia Station via Hospital",1,82209,11346_shp,0,0
+3,40,t4B0-b14120-sl28,"Saddle Rock via Hospital",0,82208,11365_shp,0,0
+3,40,t4B8-b14120-sl28,"Columbia Station via Hospital",1,82208,11346_shp,0,0
+3,40,t514-b14121-sl28,"Saddle Rock via Hospital",0,82209,11365_shp,0,0
+3,40,t51C-b14121-sl28,"Columbia Station via Hospital",1,82209,11346_shp,0,0
+3,40,t578-b14120-sl28,"Saddle Rock via Hospital",0,82208,11365_shp,0,0
+3,40,t580-b14120-sl28,"Columbia Station via Hospital",1,82208,11346_shp,0,0
+3,40,t5DC-b14121-sl28,"Saddle Rock via Hospital",0,82209,11365_shp,0,0
+3,40,t5E4-b14121-sl28,"Columbia Station via Hospital",1,82209,11346_shp,0,0
+3,40,t640-b14120-sl28,"Saddle Rock via Hospital",0,82208,11365_shp,0,0
+3,40,t648-b14120-sl28,"Columbia Station via Hospital",1,82208,11346_shp,0,0
+3,40,t6A4-b14121-sl28,"Saddle Rock via Hospital",0,82209,11365_shp,0,0
+3,40,t6AC-b14121-sl28,"Columbia Station via Hospital",1,82209,11346_shp,0,0
+3,43,t320-bEF61-sl2B,"Saddle Rock via Hospital",0,61281,11483_shp,0,0
+3,43,t328-bEF61-sl2B,"Columbia Station via Hospital",1,61281,11446_shp,0,0
+3,43,t384-bEF61-sl2B,"Saddle Rock via Hospital",0,61281,11483_shp,0,0
+3,43,t38C-bEF61-sl2B,"Columbia Station via Hospital",1,61281,11446_shp,0,0
+3,43,t3E8-bEF61-sl2B,"Saddle Rock via Hospital",0,61281,11483_shp,0,0
+3,43,t3F0-bEF61-sl2B,"Columbia Station via Hospital",1,61281,11446_shp,0,0
+3,43,t44C-bEF61-sl2B,"Saddle Rock via Hospital",0,61281,11483_shp,0,0
+3,43,t454-bEF61-sl2B,"Columbia Station via Hospital",1,61281,11446_shp,0,0
+3,43,t4B0-b10E01-sl2B,"Saddle Rock via Hospital",0,69121,11483_shp,0,0
+3,43,t4B8-b10E01-sl2B,"Columbia Station via Hospital",1,69121,11446_shp,0,0
+3,43,t514-bEF63-sl2B,"Saddle Rock via Hospital",0,61283,11483_shp,0,0
+3,43,t51C-bEF63-sl2B,"Columbia Station via Hospital",1,61283,11446_shp,0,0
+3,43,t578-bEF63-sl2B,"Saddle Rock via Hospital",0,61283,11483_shp,0,0
+3,43,t580-bEF63-sl2B,"Columbia Station via Hospital",1,61283,11446_shp,0,0
+3,43,t5DC-bEF63-sl2B,"Saddle Rock via Hospital",0,61283,11483_shp,0,0
+3,43,t5E4-bEF63-sl2B,"Columbia Station via Hospital",1,61283,11446_shp,0,0
+3,43,t640-bEF63-sl2B,"Saddle Rock via Hospital",0,61283,11483_shp,0,0
+3,43,t648-bEF63-sl2B,"Columbia Station via Hospital",1,61283,11446_shp,0,0
+3,43,t6A4-bED27-sl2B,"Saddle Rock via Hospital",0,60711,11483_shp,0,0
+3,43,t6AC-bED27-sl2B,"Columbia Station via Hospital",1,60711,11446_shp,0,0
+4,18,t2BC-b1196-sl12,"Riverside/Riverside via Pybus",0,4502,10081_shp,0,0
+4,18,t2C2-b1196-sl12,"Columbia Station via Riverside",1,4502,10074_shp,0,0
+4,18,t2DA-b1195-sl12,"Riverside/Riverside via Pybus",0,4501,10081_shp,0,0
+4,18,t2E0-b1195-sl12,"Columbia Station via Riverside",1,4501,10074_shp,0,0
+4,18,t320-b1196-sl12,"Riverside/Riverside via Pybus",0,4502,10081_shp,0,0
+4,18,t326-b1196-sl12,"Columbia Station via Riverside",1,4502,10074_shp,0,0
+4,18,t33E-b1195-sl12,"Riverside/Riverside via Pybus",0,4501,10081_shp,0,0
+4,18,t344-b1195-sl12,"Columbia Station via Riverside",1,4501,10074_shp,0,0
+4,18,t384-b1196-sl12,"Riverside/Riverside via Pybus",0,4502,10081_shp,0,0
+4,18,t38A-b1196-sl12,"Columbia Station via Riverside",1,4502,10074_shp,0,0
+4,18,t3A2-b1195-sl12,"Riverside/Riverside via Pybus",0,4501,10081_shp,0,0
+4,18,t3A8-b1195-sl12,"Columbia Station via Riverside",1,4501,10074_shp,0,0
+4,18,t3E8-b1196-sl12,"Riverside/Riverside via Pybus",0,4502,10081_shp,0,0
+4,18,t3EE-b1196-sl12,"Columbia Station via Riverside",1,4502,10074_shp,0,0
+4,18,t406-b1195-sl12,"Riverside/Riverside via Pybus",0,4501,10081_shp,0,0
+4,18,t40C-b1195-sl12,"Columbia Station via Riverside",1,4501,10074_shp,0,0
+4,18,t44C-b1196-sl12,"Riverside/Riverside via Pybus",0,4502,10081_shp,0,0
+4,18,t452-b1196-sl12,"Columbia Station via Riverside",1,4502,10074_shp,0,0
+4,18,t46A-b1195-sl12,"Riverside/Riverside via Pybus",0,4501,10081_shp,0,0
+4,18,t470-b1195-sl12,"Columbia Station via Riverside",1,4501,10074_shp,0,0
+4,18,t4B0-b1196-sl12,"Riverside/Riverside via Pybus",0,4502,10081_shp,0,0
+4,18,t4B6-b1196-sl12,"Columbia Station via Riverside",1,4502,10074_shp,0,0
+4,18,t4CE-b1195-sl12,"Riverside/Riverside via Pybus",0,4501,10081_shp,0,0
+4,18,t4D4-b1195-sl12,"Columbia Station via Riverside",1,4501,10074_shp,0,0
+4,18,t514-b1196-sl12,"Riverside/Riverside via Pybus",0,4502,10081_shp,0,0
+4,18,t51A-b1196-sl12,"Columbia Station via Riverside",1,4502,10074_shp,0,0
+4,18,t532-b1195-sl12,"Riverside/Riverside via Pybus",0,4501,10081_shp,0,0
+4,18,t538-b1195-sl12,"Columbia Station via Riverside",1,4501,10074_shp,0,0
+4,18,t578-b1196-sl12,"Riverside/Riverside via Pybus",0,4502,10081_shp,0,0
+4,18,t57E-b1196-sl12,"Columbia Station via Riverside",1,4502,10074_shp,0,0
+4,18,t596-b1195-sl12,"Riverside/Riverside via Pybus",0,4501,10081_shp,0,0
+4,18,t59C-b1195-sl12,"Columbia Station via Riverside",1,4501,10074_shp,0,0
+4,18,t5DC-b962-sl12,"Riverside/Riverside via Pybus",0,2402,10081_shp,0,0
+4,18,t5E2-b962-sl12,"Columbia Station via Riverside",1,2402,10074_shp,0,0
+4,18,t5FA-b1195-sl12,"Riverside/Riverside via Pybus",0,4501,10081_shp,0,0
+4,18,t600-b1195-sl12,"Columbia Station via Riverside",1,4501,10074_shp,0,0
+4,18,t640-b1197-sl12,"Riverside/Riverside via Pybus",0,4503,10081_shp,0,0
+4,18,t646-b1197-sl12,"Columbia Station via Riverside",1,4503,10074_shp,0,0
+4,18,t65E-b1195-sl12,"Riverside/Riverside via Pybus",0,4501,10081_shp,0,0
+4,18,t664-b1195-sl12,"Columbia Station via Riverside",1,4501,10074_shp,0,0
+4,18,t6A4-b1197-sl12,"Riverside/Riverside via Pybus",0,4503,10081_shp,0,0
+4,18,t6AA-b1197-sl12,"Columbia Station via Riverside",1,4503,10074_shp,0,0
+4,18,t6C2-b1195-sl12,"Riverside/Riverside via Pybus",0,4501,10081_shp,0,0
+4,18,t6C8-b1195-sl12,"Columbia Station via Riverside",1,4501,10074_shp,0,0
+4,18,t726-b1195-sl12,"Riverside/Riverside via Pybus",0,4501,10081_shp,0,0
+4,18,t72C-b1195-sl12,"Columbia Station via Riverside",1,4501,10074_shp,0,0
+4,18,t78A-b1195-sl12,"Riverside/Riverside via Pybus",0,4501,10081_shp,0,0
+4,18,t790-b1195-sl12,"Columbia Station via Riverside",1,4501,10074_shp,0,0
+4,19,t2DA-b5FB5-sl13,"Riverside/Riverside via Pybus",0,24501,10084_shp,0,0
+4,19,t2E0-b5FB5-sl13,"Columbia Station via Riverside",1,24501,10077_shp,0,0
+4,19,t33E-b5FB5-sl13,"Riverside/Riverside via Pybus",0,24501,10084_shp,0,0
+4,19,t344-b5FB5-sl13,"Columbia Station via Riverside",1,24501,10077_shp,0,0
+4,19,t3A2-b5FB5-sl13,"Riverside/Riverside via Pybus",0,24501,10084_shp,0,0
+4,19,t3A8-b5FB5-sl13,"Columbia Station via Riverside",1,24501,10077_shp,0,0
+4,19,t406-b5FB5-sl13,"Riverside/Riverside via Pybus",0,24501,10084_shp,0,0
+4,19,t40C-b5FB5-sl13,"Columbia Station via Riverside",1,24501,10077_shp,0,0
+4,19,t46A-b5FB5-sl13,"Riverside/Riverside via Pybus",0,24501,10084_shp,0,0
+4,19,t470-b5FB5-sl13,"Columbia Station via Riverside",1,24501,10077_shp,0,0
+4,19,t4CE-b5FB5-sl13,"Riverside/Riverside via Pybus",0,24501,10084_shp,0,0
+4,19,t4D4-b5FB5-sl13,"Columbia Station via Riverside",1,24501,10077_shp,0,0
+4,19,t532-b56B9-sl13,"Riverside/Riverside via Pybus",0,22201,10084_shp,0,0
+4,19,t538-b56B9-sl13,"Columbia Station via Riverside",1,22201,10077_shp,0,0
+4,19,t596-b5FB5-sl13,"Riverside/Riverside via Pybus",0,24501,10084_shp,0,0
+4,19,t59C-b5FB5-sl13,"Columbia Station via Riverside",1,24501,10077_shp,0,0
+4,19,t5FA-b5FB5-sl13,"Riverside/Riverside via Pybus",0,24501,10084_shp,0,0
+4,19,t600-b5FB5-sl13,"Columbia Station via Riverside",1,24501,10077_shp,0,0
+4,19,t65E-b5FB5-sl13,"Riverside/Riverside via Pybus",0,24501,10084_shp,0,0
+4,19,t664-b5FB5-sl13,"Columbia Station via Riverside",1,24501,10077_shp,0,0
+4,20,t3A2-b86C5-sl14,"Riverside/Riverside via Pybus",0,34501,10085_shp,0,0
+4,20,t3A8-b86C5-sl14,"Columbia Station via Riverside",1,34501,10078_shp,0,0
+4,20,t406-b86C5-sl14,"Riverside/Riverside via Pybus",0,34501,10085_shp,0,0
+4,20,t40C-b86C5-sl14,"Columbia Station via Riverside",1,34501,10078_shp,0,0
+4,20,t46A-b86C5-sl14,"Riverside/Riverside via Pybus",0,34501,10085_shp,0,0
+4,20,t470-b86C5-sl14,"Columbia Station via Riverside",1,34501,10078_shp,0,0
+4,20,t4CE-b86C5-sl14,"Riverside/Riverside via Pybus",0,34501,10085_shp,0,0
+4,20,t4D4-b86C5-sl14,"Columbia Station via Riverside",1,34501,10078_shp,0,0
+4,20,t532-b86C5-sl14,"Riverside/Riverside via Pybus",0,34501,10085_shp,0,0
+4,20,t538-b86C5-sl14,"Columbia Station via Riverside",1,34501,10078_shp,0,0
+4,20,t596-b86C5-sl14,"Riverside/Riverside via Pybus",0,34501,10085_shp,0,0
+4,20,t59C-b86C5-sl14,"Columbia Station via Riverside",1,34501,10078_shp,0,0
+4,20,t5FA-b86C5-sl14,"Riverside/Riverside via Pybus",0,34501,10085_shp,0,0
+4,20,t600-b86C5-sl14,"Columbia Station via Riverside",1,34501,10078_shp,0,0
+4,20,t65E-b86C5-sl14,"Riverside/Riverside via Pybus",0,34501,10085_shp,0,0
+4,20,t664-b86C5-sl14,"Columbia Station via Riverside",1,34501,10078_shp,0,0
+4,40,t3A2-b14122-sl28,"Riverside/Riverside via Pybus",0,82210,10938_shp,0,0
+4,40,t3A8-b14122-sl28,"Columbia Station via Riverside",1,82210,10917_shp,0,0
+4,40,t406-b14122-sl28,"Riverside/Riverside via Pybus",0,82210,10938_shp,0,0
+4,40,t40C-b14122-sl28,"Columbia Station via Riverside",1,82210,10917_shp,0,0
+4,40,t46A-b14122-sl28,"Riverside/Riverside via Pybus",0,82210,10938_shp,0,0
+4,40,t470-b14122-sl28,"Columbia Station via Riverside",1,82210,10917_shp,0,0
+4,40,t4CE-b14122-sl28,"Riverside/Riverside via Pybus",0,82210,10938_shp,0,0
+4,40,t4D4-b14122-sl28,"Columbia Station via Riverside",1,82210,10917_shp,0,0
+4,40,t532-b14122-sl28,"Riverside/Riverside via Pybus",0,82210,10938_shp,0,0
+4,40,t538-b14122-sl28,"Columbia Station via Riverside",1,82210,10917_shp,0,0
+4,40,t596-b14122-sl28,"Riverside/Riverside via Pybus",0,82210,10938_shp,0,0
+4,40,t59C-b14122-sl28,"Columbia Station via Riverside",1,82210,10917_shp,0,0
+4,40,t5FA-b14122-sl28,"Riverside/Riverside via Pybus",0,82210,10938_shp,0,0
+4,40,t600-b14122-sl28,"Columbia Station via Riverside",1,82210,10917_shp,0,0
+4,40,t65E-b14122-sl28,"Riverside/Riverside via Pybus",0,82210,10938_shp,0,0
+4,40,t664-b14122-sl28,"Columbia Station via Riverside",1,82210,10917_shp,0,0
+4,43,t2DA-bFBF5-sl2B,"Riverside/Riverside via Pybus",0,64501,10083_shp,0,0
+4,43,t2E0-bFBF5-sl2B,"Columbia Station via Riverside",1,64501,10075_shp,0,0
+4,43,t33E-bFBF5-sl2B,"Riverside/Riverside via Pybus",0,64501,10083_shp,0,0
+4,43,t344-bFBF5-sl2B,"Columbia Station via Riverside",1,64501,10075_shp,0,0
+4,43,t3A2-bFBF5-sl2B,"Riverside/Riverside via Pybus",0,64501,10083_shp,0,0
+4,43,t3A8-bFBF5-sl2B,"Columbia Station via Riverside",1,64501,10075_shp,0,0
+4,43,t406-bFBF5-sl2B,"Riverside/Riverside via Pybus",0,64501,10083_shp,0,0
+4,43,t40C-bFBF5-sl2B,"Columbia Station via Riverside",1,64501,10075_shp,0,0
+4,43,t46A-bFBF5-sl2B,"Riverside/Riverside via Pybus",0,64501,10083_shp,0,0
+4,43,t470-bFBF5-sl2B,"Columbia Station via Riverside",1,64501,10075_shp,0,0
+4,43,t4CE-bFBF5-sl2B,"Riverside/Riverside via Pybus",0,64501,10083_shp,0,0
+4,43,t4D4-bFBF5-sl2B,"Columbia Station via Riverside",1,64501,10075_shp,0,0
+4,43,t532-bF2F9-sl2B,"Riverside/Riverside via Pybus",0,62201,10083_shp,0,0
+4,43,t538-bF2F9-sl2B,"Columbia Station via Riverside",1,62201,10075_shp,0,0
+4,43,t596-bFBF5-sl2B,"Riverside/Riverside via Pybus",0,64501,10083_shp,0,0
+4,43,t59C-bFBF5-sl2B,"Columbia Station via Riverside",1,64501,10075_shp,0,0
+4,43,t5FA-bFBF5-sl2B,"Riverside/Riverside via Pybus",0,64501,10083_shp,0,0
+4,43,t600-bFBF5-sl2B,"Columbia Station via Riverside",1,64501,10075_shp,0,0
+4,43,t65E-bFBF5-sl2B,"Riverside/Riverside via Pybus",0,64501,10083_shp,0,0
+4,43,t664-bFBF5-sl2B,"Columbia Station via Riverside",1,64501,10075_shp,0,0
+5,18,t21D-b1195-sl12,"Columbia Station via Western/Cherry",1,4501,11558_shp,0,0
+5,18,t25D-b1195-sl12,"Walmart via Cherry/Western",0,4501,11555_shp,0,0
+5,18,t26D-b1195-sl12,"Columbia Station via Western/Cherry",1,4501,11558_shp,0,0
+5,18,t285-b1195-sl12,"Walmart via Cherry/Western",0,4501,11555_shp,0,0
+5,18,t2BD-b1195-sl12,"Columbia Station via Western/Cherry",1,4501,11558_shp,0,0
+5,18,t2CB-b1196-sl12,"Walmart via Cherry/Western",0,4502,11555_shp,0,0
+5,18,t2DB-b1196-sl12,"Columbia Station via Western/Cherry",1,4502,11558_shp,0,0
+5,18,t2E9-b1195-sl12,"Walmart via Cherry/Western",0,4501,11555_shp,0,0
+5,18,t321-b1195-sl12,"Columbia Station via Western/Cherry",1,4501,11558_shp,0,0
+5,18,t32F-b1196-sl12,"Walmart via Cherry/Western",0,4502,11555_shp,0,0
+5,18,t33F-b1196-sl12,"Columbia Station via Western/Cherry",1,4502,11558_shp,0,0
+5,18,t34D-b1195-sl12,"Walmart via Cherry/Western",0,4501,11555_shp,0,0
+5,18,t385-b1195-sl12,"Columbia Station via Western/Cherry",1,4501,11558_shp,0,0
+5,18,t393-b1196-sl12,"Walmart via Cherry/Western",0,4502,11555_shp,0,0
+5,18,t3A3-b1196-sl12,"Columbia Station via Western/Cherry",1,4502,11558_shp,0,0
+5,18,t3B1-b1195-sl12,"Walmart via Cherry/Western",0,4501,11555_shp,0,0
+5,18,t3E9-b1195-sl12,"Columbia Station via Western/Cherry",1,4501,11558_shp,0,0
+5,18,t3F7-b1196-sl12,"Walmart via Cherry/Western",0,4502,11555_shp,0,0
+5,18,t407-b1196-sl12,"Columbia Station via Western/Cherry",1,4502,11558_shp,0,0
+5,18,t415-b1195-sl12,"Walmart via Cherry/Western",0,4501,11555_shp,0,0
+5,18,t44D-b1195-sl12,"Columbia Station via Western/Cherry",1,4501,11558_shp,0,0
+5,18,t45B-b1196-sl12,"Walmart via Cherry/Western",0,4502,11555_shp,0,0
+5,18,t46B-b1196-sl12,"Columbia Station via Western/Cherry",1,4502,11558_shp,0,0
+5,18,t479-b1195-sl12,"Walmart via Cherry/Western",0,4501,11555_shp,0,0
+5,18,t4B1-b1195-sl12,"Columbia Station via Western/Cherry",1,4501,11558_shp,0,0
+5,18,t4BF-b1196-sl12,"Walmart via Cherry/Western",0,4502,11555_shp,0,0
+5,18,t4CF-b1196-sl12,"Columbia Station via Western/Cherry",1,4502,11558_shp,0,0
+5,18,t4DD-b1195-sl12,"Walmart via Cherry/Western",0,4501,11555_shp,0,0
+5,18,t515-b1195-sl12,"Columbia Station via Western/Cherry",1,4501,11558_shp,0,0
+5,18,t523-b1196-sl12,"Walmart via Cherry/Western",0,4502,11555_shp,0,0
+5,18,t533-b1196-sl12,"Columbia Station via Western/Cherry",1,4502,11558_shp,0,0
+5,18,t541-b1195-sl12,"Walmart via Cherry/Western",0,4501,11555_shp,0,0
+5,18,t579-b1195-sl12,"Columbia Station via Western/Cherry",1,4501,11558_shp,0,0
+5,18,t587-b962-sl12,"Walmart via Cherry/Western",0,2402,11555_shp,0,0
+5,18,t597-b962-sl12,"Columbia Station via Western/Cherry",1,2402,11558_shp,0,0
+5,18,t5A5-b1195-sl12,"Walmart via Cherry/Western",0,4501,11555_shp,0,0
+5,18,t5DD-b1195-sl12,"Columbia Station via Western/Cherry",1,4501,11558_shp,0,0
+5,18,t5EB-b1197-sl12,"Walmart via Cherry/Western",0,4503,11555_shp,0,0
+5,18,t5FB-b1197-sl12,"Columbia Station via Western/Cherry",1,4503,11558_shp,0,0
+5,18,t609-b1195-sl12,"Walmart via Cherry/Western",0,4501,11555_shp,0,0
+5,18,t641-b1195-sl12,"Columbia Station via Western/Cherry",1,4501,11558_shp,0,0
+5,18,t64F-b1197-sl12,"Walmart via Cherry/Western",0,4503,11555_shp,0,0
+5,18,t65F-b1197-sl12,"Columbia Station via Western/Cherry",1,4503,11558_shp,0,0
+5,18,t66D-b1195-sl12,"Walmart via Cherry/Western",0,4501,11555_shp,0,0
+5,18,t6A5-b1195-sl12,"Columbia Station via Western/Cherry",1,4501,11558_shp,0,0
+5,18,t6B3-b1197-sl12,"Walmart via Cherry/Western",0,4503,11555_shp,0,0
+5,18,t6C3-b1197-sl12,"Columbia Station via Western/Cherry",1,4503,11558_shp,0,0
+5,18,t6D1-b1195-sl12,"Walmart via Cherry/Western",0,4501,11555_shp,0,0
+5,18,t709-b1195-sl12,"Columbia Station via Western/Cherry",1,4501,11558_shp,0,0
+5,18,t735-b1195-sl12,"Walmart via Cherry/Western",0,4501,11555_shp,0,0
+5,18,t76D-b1195-sl12,"Columbia Station via Western/Cherry",1,4501,11558_shp,0,0
+5,18,t799-b1195-sl12,"Walmart via Cherry/Western",0,4501,11555_shp,0,0
+5,18,t7D1-b1195-sl12,"Columbia Station via Western/Cherry",1,4501,11558_shp,0,0
+5,19,t2E9-b5FB5-sl13,"Walmart via Cherry/Western",0,24501,11556_shp,0,0
+5,19,t321-b5FB5-sl13,"Columbia Station via Western/Cherry",1,24501,11553_shp,0,0
+5,19,t34D-b5FB5-sl13,"Walmart via Cherry/Western",0,24501,11556_shp,0,0
+5,19,t385-b5FB5-sl13,"Columbia Station via Western/Cherry",1,24501,11553_shp,0,0
+5,19,t3B1-b5FB5-sl13,"Walmart via Cherry/Western",0,24501,11556_shp,0,0
+5,19,t3E9-b5FB5-sl13,"Columbia Station via Western/Cherry",1,24501,11553_shp,0,0
+5,19,t415-b5FB5-sl13,"Walmart via Cherry/Western",0,24501,11556_shp,0,0
+5,19,t44D-b5FB5-sl13,"Columbia Station via Western/Cherry",1,24501,11553_shp,0,0
+5,19,t479-b5FB5-sl13,"Walmart via Cherry/Western",0,24501,11556_shp,0,0
+5,19,t4B1-b5FB5-sl13,"Columbia Station via Western/Cherry",1,24501,11553_shp,0,0
+5,19,t4DD-b5FB5-sl13,"Walmart via Cherry/Western",0,24501,11556_shp,0,0
+5,19,t515-b5FB5-sl13,"Columbia Station via Western/Cherry",1,24501,11553_shp,0,0
+5,19,t541-b5FB5-sl13,"Walmart via Cherry/Western",0,24501,11556_shp,0,0
+5,19,t579-b5FB5-sl13,"Columbia Station via Western/Cherry",1,24501,11553_shp,0,0
+5,19,t5A5-b5FB5-sl13,"Walmart via Cherry/Western",0,24501,11556_shp,0,0
+5,19,t5DD-b5FB5-sl13,"Columbia Station via Western/Cherry",1,24501,11553_shp,0,0
+5,19,t609-b5FB5-sl13,"Walmart via Cherry/Western",0,24501,11556_shp,0,0
+5,19,t641-b5FB5-sl13,"Columbia Station via Western/Cherry",1,24501,11553_shp,0,0
+5,19,t66D-b5FB5-sl13,"Walmart via Cherry/Western",0,24501,11556_shp,0,0
+5,19,t6A5-b5FB5-sl13,"Columbia Station via Western/Cherry",1,24501,11553_shp,0,0
+5,20,t3B1-b86C5-sl14,"Walmart via Cherry/Western",0,34501,11557_shp,0,0
+5,20,t3E9-b86C5-sl14,"Columbia Station via Western/Cherry",1,34501,11554_shp,0,0
+5,20,t415-b86C5-sl14,"Walmart via Cherry/Western",0,34501,11557_shp,0,0
+5,20,t44D-b86C5-sl14,"Columbia Station via Western/Cherry",1,34501,11554_shp,0,0
+5,20,t479-b86C5-sl14,"Walmart via Cherry/Western",0,34501,11557_shp,0,0
+5,20,t4B1-b86C5-sl14,"Columbia Station via Western/Cherry",1,34501,11554_shp,0,0
+5,20,t4DD-b86C5-sl14,"Walmart via Cherry/Western",0,34501,11557_shp,0,0
+5,20,t515-b86C5-sl14,"Columbia Station via Western/Cherry",1,34501,11554_shp,0,0
+5,20,t541-b86C5-sl14,"Walmart via Cherry/Western",0,34501,11557_shp,0,0
+5,20,t579-b86C5-sl14,"Columbia Station via Western/Cherry",1,34501,11554_shp,0,0
+5,20,t5A5-b86C5-sl14,"Walmart via Cherry/Western",0,34501,11557_shp,0,0
+5,20,t5DD-b86C5-sl14,"Columbia Station via Western/Cherry",1,34501,11554_shp,0,0
+5,20,t609-b86C5-sl14,"Walmart via Cherry/Western",0,34501,11557_shp,0,0
+5,20,t641-b86C5-sl14,"Columbia Station via Western/Cherry",1,34501,11554_shp,0,0
+5,20,t66D-b86C5-sl14,"Walmart via Cherry/Western",0,34501,11557_shp,0,0
+5,20,t6A5-b86C5-sl14,"Columbia Station via Western/Cherry",1,34501,11554_shp,0,0
+5,40,t3B1-b14122-sl28,"Walmart via Cherry/Western",0,82210,11367_shp,0,0
+5,40,t3E9-b14122-sl28,"Columbia Station via Western/Cherry",1,82210,11349_shp,0,0
+5,40,t415-b14122-sl28,"Walmart via Cherry/Western",0,82210,11367_shp,0,0
+5,40,t44D-b14122-sl28,"Columbia Station via Western/Cherry",1,82210,11349_shp,0,0
+5,40,t479-b14122-sl28,"Walmart via Cherry/Western",0,82210,11367_shp,0,0
+5,40,t4B1-b14122-sl28,"Columbia Station via Western/Cherry",1,82210,11349_shp,0,0
+5,40,t4DD-b14122-sl28,"Walmart via Cherry/Western",0,82210,11367_shp,0,0
+5,40,t515-b14122-sl28,"Columbia Station via Western/Cherry",1,82210,11349_shp,0,0
+5,40,t541-b14122-sl28,"Walmart via Cherry/Western",0,82210,11367_shp,0,0
+5,40,t579-b14122-sl28,"Columbia Station via Western/Cherry",1,82210,11349_shp,0,0
+5,40,t5A5-b14122-sl28,"Walmart via Cherry/Western",0,82210,11367_shp,0,0
+5,40,t5DD-b14122-sl28,"Columbia Station via Western/Cherry",1,82210,11349_shp,0,0
+5,40,t609-b14122-sl28,"Walmart via Cherry/Western",0,82210,11367_shp,0,0
+5,40,t641-b14122-sl28,"Columbia Station via Western/Cherry",1,82210,11349_shp,0,0
+5,40,t66D-b14122-sl28,"Walmart via Cherry/Western",0,82210,11367_shp,0,0
+5,40,t6A5-b14122-sl28,"Columbia Station via Western/Cherry",1,82210,11349_shp,0,0
+5,43,t2E9-bFBF5-sl2B,"Walmart via Cherry/Western",0,64501,11484_shp,0,0
+5,43,t321-bFBF5-sl2B,"Columbia Station via Western/Cherry",1,64501,11449_shp,0,0
+5,43,t34D-bFBF5-sl2B,"Walmart via Cherry/Western",0,64501,11484_shp,0,0
+5,43,t385-bFBF5-sl2B,"Columbia Station via Western/Cherry",1,64501,11449_shp,0,0
+5,43,t3B1-bFBF5-sl2B,"Walmart via Cherry/Western",0,64501,11484_shp,0,0
+5,43,t3E9-bFBF5-sl2B,"Columbia Station via Western/Cherry",1,64501,11449_shp,0,0
+5,43,t415-bFBF5-sl2B,"Walmart via Cherry/Western",0,64501,11484_shp,0,0
+5,43,t44D-bFBF5-sl2B,"Columbia Station via Western/Cherry",1,64501,11449_shp,0,0
+5,43,t479-bFBF5-sl2B,"Walmart via Cherry/Western",0,64501,11484_shp,0,0
+5,43,t4B1-bFBF5-sl2B,"Columbia Station via Western/Cherry",1,64501,11449_shp,0,0
+5,43,t4DD-bFBF5-sl2B,"Walmart via Cherry/Western",0,64501,11484_shp,0,0
+5,43,t515-bFBF5-sl2B,"Columbia Station via Western/Cherry",1,64501,11449_shp,0,0
+5,43,t541-bFBF5-sl2B,"Walmart via Cherry/Western",0,64501,11484_shp,0,0
+5,43,t579-bFBF5-sl2B,"Columbia Station via Western/Cherry",1,64501,11449_shp,0,0
+5,43,t5A5-bFBF5-sl2B,"Walmart via Cherry/Western",0,64501,11484_shp,0,0
+5,43,t5DD-bFBF5-sl2B,"Columbia Station via Western/Cherry",1,64501,11449_shp,0,0
+5,43,t609-bFBF5-sl2B,"Walmart via Cherry/Western",0,64501,11484_shp,0,0
+5,43,t641-bFBF5-sl2B,"Columbia Station via Western/Cherry",1,64501,11449_shp,0,0
+5,43,t66D-bFBF5-sl2B,"Walmart via Cherry/Western",0,64501,11484_shp,0,0
+5,43,t6A5-bFBF5-sl2B,"Columbia Station via Western/Cherry",1,64501,11449_shp,0,0
+6,18,t21E-b641-sl12,"South Wenatchee Ave",0,1601,11510_shp,0,0
+6,18,t224-b641-sl12,"Columbia Station via Wenatchee Ave",1,1601,11522_shp,0,0
+6,18,t26E-b641-sl12,"South Wenatchee Ave",0,1601,11510_shp,0,0
+6,18,t274-b641-sl12,"Columbia Station via Wenatchee Ave",1,1601,11522_shp,0,0
+6,18,t28C-b642-sl12,"South Wenatchee Ave",0,1602,11510_shp,0,0
+6,18,t292-b642-sl12,"Columbia Station via Wenatchee Ave",1,1602,11522_shp,0,0
+6,18,t2D2-b641-sl12,"South Wenatchee Ave",0,1601,11510_shp,0,0
+6,18,t2D8-b641-sl12,"Columbia Station via Wenatchee Ave",1,1601,11522_shp,0,0
+6,18,t2F0-b642-sl12,"South Wenatchee Ave",0,1602,11510_shp,0,0
+6,18,t2F6-b642-sl12,"Columbia Station via Wenatchee Ave",1,1602,11522_shp,0,0
+6,18,t336-b641-sl12,"South Wenatchee Ave",0,1601,11510_shp,0,0
+6,18,t33C-b641-sl12,"Columbia Station via Wenatchee Ave",1,1601,11522_shp,0,0
+6,18,t354-b642-sl12,"South Wenatchee Ave",0,1602,11510_shp,0,0
+6,18,t35A-b642-sl12,"Columbia Station via Wenatchee Ave",1,1602,11522_shp,0,0
+6,18,t39A-b641-sl12,"South Wenatchee Ave",0,1601,11510_shp,0,0
+6,18,t3A0-b641-sl12,"Columbia Station via Wenatchee Ave",1,1601,11522_shp,0,0
+6,18,t3B8-b642-sl12,"South Wenatchee Ave",0,1602,11510_shp,0,0
+6,18,t3BE-b642-sl12,"Columbia Station via Wenatchee Ave",1,1602,11522_shp,0,0
+6,18,t400-b641-sl12,"South Wenatchee Ave",0,1601,11510_shp,0,0
+6,18,t406-b641-sl12,"Columbia Station via Wenatchee Ave",1,1601,11522_shp,0,0
+6,18,t41E-b642-sl12,"South Wenatchee Ave",0,1602,11510_shp,0,0
+6,18,t44C-b642-sl12,"Columbia Station via Wenatchee Ave",1,1602,11522_shp,0,0
+6,18,t464-b641-sl12,"South Wenatchee Ave",0,1601,11510_shp,0,0
+6,18,t46A-b641-sl12,"Columbia Station via Wenatchee Ave",1,1601,11522_shp,0,0
+6,18,t485-b642-sl12,"South Wenatchee Ave",0,1602,11510_shp,0,0
+6,18,t4B3-b642-sl12,"Columbia Station via Wenatchee Ave",1,1602,11522_shp,0,0
+6,18,t4CB-b641-sl12,"South Wenatchee Ave",0,1601,11510_shp,0,0
+6,18,t4D1-b641-sl12,"Columbia Station via Wenatchee Ave",1,1601,11522_shp,0,0
+6,18,t4E9-b642-sl12,"South Wenatchee Ave",0,1602,11510_shp,0,0
+6,18,t517-b642-sl12,"Columbia Station via Wenatchee Ave",1,1602,11522_shp,0,0
+6,18,t52F-b641-sl12,"South Wenatchee Ave",0,1601,11510_shp,0,0
+6,18,t535-b641-sl12,"Columbia Station via Wenatchee Ave",1,1601,11522_shp,0,0
+6,18,t54D-b642-sl12,"South Wenatchee Ave",0,1602,11510_shp,0,0
+6,18,t57B-b642-sl12,"Columbia Station via Wenatchee Ave",1,1602,11522_shp,0,0
+6,18,t593-b641-sl12,"South Wenatchee Ave",0,1601,11510_shp,0,0
+6,18,t599-b641-sl12,"Columbia Station via Wenatchee Ave",1,1601,11522_shp,0,0
+6,18,t5B1-b642-sl12,"South Wenatchee Ave",0,1602,11510_shp,0,0
+6,18,t5DF-b642-sl12,"Columbia Station via Wenatchee Ave",1,1602,11522_shp,0,0
+6,18,t5F7-b641-sl12,"South Wenatchee Ave",0,1601,11510_shp,0,0
+6,18,t5FE-b641-sl12,"Columbia Station via Wenatchee Ave",1,1601,11522_shp,0,0
+6,18,t616-b642-sl12,"South Wenatchee Ave",0,1602,11510_shp,0,0
+6,18,t645-b642-sl12,"Columbia Station via Wenatchee Ave",1,1602,11522_shp,0,0
+6,18,t65C-b641-sl12,"South Wenatchee Ave",0,1601,11510_shp,0,0
+6,18,t663-b641-sl12,"Columbia Station via Wenatchee Ave",1,1601,11522_shp,0,0
+6,18,t67A-b642-sl12,"South Wenatchee Ave",0,1602,11510_shp,0,0
+6,18,t6A9-b642-sl12,"Columbia Station via Wenatchee Ave",1,1602,11522_shp,0,0
+6,18,t6BE-b641-sl12,"South Wenatchee Ave",0,1601,11510_shp,0,0
+6,18,t6C5-b641-sl12,"Columbia Station via Wenatchee Ave",1,1601,11522_shp,0,0
+6,18,t6DB-b642-sl12,"South Wenatchee Ave",0,1602,11510_shp,0,0
+6,18,t70A-b642-sl12,"Columbia Station via Wenatchee Ave",1,1602,11522_shp,0,0
+6,18,t721-b641-sl12,"South Wenatchee Ave",0,1601,11510_shp,0,0
+6,18,t727-b641-sl12,"Columbia Station via Wenatchee Ave",1,1601,11522_shp,0,0
+6,18,t73C-b642-sl12,"South Wenatchee Ave",0,1602,11510_shp,0,0
+6,18,t742-b642-sl12,"Columbia Station via Wenatchee Ave",1,1602,11522_shp,0,0
+6,18,t7A0-b642-sl12,"South Wenatchee Ave",0,1602,11510_shp,0,0
+6,18,t7A6-b642-sl12,"Columbia Station via Wenatchee Ave",1,1602,11522_shp,0,0
+6,18,t804-b642-sl12,"South Wenatchee Ave",0,1602,11510_shp,0,0
+6,18,t80A-b642-sl12,"Columbia Station via Wenatchee Ave",1,1602,11522_shp,0,0
+6,19,t2F2-b5462-sl13,"South Wenatchee Ave",0,21602,11512_shp,0,0
+6,19,t320-b5462-sl13,"Columbia Station via Wenatchee Ave",1,21602,11523_shp,0,0
+6,19,t356-b5462-sl13,"South Wenatchee Ave",0,21602,11512_shp,0,0
+6,19,t384-b5462-sl13,"Columbia Station via Wenatchee Ave",1,21602,11523_shp,0,0
+6,19,t3BA-b5462-sl13,"South Wenatchee Ave",0,21602,11512_shp,0,0
+6,19,t3E8-b5462-sl13,"Columbia Station via Wenatchee Ave",1,21602,11523_shp,0,0
+6,19,t420-b5462-sl13,"South Wenatchee Ave",0,21602,11512_shp,0,0
+6,19,t44E-b5462-sl13,"Columbia Station via Wenatchee Ave",1,21602,11523_shp,0,0
+6,19,t484-b5462-sl13,"South Wenatchee Ave",0,21602,11512_shp,0,0
+6,19,t4B2-b5462-sl13,"Columbia Station via Wenatchee Ave",1,21602,11523_shp,0,0
+6,19,t4E8-b5600-sl13,"South Wenatchee Ave",0,22016,11512_shp,0,0
+6,19,t516-b5600-sl13,"Columbia Station via Wenatchee Ave",1,22016,11523_shp,0,0
+6,19,t54C-b5600-sl13,"South Wenatchee Ave",0,22016,11512_shp,0,0
+6,19,t57A-b5600-sl13,"Columbia Station via Wenatchee Ave",1,22016,11523_shp,0,0
+6,19,t5B0-b5600-sl13,"South Wenatchee Ave",0,22016,11512_shp,0,0
+6,19,t5DE-b5600-sl13,"Columbia Station via Wenatchee Ave",1,22016,11523_shp,0,0
+6,19,t614-b5600-sl13,"South Wenatchee Ave",0,22016,11512_shp,0,0
+6,19,t642-b5600-sl13,"Columbia Station via Wenatchee Ave",1,22016,11523_shp,0,0
+6,19,t678-b5600-sl13,"South Wenatchee Ave",0,22016,11512_shp,0,0
+6,19,t6A6-b5600-sl13,"Columbia Station via Wenatchee Ave",1,22016,11523_shp,0,0
+6,20,t3BA-b7531-sl14,"South Wenatchee Ave",0,30001,11514_shp,0,0
+6,20,t3E8-b7531-sl14,"Columbia Station via Wenatchee Ave",1,30001,11524_shp,0,0
+6,20,t420-b7531-sl14,"South Wenatchee Ave",0,30001,11514_shp,0,0
+6,20,t44E-b7531-sl14,"Columbia Station via Wenatchee Ave",1,30001,11524_shp,0,0
+6,20,t484-b7531-sl14,"South Wenatchee Ave",0,30001,11514_shp,0,0
+6,20,t4B2-b7531-sl14,"Columbia Station via Wenatchee Ave",1,30001,11524_shp,0,0
+6,20,t4E8-b7531-sl14,"South Wenatchee Ave",0,30001,11514_shp,0,0
+6,20,t516-b7531-sl14,"Columbia Station via Wenatchee Ave",1,30001,11524_shp,0,0
+6,20,t54C-b7531-sl14,"South Wenatchee Ave",0,30001,11514_shp,0,0
+6,20,t57A-b7531-sl14,"Columbia Station via Wenatchee Ave",1,30001,11524_shp,0,0
+6,20,t5B0-b7531-sl14,"South Wenatchee Ave",0,30001,11514_shp,0,0
+6,20,t5DE-b7531-sl14,"Columbia Station via Wenatchee Ave",1,30001,11524_shp,0,0
+6,20,t614-b7531-sl14,"South Wenatchee Ave",0,30001,11514_shp,0,0
+6,20,t642-b7531-sl14,"Columbia Station via Wenatchee Ave",1,30001,11524_shp,0,0
+6,20,t678-b7531-sl14,"South Wenatchee Ave",0,30001,11514_shp,0,0
+6,20,t6A6-b7531-sl14,"Columbia Station via Wenatchee Ave",1,30001,11524_shp,0,0
+6,40,t3BA-b14124-sl28,"South Wenatchee Ave",0,82212,11357_shp,0,0
+6,40,t3E8-b14124-sl28,"Columbia Station via Wenatchee Ave",1,82212,11356_shp,0,0
+6,40,t420-b14124-sl28,"South Wenatchee Ave",0,82212,11357_shp,0,0
+6,40,t44E-b14124-sl28,"Columbia Station via Wenatchee Ave",1,82212,11356_shp,0,0
+6,40,t484-b14124-sl28,"South Wenatchee Ave",0,82212,11357_shp,0,0
+6,40,t4B2-b14124-sl28,"Columbia Station via Wenatchee Ave",1,82212,11356_shp,0,0
+6,40,t4E8-b14124-sl28,"South Wenatchee Ave",0,82212,11357_shp,0,0
+6,40,t516-b14124-sl28,"Columbia Station via Wenatchee Ave",1,82212,11356_shp,0,0
+6,40,t54C-b14124-sl28,"South Wenatchee Ave",0,82212,11357_shp,0,0
+6,40,t57A-b14124-sl28,"Columbia Station via Wenatchee Ave",1,82212,11356_shp,0,0
+6,40,t5B0-b14124-sl28,"South Wenatchee Ave",0,82212,11357_shp,0,0
+6,40,t5DE-b14124-sl28,"Columbia Station via Wenatchee Ave",1,82212,11356_shp,0,0
+6,40,t614-b14124-sl28,"South Wenatchee Ave",0,82212,11357_shp,0,0
+6,40,t642-b14124-sl28,"Columbia Station via Wenatchee Ave",1,82212,11356_shp,0,0
+6,40,t678-b14124-sl28,"South Wenatchee Ave",0,82212,11357_shp,0,0
+6,40,t6A6-b14124-sl28,"Columbia Station via Wenatchee Ave",1,82212,11356_shp,0,0
+6,43,t2F2-bF0A2-sl2B,"South Wenatchee Ave",0,61602,11476_shp,0,0
+6,43,t320-bF0A2-sl2B,"Columbia Station via Wenatchee Ave",1,61602,11474_shp,0,0
+6,43,t356-bF0A2-sl2B,"South Wenatchee Ave",0,61602,11476_shp,0,0
+6,43,t384-bF0A2-sl2B,"Columbia Station via Wenatchee Ave",1,61602,11474_shp,0,0
+6,43,t3BA-bF0A2-sl2B,"South Wenatchee Ave",0,61602,11476_shp,0,0
+6,43,t3E8-bF0A2-sl2B,"Columbia Station via Wenatchee Ave",1,61602,11474_shp,0,0
+6,43,t420-bF0A2-sl2B,"South Wenatchee Ave",0,61602,11476_shp,0,0
+6,43,t44E-bF0A2-sl2B,"Columbia Station via Wenatchee Ave",1,61602,11474_shp,0,0
+6,43,t484-bF0A2-sl2B,"South Wenatchee Ave",0,61602,11476_shp,0,0
+6,43,t4B2-bF0A2-sl2B,"Columbia Station via Wenatchee Ave",1,61602,11474_shp,0,0
+6,43,t4E8-bF240-sl2B,"South Wenatchee Ave",0,62016,11476_shp,0,0
+6,43,t516-bF240-sl2B,"Columbia Station via Wenatchee Ave",1,62016,11474_shp,0,0
+6,43,t54C-bF240-sl2B,"South Wenatchee Ave",0,62016,11476_shp,0,0
+6,43,t57A-bF240-sl2B,"Columbia Station via Wenatchee Ave",1,62016,11474_shp,0,0
+6,43,t5B0-bF240-sl2B,"South Wenatchee Ave",0,62016,11476_shp,0,0
+6,43,t5DE-bF240-sl2B,"Columbia Station via Wenatchee Ave",1,62016,11474_shp,0,0
+6,43,t614-bF240-sl2B,"South Wenatchee Ave",0,62016,11476_shp,0,0
+6,43,t642-bF240-sl2B,"Columbia Station via Wenatchee Ave",1,62016,11474_shp,0,0
+6,43,t678-bF240-sl2B,"South Wenatchee Ave",0,62016,11476_shp,0,0
+6,43,t6A6-bF240-sl2B,"Columbia Station via Wenatchee Ave",1,62016,11474_shp,0,0
+7,18,t276-bED0-sl12,"Target via Washington/5th",0,3792,11664_shp,0,0
+7,18,t291-bED0-sl12,"Columbia Station via 5th/Washington",1,3792,11667_shp,0,0
+7,18,t2BC-bED2-sl12,"Target via Washington/5th",0,3794,11664_shp,0,0
+7,18,t2D7-bED2-sl12,"Columbia Station via 5th/Washington",1,3794,11667_shp,0,0
+7,18,t2DA-bECF-sl12,"Target via Washington/5th",0,3791,11664_shp,0,0
+7,18,t2F5-bECF-sl12,"Columbia Station via 5th/Washington",1,3791,11667_shp,0,0
+7,18,t320-bED1-sl12,"Target via Washington/5th",0,3793,11664_shp,0,0
+7,18,t33B-bED1-sl12,"Columbia Station via 5th/Washington",1,3793,11667_shp,0,0
+7,18,t33E-bED0-sl12,"Target via Washington/5th",0,3792,11664_shp,0,0
+7,18,t359-bED0-sl12,"Columbia Station via 5th/Washington",1,3792,11667_shp,0,0
+7,18,t384-bED2-sl12,"Target via Washington/5th",0,3794,11664_shp,0,0
+7,18,t39F-bED2-sl12,"Columbia Station via 5th/Washington",1,3794,11667_shp,0,0
+7,18,t3A2-bECF-sl12,"Target via Washington/5th",0,3791,11664_shp,0,0
+7,18,t3BD-bECF-sl12,"Columbia Station via 5th/Washington",1,3791,11667_shp,0,0
+7,18,t3E8-bED1-sl12,"Target via Washington/5th",0,3793,11664_shp,0,0
+7,18,t403-bED1-sl12,"Columbia Station via 5th/Washington",1,3793,11667_shp,0,0
+7,18,t406-bED0-sl12,"Target via Washington/5th",0,3792,11664_shp,0,0
+7,18,t421-bED0-sl12,"Columbia Station via 5th/Washington",1,3792,11667_shp,0,0
+7,18,t44C-bED2-sl12,"Target via Washington/5th",0,3794,11664_shp,0,0
+7,18,t467-bED2-sl12,"Columbia Station via 5th/Washington",1,3794,11667_shp,0,0
+7,18,t46A-bECF-sl12,"Target via Washington/5th",0,3791,11664_shp,0,0
+7,18,t485-bECF-sl12,"Columbia Station via 5th/Washington",1,3791,11667_shp,0,0
+7,18,t4B0-bED1-sl12,"Target via Washington/5th",0,3793,11664_shp,0,0
+7,18,t4CB-bED1-sl12,"Columbia Station via 5th/Washington",1,3793,11667_shp,0,0
+7,18,t4CE-bED0-sl12,"Target via Washington/5th",0,3792,11664_shp,0,0
+7,18,t4E9-bED0-sl12,"Columbia Station via 5th/Washington",1,3792,11667_shp,0,0
+7,18,t514-bED2-sl12,"Target via Washington/5th",0,3794,11664_shp,0,0
+7,18,t52F-bED2-sl12,"Columbia Station via 5th/Washington",1,3794,11667_shp,0,0
+7,18,t532-bECF-sl12,"Target via Washington/5th",0,3791,11664_shp,0,0
+7,18,t54D-bECF-sl12,"Columbia Station via 5th/Washington",1,3791,11667_shp,0,0
+7,18,t578-bED1-sl12,"Target via Washington/5th",0,3793,11664_shp,0,0
+7,18,t593-bED1-sl12,"Columbia Station via 5th/Washington",1,3793,11667_shp,0,0
+7,18,t596-bED0-sl12,"Target via Washington/5th",0,3792,11664_shp,0,0
+7,18,t5B1-bED0-sl12,"Columbia Station via 5th/Washington",1,3792,11667_shp,0,0
+7,18,t5DC-bED2-sl12,"Target via Washington/5th",0,3794,11664_shp,0,0
+7,18,t5F7-bED2-sl12,"Columbia Station via 5th/Washington",1,3794,11667_shp,0,0
+7,18,t5FA-bECF-sl12,"Target via Washington/5th",0,3791,11664_shp,0,0
+7,18,t615-bECF-sl12,"Columbia Station via 5th/Washington",1,3791,11667_shp,0,0
+7,18,t640-bED1-sl12,"Target via Washington/5th",0,3793,11664_shp,0,0
+7,18,t65B-bED1-sl12,"Columbia Station via 5th/Washington",1,3793,11667_shp,0,0
+7,18,t65E-bED0-sl12,"Target via Washington/5th",0,3792,11664_shp,0,0
+7,18,t679-bED0-sl12,"Columbia Station via 5th/Washington",1,3792,11667_shp,0,0
+7,18,t6A4-bED2-sl12,"Target via Washington/5th",0,3794,11664_shp,0,0
+7,18,t6BF-bED2-sl12,"Columbia Station via 5th/Washington",1,3794,11667_shp,0,0
+7,18,t6C2-bECF-sl12,"Target via Washington/5th",0,3791,11664_shp,0,0
+7,18,t6DD-bECF-sl12,"Columbia Station via 5th/Washington",1,3791,11667_shp,0,0
+7,18,t708-bED1-sl12,"Target via Washington/5th",0,3793,11664_shp,0,0
+7,18,t723-bED1-sl12,"Columbia Station via 5th/Washington",1,3793,11667_shp,0,0
+7,18,t726-bED0-sl12,"Target via Washington/5th",0,3792,11664_shp,0,0
+7,18,t741-bED0-sl12,"Columbia Station via 5th/Washington",1,3792,11667_shp,0,0
+7,18,t78A-bED1-sl12,"Target via Washington/5th",0,3793,11664_shp,0,0
+7,18,t7A5-bED1-sl12,"Columbia Station via 5th/Washington",1,3793,11667_shp,0,0
+7,19,t2DA-b50E7-sl13,"Target via Washington/5th",0,20711,11665_shp,0,0
+7,19,t2F5-b50E7-sl13,"Columbia Station via 5th/Washington",1,20711,11668_shp,0,0
+7,19,t33E-b50E7-sl13,"Target via Washington/5th",0,20711,11665_shp,0,0
+7,19,t359-b50E7-sl13,"Columbia Station via 5th/Washington",1,20711,11668_shp,0,0
+7,19,t384-b71C8-sl13,"Target via Washington/5th",0,29128,11665_shp,0,0
+7,19,t39F-b71C8-sl13,"Columbia Station via 5th/Washington",1,29128,11668_shp,0,0
+7,19,t3A2-b50E7-sl13,"Target via Washington/5th",0,20711,11665_shp,0,0
+7,19,t3BD-b50E7-sl13,"Columbia Station via 5th/Washington",1,20711,11668_shp,0,0
+7,19,t3E8-b71C8-sl13,"Target via Washington/5th",0,29128,11665_shp,0,0
+7,19,t403-b71C8-sl13,"Columbia Station via 5th/Washington",1,29128,11668_shp,0,0
+7,19,t406-b50E7-sl13,"Target via Washington/5th",0,20711,11665_shp,0,0
+7,19,t421-b50E7-sl13,"Columbia Station via 5th/Washington",1,20711,11668_shp,0,0
+7,19,t44C-b71C2-sl13,"Target via Washington/5th",0,29122,11665_shp,0,0
+7,19,t467-b71C2-sl13,"Columbia Station via 5th/Washington",1,29122,11668_shp,0,0
+7,19,t46A-b50E7-sl13,"Target via Washington/5th",0,20711,11665_shp,0,0
+7,19,t485-b50E7-sl13,"Columbia Station via 5th/Washington",1,20711,11668_shp,0,0
+7,19,t4B0-b71C8-sl13,"Target via Washington/5th",0,29128,11665_shp,0,0
+7,19,t4CB-b71C8-sl13,"Columbia Station via 5th/Washington",1,29128,11668_shp,0,0
+7,19,t4CE-b5273-sl13,"Target via Washington/5th",0,21107,11665_shp,0,0
+7,19,t4E9-b5273-sl13,"Columbia Station via 5th/Washington",1,21107,11668_shp,0,0
+7,19,t514-b71C2-sl13,"Target via Washington/5th",0,29122,11665_shp,0,0
+7,19,t52F-b71C2-sl13,"Columbia Station via 5th/Washington",1,29122,11668_shp,0,0
+7,19,t532-b5273-sl13,"Target via Washington/5th",0,21107,11665_shp,0,0
+7,19,t54D-b5273-sl13,"Columbia Station via 5th/Washington",1,21107,11668_shp,0,0
+7,19,t578-b71C8-sl13,"Target via Washington/5th",0,29128,11665_shp,0,0
+7,19,t593-b71C8-sl13,"Columbia Station via 5th/Washington",1,29128,11668_shp,0,0
+7,19,t596-b5273-sl13,"Target via Washington/5th",0,21107,11665_shp,0,0
+7,19,t5B1-b5273-sl13,"Columbia Station via 5th/Washington",1,21107,11668_shp,0,0
+7,19,t5DC-b71C2-sl13,"Target via Washington/5th",0,29122,11665_shp,0,0
+7,19,t5F7-b71C2-sl13,"Columbia Station via 5th/Washington",1,29122,11668_shp,0,0
+7,19,t5FA-b5273-sl13,"Target via Washington/5th",0,21107,11665_shp,0,0
+7,19,t615-b5273-sl13,"Columbia Station via 5th/Washington",1,21107,11668_shp,0,0
+7,19,t640-b71C2-sl13,"Target via Washington/5th",0,29122,11665_shp,0,0
+7,19,t65B-b71C2-sl13,"Columbia Station via 5th/Washington",1,29122,11668_shp,0,0
+7,19,t65E-b5273-sl13,"Target via Washington/5th",0,21107,11665_shp,0,0
+7,19,t679-b5273-sl13,"Columbia Station via 5th/Washington",1,21107,11668_shp,0,0
+7,20,t3A2-b83A6-sl14,"Target via Washington/5th",0,33702,11666_shp,0,0
+7,20,t3BD-b83A6-sl14,"Columbia Station via 5th/Washington",1,33702,11663_shp,0,0
+7,20,t3E8-b77F8-sl14,"Target via Washington/5th",0,30712,11666_shp,0,0
+7,20,t403-b77F8-sl14,"Columbia Station via 5th/Washington",1,30712,11663_shp,0,0
+7,20,t406-b83A5-sl14,"Target via Washington/5th",0,33701,11666_shp,0,0
+7,20,t421-b83A5-sl14,"Columbia Station via 5th/Washington",1,33701,11663_shp,0,0
+7,20,t44C-b79E7-sl14,"Target via Washington/5th",0,31207,11666_shp,0,0
+7,20,t467-b79E7-sl14,"Columbia Station via 5th/Washington",1,31207,11663_shp,0,0
+7,20,t46A-b83A6-sl14,"Target via Washington/5th",0,33702,11666_shp,0,0
+7,20,t485-b83A6-sl14,"Columbia Station via 5th/Washington",1,33702,11663_shp,0,0
+7,20,t4B0-b77F8-sl14,"Target via Washington/5th",0,30712,11666_shp,0,0
+7,20,t4CB-b77F8-sl14,"Columbia Station via 5th/Washington",1,30712,11663_shp,0,0
+7,20,t4CE-b83A5-sl14,"Target via Washington/5th",0,33701,11666_shp,0,0
+7,20,t4E9-b83A5-sl14,"Columbia Station via 5th/Washington",1,33701,11663_shp,0,0
+7,20,t514-b79E7-sl14,"Target via Washington/5th",0,31207,11666_shp,0,0
+7,20,t52F-b79E7-sl14,"Columbia Station via 5th/Washington",1,31207,11663_shp,0,0
+7,20,t532-b83A6-sl14,"Target via Washington/5th",0,33702,11666_shp,0,0
+7,20,t54D-b83A6-sl14,"Columbia Station via 5th/Washington",1,33702,11663_shp,0,0
+7,20,t578-b79E7-sl14,"Target via Washington/5th",0,31207,11666_shp,0,0
+7,20,t593-b79E7-sl14,"Columbia Station via 5th/Washington",1,31207,11663_shp,0,0
+7,20,t596-b83A5-sl14,"Target via Washington/5th",0,33701,11666_shp,0,0
+7,20,t5B1-b83A5-sl14,"Columbia Station via 5th/Washington",1,33701,11663_shp,0,0
+7,20,t5DC-b77F8-sl14,"Target via Washington/5th",0,30712,11666_shp,0,0
+7,20,t5F7-b77F8-sl14,"Columbia Station via 5th/Washington",1,30712,11663_shp,0,0
+7,20,t5FA-b83A6-sl14,"Target via Washington/5th",0,33702,11666_shp,0,0
+7,20,t615-b83A6-sl14,"Columbia Station via 5th/Washington",1,33702,11663_shp,0,0
+7,20,t640-b77F8-sl14,"Target via Washington/5th",0,30712,11666_shp,0,0
+7,20,t65B-b77F8-sl14,"Columbia Station via 5th/Washington",1,30712,11663_shp,0,0
+7,20,t65E-b83A5-sl14,"Target via Washington/5th",0,33701,11666_shp,0,0
+7,20,t679-b83A5-sl14,"Columbia Station via 5th/Washington",1,33701,11663_shp,0,0
+7,40,t3A2-b14121-sl28,"Target via Washington/5th",0,82209,11370_shp,0,0
+7,40,t3BD-b14121-sl28,"Columbia Station via 5th/Washington",1,82209,11344_shp,0,0
+7,40,t3E8-b14126-sl28,"Target via Washington/5th",0,82214,11370_shp,0,0
+7,40,t403-b14126-sl28,"Columbia Station via 5th/Washington",1,82214,11344_shp,0,0
+7,40,t406-b14120-sl28,"Target via Washington/5th",0,82208,11370_shp,0,0
+7,40,t421-b14120-sl28,"Columbia Station via 5th/Washington",1,82208,11344_shp,0,0
+7,40,t44C-b14128-sl28,"Target via Washington/5th",0,82216,11370_shp,0,0
+7,40,t467-b14128-sl28,"Columbia Station via 5th/Washington",1,82216,11344_shp,0,0
+7,40,t46A-b14121-sl28,"Target via Washington/5th",0,82209,11370_shp,0,0
+7,40,t485-b14121-sl28,"Columbia Station via 5th/Washington",1,82209,11344_shp,0,0
+7,40,t4B0-b14126-sl28,"Target via Washington/5th",0,82214,11370_shp,0,0
+7,40,t4CB-b14126-sl28,"Columbia Station via 5th/Washington",1,82214,11344_shp,0,0
+7,40,t4CE-b14120-sl28,"Target via Washington/5th",0,82208,11370_shp,0,0
+7,40,t4E9-b14120-sl28,"Columbia Station via 5th/Washington",1,82208,11344_shp,0,0
+7,40,t514-b14128-sl28,"Target via Washington/5th",0,82216,11370_shp,0,0
+7,40,t52F-b14128-sl28,"Columbia Station via 5th/Washington",1,82216,11344_shp,0,0
+7,40,t532-b14121-sl28,"Target via Washington/5th",0,82209,11370_shp,0,0
+7,40,t54D-b14121-sl28,"Columbia Station via 5th/Washington",1,82209,11344_shp,0,0
+7,40,t578-b14128-sl28,"Target via Washington/5th",0,82216,11370_shp,0,0
+7,40,t593-b14128-sl28,"Columbia Station via 5th/Washington",1,82216,11344_shp,0,0
+7,40,t596-b14120-sl28,"Target via Washington/5th",0,82208,11370_shp,0,0
+7,40,t5B1-b14120-sl28,"Columbia Station via 5th/Washington",1,82208,11344_shp,0,0
+7,40,t5DC-b14126-sl28,"Target via Washington/5th",0,82214,11370_shp,0,0
+7,40,t5F7-b14126-sl28,"Columbia Station via 5th/Washington",1,82214,11344_shp,0,0
+7,40,t5FA-b14121-sl28,"Target via Washington/5th",0,82209,11370_shp,0,0
+7,40,t615-b14121-sl28,"Columbia Station via 5th/Washington",1,82209,11344_shp,0,0
+7,40,t640-b14126-sl28,"Target via Washington/5th",0,82214,11370_shp,0,0
+7,40,t65B-b14126-sl28,"Columbia Station via 5th/Washington",1,82214,11344_shp,0,0
+7,40,t65E-b14120-sl28,"Target via Washington/5th",0,82208,11370_shp,0,0
+7,40,t679-b14120-sl28,"Columbia Station via 5th/Washington",1,82208,11344_shp,0,0
+7,43,t2DA-bED27-sl2B,"Target via Washington/5th",0,60711,11487_shp,0,0
+7,43,t2F5-bED27-sl2B,"Columbia Station via 5th/Washington",1,60711,11445_shp,0,0
+7,43,t33E-bED27-sl2B,"Target via Washington/5th",0,60711,11487_shp,0,0
+7,43,t359-bED27-sl2B,"Columbia Station via 5th/Washington",1,60711,11445_shp,0,0
+7,43,t384-b10E08-sl2B,"Target via Washington/5th",0,69128,11487_shp,0,0
+7,43,t39F-b10E08-sl2B,"Columbia Station via 5th/Washington",1,69128,11445_shp,0,0
+7,43,t3A2-bED27-sl2B,"Target via Washington/5th",0,60711,11487_shp,0,0
+7,43,t3BD-bED27-sl2B,"Columbia Station via 5th/Washington",1,60711,11445_shp,0,0
+7,43,t3E8-b10E08-sl2B,"Target via Washington/5th",0,69128,11487_shp,0,0
+7,43,t403-b10E08-sl2B,"Columbia Station via 5th/Washington",1,69128,11445_shp,0,0
+7,43,t406-bED27-sl2B,"Target via Washington/5th",0,60711,11487_shp,0,0
+7,43,t421-bED27-sl2B,"Columbia Station via 5th/Washington",1,60711,11445_shp,0,0
+7,43,t44C-b10E02-sl2B,"Target via Washington/5th",0,69122,11487_shp,0,0
+7,43,t467-b10E02-sl2B,"Columbia Station via 5th/Washington",1,69122,11445_shp,0,0
+7,43,t46A-bED27-sl2B,"Target via Washington/5th",0,60711,11487_shp,0,0
+7,43,t485-bED27-sl2B,"Columbia Station via 5th/Washington",1,60711,11445_shp,0,0
+7,43,t4B0-b10E08-sl2B,"Target via Washington/5th",0,69128,11487_shp,0,0
+7,43,t4CB-b10E08-sl2B,"Columbia Station via 5th/Washington",1,69128,11445_shp,0,0
+7,43,t4CE-bEEB3-sl2B,"Target via Washington/5th",0,61107,11487_shp,0,0
+7,43,t4E9-bEEB3-sl2B,"Columbia Station via 5th/Washington",1,61107,11445_shp,0,0
+7,43,t514-b10E02-sl2B,"Target via Washington/5th",0,69122,11487_shp,0,0
+7,43,t52F-b10E02-sl2B,"Columbia Station via 5th/Washington",1,69122,11445_shp,0,0
+7,43,t532-bEEB3-sl2B,"Target via Washington/5th",0,61107,11487_shp,0,0
+7,43,t54D-bEEB3-sl2B,"Columbia Station via 5th/Washington",1,61107,11445_shp,0,0
+7,43,t578-b10E08-sl2B,"Target via Washington/5th",0,69128,11487_shp,0,0
+7,43,t593-b10E08-sl2B,"Columbia Station via 5th/Washington",1,69128,11445_shp,0,0
+7,43,t596-bEEB3-sl2B,"Target via Washington/5th",0,61107,11487_shp,0,0
+7,43,t5B1-bEEB3-sl2B,"Columbia Station via 5th/Washington",1,61107,11445_shp,0,0
+7,43,t5DC-b10E02-sl2B,"Target via Washington/5th",0,69122,11487_shp,0,0
+7,43,t5F7-b10E02-sl2B,"Columbia Station via 5th/Washington",1,69122,11445_shp,0,0
+7,43,t5FA-bEEB3-sl2B,"Target via Washington/5th",0,61107,11487_shp,0,0
+7,43,t615-bEEB3-sl2B,"Columbia Station via 5th/Washington",1,61107,11445_shp,0,0
+7,43,t640-b10E02-sl2B,"Target via Washington/5th",0,69122,11487_shp,0,0
+7,43,t65B-b10E02-sl2B,"Columbia Station via 5th/Washington",1,69122,11445_shp,0,0
+7,43,t65E-bEEB3-sl2B,"Target via Washington/5th",0,61107,11487_shp,0,0
+7,43,t679-bEEB3-sl2B,"Columbia Station via 5th/Washington",1,61107,11445_shp,0,0
+8,18,t212-b75A-sl12,"Columbia Station via Miller/Orondo",1,1882,11653_shp,0,0
+8,18,t258-b759-sl12,"Columbia Station via Miller/Orondo",1,1881,11653_shp,0,0
+8,18,t258-b75A-sl12,"Olds Station via Orondo/Miller",0,1882,11655_shp,0,0
+8,18,t276-b759-sl12,"Olds Station via Orondo/Miller",0,1881,11655_shp,0,0
+8,18,t276-b75C-sl12,"Columbia Station via Miller/Orondo",1,1884,11653_shp,0,0
+8,18,t2BC-b75B-sl12,"Columbia Station via Miller/Orondo",1,1883,11653_shp,0,0
+8,18,t2BC-b75C-sl12,"Olds Station via Orondo/Miller",0,1884,11655_shp,0,0
+8,18,t2D9-b75A-sl12,"Columbia Station via Miller/Orondo",1,1882,11653_shp,0,0
+8,18,t2DA-b75B-sl12,"Olds Station via Orondo/Miller",0,1883,11655_shp,0,0
+8,18,t320-b759-sl12,"Columbia Station via Miller/Orondo",1,1881,11653_shp,0,0
+8,18,t320-b75A-sl12,"Olds Station via Orondo/Miller",0,1882,11655_shp,0,0
+8,18,t33E-b759-sl12,"Olds Station via Orondo/Miller",0,1881,11655_shp,0,0
+8,18,t33E-b75C-sl12,"Columbia Station via Miller/Orondo",1,1884,11653_shp,0,0
+8,18,t384-b75B-sl12,"Columbia Station via Miller/Orondo",1,1883,11653_shp,0,0
+8,18,t384-b75C-sl12,"Olds Station via Orondo/Miller",0,1884,11655_shp,0,0
+8,18,t3A2-b75A-sl12,"Columbia Station via Miller/Orondo",1,1882,11653_shp,0,0
+8,18,t3A2-b75B-sl12,"Olds Station via Orondo/Miller",0,1883,11655_shp,0,0
+8,18,t3E8-b759-sl12,"Columbia Station via Miller/Orondo",1,1881,11653_shp,0,0
+8,18,t3E8-b75A-sl12,"Olds Station via Orondo/Miller",0,1882,11655_shp,0,0
+8,18,t406-b759-sl12,"Olds Station via Orondo/Miller",0,1881,11655_shp,0,0
+8,18,t406-b75C-sl12,"Columbia Station via Miller/Orondo",1,1884,11653_shp,0,0
+8,18,t44C-b75C-sl12,"Olds Station via Orondo/Miller",0,1884,11655_shp,0,0
+8,18,t44D-b75B-sl12,"Columbia Station via Miller/Orondo",1,1883,11653_shp,0,0
+8,18,t46A-b75B-sl12,"Olds Station via Orondo/Miller",0,1883,11655_shp,0,0
+8,18,t46B-b75A-sl12,"Columbia Station via Miller/Orondo",1,1882,11653_shp,0,0
+8,18,t4B0-b75A-sl12,"Olds Station via Orondo/Miller",0,1882,11655_shp,0,0
+8,18,t4B2-b759-sl12,"Columbia Station via Miller/Orondo",1,1881,11653_shp,0,0
+8,18,t4CE-b759-sl12,"Olds Station via Orondo/Miller",0,1881,11655_shp,0,0
+8,18,t4D0-b75C-sl12,"Columbia Station via Miller/Orondo",1,1884,11653_shp,0,0
+8,18,t514-b75C-sl12,"Olds Station via Orondo/Miller",0,1884,11655_shp,0,0
+8,18,t516-b75B-sl12,"Columbia Station via Miller/Orondo",1,1883,11653_shp,0,0
+8,18,t532-b75D-sl12,"Olds Station via Orondo/Miller",0,1885,11655_shp,0,0
+8,18,t534-b75A-sl12,"Columbia Station via Miller/Orondo",1,1882,11653_shp,0,0
+8,18,t578-b75B-sl12,"Olds Station via Orondo/Miller",0,1883,11655_shp,0,0
+8,18,t57A-b759-sl12,"Columbia Station via Miller/Orondo",1,1881,11653_shp,0,0
+8,18,t596-b75A-sl12,"Olds Station via Orondo/Miller",0,1882,11655_shp,0,0
+8,18,t598-b75C-sl12,"Columbia Station via Miller/Orondo",1,1884,11653_shp,0,0
+8,18,t5DC-b759-sl12,"Olds Station via Orondo/Miller",0,1881,11655_shp,0,0
+8,18,t5DF-b75D-sl12,"Columbia Station via Miller/Orondo",1,1885,11653_shp,0,0
+8,18,t5FA-b75C-sl12,"Olds Station via Orondo/Miller",0,1884,11655_shp,0,0
+8,18,t5FD-b75B-sl12,"Columbia Station via Miller/Orondo",1,1883,11653_shp,0,0
+8,18,t640-b75D-sl12,"Olds Station via Orondo/Miller",0,1885,11655_shp,0,0
+8,18,t643-b75A-sl12,"Columbia Station via Miller/Orondo",1,1882,11653_shp,0,0
+8,18,t65E-b75B-sl12,"Olds Station via Orondo/Miller",0,1883,11655_shp,0,0
+8,18,t660-b759-sl12,"Columbia Station via Miller/Orondo",1,1881,11653_shp,0,0
+8,18,t6A4-b75A-sl12,"Olds Station via Orondo/Miller",0,1882,11655_shp,0,0
+8,18,t6A5-b75C-sl12,"Columbia Station via Miller/Orondo",1,1884,11653_shp,0,0
+8,18,t6C2-b759-sl12,"Olds Station via Orondo/Miller",0,1881,11655_shp,0,0
+8,18,t6C3-b75D-sl12,"Columbia Station via Miller/Orondo",1,1885,11653_shp,0,0
+8,18,t708-b75C-sl12,"Olds Station via Orondo/Miller",0,1884,11655_shp,0,0
+8,18,t709-b75B-sl12,"Columbia Station via Miller/Orondo",1,1883,11653_shp,0,0
+8,18,t725-b75A-sl12,"Columbia Station via Miller/Orondo",1,1882,11653_shp,0,0
+8,18,t76C-b75A-sl12,"Olds Station via Orondo/Miller",0,1882,11655_shp,0,0
+8,18,t789-b75C-sl12,"Columbia Station via Miller/Orondo",1,1884,11653_shp,0,0
+8,18,t7D0-b75C-sl12,"Olds Station via Orondo/Miller",0,1884,11655_shp,0,0
+8,18,t7ED-b75A-sl12,"Columbia Station via Miller/Orondo",1,1882,11653_shp,0,0
+8,18,t834-b75A-sl12,"Olds Station via Orondo/Miller",0,1882,11655_shp,0,0
+8,19,t2BD-b5149-sl13,"Columbia Station via Miller/Orondo",1,20809,11654_shp,0,0
+8,19,t2DA-b5149-sl13,"Olds Station via Orondo/Miller",0,20809,11656_shp,0,0
+8,19,t321-b5323-sl13,"Columbia Station via Miller/Orondo",1,21283,11654_shp,0,0
+8,19,t33E-b5323-sl13,"Olds Station via Orondo/Miller",0,21283,11656_shp,0,0
+8,19,t385-b5149-sl13,"Columbia Station via Miller/Orondo",1,20809,11654_shp,0,0
+8,19,t3A2-b5149-sl13,"Olds Station via Orondo/Miller",0,20809,11656_shp,0,0
+8,19,t3E9-b5323-sl13,"Columbia Station via Miller/Orondo",1,21283,11654_shp,0,0
+8,19,t406-b5323-sl13,"Olds Station via Orondo/Miller",0,21283,11656_shp,0,0
+8,19,t44D-b5149-sl13,"Columbia Station via Miller/Orondo",1,20809,11654_shp,0,0
+8,19,t46A-b56B9-sl13,"Olds Station via Orondo/Miller",0,22201,11656_shp,0,0
+8,19,t4B1-b5323-sl13,"Columbia Station via Miller/Orondo",1,21283,11654_shp,0,0
+8,19,t4CE-b5149-sl13,"Olds Station via Orondo/Miller",0,20809,11656_shp,0,0
+8,19,t515-b56B9-sl13,"Columbia Station via Miller/Orondo",1,22201,11654_shp,0,0
+8,19,t532-b5321-sl13,"Olds Station via Orondo/Miller",0,21281,11656_shp,0,0
+8,19,t579-b5149-sl13,"Columbia Station via Miller/Orondo",1,20809,11654_shp,0,0
+8,19,t596-b5149-sl13,"Olds Station via Orondo/Miller",0,20809,11656_shp,0,0
+8,19,t5DD-b5321-sl13,"Columbia Station via Miller/Orondo",1,21281,11654_shp,0,0
+8,19,t5FA-b5321-sl13,"Olds Station via Orondo/Miller",0,21281,11656_shp,0,0
+8,19,t641-b5149-sl13,"Columbia Station via Miller/Orondo",1,20809,11654_shp,0,0
+8,19,t65E-b5149-sl13,"Olds Station via Orondo/Miller",0,20809,11656_shp,0,0
+8,19,t6A5-b5321-sl13,"Columbia Station via Miller/Orondo",1,21281,11654_shp,0,0
+8,19,t6C2-b5321-sl13,"Olds Station via Orondo/Miller",0,21281,11656_shp,0,0
+8,20,t385-b7C39-sl14,"Columbia Station via Miller/Orondo",1,31801,11651_shp,0,0
+8,20,t3A2-b7C39-sl14,"Olds Station via Orondo/Miller",0,31801,11652_shp,0,0
+8,20,t3E9-b7C3A-sl14,"Columbia Station via Miller/Orondo",1,31802,11651_shp,0,0
+8,20,t406-b7C3A-sl14,"Olds Station via Orondo/Miller",0,31802,11652_shp,0,0
+8,20,t44D-b7C39-sl14,"Columbia Station via Miller/Orondo",1,31801,11651_shp,0,0
+8,20,t46A-b7C39-sl14,"Olds Station via Orondo/Miller",0,31801,11652_shp,0,0
+8,20,t4B1-b7C3A-sl14,"Columbia Station via Miller/Orondo",1,31802,11651_shp,0,0
+8,20,t4CE-b7C3A-sl14,"Olds Station via Orondo/Miller",0,31802,11652_shp,0,0
+8,20,t515-b7C39-sl14,"Columbia Station via Miller/Orondo",1,31801,11651_shp,0,0
+8,20,t532-b7C39-sl14,"Olds Station via Orondo/Miller",0,31801,11652_shp,0,0
+8,20,t579-b7C3A-sl14,"Columbia Station via Miller/Orondo",1,31802,11651_shp,0,0
+8,20,t596-b7C3A-sl14,"Olds Station via Orondo/Miller",0,31802,11652_shp,0,0
+8,20,t5DD-b7C39-sl14,"Columbia Station via Miller/Orondo",1,31801,11651_shp,0,0
+8,20,t5FA-b7C39-sl14,"Olds Station via Orondo/Miller",0,31801,11652_shp,0,0
+8,20,t641-b7C3A-sl14,"Columbia Station via Miller/Orondo",1,31802,11651_shp,0,0
+8,20,t65E-b7C3A-sl14,"Olds Station via Orondo/Miller",0,31802,11652_shp,0,0
+8,20,t6A5-b7C39-sl14,"Columbia Station via Miller/Orondo",1,31801,11651_shp,0,0
+8,20,t6C2-b7C39-sl14,"Olds Station via Orondo/Miller",0,31801,11652_shp,0,0
+8,40,t385-b14129-sl28,"Columbia Station via Miller/Orondo",1,82217,11348_shp,0,0
+8,40,t3A2-b14129-sl28,"Olds Station via Orondo/Miller",0,82217,11364_shp,0,0
+8,40,t3E9-b1412A-sl28,"Columbia Station via Miller/Orondo",1,82218,11348_shp,0,0
+8,40,t406-b1412A-sl28,"Olds Station via Orondo/Miller",0,82218,11364_shp,0,0
+8,40,t44D-b14129-sl28,"Columbia Station via Miller/Orondo",1,82217,11348_shp,0,0
+8,40,t46A-b14129-sl28,"Olds Station via Orondo/Miller",0,82217,11364_shp,0,0
+8,40,t4B1-b1412A-sl28,"Columbia Station via Miller/Orondo",1,82218,11348_shp,0,0
+8,40,t4CE-b1412A-sl28,"Olds Station via Orondo/Miller",0,82218,11364_shp,0,0
+8,40,t515-b14129-sl28,"Columbia Station via Miller/Orondo",1,82217,11348_shp,0,0
+8,40,t532-b14129-sl28,"Olds Station via Orondo/Miller",0,82217,11364_shp,0,0
+8,40,t579-b1412A-sl28,"Columbia Station via Miller/Orondo",1,82218,11348_shp,0,0
+8,40,t596-b1412A-sl28,"Olds Station via Orondo/Miller",0,82218,11364_shp,0,0
+8,40,t5DD-b14129-sl28,"Columbia Station via Miller/Orondo",1,82217,11348_shp,0,0
+8,40,t5FA-b14129-sl28,"Olds Station via Orondo/Miller",0,82217,11364_shp,0,0
+8,40,t641-b1412A-sl28,"Columbia Station via Miller/Orondo",1,82218,11348_shp,0,0
+8,40,t65E-b1412A-sl28,"Olds Station via Orondo/Miller",0,82218,11364_shp,0,0
+8,40,t6A5-b14129-sl28,"Columbia Station via Miller/Orondo",1,82217,11348_shp,0,0
+8,40,t6C2-b14129-sl28,"Olds Station via Orondo/Miller",0,82217,11364_shp,0,0
+8,43,t2BD-bED89-sl2B,"Columbia Station via Miller/Orondo",1,60809,11448_shp,0,0
+8,43,t2DA-bED89-sl2B,"Olds Station via Orondo/Miller",0,60809,11482_shp,0,0
+8,43,t321-bEF63-sl2B,"Columbia Station via Miller/Orondo",1,61283,11448_shp,0,0
+8,43,t33E-bEF63-sl2B,"Olds Station via Orondo/Miller",0,61283,11482_shp,0,0
+8,43,t385-bED89-sl2B,"Columbia Station via Miller/Orondo",1,60809,11448_shp,0,0
+8,43,t3A2-bED89-sl2B,"Olds Station via Orondo/Miller",0,60809,11482_shp,0,0
+8,43,t3E9-bEF63-sl2B,"Columbia Station via Miller/Orondo",1,61283,11448_shp,0,0
+8,43,t406-bEF63-sl2B,"Olds Station via Orondo/Miller",0,61283,11482_shp,0,0
+8,43,t44D-bED89-sl2B,"Columbia Station via Miller/Orondo",1,60809,11448_shp,0,0
+8,43,t46A-bF2F9-sl2B,"Olds Station via Orondo/Miller",0,62201,11482_shp,0,0
+8,43,t4B1-bEF63-sl2B,"Columbia Station via Miller/Orondo",1,61283,11448_shp,0,0
+8,43,t4CE-bED89-sl2B,"Olds Station via Orondo/Miller",0,60809,11482_shp,0,0
+8,43,t515-bF2F9-sl2B,"Columbia Station via Miller/Orondo",1,62201,11448_shp,0,0
+8,43,t532-bEF61-sl2B,"Olds Station via Orondo/Miller",0,61281,11482_shp,0,0
+8,43,t579-bED89-sl2B,"Columbia Station via Miller/Orondo",1,60809,11448_shp,0,0
+8,43,t596-bED89-sl2B,"Olds Station via Orondo/Miller",0,60809,11482_shp,0,0
+8,43,t5DD-bEF61-sl2B,"Columbia Station via Miller/Orondo",1,61281,11448_shp,0,0
+8,43,t5FA-bEF61-sl2B,"Olds Station via Orondo/Miller",0,61281,11482_shp,0,0
+8,43,t641-bED89-sl2B,"Columbia Station via Miller/Orondo",1,60809,11448_shp,0,0
+8,43,t65E-bED89-sl2B,"Olds Station via Orondo/Miller",0,60809,11482_shp,0,0
+8,43,t6A5-bEF61-sl2B,"Columbia Station via Miller/Orondo",1,61281,11448_shp,0,0
+8,43,t6C2-bEF61-sl2B,"Olds Station via Orondo/Miller",0,61281,11482_shp,0,0
+9,18,t258-bED1-sl12,"South Wenatchee/Lincoln Park",0,3793,11376_shp,0,0
+9,18,t263-bED1-sl12,"Columbia Station via Ferry St",1,3793,11373_shp,0,0
+9,18,t276-bED1-sl12,"South Wenatchee/Lincoln Park",0,3793,11376_shp,0,0
+9,18,t281-bED1-sl12,"Columbia Station via Ferry St",1,3793,11373_shp,0,0
+9,18,t2BC-bED1-sl12,"South Wenatchee/Lincoln Park",0,3793,11376_shp,0,0
+9,18,t2C7-bED1-sl12,"Columbia Station via Ferry St",1,3793,11373_shp,0,0
+9,18,t2DA-bED0-sl12,"South Wenatchee/Lincoln Park",0,3792,11376_shp,0,0
+9,18,t2E5-bED0-sl12,"Columbia Station via Ferry St",1,3792,11373_shp,0,0
+9,18,t320-bED2-sl12,"South Wenatchee/Lincoln Park",0,3794,11376_shp,0,0
+9,18,t32B-bED2-sl12,"Columbia Station via Ferry St",1,3794,11373_shp,0,0
+9,18,t33E-bECF-sl12,"South Wenatchee/Lincoln Park",0,3791,11376_shp,0,0
+9,18,t349-bECF-sl12,"Columbia Station via Ferry St",1,3791,11373_shp,0,0
+9,18,t384-bED1-sl12,"South Wenatchee/Lincoln Park",0,3793,11376_shp,0,0
+9,18,t38F-bED1-sl12,"Columbia Station via Ferry St",1,3793,11373_shp,0,0
+9,18,t3A2-bED0-sl12,"South Wenatchee/Lincoln Park",0,3792,11376_shp,0,0
+9,18,t3AD-bED0-sl12,"Columbia Station via Ferry St",1,3792,11373_shp,0,0
+9,18,t3E8-bED2-sl12,"South Wenatchee/Lincoln Park",0,3794,11376_shp,0,0
+9,18,t3F3-bED2-sl12,"Columbia Station via Ferry St",1,3794,11373_shp,0,0
+9,18,t406-bECF-sl12,"South Wenatchee/Lincoln Park",0,3791,11376_shp,0,0
+9,18,t411-bECF-sl12,"Columbia Station via Ferry St",1,3791,11373_shp,0,0
+9,18,t44C-bED1-sl12,"South Wenatchee/Lincoln Park",0,3793,11376_shp,0,0
+9,18,t457-bED1-sl12,"Columbia Station via Ferry St",1,3793,11373_shp,0,0
+9,18,t46A-bED0-sl12,"South Wenatchee/Lincoln Park",0,3792,11376_shp,0,0
+9,18,t475-bED0-sl12,"Columbia Station via Ferry St",1,3792,11373_shp,0,0
+9,18,t4B0-bED2-sl12,"South Wenatchee/Lincoln Park",0,3794,11376_shp,0,0
+9,18,t4BB-bED2-sl12,"Columbia Station via Ferry St",1,3794,11373_shp,0,0
+9,18,t4CE-bECF-sl12,"South Wenatchee/Lincoln Park",0,3791,11376_shp,0,0
+9,18,t4D9-bECF-sl12,"Columbia Station via Ferry St",1,3791,11373_shp,0,0
+9,18,t514-bED1-sl12,"South Wenatchee/Lincoln Park",0,3793,11376_shp,0,0
+9,18,t51F-bED1-sl12,"Columbia Station via Ferry St",1,3793,11373_shp,0,0
+9,18,t532-bED0-sl12,"South Wenatchee/Lincoln Park",0,3792,11376_shp,0,0
+9,18,t53D-bED0-sl12,"Columbia Station via Ferry St",1,3792,11373_shp,0,0
+9,18,t578-bED2-sl12,"South Wenatchee/Lincoln Park",0,3794,11376_shp,0,0
+9,18,t583-bED2-sl12,"Columbia Station via Ferry St",1,3794,11373_shp,0,0
+9,18,t596-bECF-sl12,"South Wenatchee/Lincoln Park",0,3791,11376_shp,0,0
+9,18,t5A1-bECF-sl12,"Columbia Station via Ferry St",1,3791,11373_shp,0,0
+9,18,t5DC-b8FE-sl12,"South Wenatchee/Lincoln Park",0,2302,11376_shp,0,0
+9,18,t5E7-b8FE-sl12,"Columbia Station via Ferry St",1,2302,11373_shp,0,0
+9,18,t5FA-b8FE-sl12,"South Wenatchee/Lincoln Park",0,2302,11376_shp,0,0
+9,18,t605-b8FE-sl12,"Columbia Station via Ferry St",1,2302,11373_shp,0,0
+9,18,t640-bED2-sl12,"South Wenatchee/Lincoln Park",0,3794,11376_shp,0,0
+9,18,t64B-bED2-sl12,"Columbia Station via Ferry St",1,3794,11373_shp,0,0
+9,18,t65E-b900-sl12,"South Wenatchee/Lincoln Park",0,2304,11376_shp,0,0
+9,18,t669-b900-sl12,"Columbia Station via Ferry St",1,2304,11373_shp,0,0
+9,18,t6A4-bED1-sl12,"South Wenatchee/Lincoln Park",0,3793,11376_shp,0,0
+9,18,t6AF-bED1-sl12,"Columbia Station via Ferry St",1,3793,11373_shp,0,0
+9,18,t6C2-b8FE-sl12,"South Wenatchee/Lincoln Park",0,2302,11376_shp,0,0
+9,18,t6CD-b8FE-sl12,"Columbia Station via Ferry St",1,2302,11373_shp,0,0
+9,18,t708-bED2-sl12,"South Wenatchee/Lincoln Park",0,3794,11376_shp,0,0
+9,18,t713-bED2-sl12,"Columbia Station via Ferry St",1,3794,11373_shp,0,0
+9,18,t726-bECF-sl12,"South Wenatchee/Lincoln Park",0,3791,11376_shp,0,0
+9,18,t731-bECF-sl12,"Columbia Station via Ferry St",1,3791,11373_shp,0,0
+9,18,t76C-bED1-sl12,"South Wenatchee/Lincoln Park",0,3793,11376_shp,0,0
+9,18,t777-bED1-sl12,"Columbia Station via Ferry St",1,3793,11373_shp,0,0
+9,18,t78A-bECF-sl12,"South Wenatchee/Lincoln Park",0,3791,11376_shp,0,0
+9,18,t795-bECF-sl12,"Columbia Station via Ferry St",1,3791,11373_shp,0,0
+9,18,t7D0-bED0-sl12,"South Wenatchee/Lincoln Park",0,3792,11376_shp,0,0
+9,18,t7DB-bED0-sl12,"Columbia Station via Ferry St",1,3792,11373_shp,0,0
+9,18,t7EE-bED0-sl12,"South Wenatchee/Lincoln Park",0,3792,11376_shp,0,0
+9,18,t7F9-bED0-sl12,"Columbia Station via Ferry St",1,3792,11373_shp,0,0
+9,18,t834-bED0-sl12,"South Wenatchee/Lincoln Park",0,3792,11376_shp,0,0
+9,18,t83F-bED0-sl12,"Columbia Station via Ferry St",1,3792,11373_shp,0,0
+9,19,t2DA-b71C1-sl13,"South Wenatchee/Lincoln Park",0,29121,11377_shp,0,0
+9,19,t2E5-b71C1-sl13,"Columbia Station via Ferry St",1,29121,11374_shp,0,0
+9,19,t320-b71C1-sl13,"South Wenatchee/Lincoln Park",0,29121,11377_shp,0,0
+9,19,t32B-b71C1-sl13,"Columbia Station via Ferry St",1,29121,11374_shp,0,0
+9,19,t33E-b71C1-sl13,"South Wenatchee/Lincoln Park",0,29121,11377_shp,0,0
+9,19,t349-b71C1-sl13,"Columbia Station via Ferry St",1,29121,11374_shp,0,0
+9,19,t384-b71C1-sl13,"South Wenatchee/Lincoln Park",0,29121,11377_shp,0,0
+9,19,t38F-b71C1-sl13,"Columbia Station via Ferry St",1,29121,11374_shp,0,0
+9,19,t3A2-b71C1-sl13,"South Wenatchee/Lincoln Park",0,29121,11377_shp,0,0
+9,19,t3AD-b71C1-sl13,"Columbia Station via Ferry St",1,29121,11374_shp,0,0
+9,19,t3E8-b71C1-sl13,"South Wenatchee/Lincoln Park",0,29121,11377_shp,0,0
+9,19,t3F3-b71C1-sl13,"Columbia Station via Ferry St",1,29121,11374_shp,0,0
+9,19,t406-b71C1-sl13,"South Wenatchee/Lincoln Park",0,29121,11377_shp,0,0
+9,19,t411-b71C1-sl13,"Columbia Station via Ferry St",1,29121,11374_shp,0,0
+9,19,t44C-b71C1-sl13,"South Wenatchee/Lincoln Park",0,29121,11377_shp,0,0
+9,19,t457-b71C1-sl13,"Columbia Station via Ferry St",1,29121,11374_shp,0,0
+9,19,t46A-b71C1-sl13,"South Wenatchee/Lincoln Park",0,29121,11377_shp,0,0
+9,19,t475-b71C1-sl13,"Columbia Station via Ferry St",1,29121,11374_shp,0,0
+9,19,t4B0-b5321-sl13,"South Wenatchee/Lincoln Park",0,21281,11377_shp,0,0
+9,19,t4BB-b5321-sl13,"Columbia Station via Ferry St",1,21281,11374_shp,0,0
+9,19,t4CE-b71C2-sl13,"South Wenatchee/Lincoln Park",0,29122,11377_shp,0,0
+9,19,t4D9-b71C2-sl13,"Columbia Station via Ferry St",1,29122,11374_shp,0,0
+9,19,t514-b71C8-sl13,"South Wenatchee/Lincoln Park",0,29128,11377_shp,0,0
+9,19,t51F-b71C8-sl13,"Columbia Station via Ferry St",1,29128,11374_shp,0,0
+9,19,t532-b71C8-sl13,"South Wenatchee/Lincoln Park",0,29128,11377_shp,0,0
+9,19,t53D-b71C8-sl13,"Columbia Station via Ferry St",1,29128,11374_shp,0,0
+9,19,t578-b71C2-sl13,"South Wenatchee/Lincoln Park",0,29122,11377_shp,0,0
+9,19,t583-b71C2-sl13,"Columbia Station via Ferry St",1,29122,11374_shp,0,0
+9,19,t596-b71C2-sl13,"South Wenatchee/Lincoln Park",0,29122,11377_shp,0,0
+9,19,t5A1-b71C2-sl13,"Columbia Station via Ferry St",1,29122,11374_shp,0,0
+9,19,t5DC-b71C8-sl13,"South Wenatchee/Lincoln Park",0,29128,11377_shp,0,0
+9,19,t5E7-b71C8-sl13,"Columbia Station via Ferry St",1,29128,11374_shp,0,0
+9,19,t5FA-b71C8-sl13,"South Wenatchee/Lincoln Park",0,29128,11377_shp,0,0
+9,19,t605-b71C8-sl13,"Columbia Station via Ferry St",1,29128,11374_shp,0,0
+9,19,t640-b71C8-sl13,"South Wenatchee/Lincoln Park",0,29128,11377_shp,0,0
+9,19,t64B-b71C8-sl13,"Columbia Station via Ferry St",1,29128,11374_shp,0,0
+9,19,t65E-b71C8-sl13,"South Wenatchee/Lincoln Park",0,29128,11377_shp,0,0
+9,19,t669-b71C8-sl13,"Columbia Station via Ferry St",1,29128,11374_shp,0,0
+9,19,t6A4-b71C2-sl13,"South Wenatchee/Lincoln Park",0,29122,11377_shp,0,0
+9,19,t6AF-b71C2-sl13,"Columbia Station via Ferry St",1,29122,11374_shp,0,0
+9,19,t6C2-b71C2-sl13,"South Wenatchee/Lincoln Park",0,29122,11377_shp,0,0
+9,19,t6CD-b71C2-sl13,"Columbia Station via Ferry St",1,29122,11374_shp,0,0
+9,20,t3A2-b98C7-sl14,"South Wenatchee/Lincoln Park",0,39111,11378_shp,0,0
+9,20,t3AD-b98C7-sl14,"Columbia Station via Ferry St",1,39111,11375_shp,0,0
+9,20,t3E8-b98C7-sl14,"South Wenatchee/Lincoln Park",0,39111,11378_shp,0,0
+9,20,t3F3-b98C7-sl14,"Columbia Station via Ferry St",1,39111,11375_shp,0,0
+9,20,t406-b98C7-sl14,"South Wenatchee/Lincoln Park",0,39111,11378_shp,0,0
+9,20,t411-b98C7-sl14,"Columbia Station via Ferry St",1,39111,11375_shp,0,0
+9,20,t44C-b98C7-sl14,"South Wenatchee/Lincoln Park",0,39111,11378_shp,0,0
+9,20,t457-b98C7-sl14,"Columbia Station via Ferry St",1,39111,11375_shp,0,0
+9,20,t46A-b98C7-sl14,"South Wenatchee/Lincoln Park",0,39111,11378_shp,0,0
+9,20,t475-b98C7-sl14,"Columbia Station via Ferry St",1,39111,11375_shp,0,0
+9,20,t4B0-b98C7-sl14,"South Wenatchee/Lincoln Park",0,39111,11378_shp,0,0
+9,20,t4BB-b98C7-sl14,"Columbia Station via Ferry St",1,39111,11375_shp,0,0
+9,20,t4CE-b98C7-sl14,"South Wenatchee/Lincoln Park",0,39111,11378_shp,0,0
+9,20,t4D9-b98C7-sl14,"Columbia Station via Ferry St",1,39111,11375_shp,0,0
+9,20,t514-b98C7-sl14,"South Wenatchee/Lincoln Park",0,39111,11378_shp,0,0
+9,20,t51F-b98C7-sl14,"Columbia Station via Ferry St",1,39111,11375_shp,0,0
+9,20,t532-b98C7-sl14,"South Wenatchee/Lincoln Park",0,39111,11378_shp,0,0
+9,20,t53D-b98C7-sl14,"Columbia Station via Ferry St",1,39111,11375_shp,0,0
+9,20,t578-b798F-sl14,"South Wenatchee/Lincoln Park",0,31119,11378_shp,0,0
+9,20,t583-b798F-sl14,"Columbia Station via Ferry St",1,31119,11375_shp,0,0
+9,20,t596-b798F-sl14,"South Wenatchee/Lincoln Park",0,31119,11378_shp,0,0
+9,20,t5A1-b798F-sl14,"Columbia Station via Ferry St",1,31119,11375_shp,0,0
+9,20,t5DC-b798F-sl14,"South Wenatchee/Lincoln Park",0,31119,11378_shp,0,0
+9,20,t5E7-b798F-sl14,"Columbia Station via Ferry St",1,31119,11375_shp,0,0
+9,20,t5FA-b798F-sl14,"South Wenatchee/Lincoln Park",0,31119,11378_shp,0,0
+9,20,t605-b798F-sl14,"Columbia Station via Ferry St",1,31119,11375_shp,0,0
+9,20,t640-b798F-sl14,"South Wenatchee/Lincoln Park",0,31119,11378_shp,0,0
+9,20,t64B-b798F-sl14,"Columbia Station via Ferry St",1,31119,11375_shp,0,0
+9,20,t65E-b798F-sl14,"South Wenatchee/Lincoln Park",0,31119,11378_shp,0,0
+9,20,t669-b798F-sl14,"Columbia Station via Ferry St",1,31119,11375_shp,0,0
+9,20,t6A4-b798F-sl14,"South Wenatchee/Lincoln Park",0,31119,11378_shp,0,0
+9,20,t6AF-b798F-sl14,"Columbia Station via Ferry St",1,31119,11375_shp,0,0
+9,20,t6C2-b798F-sl14,"South Wenatchee/Lincoln Park",0,31119,11378_shp,0,0
+9,20,t6CD-b798F-sl14,"Columbia Station via Ferry St",1,31119,11375_shp,0,0
+9,40,t3A2-b14123-sl28,"South Wenatchee/Lincoln Park",0,82211,11366_shp,0,0
+9,40,t3AD-b14123-sl28,"Columbia Station via Ferry St",1,82211,11345_shp,0,0
+9,40,t3E8-b14123-sl28,"South Wenatchee/Lincoln Park",0,82211,11366_shp,0,0
+9,40,t3F3-b14123-sl28,"Columbia Station via Ferry St",1,82211,11345_shp,0,0
+9,40,t406-b14123-sl28,"South Wenatchee/Lincoln Park",0,82211,11366_shp,0,0
+9,40,t411-b14123-sl28,"Columbia Station via Ferry St",1,82211,11345_shp,0,0
+9,40,t44C-b14123-sl28,"South Wenatchee/Lincoln Park",0,82211,11366_shp,0,0
+9,40,t457-b14123-sl28,"Columbia Station via Ferry St",1,82211,11345_shp,0,0
+9,40,t46A-b14123-sl28,"South Wenatchee/Lincoln Park",0,82211,11366_shp,0,0
+9,40,t475-b14123-sl28,"Columbia Station via Ferry St",1,82211,11345_shp,0,0
+9,40,t4B0-b14123-sl28,"South Wenatchee/Lincoln Park",0,82211,11366_shp,0,0
+9,40,t4BB-b14123-sl28,"Columbia Station via Ferry St",1,82211,11345_shp,0,0
+9,40,t4CE-b14123-sl28,"South Wenatchee/Lincoln Park",0,82211,11366_shp,0,0
+9,40,t4D9-b14123-sl28,"Columbia Station via Ferry St",1,82211,11345_shp,0,0
+9,40,t514-b14123-sl28,"South Wenatchee/Lincoln Park",0,82211,11366_shp,0,0
+9,40,t51F-b14123-sl28,"Columbia Station via Ferry St",1,82211,11345_shp,0,0
+9,40,t532-b14123-sl28,"South Wenatchee/Lincoln Park",0,82211,11366_shp,0,0
+9,40,t53D-b14123-sl28,"Columbia Station via Ferry St",1,82211,11345_shp,0,0
+9,40,t578-b14127-sl28,"South Wenatchee/Lincoln Park",0,82215,11366_shp,0,0
+9,40,t583-b14127-sl28,"Columbia Station via Ferry St",1,82215,11345_shp,0,0
+9,40,t596-b14127-sl28,"South Wenatchee/Lincoln Park",0,82215,11366_shp,0,0
+9,40,t5A1-b14127-sl28,"Columbia Station via Ferry St",1,82215,11345_shp,0,0
+9,40,t5DC-b14127-sl28,"South Wenatchee/Lincoln Park",0,82215,11366_shp,0,0
+9,40,t5E7-b14127-sl28,"Columbia Station via Ferry St",1,82215,11345_shp,0,0
+9,40,t5FA-b14127-sl28,"South Wenatchee/Lincoln Park",0,82215,11366_shp,0,0
+9,40,t605-b14127-sl28,"Columbia Station via Ferry St",1,82215,11345_shp,0,0
+9,40,t640-b14127-sl28,"South Wenatchee/Lincoln Park",0,82215,11366_shp,0,0
+9,40,t64B-b14127-sl28,"Columbia Station via Ferry St",1,82215,11345_shp,0,0
+9,40,t65E-b14127-sl28,"South Wenatchee/Lincoln Park",0,82215,11366_shp,0,0
+9,40,t669-b14127-sl28,"Columbia Station via Ferry St",1,82215,11345_shp,0,0
+9,40,t6A4-b14127-sl28,"South Wenatchee/Lincoln Park",0,82215,11366_shp,0,0
+9,40,t6AF-b14127-sl28,"Columbia Station via Ferry St",1,82215,11345_shp,0,0
+9,40,t6C2-b14127-sl28,"South Wenatchee/Lincoln Park",0,82215,11366_shp,0,0
+9,40,t6CD-b14127-sl28,"Columbia Station via Ferry St",1,82215,11345_shp,0,0
+9,43,t2DA-b10E01-sl2B,"South Wenatchee/Lincoln Park",0,69121,11381_shp,0,0
+9,43,t2E5-b10E01-sl2B,"Columbia Station via Ferry St",1,69121,11379_shp,0,0
+9,43,t320-b10E01-sl2B,"South Wenatchee/Lincoln Park",0,69121,11381_shp,0,0
+9,43,t32B-b10E01-sl2B,"Columbia Station via Ferry St",1,69121,11379_shp,0,0
+9,43,t33E-b10E01-sl2B,"South Wenatchee/Lincoln Park",0,69121,11381_shp,0,0
+9,43,t349-b10E01-sl2B,"Columbia Station via Ferry St",1,69121,11379_shp,0,0
+9,43,t384-b10E01-sl2B,"South Wenatchee/Lincoln Park",0,69121,11381_shp,0,0
+9,43,t38F-b10E01-sl2B,"Columbia Station via Ferry St",1,69121,11379_shp,0,0
+9,43,t3A2-b10E01-sl2B,"South Wenatchee/Lincoln Park",0,69121,11381_shp,0,0
+9,43,t3AD-b10E01-sl2B,"Columbia Station via Ferry St",1,69121,11379_shp,0,0
+9,43,t3E8-b10E01-sl2B,"South Wenatchee/Lincoln Park",0,69121,11381_shp,0,0
+9,43,t3F3-b10E01-sl2B,"Columbia Station via Ferry St",1,69121,11379_shp,0,0
+9,43,t406-b10E01-sl2B,"South Wenatchee/Lincoln Park",0,69121,11381_shp,0,0
+9,43,t411-b10E01-sl2B,"Columbia Station via Ferry St",1,69121,11379_shp,0,0
+9,43,t44C-b10E01-sl2B,"South Wenatchee/Lincoln Park",0,69121,11381_shp,0,0
+9,43,t457-b10E01-sl2B,"Columbia Station via Ferry St",1,69121,11379_shp,0,0
+9,43,t46A-b10E01-sl2B,"South Wenatchee/Lincoln Park",0,69121,11381_shp,0,0
+9,43,t475-b10E01-sl2B,"Columbia Station via Ferry St",1,69121,11379_shp,0,0
+9,43,t4B0-bEF61-sl2B,"South Wenatchee/Lincoln Park",0,61281,11381_shp,0,0
+9,43,t4BB-bEF61-sl2B,"Columbia Station via Ferry St",1,61281,11379_shp,0,0
+9,43,t4CE-b10E02-sl2B,"South Wenatchee/Lincoln Park",0,69122,11381_shp,0,0
+9,43,t4D9-b10E02-sl2B,"Columbia Station via Ferry St",1,69122,11379_shp,0,0
+9,43,t514-b10E08-sl2B,"South Wenatchee/Lincoln Park",0,69128,11381_shp,0,0
+9,43,t51F-b10E08-sl2B,"Columbia Station via Ferry St",1,69128,11379_shp,0,0
+9,43,t532-b10E08-sl2B,"South Wenatchee/Lincoln Park",0,69128,11381_shp,0,0
+9,43,t53D-b10E08-sl2B,"Columbia Station via Ferry St",1,69128,11379_shp,0,0
+9,43,t578-b10E02-sl2B,"South Wenatchee/Lincoln Park",0,69122,11381_shp,0,0
+9,43,t583-b10E02-sl2B,"Columbia Station via Ferry St",1,69122,11379_shp,0,0
+9,43,t596-b10E02-sl2B,"South Wenatchee/Lincoln Park",0,69122,11381_shp,0,0
+9,43,t5A1-b10E02-sl2B,"Columbia Station via Ferry St",1,69122,11379_shp,0,0
+9,43,t5DC-b10E08-sl2B,"South Wenatchee/Lincoln Park",0,69128,11381_shp,0,0
+9,43,t5E7-b10E08-sl2B,"Columbia Station via Ferry St",1,69128,11379_shp,0,0
+9,43,t5FA-b10E08-sl2B,"South Wenatchee/Lincoln Park",0,69128,11381_shp,0,0
+9,43,t605-b10E08-sl2B,"Columbia Station via Ferry St",1,69128,11379_shp,0,0
+9,43,t640-b10E08-sl2B,"South Wenatchee/Lincoln Park",0,69128,11381_shp,0,0
+9,43,t64B-b10E08-sl2B,"Columbia Station via Ferry St",1,69128,11379_shp,0,0
+9,43,t65E-b10E08-sl2B,"South Wenatchee/Lincoln Park",0,69128,11381_shp,0,0
+9,43,t669-b10E08-sl2B,"Columbia Station via Ferry St",1,69128,11379_shp,0,0
+9,43,t6A4-b10E02-sl2B,"South Wenatchee/Lincoln Park",0,69122,11381_shp,0,0
+9,43,t6AF-b10E02-sl2B,"Columbia Station via Ferry St",1,69122,11379_shp,0,0
+9,43,t6C2-b10E02-sl2B,"South Wenatchee/Lincoln Park",0,69122,11381_shp,0,0
+9,43,t6CD-b10E02-sl2B,"Columbia Station via Ferry St",1,69122,11379_shp,0,0
+11,18,t267-b44E-sl12,"Kentucky Ave",0,1102,10480_shp,0,0
+11,18,t284-b44E-sl12,"Columbia Station via WVM",1,1102,10481_shp,0,0
+11,18,t285-b44F-sl12,"Kentucky Ave",0,1103,10480_shp,0,0
+11,18,t2CA-b44F-sl12,"Columbia Station via WVM",1,1103,10481_shp,0,0
+11,18,t2CB-b44E-sl12,"Kentucky Ave",0,1102,10480_shp,0,0
+11,18,t2E8-b44E-sl12,"Columbia Station via WVM",1,1102,10481_shp,0,0
+11,18,t2E9-b44D-sl12,"Kentucky Ave",0,1101,10480_shp,0,0
+11,18,t32E-b44D-sl12,"Columbia Station via WVM",1,1101,10481_shp,0,0
+11,18,t32F-b44F-sl12,"Kentucky Ave",0,1103,10480_shp,0,0
+11,18,t34C-b44F-sl12,"Columbia Station via WVM",1,1103,10481_shp,0,0
+11,18,t34D-b44E-sl12,"Kentucky Ave",0,1102,10480_shp,0,0
+11,18,t392-b44E-sl12,"Columbia Station via WVM",1,1102,10481_shp,0,0
+11,18,t393-b44D-sl12,"Kentucky Ave",0,1101,10480_shp,0,0
+11,18,t3B0-b44D-sl12,"Columbia Station via WVM",1,1101,10481_shp,0,0
+11,18,t3B1-b44F-sl12,"Kentucky Ave",0,1103,10480_shp,0,0
+11,18,t3F6-b44F-sl12,"Columbia Station via WVM",1,1103,10481_shp,0,0
+11,18,t3F7-b44E-sl12,"Kentucky Ave",0,1102,10480_shp,0,0
+11,18,t414-b44E-sl12,"Columbia Station via WVM",1,1102,10481_shp,0,0
+11,18,t415-b44D-sl12,"Kentucky Ave",0,1101,10480_shp,0,0
+11,18,t45A-b44D-sl12,"Columbia Station via WVM",1,1101,10481_shp,0,0
+11,18,t45B-b44F-sl12,"Kentucky Ave",0,1103,10480_shp,0,0
+11,18,t478-b44F-sl12,"Columbia Station via WVM",1,1103,10481_shp,0,0
+11,18,t479-b44E-sl12,"Kentucky Ave",0,1102,10480_shp,0,0
+11,18,t4BE-b44E-sl12,"Columbia Station via WVM",1,1102,10481_shp,0,0
+11,18,t4BF-b44D-sl12,"Kentucky Ave",0,1101,10480_shp,0,0
+11,18,t4DC-b44D-sl12,"Columbia Station via WVM",1,1101,10481_shp,0,0
+11,18,t4DD-b44F-sl12,"Kentucky Ave",0,1103,10480_shp,0,0
+11,18,t522-b44F-sl12,"Columbia Station via WVM",1,1103,10481_shp,0,0
+11,18,t523-b44E-sl12,"Kentucky Ave",0,1102,10480_shp,0,0
+11,18,t540-b44E-sl12,"Columbia Station via WVM",1,1102,10481_shp,0,0
+11,18,t541-b44D-sl12,"Kentucky Ave",0,1101,10480_shp,0,0
+11,18,t586-b44D-sl12,"Columbia Station via WVM",1,1101,10481_shp,0,0
+11,18,t587-b44F-sl12,"Kentucky Ave",0,1103,10480_shp,0,0
+11,18,t5A4-b44F-sl12,"Columbia Station via WVM",1,1103,10481_shp,0,0
+11,18,t5A5-b44E-sl12,"Kentucky Ave",0,1102,10480_shp,0,0
+11,18,t5EA-b44E-sl12,"Columbia Station via WVM",1,1102,10481_shp,0,0
+11,18,t5EB-b44D-sl12,"Kentucky Ave",0,1101,10480_shp,0,0
+11,18,t608-b44D-sl12,"Columbia Station via WVM",1,1101,10481_shp,0,0
+11,18,t609-b44F-sl12,"Kentucky Ave",0,1103,10480_shp,0,0
+11,18,t64F-b44E-sl12,"Kentucky Ave",0,1102,10480_shp,0,0
+11,18,t64F-b44F-sl12,"Columbia Station via WVM",1,1103,10481_shp,0,0
+11,18,t66D-b44D-sl12,"Kentucky Ave",0,1101,10480_shp,0,0
+11,18,t66D-b44E-sl12,"Columbia Station via WVM",1,1102,10481_shp,0,0
+11,18,t6B3-b44D-sl12,"Columbia Station via WVM",1,1101,10481_shp,0,0
+11,18,t6B3-b44F-sl12,"Kentucky Ave",0,1103,10480_shp,0,0
+11,18,t6D1-b44E-sl12,"Kentucky Ave",0,1102,10480_shp,0,0
+11,18,t6D1-b44F-sl12,"Columbia Station via WVM",1,1103,10481_shp,0,0
+11,18,t716-b44E-sl12,"Columbia Station via WVM",1,1102,10481_shp,0,0
+11,18,t735-b44F-sl12,"Kentucky Ave",0,1103,10480_shp,0,0
+11,18,t77A-b44F-sl12,"Columbia Station via WVM",1,1103,10481_shp,0,0
+11,18,t799-b44E-sl12,"Kentucky Ave",0,1102,10480_shp,0,0
+11,18,t7DE-b44E-sl12,"Columbia Station via WVM",1,1102,10481_shp,0,0
+11,19,t32F-b5273-sl13,"Kentucky Ave",0,21107,10479_shp,0,0
+11,19,t34B-b5273-sl13,"Columbia Station via WVM",1,21107,10482_shp,0,0
+11,19,t393-b5273-sl13,"Kentucky Ave",0,21107,10479_shp,0,0
+11,19,t3AF-b5273-sl13,"Columbia Station via WVM",1,21107,10482_shp,0,0
+11,19,t3F7-b5273-sl13,"Kentucky Ave",0,21107,10479_shp,0,0
+11,19,t413-b5273-sl13,"Columbia Station via WVM",1,21107,10482_shp,0,0
+11,19,t45B-b5273-sl13,"Kentucky Ave",0,21107,10479_shp,0,0
+11,19,t477-b5273-sl13,"Columbia Station via WVM",1,21107,10482_shp,0,0
+11,19,t4C1-b71C1-sl13,"Kentucky Ave",0,29121,10479_shp,0,0
+11,19,t4DD-b71C1-sl13,"Columbia Station via WVM",1,29121,10482_shp,0,0
+11,19,t523-b50E7-sl13,"Kentucky Ave",0,20711,10479_shp,0,0
+11,19,t53F-b50E7-sl13,"Columbia Station via WVM",1,20711,10482_shp,0,0
+11,19,t587-b50E7-sl13,"Kentucky Ave",0,20711,10479_shp,0,0
+11,19,t5A3-b50E7-sl13,"Columbia Station via WVM",1,20711,10482_shp,0,0
+11,19,t5EB-b50E7-sl13,"Kentucky Ave",0,20711,10479_shp,0,0
+11,19,t607-b50E7-sl13,"Columbia Station via WVM",1,20711,10482_shp,0,0
+11,19,t64F-b50E7-sl13,"Kentucky Ave",0,20711,10479_shp,0,0
+11,19,t66B-b50E7-sl13,"Columbia Station via WVM",1,20711,10482_shp,0,0
+11,19,t6B5-b50E7-sl13,"Kentucky Ave",0,20711,10479_shp,0,0
+11,19,t6D1-b50E7-sl13,"Columbia Station via WVM",1,20711,10482_shp,0,0
+11,20,t3F7-b798F-sl14,"Kentucky Ave",0,31119,10484_shp,0,0
+11,20,t413-b798F-sl14,"Columbia Station via WVM",1,31119,10483_shp,0,0
+11,20,t45B-b798F-sl14,"Kentucky Ave",0,31119,10484_shp,0,0
+11,20,t477-b798F-sl14,"Columbia Station via WVM",1,31119,10483_shp,0,0
+11,20,t4BF-b798F-sl14,"Kentucky Ave",0,31119,10484_shp,0,0
+11,20,t4DB-b798F-sl14,"Columbia Station via WVM",1,31119,10483_shp,0,0
+11,20,t523-b798F-sl14,"Kentucky Ave",0,31119,10484_shp,0,0
+11,20,t53F-b798F-sl14,"Columbia Station via WVM",1,31119,10483_shp,0,0
+11,20,t587-b98C7-sl14,"Kentucky Ave",0,39111,10484_shp,0,0
+11,20,t5A3-b98C7-sl14,"Columbia Station via WVM",1,39111,10483_shp,0,0
+11,20,t5EB-b98C7-sl14,"Kentucky Ave",0,39111,10484_shp,0,0
+11,20,t607-b98C7-sl14,"Columbia Station via WVM",1,39111,10483_shp,0,0
+11,20,t64F-b98C7-sl14,"Kentucky Ave",0,39111,10484_shp,0,0
+11,20,t66B-b98C7-sl14,"Columbia Station via WVM",1,39111,10483_shp,0,0
+11,20,t6B3-b98C7-sl14,"Kentucky Ave",0,39111,10484_shp,0,0
+11,20,t6CF-b98C7-sl14,"Columbia Station via WVM",1,39111,10483_shp,0,0
+11,40,t3F7-b14127-sl28,"Kentucky Ave",0,82215,10932_shp,0,0
+11,40,t413-b14127-sl28,"Columbia Station via WVM",1,82215,10919_shp,0,0
+11,40,t45B-b14127-sl28,"Kentucky Ave",0,82215,10932_shp,0,0
+11,40,t477-b14127-sl28,"Columbia Station via WVM",1,82215,10919_shp,0,0
+11,40,t4BF-b14127-sl28,"Kentucky Ave",0,82215,10932_shp,0,0
+11,40,t4DB-b14127-sl28,"Columbia Station via WVM",1,82215,10919_shp,0,0
+11,40,t523-b14127-sl28,"Kentucky Ave",0,82215,10932_shp,0,0
+11,40,t53F-b14127-sl28,"Columbia Station via WVM",1,82215,10919_shp,0,0
+11,40,t587-b14123-sl28,"Kentucky Ave",0,82211,10932_shp,0,0
+11,40,t5A3-b14123-sl28,"Columbia Station via WVM",1,82211,10919_shp,0,0
+11,40,t5EB-b14123-sl28,"Kentucky Ave",0,82211,10932_shp,0,0
+11,40,t607-b14123-sl28,"Columbia Station via WVM",1,82211,10919_shp,0,0
+11,40,t64F-b14123-sl28,"Kentucky Ave",0,82211,10932_shp,0,0
+11,40,t66B-b14123-sl28,"Columbia Station via WVM",1,82211,10919_shp,0,0
+11,40,t6B3-b14123-sl28,"Kentucky Ave",0,82211,10932_shp,0,0
+11,40,t6CF-b14123-sl28,"Columbia Station via WVM",1,82211,10919_shp,0,0
+11,43,t32F-bEEB3-sl2B,"Kentucky Ave",0,61107,10950_shp,0,0
+11,43,t34B-bEEB3-sl2B,"Columbia Station via WVM",1,61107,10949_shp,0,0
+11,43,t393-bEEB3-sl2B,"Kentucky Ave",0,61107,10950_shp,0,0
+11,43,t3AF-bEEB3-sl2B,"Columbia Station via WVM",1,61107,10949_shp,0,0
+11,43,t3F7-bEEB3-sl2B,"Kentucky Ave",0,61107,10950_shp,0,0
+11,43,t413-bEEB3-sl2B,"Columbia Station via WVM",1,61107,10949_shp,0,0
+11,43,t45B-bEEB3-sl2B,"Kentucky Ave",0,61107,10950_shp,0,0
+11,43,t477-bEEB3-sl2B,"Columbia Station via WVM",1,61107,10949_shp,0,0
+11,43,t4C1-b10E01-sl2B,"Kentucky Ave",0,69121,10950_shp,0,0
+11,43,t4DD-b10E01-sl2B,"Columbia Station via WVM",1,69121,10949_shp,0,0
+11,43,t523-bED27-sl2B,"Kentucky Ave",0,60711,10950_shp,0,0
+11,43,t53F-bED27-sl2B,"Columbia Station via WVM",1,60711,10949_shp,0,0
+11,43,t587-bED27-sl2B,"Kentucky Ave",0,60711,10950_shp,0,0
+11,43,t5A3-bED27-sl2B,"Columbia Station via WVM",1,60711,10949_shp,0,0
+11,43,t5EB-bED27-sl2B,"Kentucky Ave",0,60711,10950_shp,0,0
+11,43,t607-bED27-sl2B,"Columbia Station via WVM",1,60711,10949_shp,0,0
+11,43,t64F-bED27-sl2B,"Kentucky Ave",0,60711,10950_shp,0,0
+11,43,t66B-bED27-sl2B,"Columbia Station via WVM",1,60711,10949_shp,0,0
+11,43,t6B5-bED27-sl2B,"Kentucky Ave",0,60711,10950_shp,0,0
+11,43,t6D1-bED27-sl2B,"Columbia Station via WVM",1,60711,10949_shp,0,0
+12,18,t258-b961-sl12,"East Wenatchee via Fred Meyer",0,2401,10471_shp,0,0
+12,18,t264-b961-sl12,"Columbia Station via Fred Meyer",1,2401,10474_shp,0,0
+12,18,t276-b44D-sl12,"East Wenatchee via Fred Meyer",0,1101,10471_shp,0,0
+12,18,t282-b44D-sl12,"Columbia Station via Fred Meyer",1,1101,10474_shp,0,0
+12,18,t2BC-b44D-sl12,"East Wenatchee via Fred Meyer",0,1101,10471_shp,0,0
+12,18,t2C8-b44D-sl12,"Columbia Station via Fred Meyer",1,1101,10474_shp,0,0
+12,18,t2DA-b44F-sl12,"East Wenatchee via Fred Meyer",0,1103,10471_shp,0,0
+12,18,t2E6-b44F-sl12,"Columbia Station via Fred Meyer",1,1103,10474_shp,0,0
+12,18,t320-b44E-sl12,"East Wenatchee via Fred Meyer",0,1102,10471_shp,0,0
+12,18,t32C-b44E-sl12,"Columbia Station via Fred Meyer",1,1102,10474_shp,0,0
+12,18,t33E-b44D-sl12,"East Wenatchee via Fred Meyer",0,1101,10471_shp,0,0
+12,18,t34A-b44D-sl12,"Columbia Station via Fred Meyer",1,1101,10474_shp,0,0
+12,18,t384-b44F-sl12,"East Wenatchee via Fred Meyer",0,1103,10471_shp,0,0
+12,18,t390-b44F-sl12,"Columbia Station via Fred Meyer",1,1103,10474_shp,0,0
+12,18,t3A2-b44E-sl12,"East Wenatchee via Fred Meyer",0,1102,10471_shp,0,0
+12,18,t3AE-b44E-sl12,"Columbia Station via Fred Meyer",1,1102,10474_shp,0,0
+12,18,t3E8-b44D-sl12,"East Wenatchee via Fred Meyer",0,1101,10471_shp,0,0
+12,18,t3F4-b44D-sl12,"Columbia Station via Fred Meyer",1,1101,10474_shp,0,0
+12,18,t406-b44F-sl12,"East Wenatchee via Fred Meyer",0,1103,10471_shp,0,0
+12,18,t412-b44F-sl12,"Columbia Station via Fred Meyer",1,1103,10474_shp,0,0
+12,18,t44C-b44E-sl12,"East Wenatchee via Fred Meyer",0,1102,10471_shp,0,0
+12,18,t458-b44E-sl12,"Columbia Station via Fred Meyer",1,1102,10474_shp,0,0
+12,18,t46A-b44D-sl12,"East Wenatchee via Fred Meyer",0,1101,10471_shp,0,0
+12,18,t476-b44D-sl12,"Columbia Station via Fred Meyer",1,1101,10474_shp,0,0
+12,18,t4B0-b44F-sl12,"East Wenatchee via Fred Meyer",0,1103,10471_shp,0,0
+12,18,t4BC-b44F-sl12,"Columbia Station via Fred Meyer",1,1103,10474_shp,0,0
+12,18,t4CE-b44E-sl12,"East Wenatchee via Fred Meyer",0,1102,10471_shp,0,0
+12,18,t4DA-b44E-sl12,"Columbia Station via Fred Meyer",1,1102,10474_shp,0,0
+12,18,t514-b44D-sl12,"East Wenatchee via Fred Meyer",0,1101,10471_shp,0,0
+12,18,t520-b44D-sl12,"Columbia Station via Fred Meyer",1,1101,10474_shp,0,0
+12,18,t532-b44F-sl12,"East Wenatchee via Fred Meyer",0,1103,10471_shp,0,0
+12,18,t53E-b44F-sl12,"Columbia Station via Fred Meyer",1,1103,10474_shp,0,0
+12,18,t578-b44E-sl12,"East Wenatchee via Fred Meyer",0,1102,10471_shp,0,0
+12,18,t584-b44E-sl12,"Columbia Station via Fred Meyer",1,1102,10474_shp,0,0
+12,18,t596-b44D-sl12,"East Wenatchee via Fred Meyer",0,1101,10471_shp,0,0
+12,18,t5A2-b44D-sl12,"Columbia Station via Fred Meyer",1,1101,10474_shp,0,0
+12,18,t5DC-b44F-sl12,"East Wenatchee via Fred Meyer",0,1103,10471_shp,0,0
+12,18,t5E8-b44F-sl12,"Columbia Station via Fred Meyer",1,1103,10474_shp,0,0
+12,18,t5FA-b44E-sl12,"East Wenatchee via Fred Meyer",0,1102,10471_shp,0,0
+12,18,t607-b44E-sl12,"Columbia Station via Fred Meyer",1,1102,10474_shp,0,0
+12,18,t640-b44D-sl12,"East Wenatchee via Fred Meyer",0,1101,10471_shp,0,0
+12,18,t64D-b44D-sl12,"Columbia Station via Fred Meyer",1,1101,10474_shp,0,0
+12,18,t65E-b44F-sl12,"East Wenatchee via Fred Meyer",0,1103,10471_shp,0,0
+12,18,t66B-b44F-sl12,"Columbia Station via Fred Meyer",1,1103,10474_shp,0,0
+12,18,t6A4-b44E-sl12,"East Wenatchee via Fred Meyer",0,1102,10471_shp,0,0
+12,18,t6B1-b44E-sl12,"Columbia Station via Fred Meyer",1,1102,10474_shp,0,0
+12,18,t6C2-b44D-sl12,"East Wenatchee via Fred Meyer",0,1101,10471_shp,0,0
+12,18,t6CF-b44D-sl12,"Columbia Station via Fred Meyer",1,1101,10474_shp,0,0
+12,18,t708-b44F-sl12,"East Wenatchee via Fred Meyer",0,1103,10471_shp,0,0
+12,18,t714-b44F-sl12,"Columbia Station via Fred Meyer",1,1103,10474_shp,0,0
+12,18,t726-b44E-sl12,"East Wenatchee via Fred Meyer",0,1102,10471_shp,0,0
+12,18,t732-b44E-sl12,"Columbia Station via Fred Meyer",1,1102,10474_shp,0,0
+12,18,t76C-b44E-sl12,"East Wenatchee via Fred Meyer",0,1102,10471_shp,0,0
+12,18,t778-b44E-sl12,"Columbia Station via Fred Meyer",1,1102,10474_shp,0,0
+12,18,t78A-b44F-sl12,"East Wenatchee via Fred Meyer",0,1103,10471_shp,0,0
+12,18,t796-b44F-sl12,"Columbia Station via Fred Meyer",1,1103,10474_shp,0,0
+12,18,t7D0-b44F-sl12,"East Wenatchee via Fred Meyer",0,1103,10471_shp,0,0
+12,18,t7DC-b44F-sl12,"Columbia Station via Fred Meyer",1,1103,10474_shp,0,0
+12,18,t7EE-b44E-sl12,"East Wenatchee via Fred Meyer",0,1102,10471_shp,0,0
+12,18,t7FA-b44E-sl12,"Columbia Station via Fred Meyer",1,1102,10474_shp,0,0
+12,18,t834-b44E-sl12,"East Wenatchee via Fred Meyer",0,1102,10471_shp,0,0
+12,18,t840-b44E-sl12,"Columbia Station via Fred Meyer",1,1102,10474_shp,0,0
+12,19,t2DA-b5321-sl13,"East Wenatchee via Fred Meyer",0,21281,10472_shp,0,0
+12,19,t2E6-b5321-sl13,"Columbia Station via Fred Meyer",1,21281,10469_shp,0,0
+12,19,t320-b71C2-sl13,"East Wenatchee via Fred Meyer",0,29122,10472_shp,0,0
+12,19,t32C-b71C2-sl13,"Columbia Station via Fred Meyer",1,29122,10469_shp,0,0
+12,19,t33E-b5321-sl13,"East Wenatchee via Fred Meyer",0,21281,10472_shp,0,0
+12,19,t34A-b5321-sl13,"Columbia Station via Fred Meyer",1,21281,10469_shp,0,0
+12,19,t384-b71C2-sl13,"East Wenatchee via Fred Meyer",0,29122,10472_shp,0,0
+12,19,t390-b71C2-sl13,"Columbia Station via Fred Meyer",1,29122,10469_shp,0,0
+12,19,t3A2-b5321-sl13,"East Wenatchee via Fred Meyer",0,21281,10472_shp,0,0
+12,19,t3AE-b5321-sl13,"Columbia Station via Fred Meyer",1,21281,10469_shp,0,0
+12,19,t3E8-b71C2-sl13,"East Wenatchee via Fred Meyer",0,29122,10472_shp,0,0
+12,19,t3F4-b71C2-sl13,"Columbia Station via Fred Meyer",1,29122,10469_shp,0,0
+12,19,t406-b5321-sl13,"East Wenatchee via Fred Meyer",0,21281,10472_shp,0,0
+12,19,t412-b5321-sl13,"Columbia Station via Fred Meyer",1,21281,10469_shp,0,0
+12,19,t44C-b71C8-sl13,"East Wenatchee via Fred Meyer",0,29128,10472_shp,0,0
+12,19,t458-b71C8-sl13,"Columbia Station via Fred Meyer",1,29128,10469_shp,0,0
+12,19,t46A-b5321-sl13,"East Wenatchee via Fred Meyer",0,21281,10472_shp,0,0
+12,19,t476-b5321-sl13,"Columbia Station via Fred Meyer",1,21281,10469_shp,0,0
+12,19,t4B0-b71C2-sl13,"East Wenatchee via Fred Meyer",0,29122,10472_shp,0,0
+12,19,t4BC-b71C2-sl13,"Columbia Station via Fred Meyer",1,29122,10469_shp,0,0
+12,19,t4CE-b5321-sl13,"East Wenatchee via Fred Meyer",0,21281,10472_shp,0,0
+12,19,t4DA-b5321-sl13,"Columbia Station via Fred Meyer",1,21281,10469_shp,0,0
+12,19,t514-b71C1-sl13,"East Wenatchee via Fred Meyer",0,29121,10472_shp,0,0
+12,19,t520-b71C1-sl13,"Columbia Station via Fred Meyer",1,29121,10469_shp,0,0
+12,19,t532-b5323-sl13,"East Wenatchee via Fred Meyer",0,21283,10472_shp,0,0
+12,19,t53E-b5323-sl13,"Columbia Station via Fred Meyer",1,21283,10469_shp,0,0
+12,19,t578-b71C1-sl13,"East Wenatchee via Fred Meyer",0,29121,10472_shp,0,0
+12,19,t584-b71C1-sl13,"Columbia Station via Fred Meyer",1,29121,10469_shp,0,0
+12,19,t596-b5323-sl13,"East Wenatchee via Fred Meyer",0,21283,10472_shp,0,0
+12,19,t5A2-b5323-sl13,"Columbia Station via Fred Meyer",1,21283,10469_shp,0,0
+12,19,t5DC-b71C1-sl13,"East Wenatchee via Fred Meyer",0,29121,10472_shp,0,0
+12,19,t5E8-b71C1-sl13,"Columbia Station via Fred Meyer",1,29121,10469_shp,0,0
+12,19,t5FA-b5323-sl13,"East Wenatchee via Fred Meyer",0,21283,10472_shp,0,0
+12,19,t606-b5323-sl13,"Columbia Station via Fred Meyer",1,21283,10469_shp,0,0
+12,19,t640-b71C1-sl13,"East Wenatchee via Fred Meyer",0,29121,10472_shp,0,0
+12,19,t64C-b71C1-sl13,"Columbia Station via Fred Meyer",1,29121,10469_shp,0,0
+12,19,t65E-b5323-sl13,"East Wenatchee via Fred Meyer",0,21283,10472_shp,0,0
+12,19,t66A-b5323-sl13,"Columbia Station via Fred Meyer",1,21283,10469_shp,0,0
+12,19,t6A4-b71C1-sl13,"East Wenatchee via Fred Meyer",0,29121,10472_shp,0,0
+12,19,t6B0-b71C1-sl13,"Columbia Station via Fred Meyer",1,29121,10469_shp,0,0
+12,20,t3A2-b79E7-sl14,"East Wenatchee via Fred Meyer",0,31207,10473_shp,0,0
+12,20,t3AE-b79E7-sl14,"Columbia Station via Fred Meyer",1,31207,10470_shp,0,0
+12,20,t3E8-b79E7-sl14,"East Wenatchee via Fred Meyer",0,31207,10473_shp,0,0
+12,20,t3F4-b79E7-sl14,"Columbia Station via Fred Meyer",1,31207,10470_shp,0,0
+12,20,t406-b79E7-sl14,"East Wenatchee via Fred Meyer",0,31207,10473_shp,0,0
+12,20,t412-b79E7-sl14,"Columbia Station via Fred Meyer",1,31207,10470_shp,0,0
+12,20,t44C-b77F8-sl14,"East Wenatchee via Fred Meyer",0,30712,10473_shp,0,0
+12,20,t458-b77F8-sl14,"Columbia Station via Fred Meyer",1,30712,10470_shp,0,0
+12,20,t46A-b83A5-sl14,"East Wenatchee via Fred Meyer",0,33701,10473_shp,0,0
+12,20,t476-b83A5-sl14,"Columbia Station via Fred Meyer",1,33701,10470_shp,0,0
+12,20,t4B0-b79E7-sl14,"East Wenatchee via Fred Meyer",0,31207,10473_shp,0,0
+12,20,t4BC-b79E7-sl14,"Columbia Station via Fred Meyer",1,31207,10470_shp,0,0
+12,20,t4CE-b83A6-sl14,"East Wenatchee via Fred Meyer",0,33702,10473_shp,0,0
+12,20,t4DA-b83A6-sl14,"Columbia Station via Fred Meyer",1,33702,10470_shp,0,0
+12,20,t514-b77F8-sl14,"East Wenatchee via Fred Meyer",0,30712,10473_shp,0,0
+12,20,t520-b77F8-sl14,"Columbia Station via Fred Meyer",1,30712,10470_shp,0,0
+12,20,t532-b77F8-sl14,"East Wenatchee via Fred Meyer",0,30712,10473_shp,0,0
+12,20,t53E-b77F8-sl14,"Columbia Station via Fred Meyer",1,30712,10470_shp,0,0
+12,20,t578-b77F8-sl14,"East Wenatchee via Fred Meyer",0,30712,10473_shp,0,0
+12,20,t584-b77F8-sl14,"Columbia Station via Fred Meyer",1,30712,10470_shp,0,0
+12,20,t596-b83A6-sl14,"East Wenatchee via Fred Meyer",0,33702,10473_shp,0,0
+12,20,t5A2-b83A6-sl14,"Columbia Station via Fred Meyer",1,33702,10470_shp,0,0
+12,20,t5DC-b79E7-sl14,"East Wenatchee via Fred Meyer",0,31207,10473_shp,0,0
+12,20,t5E8-b79E7-sl14,"Columbia Station via Fred Meyer",1,31207,10470_shp,0,0
+12,20,t5FA-b83A5-sl14,"East Wenatchee via Fred Meyer",0,33701,10473_shp,0,0
+12,20,t606-b83A5-sl14,"Columbia Station via Fred Meyer",1,33701,10470_shp,0,0
+12,20,t640-b79E7-sl14,"East Wenatchee via Fred Meyer",0,31207,10473_shp,0,0
+12,20,t64C-b79E7-sl14,"Columbia Station via Fred Meyer",1,31207,10470_shp,0,0
+12,20,t65E-b79E7-sl14,"East Wenatchee via Fred Meyer",0,31207,10473_shp,0,0
+12,20,t66A-b79E7-sl14,"Columbia Station via Fred Meyer",1,31207,10470_shp,0,0
+12,20,t6A4-b79E7-sl14,"East Wenatchee via Fred Meyer",0,31207,10473_shp,0,0
+12,20,t6B0-b79E7-sl14,"Columbia Station via Fred Meyer",1,31207,10470_shp,0,0
+12,40,t3A2-b14128-sl28,"East Wenatchee via Fred Meyer",0,82216,10931_shp,0,0
+12,40,t3AE-b14128-sl28,"Columbia Station via Fred Meyer",1,82216,10913_shp,0,0
+12,40,t3E8-b14128-sl28,"East Wenatchee via Fred Meyer",0,82216,10931_shp,0,0
+12,40,t3F4-b14128-sl28,"Columbia Station via Fred Meyer",1,82216,10913_shp,0,0
+12,40,t406-b14128-sl28,"East Wenatchee via Fred Meyer",0,82216,10931_shp,0,0
+12,40,t412-b14128-sl28,"Columbia Station via Fred Meyer",1,82216,10913_shp,0,0
+12,40,t44C-b14126-sl28,"East Wenatchee via Fred Meyer",0,82214,10931_shp,0,0
+12,40,t458-b14126-sl28,"Columbia Station via Fred Meyer",1,82214,10913_shp,0,0
+12,40,t46A-b14120-sl28,"East Wenatchee via Fred Meyer",0,82208,10931_shp,0,0
+12,40,t476-b14120-sl28,"Columbia Station via Fred Meyer",1,82208,10913_shp,0,0
+12,40,t4B0-b14128-sl28,"East Wenatchee via Fred Meyer",0,82216,10931_shp,0,0
+12,40,t4BC-b14128-sl28,"Columbia Station via Fred Meyer",1,82216,10913_shp,0,0
+12,40,t4CE-b14121-sl28,"East Wenatchee via Fred Meyer",0,82209,10931_shp,0,0
+12,40,t4DA-b14121-sl28,"Columbia Station via Fred Meyer",1,82209,10913_shp,0,0
+12,40,t514-b14126-sl28,"East Wenatchee via Fred Meyer",0,82214,10931_shp,0,0
+12,40,t520-b14126-sl28,"Columbia Station via Fred Meyer",1,82214,10913_shp,0,0
+12,40,t532-b14126-sl28,"East Wenatchee via Fred Meyer",0,82214,10931_shp,0,0
+12,40,t53E-b14126-sl28,"Columbia Station via Fred Meyer",1,82214,10913_shp,0,0
+12,40,t578-b14126-sl28,"East Wenatchee via Fred Meyer",0,82214,10931_shp,0,0
+12,40,t584-b14126-sl28,"Columbia Station via Fred Meyer",1,82214,10913_shp,0,0
+12,40,t596-b14121-sl28,"East Wenatchee via Fred Meyer",0,82209,10931_shp,0,0
+12,40,t5A2-b14121-sl28,"Columbia Station via Fred Meyer",1,82209,10913_shp,0,0
+12,40,t5DC-b14128-sl28,"East Wenatchee via Fred Meyer",0,82216,10931_shp,0,0
+12,40,t5E8-b14128-sl28,"Columbia Station via Fred Meyer",1,82216,10913_shp,0,0
+12,40,t5FA-b14120-sl28,"East Wenatchee via Fred Meyer",0,82208,10931_shp,0,0
+12,40,t606-b14120-sl28,"Columbia Station via Fred Meyer",1,82208,10913_shp,0,0
+12,40,t640-b14128-sl28,"East Wenatchee via Fred Meyer",0,82216,10931_shp,0,0
+12,40,t64C-b14128-sl28,"Columbia Station via Fred Meyer",1,82216,10913_shp,0,0
+12,40,t65E-b14128-sl28,"East Wenatchee via Fred Meyer",0,82216,10931_shp,0,0
+12,40,t66A-b14128-sl28,"Columbia Station via Fred Meyer",1,82216,10913_shp,0,0
+12,40,t6A4-b14128-sl28,"East Wenatchee via Fred Meyer",0,82216,10931_shp,0,0
+12,40,t6B0-b14128-sl28,"Columbia Station via Fred Meyer",1,82216,10913_shp,0,0
+12,43,t2DA-bEF61-sl2B,"East Wenatchee via Fred Meyer",0,61281,10477_shp,0,0
+12,43,t2E6-bEF61-sl2B,"Columbia Station via Fred Meyer",1,61281,10475_shp,0,0
+12,43,t320-b10E02-sl2B,"East Wenatchee via Fred Meyer",0,69122,10477_shp,0,0
+12,43,t32C-b10E02-sl2B,"Columbia Station via Fred Meyer",1,69122,10475_shp,0,0
+12,43,t33E-bEF61-sl2B,"East Wenatchee via Fred Meyer",0,61281,10477_shp,0,0
+12,43,t34A-bEF61-sl2B,"Columbia Station via Fred Meyer",1,61281,10475_shp,0,0
+12,43,t384-b10E02-sl2B,"East Wenatchee via Fred Meyer",0,69122,10477_shp,0,0
+12,43,t390-b10E02-sl2B,"Columbia Station via Fred Meyer",1,69122,10475_shp,0,0
+12,43,t3A2-bEF61-sl2B,"East Wenatchee via Fred Meyer",0,61281,10477_shp,0,0
+12,43,t3AE-bEF61-sl2B,"Columbia Station via Fred Meyer",1,61281,10475_shp,0,0
+12,43,t3E8-b10E02-sl2B,"East Wenatchee via Fred Meyer",0,69122,10477_shp,0,0
+12,43,t3F4-b10E02-sl2B,"Columbia Station via Fred Meyer",1,69122,10475_shp,0,0
+12,43,t406-bEF61-sl2B,"East Wenatchee via Fred Meyer",0,61281,10477_shp,0,0
+12,43,t412-bEF61-sl2B,"Columbia Station via Fred Meyer",1,61281,10475_shp,0,0
+12,43,t44C-b10E08-sl2B,"East Wenatchee via Fred Meyer",0,69128,10477_shp,0,0
+12,43,t458-b10E08-sl2B,"Columbia Station via Fred Meyer",1,69128,10475_shp,0,0
+12,43,t46A-bEF61-sl2B,"East Wenatchee via Fred Meyer",0,61281,10477_shp,0,0
+12,43,t476-bEF61-sl2B,"Columbia Station via Fred Meyer",1,61281,10475_shp,0,0
+12,43,t4B0-b10E02-sl2B,"East Wenatchee via Fred Meyer",0,69122,10477_shp,0,0
+12,43,t4BC-b10E02-sl2B,"Columbia Station via Fred Meyer",1,69122,10475_shp,0,0
+12,43,t4CE-bEF61-sl2B,"East Wenatchee via Fred Meyer",0,61281,10477_shp,0,0
+12,43,t4DA-bEF61-sl2B,"Columbia Station via Fred Meyer",1,61281,10475_shp,0,0
+12,43,t514-b10E01-sl2B,"East Wenatchee via Fred Meyer",0,69121,10477_shp,0,0
+12,43,t520-b10E01-sl2B,"Columbia Station via Fred Meyer",1,69121,10475_shp,0,0
+12,43,t532-bEF63-sl2B,"East Wenatchee via Fred Meyer",0,61283,10477_shp,0,0
+12,43,t53E-bEF63-sl2B,"Columbia Station via Fred Meyer",1,61283,10475_shp,0,0
+12,43,t578-b10E01-sl2B,"East Wenatchee via Fred Meyer",0,69121,10477_shp,0,0
+12,43,t584-b10E01-sl2B,"Columbia Station via Fred Meyer",1,69121,10475_shp,0,0
+12,43,t596-bEF63-sl2B,"East Wenatchee via Fred Meyer",0,61283,10477_shp,0,0
+12,43,t5A2-bEF63-sl2B,"Columbia Station via Fred Meyer",1,61283,10475_shp,0,0
+12,43,t5DC-b10E01-sl2B,"East Wenatchee via Fred Meyer",0,69121,10477_shp,0,0
+12,43,t5E8-b10E01-sl2B,"Columbia Station via Fred Meyer",1,69121,10475_shp,0,0
+12,43,t5FA-bEF63-sl2B,"East Wenatchee via Fred Meyer",0,61283,10477_shp,0,0
+12,43,t606-bEF63-sl2B,"Columbia Station via Fred Meyer",1,61283,10475_shp,0,0
+12,43,t640-b10E01-sl2B,"East Wenatchee via Fred Meyer",0,69121,10477_shp,0,0
+12,43,t64C-b10E01-sl2B,"Columbia Station via Fred Meyer",1,69121,10475_shp,0,0
+12,43,t65E-bEF63-sl2B,"East Wenatchee via Fred Meyer",0,61283,10477_shp,0,0
+12,43,t66A-bEF63-sl2B,"Columbia Station via Fred Meyer",1,61283,10475_shp,0,0
+12,43,t6A4-b10E01-sl2B,"East Wenatchee via Fred Meyer",0,69121,10477_shp,0,0
+12,43,t6B0-b10E01-sl2B,"Columbia Station via Fred Meyer",1,69121,10475_shp,0,0
+18,18,t1CB-b75A-sl12,"Olds Station via East Wenatchee",0,1882,11646_shp,0,0
+18,18,t211-b759-sl12,"Olds Station via East Wenatchee",0,1881,11646_shp,0,0
+18,18,t222-b75B-sl12,"College via East Wenatchee",1,1883,11669_shp,0,0
+18,18,t22F-b75C-sl12,"Olds Station via East Wenatchee",0,1884,11646_shp,0,0
+18,18,t268-b75A-sl12,"College via East Wenatchee",1,1882,11669_shp,0,0
+18,18,t275-b75B-sl12,"Olds Station via East Wenatchee",0,1883,11646_shp,0,0
+18,18,t286-b759-sl12,"College via East Wenatchee",1,1881,11669_shp,0,0
+18,18,t293-b75A-sl12,"Olds Station via East Wenatchee",0,1882,11646_shp,0,0
+18,18,t2CC-b75C-sl12,"College via East Wenatchee",1,1884,11669_shp,0,0
+18,18,t2D9-b759-sl12,"Olds Station via East Wenatchee",0,1881,11646_shp,0,0
+18,18,t2EA-b75B-sl12,"College via East Wenatchee",1,1883,11669_shp,0,0
+18,18,t2F7-b75C-sl12,"Olds Station via East Wenatchee",0,1884,11646_shp,0,0
+18,18,t330-b75A-sl12,"College via East Wenatchee",1,1882,11669_shp,0,0
+18,18,t33D-b75B-sl12,"Olds Station via East Wenatchee",0,1883,11646_shp,0,0
+18,18,t34E-b759-sl12,"College via East Wenatchee",1,1881,11669_shp,0,0
+18,18,t35B-b75A-sl12,"Olds Station via East Wenatchee",0,1882,11646_shp,0,0
+18,18,t394-b75C-sl12,"College via East Wenatchee",1,1884,11669_shp,0,0
+18,18,t3A1-b759-sl12,"Olds Station via East Wenatchee",0,1881,11646_shp,0,0
+18,18,t3B2-b75B-sl12,"College via East Wenatchee",1,1883,11669_shp,0,0
+18,18,t3BF-b75C-sl12,"Olds Station via East Wenatchee",0,1884,11646_shp,0,0
+18,18,t3F8-b75A-sl12,"College via East Wenatchee",1,1882,11669_shp,0,0
+18,18,t405-b75B-sl12,"Olds Station via East Wenatchee",0,1883,11646_shp,0,0
+18,18,t418-b759-sl12,"College via East Wenatchee",1,1881,11669_shp,0,0
+18,18,t423-b75A-sl12,"Olds Station via East Wenatchee",0,1882,11646_shp,0,0
+18,18,t45E-b75C-sl12,"College via East Wenatchee",1,1884,11669_shp,0,0
+18,18,t469-b759-sl12,"Olds Station via East Wenatchee",0,1881,11646_shp,0,0
+18,18,t47C-b75B-sl12,"College via East Wenatchee",1,1883,11669_shp,0,0
+18,18,t487-b75C-sl12,"Olds Station via East Wenatchee",0,1884,11646_shp,0,0
+18,18,t4C2-b75A-sl12,"College via East Wenatchee",1,1882,11669_shp,0,0
+18,18,t4CD-b75B-sl12,"Olds Station via East Wenatchee",0,1883,11646_shp,0,0
+18,18,t4E0-b759-sl12,"College via East Wenatchee",1,1881,11669_shp,0,0
+18,18,t4EB-b75A-sl12,"Olds Station via East Wenatchee",0,1882,11646_shp,0,0
+18,18,t526-b75C-sl12,"College via East Wenatchee",1,1884,11669_shp,0,0
+18,18,t531-b759-sl12,"Olds Station via East Wenatchee",0,1881,11646_shp,0,0
+18,18,t545-b75D-sl12,"College via East Wenatchee",1,1885,11669_shp,0,0
+18,18,t54F-b75C-sl12,"Olds Station via East Wenatchee",0,1884,11646_shp,0,0
+18,18,t58B-b75B-sl12,"College via East Wenatchee",1,1883,11669_shp,0,0
+18,18,t595-b75D-sl12,"Olds Station via East Wenatchee",0,1885,11646_shp,0,0
+18,18,t5A9-b75A-sl12,"College via East Wenatchee",1,1882,11669_shp,0,0
+18,18,t5B3-b75B-sl12,"Olds Station via East Wenatchee",0,1883,11646_shp,0,0
+18,18,t5EF-b759-sl12,"College via East Wenatchee",1,1881,11669_shp,0,0
+18,18,t5F9-b75A-sl12,"Olds Station via East Wenatchee",0,1882,11646_shp,0,0
+18,18,t60D-b75C-sl12,"College via East Wenatchee",1,1884,11669_shp,0,0
+18,18,t617-b759-sl12,"Olds Station via East Wenatchee",0,1881,11646_shp,0,0
+18,18,t653-b75D-sl12,"College via East Wenatchee",1,1885,11669_shp,0,0
+18,18,t65D-b75C-sl12,"Olds Station via East Wenatchee",0,1884,11646_shp,0,0
+18,18,t671-b75B-sl12,"College via East Wenatchee",1,1883,11669_shp,0,0
+18,18,t67B-b75D-sl12,"Olds Station via East Wenatchee",0,1885,11646_shp,0,0
+18,18,t6B7-b75A-sl12,"College via East Wenatchee",1,1882,11669_shp,0,0
+18,18,t6C1-b75B-sl12,"Olds Station via East Wenatchee",0,1883,11646_shp,0,0
+18,18,t6D2-b759-sl12,"College via East Wenatchee",1,1881,11669_shp,0,0
+18,18,t6DF-b75A-sl12,"Olds Station via East Wenatchee",0,1882,11646_shp,0,0
+18,18,t718-b75C-sl12,"College via East Wenatchee",1,1884,11669_shp,0,0
+18,18,t743-b75C-sl12,"Olds Station via East Wenatchee",0,1884,11646_shp,0,0
+18,18,t77C-b75A-sl12,"College via East Wenatchee",1,1882,11669_shp,0,0
+18,18,t7A7-b75A-sl12,"Olds Station via East Wenatchee",0,1882,11646_shp,0,0
+18,18,t7E0-b75C-sl12,"College via East Wenatchee",1,1884,11669_shp,0,0
+18,18,t80B-b75C-sl12,"Olds Station via East Wenatchee",0,1884,11646_shp,0,0
+18,19,t2EA-b5149-sl13,"College via East Wenatchee",1,20809,11671_shp,0,0
+18,19,t33D-b5149-sl13,"Olds Station via East Wenatchee",0,20809,11647_shp,0,0
+18,19,t34E-b5323-sl13,"College via East Wenatchee",1,21283,11671_shp,0,0
+18,19,t3A1-b5323-sl13,"Olds Station via East Wenatchee",0,21283,11647_shp,0,0
+18,19,t3B2-b5149-sl13,"College via East Wenatchee",1,20809,11671_shp,0,0
+18,19,t405-b5149-sl13,"Olds Station via East Wenatchee",0,20809,11647_shp,0,0
+18,19,t416-b5323-sl13,"College via East Wenatchee",1,21283,11671_shp,0,0
+18,19,t469-b5323-sl13,"Olds Station via East Wenatchee",0,21283,11647_shp,0,0
+18,19,t47A-b56B9-sl13,"College via East Wenatchee",1,22201,11671_shp,0,0
+18,19,t4CD-b56B9-sl13,"Olds Station via East Wenatchee",0,22201,11647_shp,0,0
+18,19,t4DE-b5149-sl13,"College via East Wenatchee",1,20809,11671_shp,0,0
+18,19,t531-b5149-sl13,"Olds Station via East Wenatchee",0,20809,11647_shp,0,0
+18,19,t542-b5321-sl13,"College via East Wenatchee",1,21281,11671_shp,0,0
+18,19,t595-b5321-sl13,"Olds Station via East Wenatchee",0,21281,11647_shp,0,0
+18,19,t5A6-b5149-sl13,"College via East Wenatchee",1,20809,11671_shp,0,0
+18,19,t5F9-b5149-sl13,"Olds Station via East Wenatchee",0,20809,11647_shp,0,0
+18,19,t60A-b5321-sl13,"College via East Wenatchee",1,21281,11671_shp,0,0
+18,19,t65D-b5321-sl13,"Olds Station via East Wenatchee",0,21281,11647_shp,0,0
+18,19,t66E-b5149-sl13,"College via East Wenatchee",1,20809,11671_shp,0,0
+18,19,t6C1-b5149-sl13,"Olds Station via East Wenatchee",0,20809,11647_shp,0,0
+18,20,t3B2-b7C39-sl14,"College via East Wenatchee",1,31801,11636_shp,0,0
+18,20,t405-b7C39-sl14,"Olds Station via East Wenatchee",0,31801,11645_shp,0,0
+18,20,t416-b7C3A-sl14,"College via East Wenatchee",1,31802,11636_shp,0,0
+18,20,t469-b7C3A-sl14,"Olds Station via East Wenatchee",0,31802,11645_shp,0,0
+18,20,t47A-b7C39-sl14,"College via East Wenatchee",1,31801,11636_shp,0,0
+18,20,t4CD-b7C39-sl14,"Olds Station via East Wenatchee",0,31801,11645_shp,0,0
+18,20,t4DE-b7C3A-sl14,"College via East Wenatchee",1,31802,11636_shp,0,0
+18,20,t531-b7C3A-sl14,"Olds Station via East Wenatchee",0,31802,11645_shp,0,0
+18,20,t542-b7C39-sl14,"College via East Wenatchee",1,31801,11636_shp,0,0
+18,20,t595-b7C39-sl14,"Olds Station via East Wenatchee",0,31801,11645_shp,0,0
+18,20,t5A6-b7C3A-sl14,"College via East Wenatchee",1,31802,11636_shp,0,0
+18,20,t5F9-b7C3A-sl14,"Olds Station via East Wenatchee",0,31802,11645_shp,0,0
+18,20,t60A-b7C39-sl14,"College via East Wenatchee",1,31801,11636_shp,0,0
+18,20,t65D-b7C39-sl14,"Olds Station via East Wenatchee",0,31801,11645_shp,0,0
+18,20,t66E-b7C3A-sl14,"College via East Wenatchee",1,31802,11636_shp,0,0
+18,20,t6C1-b7C3A-sl14,"Olds Station via East Wenatchee",0,31802,11645_shp,0,0
+18,40,t3B2-b14129-sl28,"College via East Wenatchee",1,82217,11342_shp,0,0
+18,40,t405-b14129-sl28,"Olds Station via East Wenatchee",0,82217,11363_shp,0,0
+18,40,t416-b1412A-sl28,"College via East Wenatchee",1,82218,11342_shp,0,0
+18,40,t469-b1412A-sl28,"Olds Station via East Wenatchee",0,82218,11363_shp,0,0
+18,40,t47A-b14129-sl28,"College via East Wenatchee",1,82217,11342_shp,0,0
+18,40,t4CD-b14129-sl28,"Olds Station via East Wenatchee",0,82217,11363_shp,0,0
+18,40,t4DE-b1412A-sl28,"College via East Wenatchee",1,82218,11342_shp,0,0
+18,40,t531-b1412A-sl28,"Olds Station via East Wenatchee",0,82218,11363_shp,0,0
+18,40,t542-b14129-sl28,"College via East Wenatchee",1,82217,11342_shp,0,0
+18,40,t595-b14129-sl28,"Olds Station via East Wenatchee",0,82217,11363_shp,0,0
+18,40,t5A6-b1412A-sl28,"College via East Wenatchee",1,82218,11342_shp,0,0
+18,40,t5F9-b1412A-sl28,"Olds Station via East Wenatchee",0,82218,11363_shp,0,0
+18,40,t60A-b14129-sl28,"College via East Wenatchee",1,82217,11342_shp,0,0
+18,40,t65D-b14129-sl28,"Olds Station via East Wenatchee",0,82217,11363_shp,0,0
+18,40,t66E-b1412A-sl28,"College via East Wenatchee",1,82218,11342_shp,0,0
+18,40,t6C1-b1412A-sl28,"Olds Station via East Wenatchee",0,82218,11363_shp,0,0
+18,43,t2EA-bED89-sl2B,"College via East Wenatchee",1,60809,11443_shp,0,0
+18,43,t33D-bED89-sl2B,"Olds Station via East Wenatchee",0,60809,11481_shp,0,0
+18,43,t34E-bEF63-sl2B,"College via East Wenatchee",1,61283,11443_shp,0,0
+18,43,t3A1-bEF63-sl2B,"Olds Station via East Wenatchee",0,61283,11481_shp,0,0
+18,43,t3B2-bED89-sl2B,"College via East Wenatchee",1,60809,11443_shp,0,0
+18,43,t405-bED89-sl2B,"Olds Station via East Wenatchee",0,60809,11481_shp,0,0
+18,43,t416-bEF63-sl2B,"College via East Wenatchee",1,61283,11443_shp,0,0
+18,43,t469-bEF63-sl2B,"Olds Station via East Wenatchee",0,61283,11481_shp,0,0
+18,43,t47A-bF2F9-sl2B,"College via East Wenatchee",1,62201,11443_shp,0,0
+18,43,t4CD-bF2F9-sl2B,"Olds Station via East Wenatchee",0,62201,11481_shp,0,0
+18,43,t4DE-bED89-sl2B,"College via East Wenatchee",1,60809,11443_shp,0,0
+18,43,t531-bED89-sl2B,"Olds Station via East Wenatchee",0,60809,11481_shp,0,0
+18,43,t542-bEF61-sl2B,"College via East Wenatchee",1,61281,11443_shp,0,0
+18,43,t595-bEF61-sl2B,"Olds Station via East Wenatchee",0,61281,11481_shp,0,0
+18,43,t5A6-bED89-sl2B,"College via East Wenatchee",1,60809,11443_shp,0,0
+18,43,t5F9-bED89-sl2B,"Olds Station via East Wenatchee",0,60809,11481_shp,0,0
+18,43,t60A-bEF61-sl2B,"College via East Wenatchee",1,61281,11443_shp,0,0
+18,43,t65D-bEF61-sl2B,"Olds Station via East Wenatchee",0,61281,11481_shp,0,0
+18,43,t66E-bED89-sl2B,"College via East Wenatchee",1,60809,11443_shp,0,0
+18,43,t6C1-bED89-sl2B,"Olds Station via East Wenatchee",0,60809,11481_shp,0,0
+21,18,t1A9-b835-sl12,"Entiat/Chelan/Manson",0,2101,11644_shp,0,0
+21,18,t1F4-b837-sl12,"Entiat/Chelan/Manson",0,2103,11638_shp,0,0
+21,18,t212-b838-sl12,"Entiat/Chelan/Manson",0,2104,11638_shp,0,0
+21,18,t218-b835-sl12,"Chelan/Entiat/Wenatchee",1,2101,11649_shp,0,0
+21,18,t274-b837-sl12,"Chelan/Entiat/Wenatchee",1,2103,11649_shp,0,0
+21,18,t276-b839-sl12,"Entiat/Chelan/Manson",0,2105,11638_shp,0,0
+21,18,t292-b838-sl12,"Chelan/Entiat/Wenatchee",1,2104,11649_shp,0,0
+21,18,t2BC-b83B-sl12,"Entiat/Chelan/Manson",0,2107,11638_shp,0,0
+21,18,t2DA-b835-sl12,"Entiat/Chelan/Manson",0,2101,11638_shp,0,0
+21,18,t2F6-b839-sl12,"Chelan/Entiat/Wenatchee",1,2105,11649_shp,0,0
+21,18,t33C-b83B-sl12,"Chelan/Entiat/Wenatchee",1,2107,11649_shp,0,0
+21,18,t33E-b838-sl12,"Entiat/Chelan/Manson",0,2104,11638_shp,0,0
+21,18,t35A-b835-sl12,"Chelan/Entiat/Wenatchee",1,2101,11649_shp,0,0
+21,18,t3A2-b839-sl12,"Entiat/Chelan/Manson",0,2105,11638_shp,0,0
+21,18,t3BE-b838-sl12,"Chelan/Entiat/Wenatchee",1,2104,11649_shp,0,0
+21,18,t406-b835-sl12,"Entiat/Chelan/Manson",0,2101,11638_shp,0,0
+21,18,t422-b839-sl12,"Chelan/Entiat/Wenatchee",1,2105,11649_shp,0,0
+21,18,t46A-b838-sl12,"Entiat/Chelan/Manson",0,2104,11638_shp,0,0
+21,18,t486-b835-sl12,"Chelan/Entiat/Wenatchee",1,2101,11649_shp,0,0
+21,18,t4CE-b839-sl12,"Entiat/Chelan/Manson",0,2105,11638_shp,0,0
+21,18,t4EA-b838-sl12,"Chelan/Entiat/Wenatchee",1,2104,11649_shp,0,0
+21,18,t532-b835-sl12,"Entiat/Chelan/Manson",0,2101,11638_shp,0,0
+21,18,t54E-b839-sl12,"Chelan/Entiat/Wenatchee",1,2105,11649_shp,0,0
+21,18,t578-b83C-sl12,"Entiat/Chelan/Manson",0,2108,11638_shp,0,0
+21,18,t596-b89D-sl12,"Entiat/Chelan/Manson",0,2205,11638_shp,0,0
+21,18,t5B2-b835-sl12,"Chelan/Entiat/Wenatchee",1,2101,11649_shp,0,0
+21,18,t5DC-b83D-sl12,"Entiat/Chelan/Manson",0,2109,11638_shp,0,0
+21,18,t5F8-b83C-sl12,"Chelan/Entiat/Wenatchee",1,2108,11649_shp,0,0
+21,18,t5FA-b89E-sl12,"Entiat/Chelan/Manson",0,2206,11638_shp,0,0
+21,18,t616-b89D-sl12,"Chelan/Entiat/Wenatchee",1,2205,11649_shp,0,0
+21,18,t65C-b83D-sl12,"Chelan/Entiat/Wenatchee",1,2109,11649_shp,0,0
+21,18,t65E-b8A0-sl12,"Entiat/Chelan/Manson",0,2208,11638_shp,0,0
+21,18,t67A-b89E-sl12,"Chelan/Entiat/Wenatchee",1,2206,11649_shp,0,0
+21,18,t6C2-b89D-sl12,"Entiat/Chelan/Manson",0,2205,11638_shp,0,0
+21,18,t6DE-b8A0-sl12,"Chelan/Entiat/Wenatchee",1,2208,11649_shp,0,0
+21,18,t726-b89F-sl12,"Entiat/Chelan/Manson",0,2207,11638_shp,0,0
+21,18,t742-b89D-sl12,"Chelan/Entiat/Wenatchee",1,2205,11649_shp,0,0
+21,18,t78A-b836-sl12,"Entiat/Chelan/Manson",0,2102,11638_shp,0,0
+21,18,t7A6-b89F-sl12,"Chelan/Entiat/Wenatchee",1,2207,11649_shp,0,0
+21,18,t80A-b836-sl12,"Chelan/Entiat/Wenatchee",1,2102,11649_shp,0,0
+21,19,t276-b5655-sl13,"Entiat/Chelan/Manson",0,22101,11640_shp,0,0
+21,19,t2F4-b5655-sl13,"Chelan/Entiat/Wenatchee",1,22101,11650_shp,0,0
+21,19,t320-b5656-sl13,"Entiat/Chelan/Manson",0,22102,11640_shp,0,0
+21,19,t39E-b5656-sl13,"Chelan/Entiat/Wenatchee",1,22102,11650_shp,0,0
+21,19,t3A2-b5657-sl13,"Entiat/Chelan/Manson",0,22103,11640_shp,0,0
+21,19,t406-b5658-sl13,"Entiat/Chelan/Manson",0,22104,11640_shp,0,0
+21,19,t420-b5657-sl13,"Chelan/Entiat/Wenatchee",1,22103,11650_shp,0,0
+21,19,t46A-b5659-sl13,"Entiat/Chelan/Manson",0,22105,11640_shp,0,0
+21,19,t487-b5658-sl13,"Chelan/Entiat/Wenatchee",1,22104,11650_shp,0,0
+21,19,t4CE-b5657-sl13,"Entiat/Chelan/Manson",0,22103,11640_shp,0,0
+21,19,t4EB-b5659-sl13,"Chelan/Entiat/Wenatchee",1,22105,11650_shp,0,0
+21,19,t532-b5658-sl13,"Entiat/Chelan/Manson",0,22104,11640_shp,0,0
+21,19,t54F-b5657-sl13,"Chelan/Entiat/Wenatchee",1,22103,11650_shp,0,0
+21,19,t596-b5659-sl13,"Entiat/Chelan/Manson",0,22105,11640_shp,0,0
+21,19,t5B3-b5658-sl13,"Chelan/Entiat/Wenatchee",1,22104,11650_shp,0,0
+21,19,t5FA-b5657-sl13,"Entiat/Chelan/Manson",0,22103,11640_shp,0,0
+21,19,t617-b5659-sl13,"Chelan/Entiat/Wenatchee",1,22105,11650_shp,0,0
+21,19,t65E-b5658-sl13,"Entiat/Chelan/Manson",0,22104,11640_shp,0,0
+21,19,t67A-b5657-sl13,"Chelan/Entiat/Wenatchee",1,22103,11650_shp,0,0
+21,19,t6DE-b5658-sl13,"Chelan/Entiat/Wenatchee",1,22104,11650_shp,0,0
+21,19,t708-b5656-sl13,"Entiat/Chelan/Manson",0,22102,11640_shp,0,0
+21,19,t788-b5656-sl13,"Chelan/Entiat/Wenatchee",1,22102,11650_shp,0,0
+21,20,t276-b7D65-sl14,"Entiat/Chelan/Manson",0,32101,11642_shp,0,0
+21,20,t2F4-b7D65-sl14,"Chelan/Entiat/Wenatchee",1,32101,11648_shp,0,0
+21,20,t320-b7D66-sl14,"Entiat/Chelan/Manson",0,32102,11642_shp,0,0
+21,20,t39E-b7D66-sl14,"Chelan/Entiat/Wenatchee",1,32102,11648_shp,0,0
+21,20,t3A2-b7D67-sl14,"Entiat/Chelan/Manson",0,32103,11642_shp,0,0
+21,20,t406-b7D68-sl14,"Entiat/Chelan/Manson",0,32104,11642_shp,0,0
+21,20,t420-b7D67-sl14,"Chelan/Entiat/Wenatchee",1,32103,11648_shp,0,0
+21,20,t46A-b7D69-sl14,"Entiat/Chelan/Manson",0,32105,11642_shp,0,0
+21,20,t487-b7D68-sl14,"Chelan/Entiat/Wenatchee",1,32104,11648_shp,0,0
+21,20,t4CE-b7D67-sl14,"Entiat/Chelan/Manson",0,32103,11642_shp,0,0
+21,20,t4EB-b7D69-sl14,"Chelan/Entiat/Wenatchee",1,32105,11648_shp,0,0
+21,20,t532-b7D68-sl14,"Entiat/Chelan/Manson",0,32104,11642_shp,0,0
+21,20,t54F-b7D67-sl14,"Chelan/Entiat/Wenatchee",1,32103,11648_shp,0,0
+21,20,t596-b7D69-sl14,"Entiat/Chelan/Manson",0,32105,11642_shp,0,0
+21,20,t5B3-b7D68-sl14,"Chelan/Entiat/Wenatchee",1,32104,11648_shp,0,0
+21,20,t5FA-b7D67-sl14,"Entiat/Chelan/Manson",0,32103,11642_shp,0,0
+21,20,t617-b7D69-sl14,"Chelan/Entiat/Wenatchee",1,32105,11648_shp,0,0
+21,20,t65E-b7D68-sl14,"Entiat/Chelan/Manson",0,32104,11642_shp,0,0
+21,20,t67A-b7D67-sl14,"Chelan/Entiat/Wenatchee",1,32103,11648_shp,0,0
+21,20,t6DE-b7D68-sl14,"Chelan/Entiat/Wenatchee",1,32104,11648_shp,0,0
+21,20,t708-b7D66-sl14,"Entiat/Chelan/Manson",0,32102,11642_shp,0,0
+21,20,t788-b7D66-sl14,"Chelan/Entiat/Wenatchee",1,32102,11648_shp,0,0
+21,40,t276-b1412B-sl28,"Entiat/Chelan/Manson",0,82219,11359_shp,0,0
+21,40,t2F4-b1412B-sl28,"Chelan/Entiat/Wenatchee",1,82219,11352_shp,0,0
+21,40,t320-b1412C-sl28,"Entiat/Chelan/Manson",0,82220,11359_shp,0,0
+21,40,t39E-b1412C-sl28,"Chelan/Entiat/Wenatchee",1,82220,11352_shp,0,0
+21,40,t3A2-b1412D-sl28,"Entiat/Chelan/Manson",0,82221,11359_shp,0,0
+21,40,t406-b1412E-sl28,"Entiat/Chelan/Manson",0,82222,11359_shp,0,0
+21,40,t420-b1412D-sl28,"Chelan/Entiat/Wenatchee",1,82221,11352_shp,0,0
+21,40,t46A-b1412F-sl28,"Entiat/Chelan/Manson",0,82223,11359_shp,0,0
+21,40,t487-b1412E-sl28,"Chelan/Entiat/Wenatchee",1,82222,11352_shp,0,0
+21,40,t4CE-b1412D-sl28,"Entiat/Chelan/Manson",0,82221,11359_shp,0,0
+21,40,t4EB-b1412F-sl28,"Chelan/Entiat/Wenatchee",1,82223,11352_shp,0,0
+21,40,t532-b1412E-sl28,"Entiat/Chelan/Manson",0,82222,11359_shp,0,0
+21,40,t54F-b1412D-sl28,"Chelan/Entiat/Wenatchee",1,82221,11352_shp,0,0
+21,40,t596-b1412F-sl28,"Entiat/Chelan/Manson",0,82223,11359_shp,0,0
+21,40,t5B3-b1412E-sl28,"Chelan/Entiat/Wenatchee",1,82222,11352_shp,0,0
+21,40,t5FA-b1412D-sl28,"Entiat/Chelan/Manson",0,82221,11359_shp,0,0
+21,40,t617-b1412F-sl28,"Chelan/Entiat/Wenatchee",1,82223,11352_shp,0,0
+21,40,t65E-b1412E-sl28,"Entiat/Chelan/Manson",0,82222,11359_shp,0,0
+21,40,t67A-b1412D-sl28,"Chelan/Entiat/Wenatchee",1,82221,11352_shp,0,0
+21,40,t6DE-b1412E-sl28,"Chelan/Entiat/Wenatchee",1,82222,11352_shp,0,0
+21,40,t708-b1412C-sl28,"Entiat/Chelan/Manson",0,82220,11359_shp,0,0
+21,40,t788-b1412C-sl28,"Chelan/Entiat/Wenatchee",1,82220,11352_shp,0,0
+21,43,t276-bF295-sl2B,"Entiat/Chelan/Manson",0,62101,11478_shp,0,0
+21,43,t2F4-bF295-sl2B,"Chelan/Entiat/Wenatchee",1,62101,11452_shp,0,0
+21,43,t320-bF296-sl2B,"Entiat/Chelan/Manson",0,62102,11478_shp,0,0
+21,43,t39E-bF296-sl2B,"Chelan/Entiat/Wenatchee",1,62102,11452_shp,0,0
+21,43,t3A2-bF297-sl2B,"Entiat/Chelan/Manson",0,62103,11478_shp,0,0
+21,43,t406-bF298-sl2B,"Entiat/Chelan/Manson",0,62104,11478_shp,0,0
+21,43,t420-bF297-sl2B,"Chelan/Entiat/Wenatchee",1,62103,11452_shp,0,0
+21,43,t46A-bF299-sl2B,"Entiat/Chelan/Manson",0,62105,11478_shp,0,0
+21,43,t487-bF298-sl2B,"Chelan/Entiat/Wenatchee",1,62104,11452_shp,0,0
+21,43,t4CE-bF297-sl2B,"Entiat/Chelan/Manson",0,62103,11478_shp,0,0
+21,43,t4EB-bF299-sl2B,"Chelan/Entiat/Wenatchee",1,62105,11452_shp,0,0
+21,43,t532-bF298-sl2B,"Entiat/Chelan/Manson",0,62104,11478_shp,0,0
+21,43,t54F-bF297-sl2B,"Chelan/Entiat/Wenatchee",1,62103,11452_shp,0,0
+21,43,t596-bF299-sl2B,"Entiat/Chelan/Manson",0,62105,11478_shp,0,0
+21,43,t5B3-bF298-sl2B,"Chelan/Entiat/Wenatchee",1,62104,11452_shp,0,0
+21,43,t5FA-bF297-sl2B,"Entiat/Chelan/Manson",0,62103,11478_shp,0,0
+21,43,t617-bF299-sl2B,"Chelan/Entiat/Wenatchee",1,62105,11452_shp,0,0
+21,43,t65E-bF298-sl2B,"Entiat/Chelan/Manson",0,62104,11478_shp,0,0
+21,43,t67A-bF297-sl2B,"Chelan/Entiat/Wenatchee",1,62103,11452_shp,0,0
+21,43,t6DE-bF298-sl2B,"Chelan/Entiat/Wenatchee",1,62104,11452_shp,0,0
+21,43,t708-bF296-sl2B,"Entiat/Chelan/Manson",0,62102,11478_shp,0,0
+21,43,t788-bF296-sl2B,"Chelan/Entiat/Wenatchee",1,62102,11452_shp,0,0
+22,18,t1AE-b899-sl12,"Leavenworth via Cashmere",0,2201,11662_shp,0,0
+22,18,t1F4-b89B-sl12,"Leavenworth via Cashmere",0,2203,11662_shp,0,0
+22,18,t20D-b899-sl12,"Wenatchee via Cashmere",1,2201,11661_shp,0,0
+22,18,t212-b89C-sl12,"Leavenworth via Cashmere",0,2204,11662_shp,0,0
+22,18,t258-b89B-sl12,"Wenatchee via Cashmere",1,2203,11661_shp,0,0
+22,18,t258-b89D-sl12,"Leavenworth via Cashmere",0,2205,11662_shp,0,0
+22,18,t276-b899-sl12,"Leavenworth via Cashmere",0,2201,11662_shp,0,0
+22,18,t276-b89C-sl12,"Wenatchee via Cashmere",1,2204,11661_shp,0,0
+22,18,t2BC-b89B-sl12,"Leavenworth via Cashmere",0,2203,11662_shp,0,0
+22,18,t2BD-b89D-sl12,"Wenatchee via Cashmere",1,2205,11661_shp,0,0
+22,18,t2DA-b89C-sl12,"Leavenworth via Cashmere",0,2204,11662_shp,0,0
+22,18,t2DB-b899-sl12,"Wenatchee via Cashmere",1,2201,11661_shp,0,0
+22,18,t320-b89D-sl12,"Leavenworth via Cashmere",0,2205,11662_shp,0,0
+22,18,t321-b89B-sl12,"Wenatchee via Cashmere",1,2203,11661_shp,0,0
+22,18,t340-b89C-sl12,"Wenatchee via Cashmere",1,2204,11661_shp,0,0
+22,18,t384-b89A-sl12,"Leavenworth via Cashmere",0,2202,11662_shp,0,0
+22,18,t386-b89D-sl12,"Wenatchee via Cashmere",1,2205,11661_shp,0,0
+22,18,t3EA-b89A-sl12,"Wenatchee via Cashmere",1,2202,11661_shp,0,0
+22,18,t3ED-b89D-sl12,"Leavenworth via Cashmere",0,2205,11662_shp,0,0
+22,18,t451-b89A-sl12,"Leavenworth via Cashmere",0,2202,11662_shp,0,0
+22,18,t454-b89D-sl12,"Wenatchee via Cashmere",1,2205,11661_shp,0,0
+22,18,t4BA-b89A-sl12,"Wenatchee via Cashmere",1,2202,11661_shp,0,0
+22,18,t4BA-b89D-sl12,"Leavenworth via Cashmere",0,2205,11662_shp,0,0
+22,18,t519-b89E-sl12,"Leavenworth via Cashmere",0,2206,11662_shp,0,0
+22,18,t523-b89D-sl12,"Wenatchee via Cashmere",1,2205,11661_shp,0,0
+22,18,t537-b89F-sl12,"Leavenworth via Cashmere",0,2207,11662_shp,0,0
+22,18,t57D-b8A0-sl12,"Leavenworth via Cashmere",0,2208,11662_shp,0,0
+22,18,t583-b89E-sl12,"Wenatchee via Cashmere",1,2206,11661_shp,0,0
+22,18,t5A0-b838-sl12,"Leavenworth via Cashmere",0,2104,11662_shp,0,0
+22,18,t5A1-b89F-sl12,"Wenatchee via Cashmere",1,2207,11661_shp,0,0
+22,18,t5E8-b8A0-sl12,"Wenatchee via Cashmere",1,2208,11661_shp,0,0
+22,18,t5EB-b8A1-sl12,"Leavenworth via Cashmere",0,2209,11662_shp,0,0
+22,18,t609-b839-sl12,"Leavenworth via Cashmere",0,2105,11662_shp,0,0
+22,18,t60B-b838-sl12,"Wenatchee via Cashmere",1,2104,11661_shp,0,0
+22,18,t654-b89F-sl12,"Leavenworth via Cashmere",0,2207,11662_shp,0,0
+22,18,t656-b8A1-sl12,"Wenatchee via Cashmere",1,2209,11661_shp,0,0
+22,18,t674-b839-sl12,"Wenatchee via Cashmere",1,2105,11661_shp,0,0
+22,18,t677-b835-sl12,"Leavenworth via Cashmere",0,2101,11662_shp,0,0
+22,18,t6BE-b89F-sl12,"Wenatchee via Cashmere",1,2207,11661_shp,0,0
+22,18,t6CC-b8A1-sl12,"Leavenworth via Cashmere",0,2209,11662_shp,0,0
+22,18,t709-b835-sl12,"Wenatchee via Cashmere",1,2101,11661_shp,0,0
+22,18,t721-b839-sl12,"Leavenworth via Cashmere",0,2105,11662_shp,0,0
+22,18,t732-b8A1-sl12,"Wenatchee via Cashmere",1,2209,11661_shp,0,0
+22,18,t787-b839-sl12,"Wenatchee via Cashmere",1,2105,11661_shp,0,0
+22,18,t78A-b8A0-sl12,"Leavenworth via Cashmere",0,2208,11662_shp,0,0
+22,18,t7E9-b839-sl12,"Leavenworth via Cashmere",0,2105,11662_shp,0,0
+22,18,t7F0-b8A0-sl12,"Wenatchee via Cashmere",1,2208,11661_shp,0,0
+22,18,t84A-b839-sl12,"Wenatchee via Cashmere",1,2105,11661_shp,0,0
+22,19,t285-b56B9-sl13,"Leavenworth via Cashmere",0,22201,11692_shp,0,0
+22,19,t2E5-b56B9-sl13,"Wenatchee via Cashmere",1,22201,11694_shp,0,0
+22,19,t320-b56BA-sl13,"Leavenworth via Cashmere",0,22202,11692_shp,0,0
+22,19,t34D-b56B9-sl13,"Leavenworth via Cashmere",0,22201,11692_shp,0,0
+22,19,t386-b56BA-sl13,"Wenatchee via Cashmere",1,22202,11694_shp,0,0
+22,19,t3A2-b5655-sl13,"Leavenworth via Cashmere",0,22101,11692_shp,0,0
+22,19,t3B3-b56B9-sl13,"Wenatchee via Cashmere",1,22201,11694_shp,0,0
+22,19,t3F7-b56BA-sl13,"Leavenworth via Cashmere",0,22202,11692_shp,0,0
+22,19,t40A-b5655-sl13,"Wenatchee via Cashmere",1,22101,11694_shp,0,0
+22,19,t44C-b5656-sl13,"Leavenworth via Cashmere",0,22102,11692_shp,0,0
+22,19,t45F-b56BA-sl13,"Wenatchee via Cashmere",1,22202,11694_shp,0,0
+22,19,t479-b5655-sl13,"Leavenworth via Cashmere",0,22101,11692_shp,0,0
+22,19,t4B4-b5656-sl13,"Wenatchee via Cashmere",1,22102,11694_shp,0,0
+22,19,t4CE-b56BA-sl13,"Leavenworth via Cashmere",0,22202,11692_shp,0,0
+22,19,t4E3-b5655-sl13,"Wenatchee via Cashmere",1,22101,11694_shp,0,0
+22,19,t523-b5656-sl13,"Leavenworth via Cashmere",0,22102,11692_shp,0,0
+22,19,t539-b56BA-sl13,"Wenatchee via Cashmere",1,22202,11694_shp,0,0
+22,19,t578-b5655-sl13,"Leavenworth via Cashmere",0,22101,11692_shp,0,0
+22,19,t58E-b5656-sl13,"Wenatchee via Cashmere",1,22102,11694_shp,0,0
+22,19,t5A5-b56BA-sl13,"Leavenworth via Cashmere",0,22202,11692_shp,0,0
+22,19,t5E3-b5655-sl13,"Wenatchee via Cashmere",1,22101,11694_shp,0,0
+22,19,t5FA-b5656-sl13,"Leavenworth via Cashmere",0,22102,11692_shp,0,0
+22,19,t60F-b56BA-sl13,"Wenatchee via Cashmere",1,22202,11694_shp,0,0
+22,19,t64F-b5655-sl13,"Leavenworth via Cashmere",0,22101,11692_shp,0,0
+22,19,t664-b5656-sl13,"Wenatchee via Cashmere",1,22102,11694_shp,0,0
+22,19,t6A4-b56BA-sl13,"Leavenworth via Cashmere",0,22202,11692_shp,0,0
+22,19,t6B8-b5655-sl13,"Wenatchee via Cashmere",1,22101,11694_shp,0,0
+22,19,t6D1-b5659-sl13,"Leavenworth via Cashmere",0,22105,11692_shp,0,0
+22,19,t70B-b56BA-sl13,"Wenatchee via Cashmere",1,22202,11694_shp,0,0
+22,19,t726-b5657-sl13,"Leavenworth via Cashmere",0,22103,11692_shp,0,0
+22,19,t736-b5659-sl13,"Wenatchee via Cashmere",1,22105,11694_shp,0,0
+22,19,t78B-b5657-sl13,"Wenatchee via Cashmere",1,22103,11694_shp,0,0
+22,20,t285-b7DC9-sl14,"Leavenworth via Cashmere",0,32201,11690_shp,0,0
+22,20,t2E5-b7DC9-sl14,"Wenatchee via Cashmere",1,32201,11696_shp,0,0
+22,20,t320-b7DCA-sl14,"Leavenworth via Cashmere",0,32202,11690_shp,0,0
+22,20,t34D-b7DC9-sl14,"Leavenworth via Cashmere",0,32201,11690_shp,0,0
+22,20,t386-b7DCA-sl14,"Wenatchee via Cashmere",1,32202,11696_shp,0,0
+22,20,t3A2-b7D65-sl14,"Leavenworth via Cashmere",0,32101,11690_shp,0,0
+22,20,t3B3-b7DC9-sl14,"Wenatchee via Cashmere",1,32201,11696_shp,0,0
+22,20,t3F7-b7DCA-sl14,"Leavenworth via Cashmere",0,32202,11690_shp,0,0
+22,20,t40A-b7D65-sl14,"Wenatchee via Cashmere",1,32101,11696_shp,0,0
+22,20,t44C-b7D66-sl14,"Leavenworth via Cashmere",0,32102,11690_shp,0,0
+22,20,t45F-b7DCA-sl14,"Wenatchee via Cashmere",1,32202,11696_shp,0,0
+22,20,t479-b7D65-sl14,"Leavenworth via Cashmere",0,32101,11690_shp,0,0
+22,20,t4B4-b7D66-sl14,"Wenatchee via Cashmere",1,32102,11696_shp,0,0
+22,20,t4CE-b7DCA-sl14,"Leavenworth via Cashmere",0,32202,11690_shp,0,0
+22,20,t4E3-b7D65-sl14,"Wenatchee via Cashmere",1,32101,11696_shp,0,0
+22,20,t523-b7D66-sl14,"Leavenworth via Cashmere",0,32102,11690_shp,0,0
+22,20,t539-b7DCA-sl14,"Wenatchee via Cashmere",1,32202,11696_shp,0,0
+22,20,t578-b7D65-sl14,"Leavenworth via Cashmere",0,32101,11690_shp,0,0
+22,20,t58E-b7D66-sl14,"Wenatchee via Cashmere",1,32102,11696_shp,0,0
+22,20,t5A5-b7DCA-sl14,"Leavenworth via Cashmere",0,32202,11690_shp,0,0
+22,20,t5E3-b7D65-sl14,"Wenatchee via Cashmere",1,32101,11696_shp,0,0
+22,20,t5FA-b7D66-sl14,"Leavenworth via Cashmere",0,32102,11690_shp,0,0
+22,20,t60F-b7DCA-sl14,"Wenatchee via Cashmere",1,32202,11696_shp,0,0
+22,20,t64F-b7D65-sl14,"Leavenworth via Cashmere",0,32101,11690_shp,0,0
+22,20,t664-b7D66-sl14,"Wenatchee via Cashmere",1,32102,11696_shp,0,0
+22,20,t6A4-b7DCA-sl14,"Leavenworth via Cashmere",0,32202,11690_shp,0,0
+22,20,t6B8-b7D65-sl14,"Wenatchee via Cashmere",1,32101,11696_shp,0,0
+22,20,t6D1-b7D69-sl14,"Leavenworth via Cashmere",0,32105,11690_shp,0,0
+22,20,t70B-b7DCA-sl14,"Wenatchee via Cashmere",1,32202,11696_shp,0,0
+22,20,t726-b7D67-sl14,"Leavenworth via Cashmere",0,32103,11690_shp,0,0
+22,20,t736-b7D69-sl14,"Wenatchee via Cashmere",1,32105,11696_shp,0,0
+22,20,t78B-b7D67-sl14,"Wenatchee via Cashmere",1,32103,11696_shp,0,0
+22,40,t285-b14119-sl28,"Leavenworth via Cashmere",0,82201,11360_shp,0,0
+22,40,t2E5-b14119-sl28,"Wenatchee via Cashmere",1,82201,11353_shp,0,0
+22,40,t320-b1411A-sl28,"Leavenworth via Cashmere",0,82202,11360_shp,0,0
+22,40,t34D-b14119-sl28,"Leavenworth via Cashmere",0,82201,11360_shp,0,0
+22,40,t386-b1411A-sl28,"Wenatchee via Cashmere",1,82202,11353_shp,0,0
+22,40,t3A2-b1412B-sl28,"Leavenworth via Cashmere",0,82219,11360_shp,0,0
+22,40,t3B3-b14119-sl28,"Wenatchee via Cashmere",1,82201,11353_shp,0,0
+22,40,t3F7-b1411A-sl28,"Leavenworth via Cashmere",0,82202,11372_shp,0,0
+22,40,t40A-b1412B-sl28,"Wenatchee via Cashmere",1,82219,11353_shp,0,0
+22,40,t44C-b1412C-sl28,"Leavenworth via Cashmere",0,82220,11372_shp,0,0
+22,40,t466-b1411A-sl28,"Wenatchee via Cashmere",1,82202,11355_shp,0,0
+22,40,t479-b1412B-sl28,"Leavenworth via Cashmere",0,82219,11372_shp,0,0
+22,40,t4BB-b1412C-sl28,"Wenatchee via Cashmere",1,82220,11355_shp,0,0
+22,40,t4CE-b1411A-sl28,"Leavenworth via Cashmere",0,82202,11372_shp,0,0
+22,40,t4EA-b1412B-sl28,"Wenatchee via Cashmere",1,82219,11355_shp,0,0
+22,40,t523-b1412C-sl28,"Leavenworth via Cashmere",0,82220,11372_shp,0,0
+22,40,t540-b1411A-sl28,"Wenatchee via Cashmere",1,82202,11355_shp,0,0
+22,40,t578-b1412B-sl28,"Leavenworth via Cashmere",0,82219,11372_shp,0,0
+22,40,t595-b1412C-sl28,"Wenatchee via Cashmere",1,82220,11355_shp,0,0
+22,40,t5A5-b1411A-sl28,"Leavenworth via Cashmere",0,82202,11372_shp,0,0
+22,40,t5EA-b1412B-sl28,"Wenatchee via Cashmere",1,82219,11355_shp,0,0
+22,40,t5FA-b1412C-sl28,"Leavenworth via Cashmere",0,82220,11372_shp,0,0
+22,40,t616-b1411A-sl28,"Wenatchee via Cashmere",1,82202,11355_shp,0,0
+22,40,t64F-b1412B-sl28,"Leavenworth via Cashmere",0,82219,11372_shp,0,0
+22,40,t66B-b1412C-sl28,"Wenatchee via Cashmere",1,82220,11355_shp,0,0
+22,40,t6A4-b1411A-sl28,"Leavenworth via Cashmere",0,82202,11360_shp,0,0
+22,40,t6BF-b1412B-sl28,"Wenatchee via Cashmere",1,82219,11355_shp,0,0
+22,40,t6D1-b1412F-sl28,"Leavenworth via Cashmere",0,82223,11360_shp,0,0
+22,40,t70B-b1411A-sl28,"Wenatchee via Cashmere",1,82202,11353_shp,0,0
+22,40,t726-b1412D-sl28,"Leavenworth via Cashmere",0,82221,11360_shp,0,0
+22,40,t736-b1412F-sl28,"Wenatchee via Cashmere",1,82223,11353_shp,0,0
+22,40,t78B-b1412D-sl28,"Wenatchee via Cashmere",1,82221,11353_shp,0,0
+22,43,t285-bF2F9-sl2B,"Leavenworth via Cashmere",0,62201,11693_shp,0,0
+22,43,t2E5-bF2F9-sl2B,"Wenatchee via Cashmere",1,62201,11698_shp,0,0
+22,43,t320-bF2FA-sl2B,"Leavenworth via Cashmere",0,62202,11693_shp,0,0
+22,43,t34D-bF2F9-sl2B,"Leavenworth via Cashmere",0,62201,11693_shp,0,0
+22,43,t386-bF2FA-sl2B,"Wenatchee via Cashmere",1,62202,11698_shp,0,0
+22,43,t3A2-bF295-sl2B,"Leavenworth via Cashmere",0,62101,11693_shp,0,0
+22,43,t3B3-bF2F9-sl2B,"Wenatchee via Cashmere",1,62201,11698_shp,0,0
+22,43,t3F7-bF2FA-sl2B,"Leavenworth via Cashmere",0,62202,11371_shp,0,0
+22,43,t40A-bF295-sl2B,"Wenatchee via Cashmere",1,62101,11698_shp,0,0
+22,43,t44C-bF296-sl2B,"Leavenworth via Cashmere",0,62102,11371_shp,0,0
+22,43,t466-bF2FA-sl2B,"Wenatchee via Cashmere",1,62202,11468_shp,0,0
+22,43,t479-bF295-sl2B,"Leavenworth via Cashmere",0,62101,11371_shp,0,0
+22,43,t4BB-bF296-sl2B,"Wenatchee via Cashmere",1,62102,11468_shp,0,0
+22,43,t4CE-bF2FA-sl2B,"Leavenworth via Cashmere",0,62202,11371_shp,0,0
+22,43,t4EA-bF295-sl2B,"Wenatchee via Cashmere",1,62101,11468_shp,0,0
+22,43,t523-bF296-sl2B,"Leavenworth via Cashmere",0,62102,11371_shp,0,0
+22,43,t540-bF2FA-sl2B,"Wenatchee via Cashmere",1,62202,11468_shp,0,0
+22,43,t578-bF295-sl2B,"Leavenworth via Cashmere",0,62101,11371_shp,0,0
+22,43,t595-bF296-sl2B,"Wenatchee via Cashmere",1,62102,11468_shp,0,0
+22,43,t5A5-bF2FA-sl2B,"Leavenworth via Cashmere",0,62202,11371_shp,0,0
+22,43,t5EA-bF295-sl2B,"Wenatchee via Cashmere",1,62101,11468_shp,0,0
+22,43,t5FA-bF296-sl2B,"Leavenworth via Cashmere",0,62102,11371_shp,0,0
+22,43,t616-bF2FA-sl2B,"Wenatchee via Cashmere",1,62202,11468_shp,0,0
+22,43,t64F-bF295-sl2B,"Leavenworth via Cashmere",0,62101,11371_shp,0,0
+22,43,t66B-bF296-sl2B,"Wenatchee via Cashmere",1,62102,11468_shp,0,0
+22,43,t6A4-bF2FA-sl2B,"Leavenworth via Cashmere",0,62202,11693_shp,0,0
+22,43,t6BF-bF295-sl2B,"Wenatchee via Cashmere",1,62101,11468_shp,0,0
+22,43,t6D1-bF299-sl2B,"Leavenworth via Cashmere",0,62105,11693_shp,0,0
+22,43,t70B-bF2FA-sl2B,"Wenatchee via Cashmere",1,62202,11698_shp,0,0
+22,43,t726-bF297-sl2B,"Leavenworth via Cashmere",0,62103,11693_shp,0,0
+22,43,t736-bF299-sl2B,"Wenatchee via Cashmere",1,62105,11698_shp,0,0
+22,43,t78B-bF297-sl2B,"Wenatchee via Cashmere",1,62103,11698_shp,0,0
+23,18,t258-b8FD-sl12,"Rock Island via East Wenatchee",0,2301,10955_shp,0,0
+23,18,t274-b8FD-sl12,"Columbia Station via East Wenatchee",1,2301,10953_shp,0,0
+23,18,t2BC-b8FD-sl12,"Rock Island via East Wenatchee",0,2301,10955_shp,0,0
+23,18,t2D8-b8FD-sl12,"Columbia Station via East Wenatchee",1,2301,10953_shp,0,0
+23,18,t320-b8FD-sl12,"Rock Island via East Wenatchee",0,2301,10955_shp,0,0
+23,18,t33C-b8FD-sl12,"Columbia Station via East Wenatchee",1,2301,10953_shp,0,0
+23,18,t3E8-b8FE-sl12,"Rock Island via East Wenatchee",0,2302,10955_shp,0,0
+23,18,t404-b8FE-sl12,"Columbia Station via East Wenatchee",1,2302,10953_shp,0,0
+23,18,t4B0-b8FE-sl12,"Rock Island via East Wenatchee",0,2302,10955_shp,0,0
+23,18,t4CC-b8FE-sl12,"Columbia Station via East Wenatchee",1,2302,10953_shp,0,0
+23,18,t578-b8FE-sl12,"Rock Island via East Wenatchee",0,2302,10955_shp,0,0
+23,18,t594-b8FE-sl12,"Columbia Station via East Wenatchee",1,2302,10953_shp,0,0
+23,18,t5DC-b900-sl12,"Rock Island via East Wenatchee",0,2304,10955_shp,0,0
+23,18,t5F8-b900-sl12,"Columbia Station via East Wenatchee",1,2304,10953_shp,0,0
+23,18,t640-b8FE-sl12,"Rock Island via East Wenatchee",0,2302,10955_shp,0,0
+23,18,t65C-b8FE-sl12,"Columbia Station via East Wenatchee",1,2302,10953_shp,0,0
+23,18,t6A4-b900-sl12,"Rock Island via East Wenatchee",0,2304,10955_shp,0,0
+23,18,t6C0-b900-sl12,"Columbia Station via East Wenatchee",1,2304,10953_shp,0,0
+23,18,t708-b8FE-sl12,"Rock Island via East Wenatchee",0,2302,10955_shp,0,0
+23,18,t724-b8FE-sl12,"Columbia Station via East Wenatchee",1,2302,10953_shp,0,0
+23,19,t384-b571D-sl13,"Rock Island via East Wenatchee",0,22301,10956_shp,0,0
+23,19,t39F-b571D-sl13,"Columbia Station via East Wenatchee",1,22301,10954_shp,0,0
+23,19,t3E8-b571D-sl13,"Rock Island via East Wenatchee",0,22301,10956_shp,0,0
+23,19,t403-b571D-sl13,"Columbia Station via East Wenatchee",1,22301,10954_shp,0,0
+23,19,t44C-b571D-sl13,"Rock Island via East Wenatchee",0,22301,10956_shp,0,0
+23,19,t467-b571D-sl13,"Columbia Station via East Wenatchee",1,22301,10954_shp,0,0
+23,19,t4B0-b571D-sl13,"Rock Island via East Wenatchee",0,22301,10956_shp,0,0
+23,19,t4CB-b571D-sl13,"Columbia Station via East Wenatchee",1,22301,10954_shp,0,0
+23,19,t514-b571D-sl13,"Rock Island via East Wenatchee",0,22301,10956_shp,0,0
+23,19,t52F-b571D-sl13,"Columbia Station via East Wenatchee",1,22301,10954_shp,0,0
+23,19,t578-b571D-sl13,"Rock Island via East Wenatchee",0,22301,10956_shp,0,0
+23,19,t593-b571D-sl13,"Columbia Station via East Wenatchee",1,22301,10954_shp,0,0
+23,19,t5DC-b571D-sl13,"Rock Island via East Wenatchee",0,22301,10956_shp,0,0
+23,19,t5F7-b571D-sl13,"Columbia Station via East Wenatchee",1,22301,10954_shp,0,0
+23,19,t640-b571D-sl13,"Rock Island via East Wenatchee",0,22301,10956_shp,0,0
+23,19,t65B-b571D-sl13,"Columbia Station via East Wenatchee",1,22301,10954_shp,0,0
+23,20,t384-b7E2D-sl14,"Rock Island via East Wenatchee",0,32301,10952_shp,0,0
+23,20,t39F-b7E2D-sl14,"Columbia Station via East Wenatchee",1,32301,10951_shp,0,0
+23,20,t3E8-b7E2D-sl14,"Rock Island via East Wenatchee",0,32301,10952_shp,0,0
+23,20,t403-b7E2D-sl14,"Columbia Station via East Wenatchee",1,32301,10951_shp,0,0
+23,20,t44C-b7E2D-sl14,"Rock Island via East Wenatchee",0,32301,10952_shp,0,0
+23,20,t467-b7E2D-sl14,"Columbia Station via East Wenatchee",1,32301,10951_shp,0,0
+23,20,t4B0-b7E2D-sl14,"Rock Island via East Wenatchee",0,32301,10952_shp,0,0
+23,20,t4CB-b7E2D-sl14,"Columbia Station via East Wenatchee",1,32301,10951_shp,0,0
+23,20,t514-b7E2D-sl14,"Rock Island via East Wenatchee",0,32301,10952_shp,0,0
+23,20,t52F-b7E2D-sl14,"Columbia Station via East Wenatchee",1,32301,10951_shp,0,0
+23,20,t578-b7E2D-sl14,"Rock Island via East Wenatchee",0,32301,10952_shp,0,0
+23,20,t593-b7E2D-sl14,"Columbia Station via East Wenatchee",1,32301,10951_shp,0,0
+23,20,t5DC-b7E2D-sl14,"Rock Island via East Wenatchee",0,32301,10952_shp,0,0
+23,20,t5F7-b7E2D-sl14,"Columbia Station via East Wenatchee",1,32301,10951_shp,0,0
+23,20,t640-b7E2D-sl14,"Rock Island via East Wenatchee",0,32301,10952_shp,0,0
+23,20,t65B-b7E2D-sl14,"Columbia Station via East Wenatchee",1,32301,10951_shp,0,0
+23,40,t384-b1411B-sl28,"Rock Island via East Wenatchee",0,82203,10939_shp,0,0
+23,40,t39F-b1411B-sl28,"Columbia Station via East Wenatchee",1,82203,10911_shp,0,0
+23,40,t3E8-b1411B-sl28,"Rock Island via East Wenatchee",0,82203,10939_shp,0,0
+23,40,t403-b1411B-sl28,"Columbia Station via East Wenatchee",1,82203,10911_shp,0,0
+23,40,t44C-b1411B-sl28,"Rock Island via East Wenatchee",0,82203,10939_shp,0,0
+23,40,t467-b1411B-sl28,"Columbia Station via East Wenatchee",1,82203,10911_shp,0,0
+23,40,t4B0-b1411B-sl28,"Rock Island via East Wenatchee",0,82203,10939_shp,0,0
+23,40,t4CB-b1411B-sl28,"Columbia Station via East Wenatchee",1,82203,10911_shp,0,0
+23,40,t514-b1411B-sl28,"Rock Island via East Wenatchee",0,82203,10939_shp,0,0
+23,40,t52F-b1411B-sl28,"Columbia Station via East Wenatchee",1,82203,10911_shp,0,0
+23,40,t578-b1411B-sl28,"Rock Island via East Wenatchee",0,82203,10939_shp,0,0
+23,40,t593-b1411B-sl28,"Columbia Station via East Wenatchee",1,82203,10911_shp,0,0
+23,40,t5DC-b1411B-sl28,"Rock Island via East Wenatchee",0,82203,10939_shp,0,0
+23,40,t5F7-b1411B-sl28,"Columbia Station via East Wenatchee",1,82203,10911_shp,0,0
+23,40,t640-b1411B-sl28,"Rock Island via East Wenatchee",0,82203,10939_shp,0,0
+23,40,t65B-b1411B-sl28,"Columbia Station via East Wenatchee",1,82203,10911_shp,0,0
+23,43,t384-bF35D-sl2B,"Rock Island via East Wenatchee",0,62301,10959_shp,0,0
+23,43,t39F-bF35D-sl2B,"Columbia Station via East Wenatchee",1,62301,10957_shp,0,0
+23,43,t3E8-bF35D-sl2B,"Rock Island via East Wenatchee",0,62301,10959_shp,0,0
+23,43,t403-bF35D-sl2B,"Columbia Station via East Wenatchee",1,62301,10957_shp,0,0
+23,43,t44C-bF35D-sl2B,"Rock Island via East Wenatchee",0,62301,10959_shp,0,0
+23,43,t467-bF35D-sl2B,"Columbia Station via East Wenatchee",1,62301,10957_shp,0,0
+23,43,t4B0-bF35D-sl2B,"Rock Island via East Wenatchee",0,62301,10959_shp,0,0
+23,43,t4CB-bF35D-sl2B,"Columbia Station via East Wenatchee",1,62301,10957_shp,0,0
+23,43,t514-bF35D-sl2B,"Rock Island via East Wenatchee",0,62301,10959_shp,0,0
+23,43,t52F-bF35D-sl2B,"Columbia Station via East Wenatchee",1,62301,10957_shp,0,0
+23,43,t578-bF35D-sl2B,"Rock Island via East Wenatchee",0,62301,10959_shp,0,0
+23,43,t593-bF35D-sl2B,"Columbia Station via East Wenatchee",1,62301,10957_shp,0,0
+23,43,t5DC-bF35D-sl2B,"Rock Island via East Wenatchee",0,62301,10959_shp,0,0
+23,43,t5F7-bF35D-sl2B,"Columbia Station via East Wenatchee",1,62301,10957_shp,0,0
+23,43,t640-bF35D-sl2B,"Rock Island via East Wenatchee",0,62301,10959_shp,0,0
+23,43,t65B-bF35D-sl2B,"Columbia Station via East Wenatchee",1,62301,10957_shp,0,0
+24,18,t276-b961-sl12,"Malaga via Hospital",0,2401,11634_shp,0,0
+24,18,t28A-b961-sl12,"Columbia Station via Hospital",1,2401,11633_shp,0,0
+24,18,t2DA-b961-sl12,"Malaga via Hospital",0,2401,11634_shp,0,0
+24,18,t2EE-b961-sl12,"Columbia Station via Hospital",1,2401,11683_shp,0,0
+24,18,t44C-b8FE-sl12,"Malaga via Hospital",0,2302,11634_shp,0,0
+24,18,t460-b8FE-sl12,"Columbia Station via Hospital",1,2302,11633_shp,0,0
+24,18,t514-b8FE-sl12,"Malaga via Hospital",0,2302,11634_shp,0,0
+24,18,t528-b8FE-sl12,"Columbia Station via Hospital",1,2302,11633_shp,0,0
+24,18,t5FA-b962-sl12,"Malaga via Hospital",0,2402,11634_shp,0,0
+24,18,t60E-b962-sl12,"Columbia Station via Hospital",1,2402,11633_shp,0,0
+24,18,t65E-b962-sl12,"Malaga via Hospital",0,2402,11634_shp,0,0
+24,18,t672-b962-sl12,"Columbia Station via Hospital",1,2402,11633_shp,0,0
+24,18,t6C2-b962-sl12,"Malaga via Hospital",0,2402,11634_shp,0,0
+24,18,t6D6-b962-sl12,"Columbia Station via Hospital",1,2402,11633_shp,0,0
+24,18,t726-b962-sl12,"Malaga via Hospital",0,2402,11634_shp,0,0
+24,18,t73A-b962-sl12,"Columbia Station via Hospital",1,2402,11633_shp,0,0
+24,19,t406-b57E5-sl13,"Malaga via Hospital",0,22501,11632_shp,0,0
+24,19,t419-b57E5-sl13,"Columbia Station via Hospital",1,22501,11631_shp,0,0
+24,19,t532-b57E5-sl13,"Malaga via Hospital",0,22501,11632_shp,0,0
+24,19,t545-b57E5-sl13,"Columbia Station via Hospital",1,22501,11631_shp,0,0
+24,19,t6A4-b5323-sl13,"Malaga via Hospital",0,21283,11632_shp,0,0
+24,19,t6B7-b5323-sl13,"Columbia Station via Hospital",1,21283,11631_shp,0,0
+24,20,t406-b7EF5-sl14,"Malaga via Hospital",0,32501,11630_shp,0,0
+24,20,t419-b7EF5-sl14,"Columbia Station via Hospital",1,32501,11629_shp,0,0
+24,20,t532-b7EF5-sl14,"Malaga via Hospital",0,32501,11630_shp,0,0
+24,20,t545-b7EF5-sl14,"Columbia Station via Hospital",1,32501,11629_shp,0,0
+24,20,t6A4-b77F8-sl14,"Malaga via Hospital",0,30712,11630_shp,0,0
+24,20,t6B7-b77F8-sl14,"Columbia Station via Hospital",1,30712,11629_shp,0,0
+24,40,t406-b1411C-sl28,"Malaga via Hospital",0,82204,11362_shp,0,0
+24,40,t419-b1411C-sl28,"Columbia Station via Hospital",1,82204,11347_shp,0,0
+24,40,t532-b1411C-sl28,"Malaga via Hospital",0,82204,11362_shp,0,0
+24,40,t545-b1411C-sl28,"Columbia Station via Hospital",1,82204,11347_shp,0,0
+24,40,t6A4-b14126-sl28,"Malaga via Hospital",0,82214,11362_shp,0,0
+24,40,t6B7-b14126-sl28,"Columbia Station via Hospital",1,82214,11347_shp,0,0
+24,43,t406-bF425-sl2B,"Malaga via Hospital",0,62501,11480_shp,0,0
+24,43,t419-bF425-sl2B,"Columbia Station via Hospital",1,62501,11447_shp,0,0
+24,43,t532-bF425-sl2B,"Malaga via Hospital",0,62501,11480_shp,0,0
+24,43,t545-bF425-sl2B,"Columbia Station via Hospital",1,62501,11447_shp,0,0
+24,43,t6A4-bEF63-sl2B,"Malaga via Hospital",0,61283,11480_shp,0,0
+24,43,t6B7-bEF63-sl2B,"Columbia Station via Hospital",1,61283,11447_shp,0,0
+25,18,t212-b9C5-sl12,"Waterville via East Wenatchee/Orondo",0,2501,10499_shp,0,0
+25,18,t271-b9C5-sl12,"Wenatchee via Orondo/East Wenatchee",1,2501,10864_shp,0,0
+25,18,t2DA-b9C5-sl12,"Waterville via East Wenatchee/Orondo",0,2501,10499_shp,0,0
+25,18,t339-b9C5-sl12,"Wenatchee via Orondo/East Wenatchee",1,2501,10864_shp,0,0
+25,18,t3A2-b9C5-sl12,"Waterville via East Wenatchee/Orondo",0,2501,10499_shp,0,0
+25,18,t401-b9C5-sl12,"Wenatchee via Orondo/East Wenatchee",1,2501,10864_shp,0,0
+25,18,t46A-b9C5-sl12,"Waterville via East Wenatchee/Orondo",0,2501,10499_shp,0,0
+25,18,t4C9-b9C5-sl12,"Wenatchee via Orondo/East Wenatchee",1,2501,10864_shp,0,0
+25,18,t532-b9C6-sl12,"Waterville via East Wenatchee/Orondo",0,2502,10499_shp,0,0
+25,18,t591-b9C6-sl12,"Wenatchee via Orondo/East Wenatchee",1,2502,10864_shp,0,0
+25,18,t5FA-b9C6-sl12,"Waterville via East Wenatchee/Orondo",0,2502,10499_shp,0,0
+25,18,t659-b9C6-sl12,"Wenatchee via Orondo/East Wenatchee",1,2502,10864_shp,0,0
+25,18,t6C2-b9C6-sl12,"Waterville via East Wenatchee/Orondo",0,2502,10499_shp,0,0
+25,18,t721-b9C6-sl12,"Wenatchee via Orondo/East Wenatchee",1,2502,10864_shp,0,0
+25,19,t33E-b57E5-sl13,"Waterville via East Wenatchee/Orondo",0,22501,10500_shp,0,0
+25,19,t39D-b57E5-sl13,"Wenatchee via Orondo/East Wenatchee",1,22501,10865_shp,0,0
+25,19,t46A-b57E5-sl13,"Waterville via East Wenatchee/Orondo",0,22501,10500_shp,0,0
+25,19,t4C9-b57E5-sl13,"Wenatchee via Orondo/East Wenatchee",1,22501,10865_shp,0,0
+25,19,t596-b57E5-sl13,"Waterville via East Wenatchee/Orondo",0,22501,10500_shp,0,0
+25,19,t5F5-b57E5-sl13,"Wenatchee via Orondo/East Wenatchee",1,22501,10865_shp,0,0
+25,19,t65E-b57E5-sl13,"Waterville via East Wenatchee/Orondo",0,22501,10500_shp,0,0
+25,19,t6BD-b57E5-sl13,"Wenatchee via Orondo/East Wenatchee",1,22501,10865_shp,0,0
+25,20,t33E-b7EF5-sl14,"Waterville via East Wenatchee/Orondo",0,32501,10863_shp,0,0
+25,20,t39D-b7EF5-sl14,"Wenatchee via Orondo/East Wenatchee",1,32501,10862_shp,0,0
+25,20,t46A-b7EF5-sl14,"Waterville via East Wenatchee/Orondo",0,32501,10863_shp,0,0
+25,20,t4C9-b7EF5-sl14,"Wenatchee via Orondo/East Wenatchee",1,32501,10862_shp,0,0
+25,20,t596-b7EF5-sl14,"Waterville via East Wenatchee/Orondo",0,32501,10863_shp,0,0
+25,20,t5F5-b7EF5-sl14,"Wenatchee via Orondo/East Wenatchee",1,32501,10862_shp,0,0
+25,20,t65E-b7EF5-sl14,"Waterville via East Wenatchee/Orondo",0,32501,10863_shp,0,0
+25,20,t6BD-b7EF5-sl14,"Wenatchee via Orondo/East Wenatchee",1,32501,10862_shp,0,0
+25,40,t33E-b1411C-sl28,"Waterville via East Wenatchee/Orondo",0,82204,10946_shp,0,0
+25,40,t39D-b1411C-sl28,"Wenatchee via Orondo/East Wenatchee",1,82204,10920_shp,0,0
+25,40,t46A-b1411C-sl28,"Waterville via East Wenatchee/Orondo",0,82204,10946_shp,0,0
+25,40,t4C9-b1411C-sl28,"Wenatchee via Orondo/East Wenatchee",1,82204,10920_shp,0,0
+25,40,t596-b1411C-sl28,"Waterville via East Wenatchee/Orondo",0,82204,10946_shp,0,0
+25,40,t5F5-b1411C-sl28,"Wenatchee via Orondo/East Wenatchee",1,82204,10920_shp,0,0
+25,40,t65E-b1411C-sl28,"Waterville via East Wenatchee/Orondo",0,82204,10946_shp,0,0
+25,40,t6BD-b1411C-sl28,"Wenatchee via Orondo/East Wenatchee",1,82204,10920_shp,0,0
+25,43,t33E-bF425-sl2B,"Waterville via East Wenatchee/Orondo",0,62501,10512_shp,0,0
+25,43,t39D-bF425-sl2B,"Wenatchee via Orondo/East Wenatchee",1,62501,10508_shp,0,0
+25,43,t46A-bF425-sl2B,"Waterville via East Wenatchee/Orondo",0,62501,10512_shp,0,0
+25,43,t4C9-bF425-sl2B,"Wenatchee via Orondo/East Wenatchee",1,62501,10508_shp,0,0
+25,43,t596-bF425-sl2B,"Waterville via East Wenatchee/Orondo",0,62501,10512_shp,0,0
+25,43,t5F5-bF425-sl2B,"Wenatchee via Orondo/East Wenatchee",1,62501,10508_shp,0,0
+25,43,t65E-bF425-sl2B,"Waterville via East Wenatchee/Orondo",0,62501,10512_shp,0,0
+25,43,t6BD-bF425-sl2B,"Wenatchee via Orondo/East Wenatchee",1,62501,10508_shp,0,0
+28,18,t271-bAF1-sl12,"Cashmere via Olds Station and Easy Stree",0,2801,11659_shp,0,0
+28,18,t293-bAF1-sl12,"Wenatchee via Olds Station & Easy Street",1,2801,11657_shp,0,0
+28,18,t2EE-bAF1-sl12,"Cashmere via Olds Station and Easy Stree",0,2801,11659_shp,0,0
+28,18,t338-bAF1-sl12,"Wenatchee via Olds Station & Easy Street",1,2801,11657_shp,0,0
+28,18,t393-bAF1-sl12,"Cashmere via Olds Station and Easy Stree",0,2801,11659_shp,0,0
+28,18,t3B5-bAF1-sl12,"Wenatchee via Olds Station & Easy Street",1,2801,11657_shp,0,0
+28,18,t410-bAF1-sl12,"Cashmere via Olds Station and Easy Stree",0,2801,11659_shp,0,0
+28,18,t45A-bAF1-sl12,"Wenatchee via Olds Station & Easy Street",1,2801,11657_shp,0,0
+28,18,t4DD-bAF2-sl12,"Cashmere via Olds Station and Easy Stree",0,2802,11659_shp,0,0
+28,18,t528-bAF2-sl12,"Wenatchee via Olds Station & Easy Street",1,2802,11657_shp,0,0
+28,18,t582-bAF2-sl12,"Cashmere via Olds Station and Easy Stree",0,2802,11659_shp,0,0
+28,18,t5A5-bAF2-sl12,"Wenatchee via Olds Station & Easy Street",1,2802,11657_shp,0,0
+28,18,t5FF-bAF2-sl12,"Cashmere via Olds Station and Easy Stree",0,2802,11659_shp,0,0
+28,18,t64C-bAF2-sl12,"Wenatchee via Olds Station & Easy Street",1,2802,11657_shp,0,0
+28,18,t6B3-bAF2-sl12,"Cashmere via Olds Station and Easy Stree",0,2802,11659_shp,0,0
+28,18,t6D7-bAF2-sl12,"Wenatchee via Olds Station & Easy Street",1,2802,11657_shp,0,0
+28,18,t72B-bAF2-sl12,"Cashmere via Olds Station and Easy Stree",0,2802,11659_shp,0,0
+28,18,t775-bAF2-sl12,"Wenatchee via Olds Station & Easy Street",1,2802,11657_shp,0,0
+28,19,t271-b5911-sl13,"Cashmere via Olds Station and Easy Stree",0,22801,11660_shp,0,0
+28,19,t293-b5911-sl13,"Wenatchee via Olds Station & Easy Street",1,22801,11658_shp,0,0
+28,19,t2EE-b5911-sl13,"Cashmere via Olds Station and Easy Stree",0,22801,11660_shp,0,0
+28,19,t338-b5911-sl13,"Wenatchee via Olds Station & Easy Street",1,22801,11658_shp,0,0
+28,19,t393-b5911-sl13,"Cashmere via Olds Station and Easy Stree",0,22801,11660_shp,0,0
+28,19,t3B5-b5911-sl13,"Wenatchee via Olds Station & Easy Street",1,22801,11658_shp,0,0
+28,19,t410-b5911-sl13,"Cashmere via Olds Station and Easy Stree",0,22801,11660_shp,0,0
+28,19,t45B-b5911-sl13,"Wenatchee via Olds Station & Easy Street",1,22801,11658_shp,0,0
+28,19,t4DD-b5911-sl13,"Cashmere via Olds Station and Easy Stree",0,22801,11660_shp,0,0
+28,19,t528-b5911-sl13,"Wenatchee via Olds Station & Easy Street",1,22801,11658_shp,0,0
+28,19,t582-b5911-sl13,"Cashmere via Olds Station and Easy Stree",0,22801,11660_shp,0,0
+28,19,t5A5-b5911-sl13,"Wenatchee via Olds Station & Easy Street",1,22801,11658_shp,0,0
+28,19,t5FF-b5911-sl13,"Cashmere via Olds Station and Easy Stree",0,22801,11660_shp,0,0
+28,19,t64A-b5911-sl13,"Wenatchee via Olds Station & Easy Street",1,22801,11658_shp,0,0
+28,20,t393-b8021-sl14,"Cashmere via Olds Station and Easy Stree",0,32801,11695_shp,0,0
+28,20,t3B5-b8021-sl14,"Wenatchee via Olds Station & Easy Street",1,32801,11691_shp,0,0
+28,20,t410-b8021-sl14,"Cashmere via Olds Station and Easy Stree",0,32801,11695_shp,0,0
+28,20,t45B-b8021-sl14,"Wenatchee via Olds Station & Easy Street",1,32801,11691_shp,0,0
+28,20,t4DD-b8021-sl14,"Cashmere via Olds Station and Easy Stree",0,32801,11695_shp,0,0
+28,20,t528-b8021-sl14,"Wenatchee via Olds Station & Easy Street",1,32801,11691_shp,0,0
+28,20,t582-b8021-sl14,"Cashmere via Olds Station and Easy Stree",0,32801,11695_shp,0,0
+28,20,t5A5-b8021-sl14,"Wenatchee via Olds Station & Easy Street",1,32801,11691_shp,0,0
+28,20,t5FF-b8021-sl14,"Cashmere via Olds Station and Easy Stree",0,32801,11695_shp,0,0
+28,20,t64A-b8021-sl14,"Wenatchee via Olds Station & Easy Street",1,32801,11691_shp,0,0
+28,40,t393-b1411D-sl28,"Cashmere via Olds Station and Easy Stree",0,82205,11358_shp,0,0
+28,40,t3B5-b1411D-sl28,"Wenatchee via Olds Station & Easy Street",1,82205,11354_shp,0,0
+28,40,t410-b1411D-sl28,"Cashmere via Olds Station and Easy Stree",0,82205,11358_shp,0,0
+28,40,t45B-b1411D-sl28,"Wenatchee via Olds Station & Easy Street",1,82205,11354_shp,0,0
+28,40,t4DD-b1411D-sl28,"Cashmere via Olds Station and Easy Stree",0,82205,11358_shp,0,0
+28,40,t528-b1411D-sl28,"Wenatchee via Olds Station & Easy Street",1,82205,11354_shp,0,0
+28,40,t582-b1411D-sl28,"Cashmere via Olds Station and Easy Stree",0,82205,11358_shp,0,0
+28,40,t5A5-b1411D-sl28,"Wenatchee via Olds Station & Easy Street",1,82205,11354_shp,0,0
+28,40,t5FF-b1411D-sl28,"Cashmere via Olds Station and Easy Stree",0,82205,11358_shp,0,0
+28,40,t64A-b1411D-sl28,"Wenatchee via Olds Station & Easy Street",1,82205,11354_shp,0,0
+28,43,t271-bF551-sl2B,"Cashmere via Olds Station and Easy Stree",0,62801,11477_shp,0,0
+28,43,t293-bF551-sl2B,"Wenatchee via Olds Station & Easy Street",1,62801,11453_shp,0,0
+28,43,t2EE-bF551-sl2B,"Cashmere via Olds Station and Easy Stree",0,62801,11477_shp,0,0
+28,43,t338-bF551-sl2B,"Wenatchee via Olds Station & Easy Street",1,62801,11453_shp,0,0
+28,43,t393-bF551-sl2B,"Cashmere via Olds Station and Easy Stree",0,62801,11477_shp,0,0
+28,43,t3B5-bF551-sl2B,"Wenatchee via Olds Station & Easy Street",1,62801,11453_shp,0,0
+28,43,t410-bF551-sl2B,"Cashmere via Olds Station and Easy Stree",0,62801,11477_shp,0,0
+28,43,t45B-bF551-sl2B,"Wenatchee via Olds Station & Easy Street",1,62801,11453_shp,0,0
+28,43,t4DD-bF551-sl2B,"Cashmere via Olds Station and Easy Stree",0,62801,11477_shp,0,0
+28,43,t528-bF551-sl2B,"Wenatchee via Olds Station & Easy Street",1,62801,11453_shp,0,0
+28,43,t582-bF551-sl2B,"Cashmere via Olds Station and Easy Stree",0,62801,11477_shp,0,0
+28,43,t5A5-bF551-sl2B,"Wenatchee via Olds Station & Easy Street",1,62801,11453_shp,0,0
+28,43,t5FF-bF551-sl2B,"Cashmere via Olds Station and Easy Stree",0,62801,11477_shp,0,0
+28,43,t64A-bF551-sl2B,"Wenatchee via Olds Station & Easy Street",1,62801,11453_shp,0,0
+32,18,t44C-bCA0-sl12,"Leavenworth Local",0,3232,11511_shp,0,0
+32,18,t452-bCA0-sl12,"Leavenworth Local",1,3232,11507_shp,0,0
+32,18,t46A-bCA0-sl12,"Leavenworth Local",0,3232,11511_shp,0,0
+32,18,t470-bCA0-sl12,"Leavenworth Local",1,3232,11507_shp,0,0
+32,18,t4B0-bCA0-sl12,"Leavenworth Local",0,3232,11511_shp,0,0
+32,18,t4B6-bCA0-sl12,"Leavenworth Local",1,3232,11507_shp,0,0
+32,18,t4CE-bCA0-sl12,"Leavenworth Local",0,3232,11511_shp,0,0
+32,18,t4D4-bCA0-sl12,"Leavenworth Local",1,3232,11507_shp,0,0
+32,18,t514-bCA0-sl12,"Leavenworth Local",0,3232,11511_shp,0,0
+32,18,t51A-bCA0-sl12,"Leavenworth Local",1,3232,11507_shp,0,0
+32,18,t532-bCA0-sl12,"Leavenworth Local",0,3232,11511_shp,0,0
+32,18,t538-bCA0-sl12,"Leavenworth Local",1,3232,11507_shp,0,0
+32,18,t578-bCA0-sl12,"Leavenworth Local",0,3232,11511_shp,0,0
+32,18,t57E-bCA0-sl12,"Leavenworth Local",1,3232,11507_shp,0,0
+32,18,t596-bCA0-sl12,"Leavenworth Local",0,3232,11511_shp,0,0
+32,18,t59C-bCA0-sl12,"Leavenworth Local",1,3232,11507_shp,0,0
+32,18,t5DC-bCA0-sl12,"Leavenworth Local",0,3232,11511_shp,0,0
+32,18,t5E2-bCA0-sl12,"Leavenworth Local",1,3232,11507_shp,0,0
+32,18,t5FA-bCA0-sl12,"Leavenworth Local",0,3232,11511_shp,0,0
+32,18,t600-bCA0-sl12,"Leavenworth Local",1,3232,11507_shp,0,0
+32,18,t640-bCA0-sl12,"Leavenworth Local",0,3232,11511_shp,0,0
+32,18,t646-bCA0-sl12,"Leavenworth Local",1,3232,11507_shp,0,0
+32,18,t65E-bCA0-sl12,"Leavenworth Local",0,3232,11511_shp,0,0
+32,18,t664-bCA0-sl12,"Leavenworth Local",1,3232,11507_shp,0,0
+32,18,t6A4-bCA0-sl12,"Leavenworth Local",0,3232,11511_shp,0,0
+32,18,t6AA-bCA0-sl12,"Leavenworth Local",1,3232,11507_shp,0,0
+32,18,t6C2-bCA0-sl12,"Leavenworth Local",0,3232,11511_shp,0,0
+32,18,t6C8-bCA0-sl12,"Leavenworth Local",1,3232,11507_shp,0,0
+32,18,t708-bCA0-sl12,"Leavenworth Local",0,3232,11511_shp,0,0
+32,18,t70E-bCA0-sl12,"Leavenworth Local",1,3232,11507_shp,0,0
+32,18,t726-bCA0-sl12,"Leavenworth Local",0,3232,11511_shp,0,0
+32,18,t72C-bCA0-sl12,"Leavenworth Local",1,3232,11507_shp,0,0
+32,19,t44C-b5AC0-sl13,"Leavenworth Local",0,23232,11513_shp,0,0
+32,19,t452-b5AC0-sl13,"Leavenworth Local",1,23232,11508_shp,0,0
+32,19,t46A-b5AC0-sl13,"Leavenworth Local",0,23232,11513_shp,0,0
+32,19,t470-b5AC0-sl13,"Leavenworth Local",1,23232,11508_shp,0,0
+32,19,t4B0-b5AC0-sl13,"Leavenworth Local",0,23232,11513_shp,0,0
+32,19,t4B6-b5AC0-sl13,"Leavenworth Local",1,23232,11508_shp,0,0
+32,19,t4CE-b5AC0-sl13,"Leavenworth Local",0,23232,11513_shp,0,0
+32,19,t4D4-b5AC0-sl13,"Leavenworth Local",1,23232,11508_shp,0,0
+32,19,t514-b5AC0-sl13,"Leavenworth Local",0,23232,11513_shp,0,0
+32,19,t51A-b5AC0-sl13,"Leavenworth Local",1,23232,11508_shp,0,0
+32,19,t532-b5AC0-sl13,"Leavenworth Local",0,23232,11513_shp,0,0
+32,19,t538-b5AC0-sl13,"Leavenworth Local",1,23232,11508_shp,0,0
+32,19,t578-b5AC0-sl13,"Leavenworth Local",0,23232,11513_shp,0,0
+32,19,t57E-b5AC0-sl13,"Leavenworth Local",1,23232,11508_shp,0,0
+32,19,t596-b5AC0-sl13,"Leavenworth Local",0,23232,11513_shp,0,0
+32,19,t59C-b5AC0-sl13,"Leavenworth Local",1,23232,11508_shp,0,0
+32,19,t5DC-b5AC0-sl13,"Leavenworth Local",0,23232,11513_shp,0,0
+32,19,t5E2-b5AC0-sl13,"Leavenworth Local",1,23232,11508_shp,0,0
+32,19,t5FA-b5AC0-sl13,"Leavenworth Local",0,23232,11513_shp,0,0
+32,19,t600-b5AC0-sl13,"Leavenworth Local",1,23232,11508_shp,0,0
+32,19,t640-b5AC0-sl13,"Leavenworth Local",0,23232,11513_shp,0,0
+32,19,t646-b5AC0-sl13,"Leavenworth Local",1,23232,11508_shp,0,0
+32,19,t65E-b5AC0-sl13,"Leavenworth Local",0,23232,11513_shp,0,0
+32,19,t664-b5AC0-sl13,"Leavenworth Local",1,23232,11508_shp,0,0
+32,19,t6A4-b5AC0-sl13,"Leavenworth Local",0,23232,11513_shp,0,0
+32,19,t6AA-b5AC0-sl13,"Leavenworth Local",1,23232,11508_shp,0,0
+32,19,t6C2-b5AC0-sl13,"Leavenworth Local",0,23232,11513_shp,0,0
+32,19,t6C8-b5AC0-sl13,"Leavenworth Local",1,23232,11508_shp,0,0
+32,19,t708-b5AC0-sl13,"Leavenworth Local",0,23232,11513_shp,0,0
+32,19,t70E-b5AC0-sl13,"Leavenworth Local",1,23232,11508_shp,0,0
+32,19,t726-b5AC0-sl13,"Leavenworth Local",0,23232,11513_shp,0,0
+32,19,t72C-b5AC0-sl13,"Leavenworth Local",1,23232,11508_shp,0,0
+32,20,t44C-b81D0-sl14,"Leavenworth Local",0,33232,11515_shp,0,0
+32,20,t452-b81D0-sl14,"Leavenworth Local",1,33232,11509_shp,0,0
+32,20,t46A-b81D0-sl14,"Leavenworth Local",0,33232,11515_shp,0,0
+32,20,t470-b81D0-sl14,"Leavenworth Local",1,33232,11509_shp,0,0
+32,20,t4B0-b81D0-sl14,"Leavenworth Local",0,33232,11515_shp,0,0
+32,20,t4B6-b81D0-sl14,"Leavenworth Local",1,33232,11509_shp,0,0
+32,20,t4CE-b81D0-sl14,"Leavenworth Local",0,33232,11515_shp,0,0
+32,20,t4D4-b81D0-sl14,"Leavenworth Local",1,33232,11509_shp,0,0
+32,20,t514-b81D0-sl14,"Leavenworth Local",0,33232,11515_shp,0,0
+32,20,t51A-b81D0-sl14,"Leavenworth Local",1,33232,11509_shp,0,0
+32,20,t532-b81D0-sl14,"Leavenworth Local",0,33232,11515_shp,0,0
+32,20,t538-b81D0-sl14,"Leavenworth Local",1,33232,11509_shp,0,0
+32,20,t578-b81D0-sl14,"Leavenworth Local",0,33232,11515_shp,0,0
+32,20,t57E-b81D0-sl14,"Leavenworth Local",1,33232,11509_shp,0,0
+32,20,t596-b81D0-sl14,"Leavenworth Local",0,33232,11515_shp,0,0
+32,20,t59C-b81D0-sl14,"Leavenworth Local",1,33232,11509_shp,0,0
+32,20,t5DC-b81D0-sl14,"Leavenworth Local",0,33232,11515_shp,0,0
+32,20,t5E2-b81D0-sl14,"Leavenworth Local",1,33232,11509_shp,0,0
+32,20,t5FA-b81D0-sl14,"Leavenworth Local",0,33232,11515_shp,0,0
+32,20,t600-b81D0-sl14,"Leavenworth Local",1,33232,11509_shp,0,0
+32,20,t640-b81D0-sl14,"Leavenworth Local",0,33232,11515_shp,0,0
+32,20,t646-b81D0-sl14,"Leavenworth Local",1,33232,11509_shp,0,0
+32,20,t65E-b81D0-sl14,"Leavenworth Local",0,33232,11515_shp,0,0
+32,20,t664-b81D0-sl14,"Leavenworth Local",1,33232,11509_shp,0,0
+32,20,t6A4-b81D0-sl14,"Leavenworth Local",0,33232,11515_shp,0,0
+32,20,t6AA-b81D0-sl14,"Leavenworth Local",1,33232,11509_shp,0,0
+32,20,t6C2-b81D0-sl14,"Leavenworth Local",0,33232,11515_shp,0,0
+32,20,t6C8-b81D0-sl14,"Leavenworth Local",1,33232,11509_shp,0,0
+32,20,t708-b81D0-sl14,"Leavenworth Local",0,33232,11515_shp,0,0
+32,20,t70E-b81D0-sl14,"Leavenworth Local",1,33232,11509_shp,0,0
+32,20,t726-b81D0-sl14,"Leavenworth Local",0,33232,11515_shp,0,0
+32,20,t72C-b81D0-sl14,"Leavenworth Local",1,33232,11509_shp,0,0
+32,40,t44C-b1411E-sl28,"Leavenworth Local",0,82206,11361_shp,0,0
+32,40,t454-b1411E-sl28,"Leavenworth Local",1,82206,11351_shp,0,0
+32,40,t46A-b1411E-sl28,"Leavenworth Local",0,82206,11361_shp,0,0
+32,40,t472-b1411E-sl28,"Leavenworth Local",1,82206,11351_shp,0,0
+32,40,t479-b1411F-sl28,"Leavenworth Local",0,82207,11361_shp,0,0
+32,40,t481-b1411F-sl28,"Leavenworth Local",1,82207,11351_shp,0,0
+32,40,t4B0-b1411E-sl28,"Leavenworth Local",0,82206,11361_shp,0,0
+32,40,t4B8-b1411E-sl28,"Leavenworth Local",1,82206,11351_shp,0,0
+32,40,t4BF-b1411F-sl28,"Leavenworth Local",0,82207,11361_shp,0,0
+32,40,t4C7-b1411F-sl28,"Leavenworth Local",1,82207,11351_shp,0,0
+32,40,t4CE-b1411E-sl28,"Leavenworth Local",0,82206,11361_shp,0,0
+32,40,t4D6-b1411E-sl28,"Leavenworth Local",1,82206,11351_shp,0,0
+32,40,t4DD-b1411F-sl28,"Leavenworth Local",0,82207,11361_shp,0,0
+32,40,t4E5-b1411F-sl28,"Leavenworth Local",1,82207,11351_shp,0,0
+32,40,t514-b1411E-sl28,"Leavenworth Local",0,82206,11361_shp,0,0
+32,40,t51C-b1411E-sl28,"Leavenworth Local",1,82206,11351_shp,0,0
+32,40,t523-b1411F-sl28,"Leavenworth Local",0,82207,11361_shp,0,0
+32,40,t52B-b1411F-sl28,"Leavenworth Local",1,82207,11351_shp,0,0
+32,40,t532-b1411E-sl28,"Leavenworth Local",0,82206,11361_shp,0,0
+32,40,t53A-b1411E-sl28,"Leavenworth Local",1,82206,11351_shp,0,0
+32,40,t541-b1411F-sl28,"Leavenworth Local",0,82207,11361_shp,0,0
+32,40,t549-b1411F-sl28,"Leavenworth Local",1,82207,11351_shp,0,0
+32,40,t578-b1411E-sl28,"Leavenworth Local",0,82206,11361_shp,0,0
+32,40,t580-b1411E-sl28,"Leavenworth Local",1,82206,11351_shp,0,0
+32,40,t587-b1411F-sl28,"Leavenworth Local",0,82207,11361_shp,0,0
+32,40,t58F-b1411F-sl28,"Leavenworth Local",1,82207,11351_shp,0,0
+32,40,t596-b1411E-sl28,"Leavenworth Local",0,82206,11361_shp,0,0
+32,40,t59E-b1411E-sl28,"Leavenworth Local",1,82206,11351_shp,0,0
+32,40,t5A5-b1411F-sl28,"Leavenworth Local",0,82207,11361_shp,0,0
+32,40,t5AD-b1411F-sl28,"Leavenworth Local",1,82207,11351_shp,0,0
+32,40,t5DC-b1411E-sl28,"Leavenworth Local",0,82206,11361_shp,0,0
+32,40,t5E4-b1411E-sl28,"Leavenworth Local",1,82206,11351_shp,0,0
+32,40,t5EB-b1411F-sl28,"Leavenworth Local",0,82207,11361_shp,0,0
+32,40,t5F3-b1411F-sl28,"Leavenworth Local",1,82207,11351_shp,0,0
+32,40,t5FA-b1411E-sl28,"Leavenworth Local",0,82206,11361_shp,0,0
+32,40,t602-b1411E-sl28,"Leavenworth Local",1,82206,11351_shp,0,0
+32,40,t609-b1411F-sl28,"Leavenworth Local",0,82207,11361_shp,0,0
+32,40,t611-b1411F-sl28,"Leavenworth Local",1,82207,11351_shp,0,0
+32,40,t640-b1411E-sl28,"Leavenworth Local",0,82206,11361_shp,0,0
+32,40,t648-b1411E-sl28,"Leavenworth Local",1,82206,11351_shp,0,0
+32,40,t64F-b1411F-sl28,"Leavenworth Local",0,82207,11361_shp,0,0
+32,40,t657-b1411F-sl28,"Leavenworth Local",1,82207,11351_shp,0,0
+32,40,t65E-b1411E-sl28,"Leavenworth Local",0,82206,11361_shp,0,0
+32,40,t666-b1411E-sl28,"Leavenworth Local",1,82206,11351_shp,0,0
+32,40,t66D-b1411F-sl28,"Leavenworth Local",0,82207,11361_shp,0,0
+32,40,t675-b1411F-sl28,"Leavenworth Local",1,82207,11351_shp,0,0
+32,40,t6A4-b1411E-sl28,"Leavenworth Local",0,82206,11361_shp,0,0
+32,40,t6AC-b1411E-sl28,"Leavenworth Local",1,82206,11351_shp,0,0
+32,40,t6B3-b1411F-sl28,"Leavenworth Local",0,82207,11361_shp,0,0
+32,40,t6BB-b1411F-sl28,"Leavenworth Local",1,82207,11351_shp,0,0
+32,40,t6C2-b1411E-sl28,"Leavenworth Local",0,82206,11361_shp,0,0
+32,40,t6CA-b1411E-sl28,"Leavenworth Local",1,82206,11351_shp,0,0
+32,40,t6D1-b1411F-sl28,"Leavenworth Local",0,82207,11361_shp,0,0
+32,40,t6D9-b1411F-sl28,"Leavenworth Local",1,82207,11351_shp,0,0
+32,40,t708-b1411E-sl28,"Leavenworth Local",0,82206,11361_shp,0,0
+32,40,t710-b1411E-sl28,"Leavenworth Local",1,82206,11351_shp,0,0
+32,40,t717-b1411F-sl28,"Leavenworth Local",0,82207,11361_shp,0,0
+32,40,t71F-b1411F-sl28,"Leavenworth Local",1,82207,11351_shp,0,0
+32,40,t726-b1411E-sl28,"Leavenworth Local",0,82206,11361_shp,0,0
+32,40,t72E-b1411E-sl28,"Leavenworth Local",1,82206,11351_shp,0,0
+32,40,t735-b1411F-sl28,"Leavenworth Local",0,82207,11361_shp,0,0
+32,40,t73D-b1411F-sl28,"Leavenworth Local",1,82207,11351_shp,0,0
+32,43,t44C-bF700-sl2B,"Leavenworth Local",0,63232,11479_shp,0,0
+32,43,t454-bF700-sl2B,"Leavenworth Local",1,63232,11451_shp,0,0
+32,43,t46A-bF700-sl2B,"Leavenworth Local",0,63232,11479_shp,0,0
+32,43,t472-bF700-sl2B,"Leavenworth Local",1,63232,11451_shp,0,0
+32,43,t479-bF701-sl2B,"Leavenworth Local",0,63233,11479_shp,0,0
+32,43,t481-bF701-sl2B,"Leavenworth Local",1,63233,11451_shp,0,0
+32,43,t4B0-bF700-sl2B,"Leavenworth Local",0,63232,11479_shp,0,0
+32,43,t4B8-bF700-sl2B,"Leavenworth Local",1,63232,11451_shp,0,0
+32,43,t4BF-bF701-sl2B,"Leavenworth Local",0,63233,11479_shp,0,0
+32,43,t4C7-bF701-sl2B,"Leavenworth Local",1,63233,11451_shp,0,0
+32,43,t4CE-bF700-sl2B,"Leavenworth Local",0,63232,11479_shp,0,0
+32,43,t4D6-bF700-sl2B,"Leavenworth Local",1,63232,11451_shp,0,0
+32,43,t4DD-bF701-sl2B,"Leavenworth Local",0,63233,11479_shp,0,0
+32,43,t4E5-bF701-sl2B,"Leavenworth Local",1,63233,11451_shp,0,0
+32,43,t514-bF700-sl2B,"Leavenworth Local",0,63232,11479_shp,0,0
+32,43,t51C-bF700-sl2B,"Leavenworth Local",1,63232,11451_shp,0,0
+32,43,t523-bF701-sl2B,"Leavenworth Local",0,63233,11479_shp,0,0
+32,43,t52B-bF701-sl2B,"Leavenworth Local",1,63233,11451_shp,0,0
+32,43,t532-bF700-sl2B,"Leavenworth Local",0,63232,11479_shp,0,0
+32,43,t53A-bF700-sl2B,"Leavenworth Local",1,63232,11451_shp,0,0
+32,43,t541-bF701-sl2B,"Leavenworth Local",0,63233,11479_shp,0,0
+32,43,t549-bF701-sl2B,"Leavenworth Local",1,63233,11451_shp,0,0
+32,43,t578-bF700-sl2B,"Leavenworth Local",0,63232,11479_shp,0,0
+32,43,t580-bF700-sl2B,"Leavenworth Local",1,63232,11451_shp,0,0
+32,43,t587-bF701-sl2B,"Leavenworth Local",0,63233,11479_shp,0,0
+32,43,t58F-bF701-sl2B,"Leavenworth Local",1,63233,11451_shp,0,0
+32,43,t596-bF700-sl2B,"Leavenworth Local",0,63232,11479_shp,0,0
+32,43,t59E-bF700-sl2B,"Leavenworth Local",1,63232,11451_shp,0,0
+32,43,t5A5-bF701-sl2B,"Leavenworth Local",0,63233,11479_shp,0,0
+32,43,t5AD-bF701-sl2B,"Leavenworth Local",1,63233,11451_shp,0,0
+32,43,t5DC-bF700-sl2B,"Leavenworth Local",0,63232,11479_shp,0,0
+32,43,t5E4-bF700-sl2B,"Leavenworth Local",1,63232,11451_shp,0,0
+32,43,t5EB-bF701-sl2B,"Leavenworth Local",0,63233,11479_shp,0,0
+32,43,t5F3-bF701-sl2B,"Leavenworth Local",1,63233,11451_shp,0,0
+32,43,t5FA-bF700-sl2B,"Leavenworth Local",0,63232,11479_shp,0,0
+32,43,t602-bF700-sl2B,"Leavenworth Local",1,63232,11451_shp,0,0
+32,43,t609-bF701-sl2B,"Leavenworth Local",0,63233,11479_shp,0,0
+32,43,t611-bF701-sl2B,"Leavenworth Local",1,63233,11451_shp,0,0
+32,43,t640-bF700-sl2B,"Leavenworth Local",0,63232,11479_shp,0,0
+32,43,t648-bF700-sl2B,"Leavenworth Local",1,63232,11451_shp,0,0
+32,43,t64F-bF701-sl2B,"Leavenworth Local",0,63233,11479_shp,0,0
+32,43,t657-bF701-sl2B,"Leavenworth Local",1,63233,11451_shp,0,0
+32,43,t65E-bF700-sl2B,"Leavenworth Local",0,63232,11479_shp,0,0
+32,43,t666-bF700-sl2B,"Leavenworth Local",1,63232,11451_shp,0,0
+32,43,t66D-bF701-sl2B,"Leavenworth Local",0,63233,11479_shp,0,0
+32,43,t675-bF701-sl2B,"Leavenworth Local",1,63233,11451_shp,0,0
+32,43,t6A4-bF700-sl2B,"Leavenworth Local",0,63232,11479_shp,0,0
+32,43,t6AC-bF700-sl2B,"Leavenworth Local",1,63232,11451_shp,0,0
+32,43,t6B3-bF701-sl2B,"Leavenworth Local",0,63233,11479_shp,0,0
+32,43,t6BB-bF701-sl2B,"Leavenworth Local",1,63233,11451_shp,0,0
+32,43,t6C2-bF700-sl2B,"Leavenworth Local",0,63232,11479_shp,0,0
+32,43,t6CA-bF700-sl2B,"Leavenworth Local",1,63232,11451_shp,0,0
+32,43,t6D1-bF701-sl2B,"Leavenworth Local",0,63233,11479_shp,0,0
+32,43,t6D9-bF701-sl2B,"Leavenworth Local",1,63233,11451_shp,0,0
+32,43,t708-bF700-sl2B,"Leavenworth Local",0,63232,11479_shp,0,0
+32,43,t710-bF700-sl2B,"Leavenworth Local",1,63232,11451_shp,0,0
+32,43,t717-bF701-sl2B,"Leavenworth Local",0,63233,11479_shp,0,0
+32,43,t71F-bF701-sl2B,"Leavenworth Local",1,63233,11451_shp,0,0
+32,43,t726-bF700-sl2B,"Leavenworth Local",0,63232,11479_shp,0,0
+32,43,t72E-bF700-sl2B,"Leavenworth Local",1,63232,11451_shp,0,0
+32,43,t735-bF701-sl2B,"Leavenworth Local",0,63233,11479_shp,0,0
+32,43,t73D-bF701-sl2B,"Leavenworth Local",1,63233,11451_shp,0,0
+122,18,t258-bECF-sl12,"Express to Wenatchee",1,3791,11617_shp,0,0
+122,18,t271-b8AD-sl12,"Express to Leavenworth",0,2221,11545_shp,0,0
+122,18,t2CB-b8AD-sl12,"Express to Wenatchee",1,2221,11544_shp,0,0
+122,18,t325-b8AD-sl12,"Express to Leavenworth",0,2221,11545_shp,0,0
+122,18,t357-b8AD-sl12,"Express to Wenatchee",1,2221,11544_shp,0,0
+122,18,t403-bCA0-sl12,"Express to Leavenworth",0,3232,11504_shp,0,0
+122,18,t53C-b8AE-sl12,"Express to Leavenworth",0,2222,11545_shp,0,0
+122,18,t596-b8AE-sl12,"Express to Wenatchee",1,2222,11544_shp,0,0
+122,18,t5F5-b8AE-sl12,"Express to Leavenworth",0,2222,11545_shp,0,0
+122,18,t64F-b8AE-sl12,"Express to Wenatchee",1,2222,11544_shp,0,0
+122,18,t6AE-b8AE-sl12,"Express to Leavenworth",0,2222,11545_shp,0,0
+122,18,t708-b8AE-sl12,"Express to Wenatchee",1,2222,11544_shp,0,0
+122,18,t792-b962-sl12,"Express to Leavenworth",0,2402,11618_shp,0,0

@@ -1,0 +1,11 @@
+﻿route_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+5-WHI,5,Upper Village/Benchlands Shuttle Free Service,3,8CC63F,FFFFFF
+6-WHI,6,Tapley's/Blueberry,3,F37421,FFFFFF
+7-WHI,7,Staff Housing,3,00AEEF,FFFFFF
+10-WHI,10,Valley Express,3,FCAF17,FFFFFF
+20-WHI,20,Cheakamus,3,00AA47,FFFFFF
+21-WHI,21,Spring Creek,3,8177B7,FFFFFF
+30-WHI,30,Emerald via Alpine,3,4F6F19,FFFFFF
+31-WHI,31,Alpine,3,77AF99,FFFFFF
+20X-WHI,20X,Cheakamus Express,3,ED1D8F,FFFFFF
+32-WHI,32,Emerald,3,E270AB,FFFFFF

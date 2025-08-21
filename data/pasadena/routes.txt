@@ -1,0 +1,13 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+"10",1,"10","Old Pasadena - PCC - Allen Station",3,C5003E,FFFFFF
+"20cc",1,"20cc","Counterclockwise Fair Oaks - Lake",3,002855,FFFFFF
+"20cw",1,"20cw","Clockwise Lake - Fair Oaks",3,002855,FFFFFF
+"31",1,"31","NW Pasadena - Foothill Blvd - SMV Station",3,215732,FFFFFF
+"32",1,"32","NW Pasadena - New York - SMV Station",3,009639,FFFFFF
+"33",1,"33","Highland Park - SMV Station",3,6B6F2A,FFFFFF
+"40",1,"40","Old Pasadena - SMV Station",3,DC4405,FFFFFF
+"51",1,"51","So. Raymond - Linda Vista - Art Center",3,005EB8,FFFFFF
+"51s",1,"51s","Route 51 Saturday & Sunday",3,005EB8,FFFFFF
+"52",1,"52","So. Raymond - Linda Vista - JPL",3,418FDE,FFFFFF
+"53",1,"53","Caltech - JPL",3,936DB7,FFFFFF
+"60",1,"60","PCC - SMV Station - Michillinda",3,C5299B,FFFFFF

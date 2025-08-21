@@ -1,0 +1,47 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+14398,,01,City Centre / Exhibition,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_1_2022_0.pdf,FF8000,000000
+14399,,02,Meadowgreen / City Centre,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_2_10_2022_0.pdf,FF8040,000000
+14400,,03,City Centre / Hudson Bay Park,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_3_2022.pdf,36B274,000000
+14401,,04,City Centre,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_4_2022_0.pdf,FF8000,000000
+14402,,05,City Centre / Confederation,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_5_2022.pdf,EE4F9C,000000
+14403,,06,Wilson Cres / City Centre,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_6_2022.pdf,8F9336,000000
+14404,,07,Dundonald / City Centre,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_7_2022.pdf,3FA89B,000000
+14405,,08,8th Street / City Centre,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_8_2022_0.pdf,FF8000,000000
+14406,,09,Riversdale / City Centre,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_9_2022.pdf,006480,000000
+14455,,10,Centre Mall / University,,3,,000080,000000
+14407,,11,Airport / City Centre,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_11_2022_0.pdf,8AB0DD,000000
+14408,,12,River Heights / City Centre,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_12_2022.pdf,42D160,000000
+14410,,14,North Industrial / City Centre,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_14_2022.pdf,9EC149,000000
+14411,,15,City Centre / Civic Op Centre,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_15_2020.pdf,FF8000,000000
+14412,,16,Eastview / City Centre,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_16_2023.pdf,FF8000,000000
+14413,,17,Stonebridge / Lawson,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_17_2022.pdf,FF8000,000000
+14414,,18,College Park / University,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_18_2022_0.pdf,FF8000,000000
+14415,,19,City Centre / Centre Mall,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_19_2022.pdf,E74634,000000
+14416,,22,City Centre / Confederation,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_22_2022.pdf,D1C85D,000000
+14417,,25,SaskTel  Centre,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_25_2022.pdf,ED0874,000000
+14418,,26,Forest Grove / University,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_26_2022.pdf,FF8000,000000
+14419,,27,Silverspring / University,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_27_2022.pdf,FF8000,000000
+14420,,29,Brighton / University,,3,,FF8000,000000
+14421,,30,Lawson Heights / City Centre,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_30_2021.pdf,FFCCCC,000000
+14422,,305,ABLITIES COUNCIL,,3,,FF0000,000000
+14426,,315,"Bedford, Feehan & Royal",,3,,FF8000,000000
+14427,,325,Oskayak & Nutana,,3,,FF8000,000000
+14431,,35,Silverwood / City Centre,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_35_2021.pdf,F48FA8,000000
+14433,,358,Bishop Murray,,3,,FF0000,000000
+14434,,43,Evergreen / City Centre,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_4_43_2022.pdf,FF8000,000000
+14435,,44,Willowgrove / City Centre,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_4_44_2022.pdf,FF8000,000000
+14436,,45,Arbor Creek / City Centre,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_4_45_2022.pdf,A47CC1,000000
+14437,,46,115th Street / City Centre,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_4_46_2022.pdf,FF8000,000000
+14438,,50,Lakeview / University,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_50_2021.pdf,FF8000,000000
+14440,,514,Sasktel Centre / North Ind,,3,,9EC149,000000
+14441,,543,Nelson Road / Evergreen,,3,,008080,000000
+14442,,55,Lakeridge / University,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_55_2021.pdf,FF8000,000000
+14444,,60,City Centre / Confederation,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_60_2020.pdf,359E30,000000
+14445,,61,Confederation / Blairmore,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_61_2020.pdf,FF8000,000000
+14446,,63,Confederation / Hampton Village,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_63_2022.pdf,FF8000,000000
+14447,,64,Confederation / McCormack,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_64_2020.pdf,FF8000,000000
+14448,,65,City Centre / Kensington,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_65_2020.pdf,FFFF80,000000
+14451,,83,Centre Mall / Stonebridge,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_8_83_2022_0.pdf,FF8000,000000
+14452,,84,Briarwood / Centre Mall,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_8_84_2022.pdf,FF8000,000000
+14453,,86,Rosewood / Centre Mall,,3,https://transit.saskatoon.ca/sites/default/files/documents/Routes/Individual_Routes/route_8_86_2022.pdf,FF8000,000000
+14454,,87,The Meadows / Centre Mall,,3,,FF8000,000000

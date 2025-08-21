@@ -1,0 +1,8 @@
+309-312,Gillig Low Floor 29',2005,Diesel,https://cptdb.ca/wiki/index.php/LINK_Transit_309-312
+338-349,Gillig BRT Plus 40',2019,Diesel,https://cptdb.ca/wiki/index.php/LINK_Transit_338-349
+510-524,Ford Champion E-450 LF Transport,2019,Gasoline,https://cptdb.ca/wiki/index.php/LINK_Transit_510-524
+813-822,BYD K9S,2020,Electric,https://cptdb.ca/wiki/index.php/LINK_Transit_813-822
+823-825,BYD K8M,2023,Electric,https://cptdb.ca/wiki/index.php/LINK_Transit_823-825
+860-861,BYD K7M,2019,Electric,https://cptdb.ca/wiki/index.php/LINK_Transit_860-861
+862-869,BYD K7M-ER,2023,Electric,https://cptdb.ca/wiki/index.php/LINK_Transit_862-869
+1601-1607,Ford Champion E-450 LF Transport,2019,Gasoline,https://cptdb.ca/wiki/index.php/LINK_Transit_1601-1607

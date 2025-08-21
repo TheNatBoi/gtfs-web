@@ -1,0 +1,7 @@
+2201-2226,Gillig Low Floor 35',2011,Diesel,https://cptdb.ca/wiki/index.php/Greater_Peoria_Mass_Transit_District_2201-2226
+2227-2240,Gillig Low Floor 35',2012,Diesel,https://cptdb.ca/wiki/index.php/Greater_Peoria_Mass_Transit_District_2227-2240
+2241-2246,Gillig Low Floor 35',2013,Diesel,https://cptdb.ca/wiki/index.php/Greater_Peoria_Mass_Transit_District_2241-2246
+2301-2302,New Flyer XDE40 Hybrid,2016,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/Greater_Peoria_Mass_Transit_District_2301-2302
+2303-2304,New Flyer XDE40 Hybrid,2017,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/Greater_Peoria_Mass_Transit_District_2303-2304
+2401-2403,Proterra ZX5 35',2021,Electric,https://cptdb.ca/wiki/index.php/Greater_Peoria_Mass_Transit_District_2401-2403
+2501-2510,Gillig Low Floor 35',2024,Diesel,https://cptdb.ca/wiki/index.php/Greater_Peoria_Mass_Transit_District_2501-2510

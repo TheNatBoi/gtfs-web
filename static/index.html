@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Live Bus Locations</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+    #map {
+      height: 100vh;
+      width: 100vw;
+      transition: width 0.2s;
+    }
+    #sidebar {
+      position: fixed;
+      top: 20px;
+      bottom: 20px;
+      right: 20px;
+      width: 320px;
+      background: #ffffff;
+      border: 2px solid rgba(0, 0, 0, 0.2);
+      border-radius: 12px;
+      box-shadow: 0 3px 14px rgba(0, 0, 0, 0.4);
+      overflow-y: auto;
+      padding: 18px;
+      z-index: 1001;
+      font-family: "Segoe UI", Roboto, sans-serif;
+      font-size: 16px;
+      line-height: 1.5;
+      color: #2c3e50;
+    }
+
+    #sidebar h2 {
+      margin-top: 0;
+      font-size: 1.25em;
+      margin-bottom: 0.75em;
+      color: #1a3c5a;
+    }
+
+    #sidebar strong {
+      display: inline-block;
+      min-width: 100px;
+      color: #0078A8;
+      font-weight: 600;
+    }
+
+    #sidebar a {
+      color: #0078A8;
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    #sidebar a:hover {
+      text-decoration: underline;
+    }
+    #sidebar.hide {
+      display: none;
+    }
+    #sidebar-content {
+      display: grid;
+      grid-template-columns: max-content 1fr;
+      column-gap: 12px;
+      row-gap: 8px;
+      align-items: start;
+      font-size: 16px;
+      line-height: 1.5;
+      color: #2c3e50;
+    }
+
+    #sidebar-content strong {
+      display: block;
+      color: #0078A8;
+      font-weight: 600;
+    }
+
+    body {
+      margin: 0;
+      padding-right: 0;
+      width: 100vw;
+      overflow-x: hidden;
+    }
+
+    @media (max-width: 800px) {
+      #map {
+        height: 60vh;
+        width: 100vw;
+      }
+    }
+
+    .region-label div {
+      background: white;
+      border: 2px solid #507ba1;
+      padding: 6px 10px;
+      border-radius: 6px;
+      font-size: 14px;
+      text-align: center;
+      color: #333;
+      box-shadow: 0 1px 5px rgba(0,0,0,0.2);
+    }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+  <div id="sidebar" class="hide">
+    <h2>Bus Details</h2>
+    <div id="sidebar-content"></div>
+  </div>
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script>
+  let CITY_DATA = {};
+  let selectedCity = null;
+  let latestBusData = {};
+  const REGION_ZOOM_THRESHOLD = 12;
+
+  const map = L.map('map', {preferCanvas: true});
+
+  const busLayer = L.layerGroup().addTo(map);
+  let regionLabels = [];
+  let markers = {};
+  let markerTargetPositions = {};
+  let markerAnimationStart = {};
+  const animationDuration = 1000;
+  let routeLine = null;
+  let currentRouteTripId = null;
+  let selectedBusId = null;
+  let selectedBusTripId = null;
+  let isPopupOpen = false;
+
+
+  async function loadCityData() {
+    try {
+      const res = await fetch('/api/cities');
+      CITY_DATA = await res.json();
+
+      for (const [city, info] of Object.entries(CITY_DATA)) {
+        info.boundsObj = L.latLngBounds(info.bounds);
+      }
+
+      const allBounds = Object.values(CITY_DATA)
+        .reduce((acc, c) => acc.extend(c.boundsObj), L.latLngBounds([]));
+
+      map.fitBounds(allBounds);
+
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+
+      showRegionLabels();
+
+      map.on('zoomend moveend', handleZoomChange);
+
+      map.on('moveend zoomend', () => {
+        visibleCities.forEach(city => updateBuses(city));
+      });
+
+      setInterval(() => {
+        visibleCities.forEach(city => fetchBusData(city));
+      }, 5000);
+
+      handleZoomChange();
+
+      animateMarkers();
+      setInterval(() => {
+        visibleCities.forEach(city => updateBuses(city));
+      }, 5000);
+    } catch (err) {
+      console.error('Failed to load city data:', err);
+    }
+  }
+
+
+  function showRegionLabels() {
+    regionLabels.forEach(label => map.removeLayer(label));
+    regionLabels = [];
+
+    for (const [city, info] of Object.entries(CITY_DATA)) {
+      const operator = info.operator || "Transit";
+      const center = info.center;
+
+      const label = L.marker(center, {
+        icon: L.divIcon({
+          className: 'region-label',
+          html: `<div><strong>${operator}</strong><br>${city.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase())}</div>`,
+          iconSize: [120, 50],
+          iconAnchor: [60, 25]
+        }),
+        interactive: false
+      }).addTo(map);
+
+      regionLabels.push(label);
+    }
+  }
+
+  function hideRegionLabels() {
+    regionLabels.forEach(label => map.removeLayer(label));
+    regionLabels = [];
+  }
+
+  function getBusIconForCity(cityName, bus) {
+    const operator = CITY_DATA[cityName]?.operator || "Default";
+
+    if (cityName === "austin") {
+      if (bus.vehicle_id[0] !== "M" &&((Number(bus.vehicle_id) >= 101 && Number(bus.vehicle_id) <= 106) ||(Number(bus.vehicle_id) >= 201 && Number(bus.vehicle_id) <= 204))) {
+        return L.icon({
+          iconUrl: `/static/icons/rail.png`,
+          iconSize: [32, 32],
+          iconAnchor: [16, 32],
+          popupAnchor: [0, -32]
+        });
+      }
+    } else if (cityName === "minneapolis" && (bus.route === "METRO Blue Line" || bus.route === "METRO Green Line")) {
+      return L.icon({
+        iconUrl: `/static/icons/rail.png`,
+        iconSize: [32, 32],
+        iconAnchor: [16, 32],
+        popupAnchor: [0, -32]
+      });
+    } else if (cityName === "washington" && (bus.route).length === 2 && !(["0","1","2","3","4","5","6","7","8","9"].includes(bus.route[0]))) {
+      return L.icon({
+        iconUrl: `/static/icons/rail.png`,
+        iconSize: [32, 32],
+        iconAnchor: [16, 32],
+        popupAnchor: [0, -32]
+      });
+    } else if (cityName === "vancouver") {
+      if ((Number(bus.vehicle_id) >= 19001 && Number(bus.vehicle_id) <= 19047) ||
+          (Number(bus.vehicle_id) >= 18001 && Number(bus.vehicle_id) <= 18063)) {
+        return L.icon({
+          iconUrl: `/static/icons/RapidBus.png`,
+          iconSize: [32, 32],
+          iconAnchor: [16, 32],
+          popupAnchor: [0, -32]
+        });
+      } else if (Number(bus.vehicle_id) >=9277 && Number(bus.vehicle_id) <= 9285) {
+        return L.icon({
+          iconUrl: `/static/icons/Orion Suburban.png`,
+          iconSize: [32, 32],
+          iconAnchor: [16, 32],
+          popupAnchor: [0, -32]
+        });
+      } else if ((Number(bus.vehicle_id) >= 18451 && Number(bus.vehicle_id) <= 18473) ||
+        bus.vehicle_id >= 19101) {
+        return L.icon({
+          iconUrl: `/static/icons/ExpressBus.png`,
+          iconSize: [32, 32],
+          iconAnchor: [16, 32],
+          popupAnchor: [0, -32]
+        });
+      }
+    } else if (cityName === "new_york") {
+      if ((Number(bus.vehicle_id) === 27) || (bus.vehicle_id == 47)) {
+        return L.icon({
+          iconUrl: `/static/icons/default.png`,
+          iconSize: [32, 32],
+          iconAnchor: [16, 32],
+          popupAnchor: [0, -32]
+        });
+      }
+    }
+    return L.icon({
+      iconUrl: `/static/icons/${operator}.png`,
+      iconSize: [32, 32],
+      iconAnchor: [16, 32],
+      popupAnchor: [0, -32]
+    });
+  }
+  function updateBuses(city) {
+    if (!city || !latestBusData[city]) return;
+
+    const data = latestBusData[city];
+    const noBusesMsg = document.getElementById("no-buses-msg");
+    const cityHasBuses = data.length > 0 && map.getZoom() >= 10;
+
+    noBusesMsg.style.display = cityHasBuses ? "none" : "block";
+
+    const bounds = map.getBounds().pad(0.5);
+    const activeKeys = new Set();
+
+    data.forEach(bus => {
+      if (!bounds.contains([bus.lat, bus.lon])) return;
+
+      const markerKey = city + "_" + bus.vehicle_id;
+      activeKeys.add(markerKey);
+      if (markerKey === selectedBusId && isPopupOpen) {
+        setSidebar(bus);
+      }
+      let marker = markers[markerKey];
+      const popupHtml =
+        `<strong>Route:</strong> ${bus.route || 'N/A'}<br>` +
+        `<strong>Next Stop:</strong> ${bus.next_stop || 'N/A'}<br>` +
+        `<strong>Terminus:</strong> ${bus.terminus_stop || 'N/A'}`;
+
+      if (marker) {
+        markerTargetPositions[markerKey] = [bus.lat, bus.lon];
+        markerAnimationStart[markerKey] = {
+          from: marker.getLatLng(),
+          to: L.latLng(bus.lat, bus.lon),
+          startTime: performance.now()
+        };
+        marker.setPopupContent(popupHtml);
+      } else {
+        marker = L.marker([bus.lat, bus.lon], {
+          icon: getBusIconForCity(city, bus)
+        }).bindPopup(popupHtml, { autoPan: false });
+
+        marker.city = city;
+        markerTargetPositions[markerKey] = [bus.lat, bus.lon];
+        markerAnimationStart[markerKey] = null;
+
+        marker.on('click', () => {
+          selectedCity = city;
+          isPopupOpen = true;
+          setSidebar(bus);
+          selectedBusId = city + "_" + bus.vehicle_id;
+          selectedBusTripId = bus.trip_id;
+
+          drawRouteLine(bus.trip_id);
+          marker.openPopup();
+        });
+
+        marker.on('popupclose', () => {
+          selectedBusId = null;
+          selectedBusTripId = null;
+          hideRouteLine();
+          setSidebar(null);
+        });
+
+        marker.on('popupopen', () => {
+          isPopupOpen = true;
+        });
+
+        marker.addTo(busLayer);
+        markers[markerKey] = marker;
+      }
+    });
+
+    Object.keys(markers).forEach(markerKey => {
+      const marker = markers[markerKey];
+      const isSelected = (markerKey === selectedBusId);
+
+      if (marker.city === city && !activeKeys.has(markerKey) && !isSelected) {
+        busLayer.removeLayer(marker);
+        delete markers[markerKey];
+        delete markerTargetPositions[markerKey];
+        delete markerAnimationStart[markerKey];
+      }
+    });
+  }
+
+  function animateMarkers() {
+    const now = performance.now();
+    Object.keys(markers).forEach(markerKey => {
+      const marker = markers[markerKey];
+      const target = markerTargetPositions[markerKey];
+      const anim = markerAnimationStart[markerKey];
+
+      if (target && anim && anim.from && anim.to) {
+        const t = Math.min((now - anim.startTime) / animationDuration, 1);
+        const lat = anim.from.lat + (anim.to.lat - anim.from.lat) * t;
+        const lng = anim.from.lng + (anim.to.lng - anim.from.lng) * t;
+        marker.setLatLng([lat, lng]);
+        if (t >= 1) markerAnimationStart[markerKey] = null;
+      }
+    });
+    requestAnimationFrame(animateMarkers);
+  }
+
+  function setSidebar(bus) {
+    const sidebar = document.getElementById('sidebar');
+    if (bus) {
+      sidebar.classList.remove('hide');
+      document.body.classList.add('sidebar-active');
+      document.getElementById('sidebar-content').innerHTML = `
+        <div><strong>Vehicle ID:</strong></div><div>${bus.vehicle_id}</div>
+          <div><strong>Model:</strong></div><div>${bus.model}</div>
+          <div><strong>Year:</strong></div><div>${bus.year}</div>
+          <div><strong>Fuel:</strong></div><div>${bus.fuel_type}</div>
+          <div><strong>Route:</strong></div><div>${bus.route || 'N/A'}</div>
+          <div><strong>Next Stop:</strong></div><div>${bus.next_stop || 'N/A'}</div>
+          <div><strong>Terminus:</strong></div><div>${bus.terminus_stop || 'N/A'}</div>
+          <div><strong>Last update:</strong></div><div id="timeUpdated">${bus.timestamp ? new Date(bus.timestamp * 1000).toLocaleTimeString() : "N/A"}</div>
+          ${bus.fleet_link ? `<div><strong></strong></div><div><a href="${bus.fleet_link}" target="_blank" rel="noopener">View on cptdb.ca<span class="external-link-icon"></span></a></div>` : ''}
+        `;
+      document.getElementById("timeUpdated").textContent = (new Date(bus.timestamp * 1000)).toLocaleTimeString();
+    } else {
+      sidebar.classList.add('hide');
+      document.body.classList.remove('sidebar-active');
+      document.getElementById('sidebar-content').innerHTML = "";
+    }
+  }
+
+  function hideRouteLine() {
+    if (routeLine) {
+      map.removeLayer(routeLine);
+      routeLine = null;
+    }
+    currentRouteTripId = null;
+  }
+
+  function drawRouteLine(trip_id) {
+    if (!selectedCity) {
+      console.warn("No selected city set, cannot draw route line.");
+      return;
+    }
+    if (trip_id === currentRouteTripId) return;
+
+    hideRouteLine();
+
+    fetch(`/api/${selectedCity}/route_shape/${trip_id}`)
+      .then(r => {
+        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+        return r.json();
+      })
+      .then(data => {
+        if (Array.isArray(data.shape) && data.shape.length > 1) {
+          const color = "#" + (data.route_color || "000000");
+          routeLine = L.polyline(data.shape, {
+            color,
+            weight: 5,
+            opacity: 0.7
+          }).addTo(map);
+
+          currentRouteTripId = trip_id;
+
+          Object.values(markers).forEach(m => {
+            if (m && typeof m.bringToFront === "function") {
+              m.bringToFront();
+            }
+          });
+        } else {
+          console.warn("No valid shape returned for trip:", trip_id);
+        }
+      })
+      .catch(err => {
+        console.error("Error fetching/drawing route line:", err);
+      });
+  }
+  let visibleCities = [];
+
+  function fetchBusData(city) {
+    fetch(`/api/${city}/vehicles`).then(r => r.json()).then(data => {
+      latestBusData[city] = data;
+      updateBuses(city);
+    }).catch(err => console.error("Failed to fetch bus data:", err));
+  }
+
+  function detectVisibleCities() {
+    const mapBounds = map.getBounds().pad(0.5);
+    const zoom = map.getZoom();
+    if (zoom < REGION_ZOOM_THRESHOLD) return [];
+
+    let detected = [];
+    for (const [city, info] of Object.entries(CITY_DATA)) {
+      const cityBounds = L.latLngBounds(info.bounds);
+      const overlap = getBoundsIntersectionArea(mapBounds, cityBounds);
+      if (overlap > 0) detected.push(city);
+    }
+    return detected;
+  }
+
+  function handleZoomChange() {
+    const zoom = map.getZoom();
+
+    if (zoom < REGION_ZOOM_THRESHOLD) {
+      if (map.hasLayer(busLayer)) map.removeLayer(busLayer);
+      hideRouteLine();
+      setSidebar(null);
+      showRegionLabels();
+      visibleCities = [];
+      return;
+    }
+
+    hideRegionLabels();
+
+    const newlyVisibleCities = detectVisibleCities();
+
+    visibleCities.forEach(city => {
+      if (!newlyVisibleCities.includes(city)) {
+        Object.keys(markers).forEach(markerKey => {
+          if (markers[markerKey].city === city) {
+            busLayer.removeLayer(markers[markerKey]);
+            delete markers[markerKey];
+            delete markerTargetPositions[markerKey];
+            delete markerAnimationStart[markerKey];
+          }
+        });
+      }
+    });
+
+    newlyVisibleCities.forEach(city => {
+      if (!visibleCities.includes(city)) {
+        fetchBusData(city);
+      }
+    });
+
+    visibleCities = newlyVisibleCities;
+
+    if (!map.hasLayer(busLayer)) map.addLayer(busLayer);
+  }
+
+  function getBoundsIntersectionArea(bounds1, bounds2) {
+    const sw1 = bounds1.getSouthWest();
+    const ne1 = bounds1.getNorthEast();
+    const sw2 = bounds2.getSouthWest();
+    const ne2 = bounds2.getNorthEast();
+
+    const latOverlap = Math.max(0, Math.min(ne1.lat, ne2.lat) - Math.max(sw1.lat, sw2.lat));
+    const lngOverlap = Math.max(0, Math.min(ne1.lng, ne2.lng) - Math.max(sw1.lng, sw2.lng));
+
+    return latOverlap * lngOverlap;
+  }
+
+
+  loadCityData();
+</script>
+
+  <div id="no-buses-msg" style="
+       position: fixed;
+       bottom: 20px;
+       left: 20px;
+       background: rgba(255,255,255,0.95);
+       border: 2px solid #ccc;
+       padding: 10px 16px;
+       border-radius: 6px;
+       font-size: 14px;
+       font-family: sans-serif;
+       color: #333;
+       box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+       display: none;
+       z-index: 1002;">
+       No buses currently in this region
+     </div>
+</body>
+</html>

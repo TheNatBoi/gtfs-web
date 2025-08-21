@@ -1,0 +1,8 @@
+2131-2134,Gillig Low Floor 35',2013,Diesel,https://cptdb.ca/wiki/index.php/Wichita_Transit_2131-2134
+2801-2810,Gillig Low Floor 35',2014,Diesel,https://cptdb.ca/wiki/index.php/Wichita_Transit_2801-2810
+2870-2875,Gillig Low Floor 35',2015,Diesel,https://cptdb.ca/wiki/index.php/Wichita_Transit_2870-2875
+2876-2879,Gillig Low Floor 40',2015,Diesel,https://cptdb.ca/wiki/index.php/Wichita_Transit_2876-2879
+3284-3292,Gillig Low Floor 35',2016-2017,Diesel,https://cptdb.ca/wiki/index.php/Wichita_Transit_3284-3292
+3500-3505,Gillig Low Floor 35',2017,Diesel,https://cptdb.ca/wiki/index.php/Wichita_Transit_3500-3505
+3780-3783,Proterra Catalyst BE35,2020,Electric,https://cptdb.ca/wiki/index.php/Wichita_Transit_3780-3783
+3784-3790,Gillig/CCW Low Floor 29' ZEPS,2020,Electric,https://cptdb.ca/wiki/index.php/Wichita_Transit_3784-3790

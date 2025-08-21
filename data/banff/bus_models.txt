@@ -1,0 +1,20 @@
+1001,Nova Bus LFS HEV,2008,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/Roam_1001-1004
+1005-1006,Nova Bus LFS,2012,Diesel,https://cptdb.ca/wiki/index.php/Roam_1005-1006
+1007,Arboc Spirit of Freedom 27D,2012,Diesel,https://cptdb.ca/wiki/index.php/Roam_1007-1008
+1011-1012,Grande West Vicinity,2016,Diesel,https://cptdb.ca/wiki/index.php/Roam_1011-1012
+1013-1014,Nova Bus LFS,2016,Diesel,https://cptdb.ca/wiki/index.php/Roam_1013-1014
+1015,Nova Bus LFS,2017,Diesel,https://cptdb.ca/wiki/index.php/Roam_1015
+1017-1019,Nova Bus LFS,2018,Diesel,https://cptdb.ca/wiki/index.php/Roam_1017-1019
+1021,Grande West Vicinity,2018,Diesel,https://cptdb.ca/wiki/index.php/Roam_1021
+1022-1024,Nova Bus LFS,2019,Diesel,https://cptdb.ca/wiki/index.php/Roam_1022-1024
+1026-1029,MCI D45 CRT LE,2019,Diesel,https://cptdb.ca/wiki/index.php/Roam_1026-1029
+1030-1031,Proterra ZX5 40',2021,Electric,"https://cptdb.ca/wiki/index.php/Roam_1030-1031,_1033"
+1032,Proterra ZX5 40',2023,Electric,"https://cptdb.ca/wiki/index.php/Roam_1032,_1036-1039"
+1033,Proterra ZX5 40',2021,Electric,"https://cptdb.ca/wiki/index.php/Roam_1030-1031,_1033"
+1034,Proterra Catalyst BE40,2019,Electric,https://cptdb.ca/wiki/index.php/Roam_1034
+1035,Proterra ZX5 40',2022,Electric,https://cptdb.ca/wiki/index.php/Roam_1035
+1036-1039,Proterra ZX5 40',2023,Electric,"https://cptdb.ca/wiki/index.php/Roam_1032,_1036-1039"
+1042-1045,MCI D45 CRT LE,2024,Diesel,https://cptdb.ca/wiki/index.php/Roam_1043-1045
+1046-1048,Nova Bus LFSe+,2025,Electric,https://cptdb.ca/wiki/index.php/Roam_1046-1048
+1049-1051,Nova Bus LFS HEV,2025,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/Roam_1049-1051
+1052-1054,Champion Challenger,2024,Unknown(Diesel?),https://cptdb.ca/wiki/index.php/Roam_1052-1054

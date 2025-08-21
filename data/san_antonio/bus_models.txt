@@ -1,0 +1,15 @@
+118-125,Gillig Low Floor EV 40',2022,Electric,https://cptdb.ca/wiki/index.php/VIA_Metropolitan_Transit_118-125
+376-405,New Flyer DE40LFR,2010,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/VIA_Metropolitan_Transit_376-405
+406-420,New Flyer XN40,2016,CNG,https://cptdb.ca/wiki/index.php/VIA_Metropolitan_Transit_406-420
+421-691,Nova Bus LFS Natural Gas,2016-2017,CNG,https://cptdb.ca/wiki/index.php/VIA_Metropolitan_Transit_421-691
+692-735,Nova Bus LFS Natural Gas,2018,CNG,https://cptdb.ca/wiki/index.php/VIA_Metropolitan_Transit_692-735
+736-757,Nova Bus LFS Natural Gas,2020,CNG,https://cptdb.ca/wiki/index.php/VIA_Metropolitan_Transit_736-757
+758-785,Gillig Low Floor 40' CNG,2022,CNG,https://cptdb.ca/wiki/index.php/VIA_Metropolitan_Transit_758-785
+801-806,Nova Bus LFS Natural Gas,2020,CNG,https://cptdb.ca/wiki/index.php/VIA_Metropolitan_Transit_801-806
+807-820,Gillig Low Floor 40' CNG,2023,CNG,https://cptdb.ca/wiki/index.php/VIA_Metropolitan_Transit_807-820
+850,NABI 40-LFW,2000,Diesel,https://cptdb.ca/wiki/index.php/VIA_Metropolitan_Transit_850
+947-950,NABI 40-LFW CNG,2010,CNG,https://cptdb.ca/wiki/index.php/VIA_Metropolitan_Transit_947-950
+951-966,NABI 60-BRT CNG,2012,CNG,https://cptdb.ca/wiki/index.php/VIA_Metropolitan_Transit_951-966
+967-969,NABI 60-BRT CNG,2013,CNG,https://cptdb.ca/wiki/index.php/VIA_Metropolitan_Transit_967-969
+970-987,Nova Bus LFS Natural Gas,2018,CNG,https://cptdb.ca/wiki/index.php/VIA_Metropolitan_Transit_970-987
+988-989,Nova Bus LFS Natural Gas,2020,CNG,https://cptdb.ca/wiki/index.php/VIA_Metropolitan_Transit_988-989

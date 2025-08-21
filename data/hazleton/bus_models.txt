@@ -1,0 +1,6 @@
+1502-1503,Gillig Low Floor 29',2015,Diesel,https://cptdb.ca/wiki/index.php/Hazleton_Public_Transit_1502-1503
+1801-1802,Gillig Low Floor CNG 29',2018,CNG,https://cptdb.ca/wiki/index.php/Hazleton_Public_Transit_1801-1802
+1901-1903,Gillig Low Floor CNG 29',2019,CNG,https://cptdb.ca/wiki/index.php/Hazleton_Public_Transit_1901-1903
+2101-2102,Gillig Low Floor CNG 29',2021,CNG,https://cptdb.ca/wiki/index.php/Hazleton_Public_Transit_2101-2102
+2103,Ford Coach and Equipment E-450 Phoenix,2021,Diesel,https://cptdb.ca/wiki/index.php/Hazleton_Public_Transit_2103
+2301-2302,Gillig Low Floor CNG 29',2023,CNG,https://cptdb.ca/wiki/index.php/Hazleton_Public_Transit_2301-2302

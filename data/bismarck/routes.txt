@@ -1,0 +1,7 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+5608,4121,1,Black,3,000000,FFFFFF
+5610,4121,2,Blue,3,1F77B4,FFFFFF
+5609,4121,3,Green,3,2CA02C,FFFFFF
+5611,4121,5,Orange,3,FF7F0E,
+5607,4121,6,Purple,3,9467BD,FFFFFF
+5612,4121,4,Red,3,D62728,FFFFFF

@@ -1,0 +1,10 @@
+200-212,Gillig Low Floor 29',2011,Diesel,https://cptdb.ca/wiki/index.php/StarTran_200-212
+300-312,New Flyer XN35,2014-2015,CNG,https://cptdb.ca/wiki/index.php/StarTran_300-312
+313-323,New Flyer XN35,2018,CNG,https://cptdb.ca/wiki/index.php/StarTran_313-323
+324,New Flyer XN35,2019,CNG,https://cptdb.ca/wiki/index.php/StarTran_324
+325-327,New Flyer XN35,2021,CNG,https://cptdb.ca/wiki/index.php/StarTran_325-327
+328-338,New Flyer XN35,2022,CNG,https://cptdb.ca/wiki/index.php/StarTran_328-338
+400-403,New Flyer XE35,2019,Electric,https://cptdb.ca/wiki/index.php/StarTran_400-403
+404-409,New Flyer XE35,2020,Electric,https://cptdb.ca/wiki/index.php/StarTran_404-409
+500-501,Hometown Manufacturing Streetcar CNG,2018,CNG,https://cptdb.ca/wiki/index.php/StarTran_500-501
+680-694,Gillig Low Floor 35',2006,Diesel,https://cptdb.ca/wiki/index.php/StarTran_680-694

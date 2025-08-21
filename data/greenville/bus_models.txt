@@ -1,0 +1,12 @@
+301-304,Gillig Low Floor 35',2011,Diesel,"https://cptdb.ca/wiki/index.php/Greenville_Transit_Authority_301-304,_306,_308,_312"
+306,Gillig Low Floor 35',2011,Diesel,"https://cptdb.ca/wiki/index.php/Greenville_Transit_Authority_301-304,_306,_308,_312"
+308,Gillig Low Floor 35',2011,Diesel,"https://cptdb.ca/wiki/index.php/Greenville_Transit_Authority_301-304,_306,_308,_312"
+310-311,Gillig Low Floor 35',2010,Diesel,https://cptdb.ca/wiki/index.php/Greenville_Transit_Authority_310-311
+312,Gillig Low Floor 35',2011,Diesel,"https://cptdb.ca/wiki/index.php/Greenville_Transit_Authority_301-304,_306,_308,_312"
+401-403,Gillig Low Floor 35',2012,Diesel,https://cptdb.ca/wiki/index.php/Greenville_Transit_Authority_401-403
+812,Gillig Low Floor 35',2008,Diesel,https://cptdb.ca/wiki/index.php/Greenville_Transit_Authority_812
+1701-1702,Chevrolet Hometown Trolley G4500,2017,Diesel,https://cptdb.ca/wiki/index.php/Greenville_Transit_Authority_1701-1702
+1910-1911,Proterra Catalyst BE40,2019,Electric,https://cptdb.ca/wiki/index.php/Greenville_Transit_Authority_1910-1911
+1913-1914,Proterra Catalyst BE40,2019,Electric,https://cptdb.ca/wiki/index.php/Greenville_Transit_Authority_1913-1914
+2124-2126,Gillig Low Floor 29' (G27E102?2),2021,Diesel,https://cptdb.ca/wiki/index.php/Greenville_Transit_Authority_2124-2126
+7100-7101,Freightliner Supreme Trolley Replica,2014,Diesel,https://cptdb.ca/wiki/index.php/Greenville_Transit_Authority_7100-7101

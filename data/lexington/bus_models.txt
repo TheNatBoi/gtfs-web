@@ -1,0 +1,25 @@
+30-31,Gillig Trolley Replica HEV 29',2009,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/LexTran_30-31
+32,Gillig Trolley Replica 29',2009,Diesel,https://cptdb.ca/wiki/index.php/LexTran_32
+42,Ford Starcraft E-450 Allstar,2010,Diesel,https://cptdb.ca/wiki/index.php/LexTran_42
+47-50,Ford Starcraft E-450 Allstar,2012,Diesel,https://cptdb.ca/wiki/index.php/LexTran_47-50
+51,Ford Starcraft E-450 Allstar,2013,Diesel,https://cptdb.ca/wiki/index.php/LexTran_51
+456-461,Gillig Low Floor 40',2004,Diesel,https://cptdb.ca/wiki/index.php/LexTran_456-461
+551-555,Gillig Low Floor 40',2005,Diesel,https://cptdb.ca/wiki/index.php/LexTran_551-555
+766-782,Gillig Low Floor 40',2007,Diesel,https://cptdb.ca/wiki/index.php/LexTran_766-782
+790-791,Gillig Low Floor HEV 35',2011,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/LexTran_790-791
+792-796,Gillig Low Floor 29',2011,Diesel,https://cptdb.ca/wiki/index.php/LexTran_792-796
+1201,Gillig Low Floor 40',2012,Diesel,https://cptdb.ca/wiki/index.php/LexTran_1201
+1202-1203,Gillig Low Floor HEV 40',2012,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/LexTran_1202-1203
+1401-1403,Gillig Low Floor 40',2014,Diesel,https://cptdb.ca/wiki/index.php/LexTran_1401-1403
+1501-1505,Gillig Low Floor CNG 35',2016,CNG,https://cptdb.ca/wiki/index.php/LexTran_1501-1505
+1506-1507,Gillig Low Floor CNG 40',2016,CNG,https://cptdb.ca/wiki/index.php/LexTran_1506-1507
+1601-1605,Proterra Catalyst BE40,2016,Electric,https://cptdb.ca/wiki/index.php/LexTran_1601-1605
+1701-1705,Gillig Low Floor CNG 40',2017,CNG,https://cptdb.ca/wiki/index.php/LexTran_1701-1705
+1801,Proterra Catalyst BE40,2017,Electric,https://cptdb.ca/wiki/index.php/LexTran_1801
+1901-1906,Gillig Low Floor CNG 40',2019,CNG,https://cptdb.ca/wiki/index.php/LexTran_1901-1906
+2101-2104,Gillig Low Floor CNG 40',2021,CNG,https://cptdb.ca/wiki/index.php/LexTran_2101-2104
+2110-2111,Gillig Low Floor Plus EV 40',2021,Electric,https://cptdb.ca/wiki/index.php/LexTran_2110-2111
+2201-2204,Gillig Low Floor CNG 40',2022,CNG,https://cptdb.ca/wiki/index.php/LexTran_2201-2204
+2301-2307,Gillig Low Floor CNG 40',2023,CNG,https://cptdb.ca/wiki/index.php/LexTran_2301-2307
+2401-2403,Gillig Low Floor Plus EV 40',2024,Electric,https://cptdb.ca/wiki/index.php/LexTran_2401-2403
+2410-2412,Gillig Low Floor CNG 40',2024,CNG,https://cptdb.ca/wiki/index.php/LexTran_2410-2412

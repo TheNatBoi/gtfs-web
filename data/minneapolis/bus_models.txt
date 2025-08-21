@@ -1,0 +1,40 @@
+200-212,MCI D4500CT,2009,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_200-212
+220-226,MCI D4500CT,2014,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_220-226
+230-232,MCI D4500CT,2015,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_230-232
+1100-1186,Gillig BRT 40',2008,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_1100-1186
+1200-1230,Gillig BRT 40',2010,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_1200-1230
+1240-1344,Gillig BRT 40',2011,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_1240-1344
+1400-1419,Gillig BRT 40',2012,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_1400-1419
+1420-1449,Gillig BRT 40',2012,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_1420-1449
+1500-1574,Gillig BRT 40',2013,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_1500-1574
+1600-1674,Gillig Low Floor 40',2014,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_1600-1674
+1700-1734,Gillig Low Floor 40',2015,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_1700-1734
+1750-1787,Gillig Low Floor 40',2016,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_1750-1787
+1790-1799,Gillig Low Floor 40',2017,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_1790-1799
+1800-1816,Gillig Low Floor 40',2019,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_1800-1816
+1820-1892,Gillig Low Floor Plus 40',2025,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_1820-1892
+3300-3328,New Flyer D60LFR,2010,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_3300-3328
+3330-3340,New Flyer D60LFR,2010,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_3330-3340
+3350-3374,New Flyer D60LFR,2011,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_3350-3374
+3400-3415,New Flyer XD60,2015,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_3400-3415
+3420-3449,New Flyer XD60,2016,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_3420-3449
+3460-3466,New Flyer XD60,2017,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_3460-3466
+3470-3489,New Flyer XD60,2023,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_3470-3489
+7140-7184,Gillig BRT HEV 40',2008,Hybrid,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_7140-7184
+7200-7229,Gillig BRT HEV 40',2010,Hybrid,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_7200-7229
+7300-7332,Gillig BRT HEV 40',2012,Hybrid,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_7300-7332
+7340-7344,Gillig Low Floor HEV 40',2015,Hybrid,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_7340-7344
+8000-8011,Gillig BRTPlus 40',2015,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_8000-8011
+8012,Gillig BRTPlus 40',2017,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_8012
+8013-8015,Gillig BRTPlus 40',2019,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_8013-8015
+8020-8025,Gillig BRTPlus 40',2021,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_8020-8025
+8100-8105,New Flyer XD60,2018,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_8100-8105
+8110-8117,New Flyer XD60,2021,Diesel,"https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_8110-8117,_8120-8151"
+8120-8151,New Flyer XD60,2021,Diesel,"https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_8110-8117,_8120-8151"
+8160-8192,New Flyer XD60,2024,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_8160-8210
+8200-8217,New Flyer XD60,2024,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_8160-8210
+8220-8239,New Flyer XD60,2025,Diesel,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_8220-8239
+8700-8707,New Flyer XE60,2019,Electric,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_8700-8707
+8710-8714,New Flyer XE60,2025,Electric,https://cptdb.ca/wiki/index.php/Metro_Transit_(Minnesota)_8710-8714
+60036-60039,Gillig BRT 40',2013,Diesel,"https://cptdb.ca/wiki/index.php/Metropolitan_Transportation_Services_60036-60039,_60044"
+60044,Gillig BRT 40',2013,Diesel,"https://cptdb.ca/wiki/index.php/Metropolitan_Transportation_Services_60036-60039,_60044"

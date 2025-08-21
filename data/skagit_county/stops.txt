@@ -1,0 +1,491 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,location_type,wheelchair_boarding
+6266,6266,Skagit Station Gate 6,,48.4182811330724,-122.334019531847,0,0
+1253,1253,2nd Street at County Courthouse,Accross from Pine Street,48.41812,-122.337308,0,0
+1254,1254,2nd Street and Montgomery Street,Bottom of the Tulip Bridge,48.420298,-122.336088,0,0
+1255,1255,4th Street and Lawrence Street,South East Corner,48.424133,-122.335163,0,0
+1256,1256,4th Street and Highland Avenue,Accross from G and M Market,48.42533,-122.335209,0,0
+1257,1257,Riverside Drive and Fir Street,,48.428994,-122.335169,0,0
+1258,1258,Riverside Drive Across from Willow Lane,,48.431982,-122.335124,0,0
+1259,1259,Riverside and College Way,Riverside at U.S. Bank,48.434328,-122.335047,0,0
+1260,1260,College Way and Urban Avenue,College Way at Taco Time,48.435737,-122.33309,0,0
+1261,1261,College Way west of Leigh Way at DSHS,,48.435675,-122.328452,0,0
+1262,1262,College Way at Banner Bank,,48.43564,-122.324826,0,0
+1263,1263,College Way at Dominos,,48.4356,-122.320481,0,0
+1226,1226,College Way and North 19th Street,Somerset Apts. just past 18th,48.435549,-122.317214,0,0
+1227,1227,College Way & LaVenture at McDonalds,,48.435507,-122.312457,0,0
+1228,1228,Skagit Valley College,,48.436462,-122.30963,0,0
+6600,6600,Sedro Woolley Park and Ride,,48.507137358614,-122.245722546919,0,0
+4177,4177,SR 20 at Home Town Pharmacy,,48.503986,-122.250162,0,0
+4129,4129,The Pavilion east of U.G.H.,,48.495923,-122.274385,0,0
+4130,4130,United General Hospital,,48.495533,-122.277429,0,0
+4131,4131,Country Meadows,,48.495548,-122.279962,0,0
+4180,4180,SR 20 at District Line Rd.,,48.488408,-122.291988,0,0
+4181,4181,SR 20 near Peter Anderson Rd.,,48.484123,-122.303501,0,0
+4182,4182,Highway 20 at Gardner Road westbound,20275 SR 20 at Gardner Rd.,48.482727,-122.307688,0,0
+4183,4183,SR 20 at Peacock Lane,,48.48082,-122.31345,0,0
+4184,4184,Skagit Street & Victoria Avenue,236 N. Skagit St. across from Home Place,48.476603,-122.319274,0,0
+4185,4185,Fairhaven Avenue and Holly Street,927 E. Fairhaven across from Old City Hall,48.475608,-122.322839,0,0
+4186,4186,Fairhaven at Alpha Park,,48.475639,-122.327358,0,0
+4187,4187,Fairhaven Avenue and Spruce Street,423 E. Fairhaven,48.475621,-122.330391,0,0
+4188,4188,Fairhaven and Alder,,48.475658,-122.333451,0,0
+6300,6300,Chuckanut P&R (Park & Ride),,48.482441,-122.336798,0,0
+1421,1421,Burlington Boulevard and Fairhaven,281 Burlington Blvd,48.474758,-122.335761,0,0
+1422,1422,Burlington Boulevard and Haggen Drive,Burlington Blvd. at Haggen Dr.,48.470399,-122.335899,0,0
+1423,1423,Burlington Boulevard Near Target Shopping Center,Burlington Blvd near Andis Road,48.466543,-122.335952,0,0
+1424,1424,"Popeye's",,48.46362,-122.335968,0,0
+1425,1425,Burlington Boulevard Near Michaels and Outlet Shop,Burlington Blvd. south of Pease Rd.,48.456117,-122.335802,0,0
+1426,1426,Burlington Boulevard at Costco,Burlington Blvd. at Costco,48.453856,-122.335742,0,0
+1427,1427,Burlington Boulevard at Burlington Crossings,Behind Ashley Furniture,48.449663,-122.335563,0,0
+1428,1428,Riverside Drive at Days Inn,North of Commercial Streets,48.43875,-122.335338,0,0
+1429,1429,Riverside Drive North of College Way,,48.437225,-122.335337,0,0
+1268,1268,Riverside Drive and College Way,Near Grocery Outlet,48.434108,-122.335382,0,0
+1269,1269,Riverside Dr. south of Valley Mall Way,,48.432208,-122.335409,0,0
+1270,1270,4th Street South of Fir Street,817 4th Street,48.428063,-122.335471,0,0
+1271,1271,4th Street at G and M Market,503 4th Street,48.425498,-122.335425,0,0
+1272,1272,4th St. at Lawrence,,48.424003,-122.335357,0,0
+1273,1273,Montgomery  - Between 3rd and 2nd,,48.419671,-122.335781,0,0
+6288,6288,Skagit Station Gate 8,,48.4179364691935,-122.334012826324,0,0
+4192,4192,Clear Lake,,48.461949,-122.23449,0,0
+4193,4193,Front & Beaver Lake,Clear Lake Store,48.456488,-122.234671,0,0
+4232,4232,Mud Lake Rd SB,,48.460869,-122.252586,0,0
+4226,4226,Swan Road and Carol Place eastbound,,48.453744,-122.298845,0,0
+1313,1313,LaVenture past Hoag Road,2419 N. LaVenture - near Hoag,48.442518,-122.3135,0,0
+1316,1316,LaVenture & Sandlewood,2207 N. LaVenture - South of Sandlewood,48.440519,-122.313505,0,0
+1317,1317,Skagit Village Apartments,2107 N. LaVenture - Skagit Village Apartments,48.439193,-122.313501,0,0
+1318,1318,Deer Meadows Apartments,1813 N. LaVenture - Deer Meadows,48.437073,-122.313505,0,0
+1278,1278,2nd Street and Broadway,"Robert's Red Apple",48.41677,-122.337833,0,0
+1279,1279,2nd Street and Snoqualmie Street,Public Library,48.41559,-122.337916,0,0
+1280,1280,2nd Street and Section Street,Assembly of God Church,48.413679,-122.337927,0,0
+1281,1281,2nd Street and Hazel Street,"Jerry's Market",48.41214,-122.337954,0,0
+1202,1202,Helping Hands Food Bank,1689 S 2nd St,48.409259,-122.338046,0,0
+1203,1203,Mount Vernon Department of Licensing,,48.407567,-122.337433,0,0
+1204,1204,Blackburn & Cleveland,Blackburn at Cleveland,48.406648,-122.338959,0,0
+1205,1205,Blackburn and Walter,,48.406644,-122.342731,0,0
+1206,1206,Blackburn and Brit,1794 Britt Rd,48.408197,-122.347308,0,0
+1207,1207,Britt Rd at Vera CT,,48.409439,-122.347583,0,0
+1208,1208,Hazel and Douglas,808 W Hazel St,48.411926,-122.34367,0,0
+1282,1282,Cleveland and Hazel Street,Mount Vernon Senior Center,48.411564,-122.339132,0,0
+1283,1283,Cleveland and Taylor Street,Skagit County Fairgrounds,48.407928,-122.339202,0,0
+1209,1209,Highway 99 & Chenoweth St,Puget Sound Vet,48.404975,-122.335644,0,0
+1217,1217,Highway 99 at Loving Farms,Loving Farms,48.400584,-122.335644,0,0
+1210,1210,Highway 99 & Redemption Way,Franz Bakery,48.389979,-122.335853,0,0
+6500,6500,South Mount Vernon Park & Ride,,48.385761,-122.336349,0,0
+1211,1211,Skagit County Justice Center,3342 Old Highway 99 South Rd,48.393633,-122.335539,0,0
+1212,1212,Hwy 99 and Anderson Road,2732 Old Highway 99 South Rd,48.400094,-122.335421,0,0
+1213,1213,Hwy 99 at Evergreen Trailer Court,2188 Old Highway 99 South Rd,48.404718,-122.335423,0,0
+1214,1214,South 2nd Street & Vera,,48.410144,-122.337811,0,0
+1215,1215,Compass Health,,48.414469,-122.33771,0,0
+1216,1216,2nd and West Broadway,868 S 2nd St,48.41688,-122.337647,0,0
+3442,3442,3rd St & w. Kincaid,3rd St. at County Jail-600 3rd St,48.418187,-122.336025,0,0
+6277,6277,Skagit Station Gate 7,,48.4181108127898,-122.334016849638,0,0
+1359,1359,W Victoria Ave,Burlington High School,48.476705,-122.33706,0,0
+1350,1350,155 N Norris St,Jason Boerner Memorial Park,48.475646,-122.341106,0,0
+4301,4301,Norris St. at Cambridge Apts.,,48.47329,-122.341156,0,0
+4302,4302,Peterson Rd across from Burlington Terrace Apts.,,48.471889,-122.344788,0,0
+1347,1347,Nevitt near Holiday Sports,,48.467746,-122.343836,0,0
+1348,1348,Goldenrod at Tacoma Screw,,48.465101,-122.342283,0,0
+1349,1349,Goldenrod Rd,,48.459784,-122.342186,0,0
+1353,1353,I-5 Auto World,,48.453199,-122.345278,0,0
+1356,1356,Burlington Crossings,,48.449891,-122.33829,0,0
+1357,1357,"Dick's Sporting Goods",,48.448546,-122.332789,0,0
+1358,1358,Comfort Suites,,48.452059,-122.330417,0,0
+1360,1360,Housing Authority,,48.453722,-122.327389,0,0
+1361,1361,E McCorquedale Rd,,48.454574,-122.329871,0,0
+1362,1362,Pease Rd,,48.457169,-122.329731,0,0
+1363,1363,Anacortes @ Annett,,48.462375,-122.324673,0,0
+1364,1364,Skagit River Park,,48.464299,-122.319731,0,0
+1365,1365,Skagit & Shuler,,48.467006,-122.319283,0,0
+1366,1366,Lucille Umbarger School,,48.469296,-122.319284,0,0
+4121,4121,Burlington Community Center,1011 Greenleaf - Burlington Community Center,48.473257,-122.32133,0,0
+4122,4122,Burlington Public Library,820 E. Washington - Burlington Library,48.474657,-122.323754,0,0
+4120,4120,Maiben City Park,219 S. Skagit St. south of Washington,48.474265,-122.319334,0,0
+1367,1367,Rio Vista & Wade Pl,,48.471536,-122.315697,0,0
+1368,1368,Rio Vista west of Gardner,,48.471573,-122.311158,0,0
+1369,1369,Gardner @ Sunset,,48.472951,-122.308407,0,0
+1510,1510,Gardner @ Sanchez,,48.474994,-122.308418,0,0
+1511,1511,Fairhaven @ Betty Court,,48.475504,-122.31096,0,0
+1512,1512,Fairhaven west of Skagit,,48.475537,-122.317585,0,0
+6255,6255,Skagit Station Gate 5,,48.4184903453881,-122.3340932926,0,0
+3443,3443,W. Division St & N.Baker St,729 W Division,48.421822,-122.344072,0,0
+1431,1431,Memorial Highway near Banner Bank,Skagit Bank,48.423134,-122.352834,0,0
+3151,3151,Memorial Hwy and Avon Allen,14405 Avon Allen Rd,48.436989,-122.37868,0,0
+3402,3402,"South March's Point Rd. - Reservation Rd.",,48.464332,-122.54438,0,0
+3415,3415,Across from Birch Equipment Rental,,48.463084,-122.551568,0,0
+3416,3416,South March Point at Thompson,,48.461857,-122.559408,0,0
+6400,6400,"March's Point",,48.4629291869956,-122.567863915435,0,0
+1218,1218,Broad Street and 11th Street,near Lincoln Elementary,48.415578,-122.327158,0,0
+1219,1219,15th Street and Broadway,,48.416878,-122.322859,0,0
+1220,1220,15th Street and Division,15th Street north of Kincaid St.,48.419279,-122.322878,0,0
+1221,1221,15th Street Park,15th Street near ball fields,48.422975,-122.322865,0,0
+1222,1222,15th Street and Spruce Street,,48.426933,-122.322942,0,0
+1223,1223,18th Street and Fir Street,18th Street North of Fir,48.429033,-122.318803,0,0
+1224,1224,18th Street and Viewmont Drive,18th Street at Kulshan Trail,48.432378,-122.318802,0,0
+1225,1225,18th Street and College Way,18th Street north of Roosevelt,48.43465,-122.318765,0,0
+1319,1319,College Way at Sunrise Services,,48.435481,-122.307625,0,0
+1320,1320,College Way at J.J. Place,,48.435489,-122.305673,0,0
+1321,1321,College Way 1/2 block west of 30th St.,,48.435482,-122.303422,0,0
+1240,1240,College Way and Waugh,3820 E College Way [Wa-538],48.435437,-122.290703,0,0
+1241,1241,College Way at 7Th Day Adventist Church,,48.434758,-122.280097,0,0
+1242,1242,Wa  538 and Skagit Highlands Pkwy,,48.429933,-122.268821,0,0
+1346,1346,Skagit Highlands Parkway near Mount Baker Loop,,48.427938,-122.277688,0,0
+1345,1345,Skagit Highlands Parkway north of Skagit River Pl.,,48.426125,-122.278677,0,0
+1344,1344,Skagit Highlands and Glacier,,48.423761,-122.278497,0,0
+1343,1343,Fire Station 3 Skagit Highlands,,48.420985,-122.279359,0,0
+1342,1342,Division and Waugh,,48.420984,-122.283702,0,0
+1248,1248,Division & 39th Place,39th & Division,48.421009,-122.289065,0,0
+1249,1249,Division & Sioux,Sioux & Division,48.421032,-122.295031,0,0
+1250,1250,Division & 30th Place,30th & Division,48.421052,-122.300567,0,0
+1251,1251,Division & Trumpeter Trail,Haggen East,48.421058,-122.3061,0,0
+1243,1243,MV Haggen,,48.42107,-122.309721,0,0
+1252,1252,LaVenture Rd at LaVenture Village,LaVenture Apts,48.424175,-122.31328,0,0
+1244,1244,Fir St & Cedar Court,Fir east of LaVenture,48.428259,-122.312031,0,0
+1245,1245,Mt Vernon Church of the Nazarene,2796 E Fir St,48.428223,-122.30601,0,0
+1246,1246,Fir & 30th Eastbound,E Fir & N 30th Pl,48.428208,-122.303001,0,0
+1341,1341,Waugh and Fir,,48.428529,-122.291703,0,0
+1340,1340,Waugh and Seneca,,48.43186,-122.291712,0,0
+1415,1415,N Waugh & College Way,Short Stop 76 Station,48.43485,-122.291702,0,0
+4204,4204,N 33rd Pl,,48.436948,-122.297672,0,0
+4205,4205,North 33rd Place & College Way,,48.436007,-122.296103,0,0
+4221,4221,College Way & 30th Street,College Way at 911 Center,48.435688,-122.303728,0,0
+1229,1229,LaVenture and Kulshan,1329 N. LaVenture at LaFoyette Place Apartments,48.433178,-122.313525,0,0
+1230,1230,LaVenture and Fir Street,809 N. LaVenture - Just south of Fir,48.427859,-122.313584,0,0
+1231,1231,LaVenture and Jamine Place/Cascade Avenue,519 N. LaVenture,48.425451,-122.313522,0,0
+1232,1232, LaVenture at Courtyard Garden Apartments,409 N. LaVenture,48.42346,-122.313489,0,0
+1233,1233,LaVenture and Division Street,125 N. LaVenture near Cedar Park Community Church,48.421596,-122.313486,0,0
+1234,1234,Division and Stanford Drive,1997 E Division St,48.421099,-122.317025,0,0
+1290,1290,Division and 15th Street,Across from Claremont Street,48.421117,-122.321883,0,0
+1275,1275,Hospital,,48.419149,-122.323065,0,0
+1238,1238,15th Street and Broad Street,S 15th and Broad ,48.415954,-122.32306,0,0
+1239,1239,Broad Street and 11th Street,Lincoln School,48.415736,-122.328084,0,0
+6244,6244,Skagit Station Gate 4,,48.417860026232,-122.334231426372,0,0
+1410,1410,Riverside Dr. at Westwinds Motel,,48.438861,-122.335046,0,0
+1411,1411,Burlington Blvd. north of bridge,,48.447838,-122.335164,0,0
+1412,1412,Burlington Blvd. South of George Hopper,,48.450614,-122.335265,0,0
+1413,1413,Burlington Blvd. at Sports Keg,,48.454681,-122.335448,0,0
+1414,1414,"Burlington Blvd. Near Shari's",,48.456443,-122.335515,0,0
+1416,1416,Burlington Bloulevard Medical Clinic,1162 Burlington Blvd,48.463478,-122.335667,0,0
+1417,1417,Fred Meyer,920 Burlington Blvd.,48.466771,-122.335583,0,0
+1418,1418,Burlington Blvd. at Sterling Motor Inn,866 Burlington Blvd.,48.468518,-122.335619,0,0
+1419,1419,Burlington Blvd. at Sharon Avenue,,48.47028,-122.335608,0,0
+1420,1420,Burlington Blvd. South of Fairhaven Avenue,,48.473536,-122.335532,0,0
+1327,1327,Skagit Valley College ,,48.436628,-122.313213,0,0
+6012,6012,NWCTA,,48.438593,-122.313202,0,0
+4225,4225,Francis & Monica Dr,,48.443861,-122.313294,0,0
+4227,4227,Swan Road and Carol Place westbound,,48.453674,-122.297623,0,0
+4233,4233,Mud Lake Rd NB,,48.461218,-122.25135,0,0
+4224,4224,Clear Lake Post Office,,48.462335,-122.234211,0,0
+4307,4307,Fairhaven Ave. at Thrifty Foods,,48.475433,-122.333945,0,0
+4308,4308,Fairhaven near Cherry St.,,48.475404,-122.328273,0,0
+4309,4309,Fairhaven & Regent,900 Fairhaven - Old City Hall,48.475387,-122.322305,0,0
+4123,4123,Skagit St. and Hazel Ave. just north of Home Place,,48.476996,-122.319084,0,0
+4124,4124,SR 20 at Skagit St.,,48.478887,-122.318743,0,0
+4125,4125,SR 20 at Section St.,,48.4804,-122.314156,0,0
+4126,4126,SR 20 west of Gardner,,48.482047,-122.30906,0,0
+4127,4127,SR 20 near Peter Anderson Rd.,,48.484322,-122.302452,0,0
+4128,4128,State Rt 20 at LaFayette,,48.488538,-122.290905,0,0
+4132,4132,State Rt 20 at Rhodes Rd.,,48.500978,-122.257678,0,0
+4133,4133,State Rt 20 at Trail and W. State St.,,48.503092,-122.25195,0,0
+1293,1293,6th Street & Fulton,,48.422697,-122.33306,0,0
+1292,1292,E Division St,,48.421048,-122.331397,0,0
+1294,1294,11th st at E Division,,48.42102,-122.327678,0,0
+1291,1291,Division at Skagit Regional Hospital,,48.421009,-122.324813,0,0
+1295,1295,Division Street at Belmont Terrace,,48.420982,-122.3202,0,0
+1289,1289,Mountain Glen,,48.420941,-122.318064,0,0
+1235,1235,LaVenture at Bridge Assisted Living Center,301 S. LaVenture,48.419438,-122.313466,0,0
+1236,1236,LaVenture and Broadway Street,820 S. LaVenture near Home Court Condos,48.41683,-122.313461,0,0
+1237,1237,LaVenture and Section Street,Near 22nd Court,48.414518,-122.313447,0,0
+1285,1285,Mount Baker Middle School,2175 Little Mountain Ln,48.4121,-122.313547,0,0
+1284,1284,18th Street at Jefferson School,Jefferson School,48.406513,-122.318404,0,0
+1286,1286,18th Street at Bethany Covenant Church,Bethany Covenant Church,48.412534,-122.31873,0,0
+1287,1287,18th Street and Broadway,East side of 18th south of broadway,48.416416,-122.318738,0,0
+1288,1288,18th Street and Division,North of Mira Vista,48.419855,-122.318719,0,0
+1276,1276,Skagit Valley Hospital,,48.417556,-122.324902,0,0
+1277,1277,13th Street and Broad Street,911 E. 13th - Near Broadway,48.416083,-122.325376,0,0
+1296,1296,"Freeway Dr., W. Division and 1st Street",Freeway Dr.,48.421827,-122.336036,0,0
+1300,1300,Freeway Dr. in front of Burger King,,48.43735,-122.343007,0,0
+1301,1301,Freeway Drive at Skagit Regional Clinics,,48.441517,-122.343037,0,0
+1303,1303,WalMart - northeast corner,,48.44312,-122.345588,0,0
+1304,1304,Stewart Road at Freeway Drive,2424 Stewart,48.443096,-122.34275,0,0
+1305,1305,Stewart and Market - near Market St.,,48.443074,-122.336946,0,0
+1307,1307,Hoag Road and Urban Avenue,E. Hoag - 1/2 block west of the Grange Building,48.443044,-122.333064,0,0
+1308,1308,Hoag Road and Meadows Boulevard,Hoag near Meadows Blvd.,48.442966,-122.32804,0,0
+1310,1310,Hoag near Continental Place,,48.442902,-122.323779,0,0
+1311,1311,Hoag near Woodridge,,48.442874,-122.319936,0,0
+1312,1312,Hoag Road and North 19th Place,Hoag near N. 19th Place,48.442833,-122.316377,0,0
+1333,1333,Martin & 24th Place,Martin Rd and 25th PL,48.442783,-122.309385,0,0
+1331,1331,College Play Field Park,Skagit Valley Playfields,48.442762,-122.306698,0,0
+1329,1329,Martin and 30Th,,48.442741,-122.30279,0,0
+1332,1332,Centennial Elementary School,Centennial Middle School,48.442732,-122.299357,0,0
+1334,1334,Martin & Tundra Loop,Martin Rd and Tundra Loop,48.438952,-122.291896,0,0
+1335,1335,Martin at Grand Market,Tundra & Martin,48.43679,-122.291926,0,0
+1322,1322,30th St. across from Skagit Valley Mobile Manor,,48.433577,-122.302659,0,0
+1323,1323,30th St. at Bakerview Place,,48.430476,-122.302709,0,0
+1324,1324,Westbound Fir at 30th,2935 E. Fir west of 30th,48.428353,-122.303158,0,0
+1325,1325,Fir St. at Park Village,,48.428372,-122.306241,0,0
+1326,1326,Fir Street and LaVenture,Fir St. just east of LaVenture,48.428403,-122.312489,0,0
+1247,1247,LaVenture Middle School,Laventure Middle School,48.430932,-122.313286,0,0
+1330,1330,LaVenture at SeaMar,,48.433893,-122.313287,0,0
+1314,1314,Austin Lane,,48.440895,-122.309358,0,0
+1315,1315,Austin Lane and LaVenture,,48.44112,-122.312603,0,0
+1351,1351,30th & Inverness,,48.45009,-122.299868,0,0
+1352,1352,30th & Green Way,,48.448292,-122.29863,0,0
+1354,1354,Martin @ Jungle Playland,,48.442902,-122.304194,0,0
+1355,1355,Martin & Monica,,48.442929,-122.308219,0,0
+1328,1328,YMCA Stop,1865 Hoag Rd,48.442999,-122.316509,0,0
+1309,1309,Hoag and Meadow,,48.44309,-122.327855,0,0
+1306,1306,Stewart and Market,153 Stewart Rd,48.443218,-122.338928,0,0
+1302,1302,Freeway Dr at Walmart,,48.440668,-122.343282,0,0
+1299,1299,Freeway Dr. Skagit P.U.D.,1465 Freeway Dr,48.433472,-122.341735,0,0
+7010,7010,Everett Station,,47.974461,-122.197088,0,0
+7003,7003,Broadway just South of the Event Center,,47.9771,-122.201369,0,0
+7004,7004,Broadway & 14th (near hospital),,47.999197,-122.200918,0,0
+7005,7005,Broadway - across from Everett Community College,,48.006016,-122.196908,0,0
+6233,6233,Skagit Station Gate 3,,48.4181067894761,-122.334242155209,0,0
+3444,3444,Washington Elementary School,Washington School,48.420932,-122.350221,0,0
+3445,3445,McLean & Sunset Lane,McLean Rd. and Sunset Lane,48.420822,-122.361439,0,0
+3446,3446,McLean Rd & Penn St.,McLean Rd. at Penn Rd.,48.420854,-122.365176,0,0
+3447,3447,McLean Rd & Avon Allen  Rd,McLean Rd. and Avon Allen,48.420983,-122.378413,0,0
+3448,3448,McLean Rd & Kamb Rd.,McLean & Kamb,48.421001,-122.382769,0,0
+3449,3449,McLean Rd & Barrett Rd,McLean Rd. and Barrett Rd.,48.421013,-122.390255,0,0
+3450,3450,McLean Rd &Beavermarsh rd (Fire Stn),McLean Rd. and Beavermarsh Rd. at Fire Station,48.421074,-122.401363,0,0
+3451,3451,McLean Rd & Best St.,McLean Rd. west of Best Rd.,48.420739,-122.442516,0,0
+3452,3452,McLean Rd  & La ConnerWhitney Rd.,McLean Rd. near LaConner Whitney Rd.,48.420982,-122.470103,0,0
+3453,3453,LaConner-Whitney Rd & Flats Rd,LaConner - Whitney and Flats Rd.,48.404196,-122.47655,0,0
+3454,3454,Morris St & 6th St,511 Morris - west of 6th,48.392275,-122.491245,0,0
+3427,3427,State St & 3rd Street,210 State Street Between 2nd and 3rd,48.393701,-122.494575,0,0
+3455,3455,2nd & Washington,,48.391385,-122.495515,0,0
+3456,3456,2nd and Benton,,48.390213,-122.496538,0,0
+3457,3457,2nd and Douglas St.,,48.389081,-122.49764,0,0
+3458,3458,Caledonia St & 4th St,Caledonia and Fourth St.,48.386819,-122.496984,0,0
+3459,3459,Caledonia St & Park,Caledonia and Park,48.386197,-122.495328,0,0
+3421,3421,913 Maple south of Caledonia,,48.385318,-122.495074,0,0
+3461,3461,Front St & Moorage Way,Front St. south of Moorage,48.391392,-122.500986,0,0
+3462,3462,Snee-oosh & Reservation Road,Snee-oosh and Reservation Rd.,48.392789,-122.501093,0,0
+3464,3464,Snee-oosh Rd & Squi Qui Lane,Snee-oosh and Squi-Qui,48.393638,-122.50499,0,0
+3463,3463,111182 Swinomish Ave,,48.392192,-122.507598,0,0
+3465,3465,Swinomish Ave & Solahdwh Lane,Swinomish and Solohdwh,48.39219,-122.505744,0,0
+3466,3466,1st St & Swinomish Ave,17536 1st,48.391446,-122.503871,0,0
+3467,3467,1st St & Shelter Bay Dr (Shelter Bay),Shelter Bay,48.389956,-122.504753,0,0
+3468,3468,Reseration Rd & Padilla Height Rd,Reservation Rd. just north of Padilla Height Rd.,48.461686,-122.54378,0,0
+3404,3404,Swinomish Casino,,48.456685,-122.520162,0,0
+3413,3413,"South March's Point at Smoke Shop",,48.459351,-122.526418,0,0
+3230,3230,"S March's Point Rd at March's Point Rd",,48.465785,-122.536004,0,0
+4134,4134,Ferry and Borseth St,229 Ferry St. near Borseth St.,48.505304,-122.243654,0,0
+4135,4135,Ferry East of Eastern,,48.505273,-122.239723,0,0
+4136,4136,Ferry and Murdock,701 Ferry St. and Murdock St. at American Legion,48.505269,-122.236412,0,0
+4144,4144,Puget & Northern,Puget @ Walking Trail,48.506828,-122.235268,0,0
+4143,4143,Sedro-Woolley City Hall,,48.508603,-122.238461,0,0
+4147,4147,Reed St and Hyatt Place,208 Reed Street between SR 20 and John Liner,48.512207,-122.233845,0,0
+4148,4148,Reed St. across from Valley View Mobile Home Park,,48.517454,-122.233894,0,0
+4149,4149,Sapp Road and Brickyard Blvd,720 Sapp St.,48.520909,-122.230131,0,0
+4150,4150,SR 9 south Cultus Mountain Dr.,,48.517028,-122.225802,0,0
+4151,4151,McGarigle Road & Township Street,McGarigle across from 906 McGarigle,48.514122,-122.224205,0,0
+4152,4152,McGarigle at Evergreen Elementary School,,48.514277,-122.222089,0,0
+4153,4153,McGarigle at Parkland Loop,,48.51701,-122.217937,0,0
+4154,4154,McGarigle near Calkins Place,,48.520681,-122.212611,0,0
+4155,4155,Fruitdale Rd. near Job Corps,,48.526811,-122.210713,0,0
+4206,4206,Job Corps,,48.531763474262,-122.2106594238,0,0
+4158,4158,Fruitdale Rd. near Wildflower,,48.526418,-122.210859,0,0
+4159,4159,Fruitdale Rd. and Portobello Ave.,,48.523972,-122.21081,0,0
+4160,4160,Fruitdale Road and McGarigle Road,8582 Fruitdale Rd.,48.52079,-122.210656,0,0
+4161,4161,Fruitdale Road and Highway 20,2409 Fruitdale Rd. just north of SR 20,48.516864,-122.210638,0,0
+4162,4162,Fruitdale Road and Fair Lane,9170 Fruitdale near Twin Holly Dr.,48.511749,-122.210357,0,0
+4191,4191,Helping Hands Food Bank,Sedro Food Bank,48.508046,-122.210243,0,0
+4163,4163,Wicker Road and Fruitdale Road westbound,West of  24703 Wicker Rd.,48.506933,-122.211585,0,0
+4164,4164,Wicker Rd. at Pierce Lane,,48.506981,-122.21791,0,0
+4165,4165,Wicker Rd. at Claybrook,,48.506986,-122.219941,0,0
+4203,4203,Township St & Wicker Rd,Township South of Wicker Rd.,48.506693,-122.225995,0,0
+4166,4166,Township at State St.,,48.503471,-122.225994,0,0
+4167,4167,Township between Nelson & Bennett,,48.500315,-122.226025,0,0
+4168,4168,Township near Jameson,,48.499216,-122.226043,0,0
+4169,4169,Jameson Street and 7th Street westbound,700 Jameson,48.498919,-122.22939,0,0
+4170,4170,Jameson Street and 4th Street ,338 Jameson near 4th,48.498944,-122.235819,0,0
+4171,4171,Sedro-Woolley High School,,48.501038,-122.237329,0,0
+4172,4172,3rd and State Street,,48.502866,-122.237314,0,0
+4173,4173,Reed Street and State Street,829 Reed St. at Sedro Villa Apts.,48.503812,-122.233888,0,0
+4230,4230,Ferry St Catholic Church,,48.50524,-122.230054,0,0
+5157,5157,E. State St & Ball ,Sedro-Woolley Senior Center,48.503362,-122.229591,0,0
+4142,4142,State & Reed,,48.503378,-122.233447,0,0
+5305,5305,Sedro Woolley Library,,48.503311,-122.241156,0,0
+4146,4146,1041 Hodgin St,McDonalds,48.502422,-122.258125,0,0
+4145,4145,Janicki Playfields,,48.50373,-122.256517,0,0
+4141,4141,Trail & Hodgin,773 Trail Rd,48.5053898993367,-122.252787485885,0,0
+4140,4140,Trail Rd & Cook Rd,637 Trail Rd,48.5069013242067,-122.252752617166,0,0
+4231,4231,Kilnger @ Rohrer Loop,,48.5086916988308,-122.254391446971,0,0
+4174,4174,Klinger at Thurmond,,48.510553,-122.25438,0,0
+4175,4175,Klinger at F&S Grade Rd,,48.514427,-122.254783,0,0
+4176,4176,F&S Grade Rd,,48.511867,-122.249428,0,0
+6222,6222,Skagit Station Gate 2,,48.4183146606871,-122.334259589568,0,0
+6200,6200,Alger Park & Ride,,48.619982,-122.353118,0,0
+7001,7001,Lincoln Creek Park & Ride,,48.7345712622745,-122.466171977888,0,0
+7002,7002,Bellingham Transit Station,,48.750672,-122.475101,0,0
+2701,2701,10th St and Q Ave,,48.514118,-122.611579,0,0
+2332,2332,Q Avenue and 8th Street,720 Q Ave. by Harbor House,48.515731,-122.610878,0,0
+2333,2333,Anacortes City Hall,6th St. at City Hall,48.51756,-122.611822,0,0
+2334,2334,6th St & N St.,1114 6th St. near N Ave.,48.517544,-122.614909,0,0
+2335,2335,6th st & L ave,1404 6th,48.517596,-122.619291,0,0
+2336,2336,Guemes Ferry,,48.517617,-122.624343,0,0
+2337,2337,8th Street and J Avenue,1609 8th,48.515861,-122.622434,0,0
+2338,2338,M Ave. and 9th near Library,,48.514496,-122.617365,0,0
+2702,2702,Commercial and 14th,,48.510746,-122.612797,0,0
+2703,2703,Commercial and 18th,,48.507547,-122.61282,0,0
+2704,2704,Commercial and 21st (Heatherwood Retirement),,48.505033,-122.612864,0,0
+2705,2705,Commercial and 24th,,48.503184,-122.612889,0,0
+2706,2706,Commercial and 27th,,48.500175,-122.61293,0,0
+2707,2707,Commercial and 29th,,48.499272,-122.61295,0,0
+2708,2708,32nd at Storvik Park,32nd at Storkvik Park,48.496498,-122.615673,0,0
+2709,2709,M Ave. at 30th,,48.498271,-122.617402,0,0
+2710,2710,M Ave. at 26th,,48.501018,-122.617362,0,0
+2711,2711,Island Hospital (24th Street by Main Entrance),,48.502473,-122.615927,0,0
+2350,2350,24th & H Ave,,48.502916,-122.625652,0,0
+2717,2717,Anacortes Senior Center,1603 22nd St.,48.504492,-122.623168,0,0
+2712,2712,M Ave. at 20th,,48.505633,-122.617303,0,0
+2713,2713,M Ave. at 17th,,48.508864,-122.617257,0,0
+2714,2714,M Ave. at 14th,,48.511335,-122.61723,0,0
+7006,7006,Broadway - Everett Community College,,48.006217,-122.197084,0,0
+7008,7008,Broadway & 14th  (near hospital),,47.998791,-122.201234,0,0
+7009,7009,Broadway just South of the Event Center,,47.977675,-122.201682,0,0
+5124,5124,Cape Horn Drive & S. Skagit Hwy (Cape Horn),Cape Horn,48.528329,-121.826236,0,0
+5125,5125,Cape Horn Dr & Maple St,Cape Horn Dr. at Maple,48.535857,-121.836262,0,0
+5126,5126,Cape Horn Dr & Center St.,Cape Horn Dr. at Center St.,48.535719,-121.840357,0,0
+5127,5127,South Shore Dr & Mountain View Ln,Cape Horn Dr. at Mountain View,48.533727,-121.839634,0,0
+5128,5128,South Shore Dr. & Fir St,Cape Horn Dr. at Fir St.,48.532478,-121.835388,0,0
+5130,5130,South Shore Dr. between Cedar and Pine St.,,48.5313107688016,-121.829164733241,0,0
+5129,5129,Cape Horn and Pine Street ,42132 Cape Horn Dr,48.530353,-121.827323,0,0
+5135,5135,Cape Horn Dr & S. Skagit Hwy,42188 Cape Horn Dr,48.52831,-121.826417,0,0
+5136,5136,S. Skagit Hwy across from Wilderness Drive,,48.531793,-121.793499,0,0
+5137,5137,S. Skagit Hwy & Concrete Sauk Valley Rd.,Concrete Sauk Valley Rd. North of S Skagit Hwy,48.52382,-121.772866,0,0
+5301,5301,Cedar Grove and Baker Drive,8394 Cedar Grove Ave.,48.523864,-121.738907,0,0
+5302,5302,Baker Loop and Cedar Grove,46712 Baker Loop Rd.,48.52596,-121.741701,0,0
+5303,5303,Baker Loop and Baker Drive,46507 Baker Loop Rd.,48.524043,-121.749132,0,0
+5304,5304,46360 Baker Loop Rd.,,48.522506,-121.74412,0,0
+5211,5211,Concrete Sauk Valley Rd @ Sobek Ln,8798 Sobek Ln,48.518231,-121.747772,0,0
+5138,5138,Concrete Sauk Valley Rd & Gordon Rd,Gordon Rd near Brooks Rd,48.528314,-121.766181,0,0
+5139,5139,Cedar St & Reitze,Cedar St. at Reitze,48.534629,-121.760907,0,0
+5212,5212,S Superior Ave @ Hwy 20,7515 S Superior Ave,48.535619,-121.758957,0,0
+5205,5205,Concrete Park & Ride,,48.537406,-121.758497,0,0
+5131,5131,Main St & Nellie Ln,Main St. across from Nellie Lane,48.538398,-121.756881,0,0
+5132,5132,Concrete Post Office and City Hall,Concrete City Hall 45672 Main St,48.538801,-121.751777,0,0
+5202,5202,Voss Way & Hwy 20,,48.538425,-121.749924,0,0
+5103,5103,SR 20 at N Superior Ave,Concrete Silo Park,48.536055,-121.758442,0,0
+5140,5140,Red Apple Market,44568 SR 20 at Red Apple Market,48.538515,-121.776574,0,0
+5141,5141,SR 20 & Grassmere Rd,SR 20 at Grassmere St.,48.539831,-121.780717,0,0
+5309,5309,Hwy 20 @ Challenger Rd,,48.5410592580473,-121.838315089841,0,0
+5142,5142,SR 20 and Cape Horn Blvd NE,SR 20 across from Cape Horn Blvd. N.E.,48.539304,-121.854322,0,0
+5143,5143,SR 20 & Wilde Rd,SR 20 at Wilde Rd.,48.53705,-121.864599,0,0
+5210,5210,W.B.Hwy 20 @ Russell Rd,,48.534461,-121.876504,0,0
+5144,5144,SR 20 & Baker Lake Rd,39509 North Cascades Scenic Hwy [Wa-20],48.532085,-121.887361,0,0
+5145,5145,SR 20 by Baker Lake Food Mart,38940 SR 20-Baker Lake Food Mart,48.530143,-121.899532,0,0
+5146,5146,SR 20 & Wyatt Rd,SR 20 at Wyatt Rd.,48.528546,-121.912871,0,0
+5153,5153,Hwy 20 at Lusk Rd,,48.52768,-121.920267,0,0
+5147,5147,SR 20 & Pinelli Rd,SR 20 at Pinelli Rd.,48.526468,-121.930469,0,0
+5148,5148,"Hwy 20 & O'Hara Rd- West",,48.526287,-121.968848,0,0
+5105,5105,Pettit St. & Division St (Food Bank),Hamilton,48.527931,-121.990057,0,0
+5203,5203,Hamilton Post Office,,48.521958,-121.989961,0,0
+5151,5151,SR 20 & Cabin Creek Rd,SR 20 across from Cabin Creek Rd.,48.53056,-122.006816,0,0
+5152,5152,SR 20 & Healy Rd,SR 20 at Healy Rd.,48.53025,-122.028447,0,0
+5154,5154,E. Main St & Pipeline Road,,48.526662,-122.05931,0,0
+4137,4137,State St near Hunt Lane,,48.503318,-122.22067,0,0
+5101,5101,Minkler Rd & Jenny Lane,Minkler Rd. at Jenny Lane,48.506218,-122.20669,0,0
+5104,5104,SR 20 & Healy Road,SR 20 at Healy Rd.,48.530115,-122.027306,0,0
+5106,5106,SR 20 & Ohara Rd,"SR 20 at O'Hara Rd.",48.526097,-121.968858,0,0
+5110,5110,SR 20 & Pinelli Road,376345 SR 20 - just east of Pinelli Rd.,48.526752,-121.926865,0,0
+5109,5109,SR 20 & Lusk Rd,Hwy 20 at Lusk Rd,48.527663,-121.919215,0,0
+5108,5108,Sr 20 & Wyatt Ln (Birdsview Brewery),SR 20 at Birdsview Brewery,48.528441,-121.912645,0,0
+5111,5111,SR 20 & Birdsview Meadow Ln (Baker Lake Grocery),3692 SR 20 - Baker Lake Grocery,48.530019,-121.899403,0,0
+5112,5112,SR 20 & Baker Lake Rd,SR 20 across from Baker Lake Rd.,48.531975,-121.887184,0,0
+5113,5113,Highway 20 & Russel Rd (Birdsview drive in),40152 North Cascades Scenic Hwy [Wa-20],48.534173,-121.877138,0,0
+5114,5114,SR 20 & Wilde Road,SR 20 at Wilde Road,48.536937,-121.864554,0,0
+5115,5115,SR 20 & Rd NE Cape Horn Rd,SR 20 at Cape Horn Rd. NE,48.539209,-121.854008,0,0
+5117,5117,SR 20 & Grassmere Rd,SR 20 at Grassmere Blvd.,48.539455,-121.78001,0,0
+5118,5118,SR 20 near 1st st (strip mall. Grocery),44568 SR 20 at Red Apple,48.538374,-121.776632,0,0
+3232,3232,South March Point Rd at Thompson EB,,48.461708,-122.559621,0,0
+3401,3401,March Pt Road at Birch Equipment Rental ,8876 March Pt. Road at Birch Equipment Rental,48.462935,-122.55187,0,0
+3414,3414,"South March's Point - Reservation Rd.",,48.464265,-122.544256,0,0
+3150,3150,WSU,16654 Memorial Hwy [Wa-536],48.440082,-122.385988,0,0
+1430,1430,Skagit Community Foundation,1304 Memorial Hwy,48.422565,-122.352132,0,0
+3441,3441,Edgewater Park,500 block West Division at Edgewater Park,48.421584,-122.342065,0,0
+4189,4189,Fairhaven and Koch,,48.475378,-122.339434,0,0
+1201,1201,Chinook and Peterson at St Charles Catholic Church,,48.471976,-122.351154,0,0
+3409,3409,Peterson and Pulver,,48.472056,-122.356365,0,0
+3410,3410,Peterson Rd & Classic Drive westbound,16968 Peterson Rd. across from Classic Dr.,48.472156,-122.380863,0,0
+3411,3411,Peterson Rd. near Bay Ridge Dr.,,48.472313,-122.403678,0,0
+3412,3412,Peterson Rd. at Westar Lane,,48.47234,-122.4089,0,0
+3405,3405,Peterson Rd & Westar Lane,Peterson Rd. across from Wester Lane,48.472209,-122.408017,0,0
+3406,3406,Peterson Rd & Ridge Dr,Peterson Rd. across from Bay Ridge Dr.,48.472203,-122.402658,0,0
+3407,3407,Peterson Rd & Classic Drive eastbound,16968 Peterson Rd. near Classic Dr.,48.472006,-122.379975,0,0
+3408,3408,Peterson Rd. and Pulver,,48.471902,-122.356563,0,0
+4304,4304,Peterson Rd. at Burlington Terrace Apts.,,48.471738,-122.344885,0,0
+4305,4305,Norris St. at Where the Heart Is,,48.473686,-122.340933,0,0
+4190,4190,Fairhaven across from Koch at Heritage Place Apts.,,48.475226,-122.339109,0,0
+4306,4306,Fairhaven at Hulbush Lane,,48.4752807602454,-122.337075909202,0,0
+2327,2327,R Ave. and 32nd St.,,48.495771,-122.609469,0,0
+2328,2328,R Ave. and 30th St.,,48.4989,-122.609419,0,0
+2329,2329,R Ave. and 25th St.,,48.501975,-122.609394,0,0
+2330,2330,Q Avenue & 17th Street,across from Food Pavilion,48.508937,-122.61101,0,0
+2331,2331,Q Ave. and 13th across from Safeway,,48.512154,-122.610958,0,0
+2339,2339,12th Street and H Avenue,,48.512764,-122.624577,0,0
+2340,2340,Oakes Ave & Alaska St,2020 Oakes Ave. at Alaska St,48.512537,-122.637293,0,0
+2341,2341,Oakes Ave & Florida St,3022 Oakes Ave. across from Florida St,48.51056,-122.644712,0,0
+2319,2319,Oakes Ave. and Hartford,,48.509719,-122.648035,0,0
+2342,2342,Oakes Ave & Anacopper Rd,3918 Oakes Ave. across from Anacopper Rd.,48.507168,-122.65773,0,0
+2343,2343,Oakes Ave. Across from Glasgow St.,,48.502168,-122.667642,0,0
+2344,2344,Oakes and Portalis,,48.501394,-122.669434,0,0
+2310,2310,WA State Ferry,,48.505846,-122.679503,0,0
+2345,2345,Sunset Ave. at Anaco Beach Rd. at Fire Station,,48.499113,-122.67652,0,0
+2715,2715,Sunset Ave at Shannon Point Ave,,48.4988681077282,-122.683632086732,0,0
+2313,2313,Skyline Way & Sunset Ave,Skyline near Sunset Ave.,48.498223,-122.6854,0,0
+2346,2346,"Old Salt's Deli","Across from Old Salt's Deli",48.495285,-122.685523,0,0
+5133,5133,Concrete Theatre,45920 Main St Near Concrete Theatre,48.538819,-121.746167,0,0
+5204,5204,Hwy 20 across from Mill Ave,,48.5376,-121.746955,0,0
+5134,5134,SR 20 & Superior Ave ,Cascade Burgers,48.53568,-121.759124,0,0
+5150,5150,Concrete High School,,48.531224,-121.758361,0,0
+5120,5120,Cedar St & Park St.,Cedar St. near Park Ave.,48.534719,-121.761135,0,0
+5149,5149,Dalles Rd & Leonard Rd,,48.537001,-121.784557,0,0
+5121,5121,Concrete Sauk Valley Rd & Gordon Rd,Concrete Saulk Valley Rd.,48.529083,-121.766183,0,0
+5122,5122,S. Skagit Hwy & Concrete Sauk Valley Rd.,So. Skagit Hwy Intersection with Saulk Valley Rd.,48.524756,-121.773257,0,0
+5123,5123,S. Skagit Hwy & Wilderness Drive,,48.531887,-121.793637,0,0
+3231,3231,"S. March's Point Rd at March's Point Rd",,48.465666,-122.535975,0,0
+3403,3403,"South March's Point Rd. at Smoke Shop",,48.459307,-122.526607,0,0
+3419,3419,Reservation Rd. across Padilla Heights Rd.,,48.461497,-122.543934,0,0
+3460,3460,Maple Ave  & Caledonia St,913 Maple south of Caledonia,48.384992,-122.495186,0,0
+3422,3422,Caledonia & Park St,Caledonia at Park,48.386273,-122.495226,0,0
+3423,3423,Caledonia & 4th st.,Calendonia at Fourth St.,48.386923,-122.496875,0,0
+3424,3424,S. 2nd St & E. Douglas St.,709 2nd St. at Douglas St.,48.388991,-122.497481,0,0
+3425,3425,2nd St & Benton,2nd St. at Benton,48.390281,-122.496338,0,0
+3426,3426,2nd & Washington,2nd at Washington,48.391547,-122.495186,0,0
+3428,3428,Morris St east & 6th St.,Morris St. east of 6th St.,48.392118,-122.489777,0,0
+3429,3429,Morris St east & Maple Ave,Morris St. at Video Store and LaConner Drug Store,48.392112,-122.488241,0,0
+3432,3432,Whitney and Flats Rd ,LaConner - Whitney and Flats Rd,48.404145,-122.47636,0,0
+3430,3430,16005 La Conner-Whitney Rd,16005 LaConner-Whitney,48.413839,-122.47101,0,0
+3431,3431,Laconner-Whitney Rd & McLean rd.,LaConner - Whitney - South of McLean Rd.,48.418468,-122.470977,0,0
+3433,3433,McLean Rd  & Best St.,McLean Rd. east of Best Rd.,48.420615,-122.44226,0,0
+3434,3434,McLean Rd & Beavermarsh Rd. Ave ( Small Market),McLean Rd. at Beavermarsh Rd. - Evergreen Market,48.420923,-122.400412,0,0
+3435,3435,McLean Rd & Barrett St.,McLean Rd. at Barrett Rd.,48.420904,-122.389747,0,0
+3436,3436,McLean Rd & Kamb St.,McLean Rd. at Kamb Rd.,48.420875,-122.383681,0,0
+3437,3437,McLean Rd at & Allen St.,McLean Rd. at Avon Allen Rd.,48.420854,-122.37836,0,0
+3438,3438,McLean Rd & Penn St.,McLean Rd. west of Penn Rd.,48.420731,-122.365407,0,0
+3439,3439,McLean Rd & Sunset St.,McLean Rd. at Sunset Rd.,48.420698,-122.361674,0,0
+3440,3440,McLean Rd & Curtis St.,McLean Rd. at Curtis St.,48.420768,-122.3518,0,0
+3418,3418,Washington School,,48.42081,-122.348462,0,0
+6211,6211,Skagit Station Gate 1,,48.4184594999826,-122.334299822706,0,0
+5116,5116,SR 20  near Challenger Rd,SR 20 at Baker River Work Center,48.540911,-121.845258,0,0
+5119,5119,SR 20 & Superior Ave (Drive in & gas),SR 20 at Chevron Station/Loggers Landing,48.536184,-121.760601,0,0
+2311,2311,Sands Way & Lea Pl,Sands Way across from Lea St.,48.495799,-122.686972,0,0
+2312,2312,Sands Way & Curtis Ct.,Sands Way across from Curtis Ct.,48.49709,-122.688354,0,0
+2314,2314,Sunset Ave & Shannon Point Ave,Sunset Ave. and Shannon Point,48.498756,-122.683373,0,0
+2315,2315,Sunset Ave & Anaco Beach Rd(Fire Stn),Sunset Ave just west of Anaco Beach Rd,48.498937,-122.67672,0,0
+2316,2316,Oakes Ave. and Harborview,,48.501198,-122.669383,0,0
+2317,2317,Oakes Avenue and Glasgow Street eastbound,4501 Oakes Ave. near Glasgow St.,48.503052,-122.665117,0,0
+2318,2318,Oakes Avenue and Anacopper Road,Oakes Ave. just east of Anacopper Rd.,48.507339,-122.656331,0,0
+2321,2321,Oakes Ave & Florida St.,3011 Oakes Ave. near Florida Ave.,48.510614,-122.643947,0,0
+2322,2322,Oakes Ave & Alaska St.,2519 Oakes Ave. near Alaska St.,48.512427,-122.637124,0,0
+2716,2716,12th and H - Steinmans Grocery Store,,48.512599,-122.624612,0,0
+2323,2323,Q Ave & 15 th St.,at Food Pavilion,48.509659,-122.611233,0,0
+2324,2324,R Ave & 23rd Street,West Side of R Near 23rd Street,48.503381,-122.609686,0,0
+2325,2325,R ave & 29th st.,West Side of R Ave near 29th Street,48.498666,-122.609752,0,0
+2326,2326,R ave & 33rd st.,West Side of R Ave near 33rd Street,48.495788,-122.609792,0,0
+1264,1264,College Way at Worksource,College Way west of LaVenture,48.435757,-122.315454,0,0
+1265,1265,College Way near Phoenix Recovery,,48.435796,-122.320557,0,0
+1266,1266,College Way and Continental PL,,48.435849,-122.325251,0,0
+1267,1267,College Way East of Urban by Whidbey Island Bank,,48.435917,-122.331035,0,0

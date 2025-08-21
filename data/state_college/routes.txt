@@ -1,0 +1,25 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order
+22,0,"N","Martin St/Aaron Dr",,3,https://catabus.com/route-page/nmartinstaarondr/,00B0F0,ffffff,9
+25,0,"NV","NV",,3,https://catabus.com/route-page/nvhavershiremartinvairotoftrees/,635f5f,ffffff,11
+31,0,"R","Waupelani Dr",,3,https://catabus.com/route-page/rwaupelanidr/,FF99CC,000000,13
+33,0,"RC","Waupelani Exp",,3,https://catabus.com/route-page/rcwaupelanidrcampus/,FF3399,ffffff,14
+34,0,"RP","RP",,3,https://catabus.com/route-page/rpwaupelanidowntown/,ad146e,ffffff,16
+40,0,"HU","Toftrees/Campus",,3,https://catabus.com/route-page/hutoftreescampus/,7030A0,ffffff,7
+42,0,"NE","Martin St Express",,3,https://catabus.com/route-page/nemartinaaronexpress/,74fbfd,000000,10
+43,0,"V","Vairo Boulevard",,3,https://catabus.com/route-page/vvairoblvd/,FF6600,FFFFFF,18
+44,0,"VE","Vairo Exp",,3,https://catabus.com/route-page/vevairoblvdexpress/,FF9966,000000,19
+46,0,"W","Havershire/Farmstead",,3,https://catabus.com/route-page/wvalleyvista/,FCCC0A,000000,21
+47,0,"WE","Havershire Exp",,3,https://catabus.com/route-page/wehavershireblvdexpress/,7030A0,ffffff,22
+51,0,"RL","Red Link",,3,https://catabus.com/route-page/redlink/,fc0004,ffffff,32
+55,0,"BL","Blue Loop",,3,https://catabus.com/route-page/blueloop/,0000FF,FFFFFF,30
+57,0,"WL","White Loop",,3,https://catabus.com/route-page/whiteloop/,0d0d0d,ffffff,31
+70,0,"CC","College Avenue Connector",,3,https://catabus.com/route-page/caconnector/,000099,ffffff,5
+71,0,"AC","Atherton Street Connector",,3,https://catabus.com/route-page/asconnector/,00B050,FFFFFF,0
+72,0,"H","Toftrees",,3,https://catabus.com/route-page/htoftrees/,9966FF,ffffff,6
+98,0,"UP","University/Parkway",,3,https://catabus.com/route-page/up/,29cbcc,ffffff,17
+951,0,"RL Gameday","Red Link (Gameday Detour)","PSU Gameday service only. See service calendar. Do not use on other days.",3,https://catabus.com/route-page/redlink/,fc0004,ffffff,35
+955,0,"BL Gameday","Blue Loop (Gameday Detour)","PSU Gameday service only. See service calendar. Do not use on other days.",3,https://catabus.com/route-page/blueloop/,0000ff,ffffff,34
+957,0,"WL Gameday","White Loop (Gameday Detour)","PSU Gameday service only. See service calendar. Do not use on other days.",3,https://catabus.com/route-page/whiteloop/,0d0d0d,ffffff,36
+972,0,"H Gameday","Toftrees (Gameday Detour)","PSU Gameday service only. See service calendar. Do not use on other days.",3,https://catabus.com/route-page/htoftrees/,9966ff,ffffff,33
+997,0,"SA","South Atherton Shuttle",,3,https://catabus.com/catabus/community-service/cata_gameday_shuttles/,FE3424,ffffff,37
+998,0,"DT","Downtown Shuttle",,3,https://catabus.com/catabus/community-service/cata_gameday_shuttles/,247BFA,ffffff,38

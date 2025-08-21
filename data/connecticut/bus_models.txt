@@ -1,0 +1,51 @@
+A1-A14,New Flyer D35LFR,2010,Diesel,"https://cptdb.ca/wiki/index.php/Connecticut_Transit_A1-A14,_A21-A26"
+A21-A26,New Flyer D35LFR,2010,Diesel,"https://cptdb.ca/wiki/index.php/Connecticut_Transit_A1-A14,_A21-A26"
+A31-A47,New Flyer XD35,2010,Diesel,https://cptdb.ca/wiki/index.php/Connecticut_Transit_A31-A47
+A48-A64,New Flyer XDE35 Hybrid,2010,Hybrid,https://cptdb.ca/wiki/index.php/Connecticut_Transit_A48-A64
+A69-A70,MCI D4500CT,2010,Diesel,https://cptdb.ca/wiki/index.php/Connecticut_Transit_1011-1022
+A71-A91,MCI D4500CT,2010,Diesel,https://cptdb.ca/wiki/index.php/Connecticut_Transit_A71-A91
+A1475-A1479,MCI D4500CT,2014,Diesel,https://cptdb.ca/wiki/index.php/Connecticut_Transit_1475-1479
+A1510,MCI D4500CT,2015,Diesel,"https://cptdb.ca/wiki/index.php/Connecticut_Transit_A1510,_1512-1513"
+A1512-A1513,MCI D4500CT,2015,Diesel,"https://cptdb.ca/wiki/index.php/Connecticut_Transit_A1510,_1512-1513"
+A1695-A1699,New Flyer XD40,2017,Diesel,https://cptdb.ca/wiki/index.php/Connecticut_Transit_A1695-A1699
+A1867-A1869,New Flyer XD35,2017,Diesel,https://cptdb.ca/wiki/index.php/Connecticut_Transit_A1867-A1869
+303-309,MCI D4500,2003-2004,Diesel,https://cptdb.ca/wiki/index.php/Connecticut_Transit_303-309
+501-548,New Flyer D40LF,2005,Diesel,https://cptdb.ca/wiki/index.php/Connecticut_Transit_501-548
+711-753,New Flyer D40LF,2007,Diesel,https://cptdb.ca/wiki/index.php/Connecticut_Transit_711-753
+801-802,New Flyer D40LF,2008,Diesel,https://cptdb.ca/wiki/index.php/Connecticut_Transit_801-802
+803,New Flyer D35LF,2008,Diesel,https://cptdb.ca/wiki/index.php/Connecticut_Transit_803
+1011-1016,MCI D4500CT,2010,Diesel,https://cptdb.ca/wiki/index.php/Connecticut_Transit_1011-1022
+1019-1022,MCI D4500CT,2010,Diesel,https://cptdb.ca/wiki/index.php/Connecticut_Transit_1011-1022
+1023-1036,New Flyer XDE40 Hybrid,2010,Hybrid,https://cptdb.ca/wiki/index.php/Connecticut_Transit_1023-1036
+1041-1052,Nova Bus LFS Artic,2010,Diesel,"https://cptdb.ca/wiki/index.php/Connecticut_Transit_1041-1052,_1061-1073"
+1061-1073,Nova Bus LFS Artic,2010,Diesel,"https://cptdb.ca/wiki/index.php/Connecticut_Transit_1041-1052,_1061-1073"
+1101-1110,Nova Bus LFS Artic HEV,2011,Hybrid,https://cptdb.ca/wiki/index.php/Connecticut_Transit_1101-1110
+1201-1204,New Flyer XDE35 Hybrid,2012,Hybrid,https://cptdb.ca/wiki/index.php/Connecticut_Transit_1201-1204
+1211-1214,New Flyer XDE40 Hybrid,2011-2012,Hybrid,https://cptdb.ca/wiki/index.php/Connecticut_Transit_1211-1214
+1401-1425,New Flyer XDE40 Hybrid,2014,Hybrid,"https://cptdb.ca/wiki/index.php/Connecticut_Transit_1401-1425,_1481-1493"
+1426-1429,Nova Bus LFS Artic HEV,2014,Hybrid,https://cptdb.ca/wiki/index.php/Connecticut_Transit_1426-1429
+1430-1438,Gillig BRT HEV 29',2014-2015,Hybrid,"https://cptdb.ca/wiki/index.php/Connecticut_Transit_1430-1438,_1501-1503"
+1441-1458,New Flyer XDE40 Hybrid,2014,Hybrid,https://cptdb.ca/wiki/index.php/Connecticut_Transit_1441-1458
+1462-1473,Nova Bus LFX Artic HEV,2014,Hybrid,https://cptdb.ca/wiki/index.php/Connecticut_Transit_1462-1473
+1481-1493,New Flyer XDE40 Hybrid,2014,Hybrid,"https://cptdb.ca/wiki/index.php/Connecticut_Transit_1401-1425,_1481-1493"
+1501-1503,Gillig BRT HEV 29',2015,Hybrid,"https://cptdb.ca/wiki/index.php/Connecticut_Transit_1430-1438,_1501-1503"
+1601-1626,New Flyer XD40,2016-2017,Diesel,https://cptdb.ca/wiki/index.php/Connecticut_Transit_1601-1626
+1676-1694,MCI D4500CT,2017,Diesel,https://cptdb.ca/wiki/index.php/Connecticut_Transit_1676-1694
+1701-1799,New Flyer XD40,2017,Diesel,https://cptdb.ca/wiki/index.php/Connecticut_Transit_1701-1799
+1801-1866,New Flyer XD40,2017-2018,Diesel,https://cptdb.ca/wiki/index.php/Connecticut_Transit_1801-1866
+1870-1884,New Flyer XD40,2018,Diesel,https://cptdb.ca/wiki/index.php/Connecticut_Transit_1870-1884
+1901-1950,New Flyer XD40,2019,Diesel,https://cptdb.ca/wiki/index.php/Connecticut_Transit_1901-1950
+1999,MCI D4500CT,2019,Diesel,https://cptdb.ca/wiki/index.php/Connecticut_Transit_8200-8210
+2000-2001,MCI D4500CT,2020,Diesel,https://cptdb.ca/wiki/index.php/Connecticut_Transit_2000-2001
+2031-2033,New Flyer XD40,2021,Diesel,https://cptdb.ca/wiki/index.php/Connecticut_Transit_2031-2033
+2050-2073,New Flyer XD40,2020,Diesel,https://cptdb.ca/wiki/index.php/Connecticut_Transit_2050-2073
+2101-2112,New Flyer XE40 Xcelsior CHARGE,2021,Electric,https://cptdb.ca/wiki/index.php/Connecticut_Transit_2101-2112
+2401-2410,New Flyer XE35 Xcelsior CHARGE,2024,Electric,https://cptdb.ca/wiki/index.php/Connecticut_Transit_2401-2410
+2411-2444,New Flyer XE40 Xcelsior CHARGE,2024,Electric,https://cptdb.ca/wiki/index.php/Connecticut_Transit_2411-2444
+2501,New Flyer XDE40 Hybrid,2025,Hybrid,https://cptdb.ca/wiki/index.php/Connecticut_Transit_2501
+2539-2550,New Flyer XD60,2025,Diesel,https://cptdb.ca/wiki/index.php/Connecticut_Transit_2539-2550
+8200-8208,MCI D4500CT,2019,Diesel,https://cptdb.ca/wiki/index.php/Connecticut_Transit_8200-8210
+8500-8501,New Flyer XD40,2018,Diesel,"https://cptdb.ca/wiki/index.php/Connecticut_Transit_8500-8501,_8600"
+8502-8503,New Flyer XD40,2017,Diesel,https://cptdb.ca/wiki/index.php/Connecticut_Transit_1801-1866
+8600,New Flyer XD40,2018,Diesel,"https://cptdb.ca/wiki/index.php/Connecticut_Transit_8500-8501,_8600"
+8601,MCI D4500CT,2019,Diesel,"https://cptdb.ca/wiki/index.php/Connecticut_Transit_8200-8210"

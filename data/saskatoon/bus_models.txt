@@ -1,0 +1,25 @@
+201-209,New Flyer D40LF,2002,Diesel,https://cptdb.ca/wiki/index.php/Saskatoon_Transit_201-209
+601,New Flyer D40LFR,2006,Diesel,"https://cptdb.ca/wiki/index.php/Saskatoon_Transit_0601-0613,_0618"
+603-613,New Flyer D40LFR,2006,Diesel,"https://cptdb.ca/wiki/index.php/Saskatoon_Transit_0601-0613,_0618"
+618,New Flyer D40LFR,2006,Diesel,"https://cptdb.ca/wiki/index.php/Saskatoon_Transit_0601-0613,_0618"
+701-708,New Flyer D40LFR,2007,Diesel,"https://cptdb.ca/wiki/index.php/Saskatoon_Transit_0701-0712,_713"
+710-713,New Flyer D40LFR,2007,Diesel,"https://cptdb.ca/wiki/index.php/Saskatoon_Transit_0701-0712,_713"
+801-816,New Flyer D40LFR,2008,Diesel,https://cptdb.ca/wiki/index.php/Saskatoon_Transit_801-816
+830,Nova Bus LFX,2008,Diesel,https://cptdb.ca/wiki/index.php/Saskatoon_Transit_830
+1001-1004,New Flyer D40LFR,2010,Diesel,https://cptdb.ca/wiki/index.php/Saskatoon_Transit_1001-1004
+1005-1007,Nova Bus LFS Artic,2010,Diesel,https://cptdb.ca/wiki/index.php/Saskatoon_Transit_1005-1007
+1101-1103,New Flyer D40LFR,2011,Diesel,https://cptdb.ca/wiki/index.php/Saskatoon_Transit_1101-1103
+1203-1206,Nova Bus LFS,2012,Diesel,https://cptdb.ca/wiki/index.php/Saskatoon_Transit_1203-1206
+1310,Nova Bus LFX,2010,Diesel,https://cptdb.ca/wiki/index.php/Saskatoon_Transit_1310
+1311,Nova Bus LFX,2011,Diesel,https://cptdb.ca/wiki/index.php/Saskatoon_Transit_1311
+1401-1405,Nova Bus LFS,2014,Diesel,https://cptdb.ca/wiki/index.php/Saskatoon_Transit_1401-1405
+1501-1510,Nova Bus LFS,2015,Diesel,https://cptdb.ca/wiki/index.php/Saskatoon_Transit_1501-1510
+1601-1610,Nova Bus LFS,2016,Diesel,https://cptdb.ca/wiki/index.php/Saskatoon_Transit_1601-1610
+1701-1711,Nova Bus LFS,2017,Diesel,https://cptdb.ca/wiki/index.php/Saskatoon_Transit_1701-1711
+1712-1715,Grande West Vicinity 30',2017,Diesel,https://cptdb.ca/wiki/index.php/Saskatoon_Transit_1712-1715
+1801-1815,Nova Bus LFS,2018,Diesel,https://cptdb.ca/wiki/index.php/Saskatoon_Transit_1801-1815
+1816-1819,Grande West Vicinity 30',2018,Diesel,https://cptdb.ca/wiki/index.php/Saskatoon_Transit_1816-1819
+1901-1907,Nova Bus LFS,2019,Diesel,https://cptdb.ca/wiki/index.php/Saskatoon_Transit_1901-1907
+2401-2405,Nova Bus LFS,2024,Diesel,https://cptdb.ca/wiki/index.php/Saskatoon_Transit_2401-2405
+2406-2408,Nova Bus LFS Artic,2024,Diesel,https://cptdb.ca/wiki/index.php/Saskatoon_Transit_2406-2408
+2410-2411,Nova Bus LFSe+,2024,Electric,https://cptdb.ca/wiki/index.php/Saskatoon_Transit_2410-2411

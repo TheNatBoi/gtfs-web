@@ -1,0 +1,13 @@
+0344-0348,Gillig Low Floor 40',2003,Diesel,https://cptdb.ca/wiki/index.php/Bloomington_Transit_0344-0348
+0551-0555,Gillig Low Floor 40',2005,Diesel,https://cptdb.ca/wiki/index.php/Bloomington_Transit_0551-0555
+0760-0763,Gillig Low Floor 35',2007,Diesel,https://cptdb.ca/wiki/index.php/Bloomington_Transit_0760-0763
+0864-0866,Gillig Low Floor 35',2008,Diesel,https://cptdb.ca/wiki/index.php/Bloomington_Transit_0864-0866
+0967-0970,Gillig Low Floor HEV 35',2009,Hybrid,https://cptdb.ca/wiki/index.php/Bloomington_Transit_0967-0970
+1371-1372,Gillig Low Floor HEV 35',2013,Hybrid,https://cptdb.ca/wiki/index.php/Bloomington_Transit_1371-1372
+1574,Gillig Low Floor 40',2015,Diesel,https://cptdb.ca/wiki/index.php/Bloomington_Transit_1574
+1675-1676,Gillig Low Floor 40',2015,Diesel,https://cptdb.ca/wiki/index.php/Bloomington_Transit_1675-1676
+1777-1781,Gillig Low Floor 40',2017,Diesel,https://cptdb.ca/wiki/index.php/Bloomington_Transit_1777-1781
+1882-1885,Gillig Low Floor 40',2018,Diesel,https://cptdb.ca/wiki/index.php/Bloomington_Transit_1882-1885
+1986-1988,Gillig Low Floor 40',2019,Diesel,https://cptdb.ca/wiki/index.php/Bloomington_Transit_1986-1988
+2189-2190,Gillig Low Floor Plus EV 35',2021,Electric,https://cptdb.ca/wiki/index.php/Bloomington_Transit_2189-2190
+2491-2494,Gillig Low Floor Plus EV 40',2024,Electric,https://cptdb.ca/wiki/index.php/Bloomington_Transit_2491-2494

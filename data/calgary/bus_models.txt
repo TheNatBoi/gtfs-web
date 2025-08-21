@@ -1,0 +1,29 @@
+6001-6006,New Flyer D60LFR,2007,Diesel,https://cptdb.ca/wiki/index.php/Calgary_Transit_6001-6006
+6007-6021,New Flyer D60LFR,2007-2008,Diesel,https://cptdb.ca/wiki/index.php/Calgary_Transit_6007-6021
+6022-6041,New Flyer D60LFR,2008,Diesel,https://cptdb.ca/wiki/index.php/Calgary_Transit_6022-6041
+6042-6063,New Flyer D60LFR,2009,Diesel,https://cptdb.ca/wiki/index.php/Calgary_Transit_6042-6063
+6064-6073,New Flyer XD60,2013,Diesel,https://cptdb.ca/wiki/index.php/Calgary_Transit_6064-6073
+6074-6093,New Flyer XD60,2014,Diesel,https://cptdb.ca/wiki/index.php/Calgary_Transit_6074-6093
+6094,New Flyer XD60,2013,Diesel,https://cptdb.ca/wiki/index.php/Calgary_Transit_6094
+7783-7817,New Flyer D40LF,2002,Diesel,https://cptdb.ca/wiki/index.php/Calgary_Transit_7783-7817
+7818-7858,New Flyer D40LF,2003,Diesel,https://cptdb.ca/wiki/index.php/Calgary_Transit_7818-7858
+7859-7890,New Flyer D40LF,2004,Diesel,https://cptdb.ca/wiki/index.php/Calgary_Transit_7859-7890
+7891-7920,New Flyer D40LF,2005,Diesel,https://cptdb.ca/wiki/index.php/Calgary_Transit_7891-7920
+7921-7962,New Flyer D40LF,2005,Diesel,https://cptdb.ca/wiki/index.php/Calgary_Transit_7921-7962
+7963-7980,New Flyer D40LF,2006,Diesel,https://cptdb.ca/wiki/index.php/Calgary_Transit_7963-7980
+7981-8015,New Flyer D40LF,2007,Diesel,https://cptdb.ca/wiki/index.php/Calgary_Transit_7981-8015
+8016-8065,New Flyer D40LF,2007-2008,Diesel,https://cptdb.ca/wiki/index.php/Calgary_Transit_8016-8065
+8066-8095,New Flyer D40LFR,2008,Diesel,https://cptdb.ca/wiki/index.php/Calgary_Transit_8066-8095
+8101-8130,Nova Bus LFS,2010,Diesel,https://cptdb.ca/wiki/index.php/Calgary_Transit_8101-8130
+8131-8158,Nova Bus LFS,2010-2011,Diesel,https://cptdb.ca/wiki/index.php/Calgary_Transit_8131-8158
+8159-8160,Nova Bus LFS,2011,Diesel,https://cptdb.ca/wiki/index.php/Calgary_Transit_8159-8160
+8161-8180,Nova Bus LFS,2011,Diesel,https://cptdb.ca/wiki/index.php/Calgary_Transit_8161-8180
+8181-8200,Nova Bus LFS,2012,Diesel,https://cptdb.ca/wiki/index.php/Calgary_Transit_8181-8200
+8201-8202,New Flyer XN40,2012,Natural Gas,https://cptdb.ca/wiki/index.php/Calgary_Transit_8201-8202
+8203-8204,Nova Bus LFS Natural Gas,2013,Natural Gas,https://cptdb.ca/wiki/index.php/Calgary_Transit_8203-8204
+8205-8354,New Flyer XD40,2013-2014,Diesel,https://cptdb.ca/wiki/index.php/Calgary_Transit_8205-8354
+8355-8394,Nova Bus LFS Natural Gas,2018-2019,Natural Gas,https://cptdb.ca/wiki/index.php/Calgary_Transit_8355-8394
+8395-8464,Nova Bus LFS Natural Gas,2019-2020,Natural Gas,https://cptdb.ca/wiki/index.php/Calgary_Transit_8395-8464
+8465-8489,Nova Bus LFS Natural Gas,2022,Natural Gas,https://cptdb.ca/wiki/index.php/Calgary_Transit_8465-8489
+8490-8521,Nova Bus LFS Natural Gas,2022,Natural Gas,https://cptdb.ca/wiki/index.php/Calgary_Transit_8490-8521
+8522-8596,Nova Bus LFS Natural Gas,2024,Natural Gas,https://cptdb.ca/wiki/index.php/Calgary_Transit_8522-8596

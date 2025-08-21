@@ -1,0 +1,12 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order
+5,0,"5","Humboldt",,3,,EE332A,FFFFFF,5
+10,0,"10","Tresckow McAdoo",,3,,ee2b7f,FFFFFF,10
+15,0,"15","Wilkes-Barre",,3,,2beec7,000000,15
+20,0,"20","Beaver Meadows-Weatherly",,3,,55ee2b,000000,20
+40,0,"40","Freeland",,3,,2b75ee,FFFFFF,40
+50,0,"50","NE/NW Diamond",,3,,b02bee,FFFFFF,50
+70,0,"70","West Hazleton",,3,,2b38ee,FFFFFF,70
+80,0,"80","Hazle Marketplace",,3,,2bc7ee,000000,80
+90,0,"90","Penn State","Route 90 Penn State",3,,0300d1,ffffff,90
+100,0,"100","Sunday Loop",,3,,eea62b,000000,100
+110,0,"110","Saturday Night Loop",,3,,ee6f2b,FFFFFF,110

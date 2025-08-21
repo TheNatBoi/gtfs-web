@@ -1,0 +1,20 @@
+1291-1309,Gillig Low Floor 40',2009,Diesel,https://cptdb.ca/wiki/index.php/GoRaleigh_1291-1309
+1310-1316,Gillig Low Floor 40',2011,Diesel,https://cptdb.ca/wiki/index.php/GoRaleigh_1310-1316
+1317-1318,Gillig Low Floor 40',2012,Diesel,https://cptdb.ca/wiki/index.php/GoRaleigh_1317-1318
+1319-1329,Gillig Low Floor 40',2014,Diesel,https://cptdb.ca/wiki/index.php/GoRaleigh_1319-1329
+1330-1339,Gillig Low Floor 40',2014,Diesel,https://cptdb.ca/wiki/index.php/GoRaleigh_1330-1339
+1601-1608,Gillig Low Floor 40',2016,Diesel,https://cptdb.ca/wiki/index.php/GoRaleigh_1601-1608
+1609-1611,Gillig Low Floor 29',2016,Diesel,https://cptdb.ca/wiki/index.php/GoRaleigh_1609-1611
+1701-1704,Gillig Low Floor 40',2017,Diesel,https://cptdb.ca/wiki/index.php/GoRaleigh_1701-1704
+1801-1817,Gillig Low Floor CNG 40',2018,CNG,https://cptdb.ca/wiki/index.php/GoRaleigh_1801-1817
+1901-1919,Gillig Low Floor CNG 40',2019,CNG,https://cptdb.ca/wiki/index.php/GoRaleigh_1901-1919
+1920-1923,Gillig Low Floor CNG 29',2019,CNG,https://cptdb.ca/wiki/index.php/GoRaleigh_1920-1923
+2101-2102,Proterra ZX5 40',2021,Electric,https://cptdb.ca/wiki/index.php/GoRaleigh_2101-2102
+2103-2105,Proterra Catalyst BE35,2020,Electric,https://cptdb.ca/wiki/index.php/GoRaleigh_2103-2105
+2106-2111,Gillig Low Floor CNG 40',2021,CNG,https://cptdb.ca/wiki/index.php/GoRaleigh_2106-2111
+2112-2113,Gillig Low Floor CNG 29',2021,CNG,https://cptdb.ca/wiki/index.php/GoRaleigh_2112-2113
+2201-2228,Gillig Low Floor CNG 40',2022,CNG,https://cptdb.ca/wiki/index.php/GoRaleigh_2201-2228
+2401-2404,Gillig Low Floor CNG 40',2024,CNG,https://cptdb.ca/wiki/index.php/GoRaleigh_2401-2404
+2821-2822,Gillig Low Floor 35',2007,Diesel,"https://cptdb.ca/wiki/index.php/GoRaleigh_2821-2822,_2824"
+2824,Gillig Low Floor 35',2008,Diesel,"https://cptdb.ca/wiki/index.php/GoRaleigh_2821-2822,_2824"
+62301-62307,New Flyer XN60,2023,CNG,https://cptdb.ca/wiki/index.php/GoRaleigh_62301-62307

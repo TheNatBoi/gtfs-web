@@ -1,0 +1,5 @@
+1001-1003,Gillig Low Floor 29',2010,Diesel,https://cptdb.ca/wiki/index.php/Capital_Area_Transit_1001-1003
+1501-1502,Gillig Low Floor 35',2015,Diesel,https://cptdb.ca/wiki/index.php/Capital_Area_Transit_1501-1502
+1909-1910,Alexander Dennis Enviro200,2018,Diesel,https://cptdb.ca/wiki/index.php/Capital_Area_Transit_1909-1910
+2201-2202,Gillig Low Floor 29',2022,Diesel,https://cptdb.ca/wiki/index.php/Capital_Area_Transit_2201-2202
+2301,Gillig Low Floor 29',2023,Diesel,https://cptdb.ca/wiki/index.php/Capital_Area_Transit_2301

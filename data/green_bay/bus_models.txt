@@ -1,0 +1,9 @@
+901-909,New Flyer D35LF,2009,Diesel,https://cptdb.ca/wiki/index.php/Green_Bay_Metro_901-909
+1101-1110,Gillig Low Floor 35',2011,Diesel,https://cptdb.ca/wiki/index.php/Green_Bay_Metro_1101-1110
+1501-1504,Gillig Low Floor 40',2015,Diesel,https://cptdb.ca/wiki/index.php/Green_Bay_Metro_1501-1504
+1801-1803,New Flyer XD35,2018,Diesel,https://cptdb.ca/wiki/index.php/Green_Bay_Metro_1801-1803
+1804-1805,New Flyer XD40,2018,Diesel,https://cptdb.ca/wiki/index.php/Green_Bay_Metro_1804-1805
+1901-1903,Gillig Low Floor Plus 35',2019,Diesel,https://cptdb.ca/wiki/index.php/Green_Bay_Metro_1901-1903
+2001-2004,Gillig Low Floor Plus 35',2020,Diesel,https://cptdb.ca/wiki/index.php/Green_Bay_Metro_2001-2004
+2201-2204,Gillig Low Floor Plus 29',2022,Diesel,https://cptdb.ca/wiki/index.php/Green_Bay_Metro_2201-2204
+2501-2506,Gillig Low Floor Plus EV 35',2025,Electric,https://cptdb.ca/wiki/index.php/Green_Bay_Metro_2501-2506

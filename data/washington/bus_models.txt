@@ -1,0 +1,23 @@
+1045-1049,New Flyer XE40 CHARGE NG,2024,Electric,https://cptdb.ca/wiki/index.php/Washington_Metropolitan_Area_Transit_Authority_1045-1049
+1060-1061,New Flyer XE60 CHARGE NG,2023,Electric,https://cptdb.ca/wiki/index.php/Washington_Metropolitan_Area_Transit_Authority_1060-1061
+2830-2993,New Flyer XN40,2015-2016,CNG,https://cptdb.ca/wiki/index.php/Washington_Metropolitan_Area_Transit_Authority_2830-2993
+3100-3199,New Flyer XN40,2018,CNG,https://cptdb.ca/wiki/index.php/Washington_Metropolitan_Area_Transit_Authority_3100-3199
+3200-3274,New Flyer XN40,2019,CNG,https://cptdb.ca/wiki/index.php/Washington_Metropolitan_Area_Transit_Authority_3200-3274
+3275-3349,New Flyer XN40,2020,CNG,https://cptdb.ca/wiki/index.php/Washington_Metropolitan_Area_Transit_Authority_3275-3349
+4450-4474,New Flyer XD40,2019,Diesel,https://cptdb.ca/wiki/index.php/Washington_Metropolitan_Area_Transit_Authority_4450-4474
+4475-4499,New Flyer XD40,2020,Diesel,https://cptdb.ca/wiki/index.php/Washington_Metropolitan_Area_Transit_Authority_4475-4499
+4500-4598,New Flyer XD40,2021,Diesel,https://cptdb.ca/wiki/index.php/Washington_Metropolitan_Area_Transit_Authority_4500-4598
+4600-4700,New Flyer XD40,2022,Diesel,https://cptdb.ca/wiki/index.php/Washington_Metropolitan_Area_Transit_Authority_4600-4700
+4701-4795,New Flyer XD40,2023,Diesel,https://cptdb.ca/wiki/index.php/Washington_Metropolitan_Area_Transit_Authority_4701-4795
+5460-5480,New Flyer XDE60,2015,Hybrid,https://cptdb.ca/wiki/index.php/Washington_Metropolitan_Area_Transit_Authority_5460-5480
+5481-5492,New Flyer XDE60,2018,Hybrid,https://cptdb.ca/wiki/index.php/Washington_Metropolitan_Area_Transit_Authority_5481-5492
+5500-5541,New Flyer XD60,2020-2021,Diesel,https://cptdb.ca/wiki/index.php/Washington_Metropolitan_Area_Transit_Authority_5500-5541
+6301-6461,New Flyer DE40LFA,2008-2009,Hybrid,https://cptdb.ca/wiki/index.php/Washington_Metropolitan_Area_Transit_Authority_6301-6461
+6462-6509,New Flyer DE40LFA,2010,Hybrid,https://cptdb.ca/wiki/index.php/Washington_Metropolitan_Area_Transit_Authority_6462-6509
+6510-6609,New Flyer DE40LFA,2010-2011,Hybrid,https://cptdb.ca/wiki/index.php/Washington_Metropolitan_Area_Transit_Authority_6510-6609
+7001-7100,New Flyer XDE40,2011,Hybrid,https://cptdb.ca/wiki/index.php/Washington_Metropolitan_Area_Transit_Authority_7001-7100
+7101-7152,New Flyer XDE40,2011,Hybrid,https://cptdb.ca/wiki/index.php/Washington_Metropolitan_Area_Transit_Authority_7101-7152
+7153-7167,New Flyer XDE40,2012,Hybrid,https://cptdb.ca/wiki/index.php/Washington_Metropolitan_Area_Transit_Authority_7153-7167
+7168-7272,New Flyer XDE40,2012-2013,Hybrid,https://cptdb.ca/wiki/index.php/Washington_Metropolitan_Area_Transit_Authority_7168-7272
+7300-7409,New Flyer XDE40,2015-2016,Hybrid,https://cptdb.ca/wiki/index.php/Washington_Metropolitan_Area_Transit_Authority_7300-7409
+8001-8105,NABI 42-BRT.08 HEV,2014,Hybrid,https://cptdb.ca/wiki/index.php/Washington_Metropolitan_Area_Transit_Authority_8001-8105

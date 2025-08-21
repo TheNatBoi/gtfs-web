@@ -1,0 +1,15 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color
+5,10016,5,Maine Mall - Park Avenue,,3,00B050,FFFFFF
+3,10016,3,Westbrook Crosstown,,3,FFFFFF,000000
+21,10016,21,SMCC - Downtown Portland,,3,006633,FFFFFF
+2,10016,2,Forest Avenue - Riverton,,3,FFC000,000000
+1,10016,1,Congress Street,,3,1F497D,FFFFFF
+HSK,10016,HSK,Portland - Westbrook - Gorham,,3,376092,FFFFFF
+BRZ,10016,BRZ,Portland - Yarmouth - Freeport - Brunswick,,3,548ED5,000000
+9B,10016,9B,North Deering via Washington Avenue,,3,17365D,FFFFFF
+9A,10016,9A,North Deering via Stevens Avenue,,3,E46C0A,000000
+8,10016,8,Peninsula Loop,,3,D99594,000000
+7,10016,7,Falmouth - Downtown Portland - Jetport,,3,FF0000,FFFFFF
+4,10016,4,Westbrook - Brighton Ave,,3,92D050,000000
+24B,10016,24B,Maine Mall via Broadway,,3,FFCC99,000000
+24A,10016,24A,Maine Mall - Main Street,,3,FF6666,000000

@@ -1,48 +1,64 @@
 city,gtfs_url,data_path,center_lat,center_lon,bounds_sw_lat,bounds_sw_lon,bounds_ne_lat,bounds_ne_lon,operator
-victoria,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=48,data/victoria/,48.4284,-123.3656,48.38,-123.45,48.50,-123.30,BCTransit
-kelowna,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=47,data/kelowna/,49.888,-119.496,49.80,-119.60,49.96,-119.36,BCTransit
-williams_lake,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=33,data/williamslake/,52.1415,-122.1446,52.10,-122.20,52.18,-122.08,BCTransit
-edmonton,http://gtfs.edmonton.ca/TMGTFSRealTimeWebService/Vehicle/VehiclePositions.pb,data/edmonton/,53.5461,-113.4938,53.40,-113.75,53.65,-113.25,ETS
-sandy,https://passio3.com/sandyor/passioTransit/gtfs/realtime/vehiclePositions,data/sandy/,45.397,-122.262,45.37,-122.29,45.42,-122.23,Sandy Area Metro
-boise,https://s3.amazonaws.com/etatransit.gtfs/valleyregionaltransit.etaspot.net/position_updates.pb,data/boise/,43.615,-116.2023,43.55,-116.3,43.70,-116.05,Valley Regional Transit
-whistler,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=44,data/whistler/,50.1171903,-122.9543022,50.07,-123.13,50.16,-122.93,BCTransit
-louisville,https://tarc.rideralerts.com/InfoPoint/GTFS-realtime.ashx?Type=VehiclePosition,data/louisville/,38.2527,-85.7585,38.18,-85.9,38.33,-85.55,TARC
-greenville,https://gtfsrt.greenlink.cadavl.com/ProfilGtfsRt2_0RSProducer-GTA/VehiclePosition.pb,data/greenville/,34.8526,-82.3940,34.80,-82.45,34.90,-82.35,Greenlink
-guelph,https://glphprdtmgtfs.glphtrpcloud.com/tmgtfsrealtimewebservice/vehicle/vehiclepositions.pb,data/guelph/,43.5448,-80.2482,43.5000,-80.3000,43.5800,-80.2000,Guelph Transit
-connecticut,https://cttprdtmgtfs.ctttrpcloud.com/TMGTFSRealTimeWebService/Vehicle/VehiclePositions.pb,data/connecticut/,41.5153655,-72.7573845,40.980144,-73.727775,42.050587,-71.786994,Connecticut Transit
-torrance,http://www.mybusinfo.com/gtfsrt/vehicles,data/torrance/,33.8408,-118.3454,33.80,-118.38,33.88,-118.30,Torrance Transit
-fresno,https://gis4u.fresno.gov/TMGTFSRealTimeWebService/Vehicle/VehiclePositions.pb,data/fresno/,36.74773,-119.77237,36.70,-119.82,36.79,-119.72,Fresno Area Express
-culver_city,https://nextccbus.org/gtfsrt/vehicles,data/culver_city/,34.0211,-118.3965,33.9851,-118.4325,34.0571,-118.3605,Culver CityBus
-san_antonio,http://gtfs.viainfo.net/vehicle/vehiclepositions.pb,data/san_antonio/,29.4243,-98.4911,28.9243,-98.9911,29.9243,-97.9911,VIA Metro
-skagit_county,https://strweb.skagittransit.org/GTFS/GTFS_VehiclePositions.pb,data/skagit_county/,48.4200462,-122.3264200,47.9000,-122.4000,48.9000,-120.8000,Skagit Transit
-lexington,https://mystop.lextran.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,data/lexington/,38.04799,-84.50164,38.00,-84.55,38.09,-84.45,LexTran
-hazleton,https://realtimehpts.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,data/hazleton/,40.9583,-75.9753,40.9083,-76.0253,41.0083,-75.9253,HPT
-tulsa,https://tulsa.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,data/tulsa/,36.15398,-95.992775,36.128,-95.902,36.178,-95.880,Tulsa Transit
-south_florida,http://gtfsr.tri-rail.com/download.aspx?file=position_updates.pb,data/south_florida/,26.1659,-80.1415,25.636,-80.499,26.710,-80.039,SFRTA
-colorado,https://www.rtd-denver.com/files/bustang/gtfs-rt/Bustang_VehiclePosition.pb,data/colorado/,39.7535292,-105.0007002,36.993076,-109.045223,41.003444,-102.041524,Bustang
-lincoln,https://startran.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,data/lincoln/,40.8069,-96.6817,40.7069,-96.7817,40.9069,-96.5817,StarTran
-wichita,https://bus.wichitatransit.org/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,data/wichita/,37.6922,-97.3375,37.6500,-97.4000,37.7300,-97.2750,Wichita Transit
-austin,https://data.texas.gov/download/eiei-9rpf/application%2Foctet-stream,data/austin/,30.2672,-97.7431,30.1000,-97.9000,30.4000,-97.6000,Capital Metro
-portland,https://gtfsrt.gptd.cadavl.com/ProfilGtfsRt2_0RSProducer-GPTD/VehiclePosition.pb,data/portland-ME/,43.680031,-70.310425,43.00,-70.74,43.99,-69.63,METRO
-raleigh,https://www.goraleighlive.org/gtfsrt/vehicles,data/raleigh/,35.7796,-78.6382,35.5630,-78.8770,35.9360,-78.3790,GoRaleigh
-bloomington,https://s3.amazonaws.com/etatransit.gtfs/bloomingtontransit.etaspot.net/position_updates.pb,data/bloomington/,39.1653,-86.5264,39.0923,-86.6678,39.2502,-86.3953,Bloomington Transit
-MRC_Pierre-De_Saurel,https://zenbus.net/gtfs/rt/poll.proto?dataset=pierre-de-saurel,data/pierre-de_saurel/,45.967583,-72.978222,45.81798,-73.203936,46.110724,-72.752605,STC Pierre-De Saurel
-lafayette,https://bus.gocitybus.com/GTFSRT/GTFS_VehiclePositions.pb,data/lafayette/,40.4167,-86.8753,40.2817,-87.0253,40.5517,-86.7253,CityBus
-green_bay,https://gbm.cadavl.com:4435/ProfilGtfsRt2_0RSProducer-GBM/VehiclePosition.pb,data/green_bay/,44.5133,-88.0158,44.45,-88.10,44.58,-87.93,Green Bay Metro
-wenatchee,https://link.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,data/wenatchee/,47.4235,-120.3103,47.3800,-120.3600,47.4700,-120.2600,LINK Transit
-peoria,https://clk.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=vehicleposition,data/peoria/,40.6936,-89.5890,40.5770,-89.7050,40.8100,-89.4730,CityLink
-bismarck,https://passio3.com/bisman/passioTransit/gtfs/realtime/vehiclePositions,data/bismarck/,46.8143,-100.7694,46.6700,-100.9000,46.9600,-100.6000,Bis-Man Transit
-minneapolis,https://svc.metrotransit.org/mtgtfs/vehiclepositions.pb,data/minneapolis/,44.9867,-93.2581,44.85,-93.40,45.12,-93.12,Metro Transit
-hamilton,https://opendata.hamilton.ca/GTFS-RT/GTFS_VehiclePositions.pb,data/hamilton/,43.2619,-79.7479,43.0505,-80.2485,43.4710,-79.6221,Hamilton Street Railway
-washington,https://api.wmata.com/gtfs/rail-gtfsrt-vehiclepositions.pb,data/washington/,38.8936,-77.0146,38.7916,-77.1198,38.9955,-76.9094,WMATA
-saskatoon,https://saskprdtmgtfs.sasktrpcloud.com/TMGTFSRealTimeWebService/Vehicle/VehiclePositions.pb,data/saskatoon/,52.1332,-106.6690,52.00,-106.7750,52.25,-106.5500,Saskatoon Transit
-vancouver,https://gtfsapi.translink.ca/v3/gtfsposition,data/vancouver/,49.25,-122.85,48.95,-123.50,49.50,-122.00,TransLink
-pasadena,http://rt.pasadenatransit.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,data/pasadena/,34.1561,-118.1319,34.0811,-118.2419,34.2311,-118.0219,Pasadena Transit
-halifax,http://gtfs.halifax.ca/realtime/Vehicle/VehiclePositions.pb,data/halifax/,44.6400,-63.5800,44.5500,-63.7000,44.7300,-63.4600,Halifax Transit
-calgary,https://data.calgary.ca/download/am7c-qe3u/application/octet-stream,data/calgary/,51.05,-114.06,50.90,-114.20,51.20,-113.90,Calgary Transit
-fort_mcmurray,https://rmwb-gtfsrt.civilia.ca/pb/vehiclePositions.pb,data/fort_mcmurray/,56.7320,-111.3760,56.6700,-111.4500,56.8000,-111.3000,Woosh
-new_york,http://nycferry.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,data/nyc_ferry/,40.685806,-73.9216855,40.566157,-74.074231,40.805455,-73.76914,NYC Ferry
-state_college,https://realtime.catabus.com/infopoint/GTFS-Realtime.ashx?Type=VehiclePosition,data/state_college/,40.799576557799995,-77.8609405611,40.761013,-77.925545,40.8381401156,-77.7963361222,CATA
-thunder_bay,http://api.nextlift.ca/gtfs-realtime/vehicleupdates.pb,data/thunder_bay/,48.41247,-89.285245,48.34626,-89.38849,48.47868,-89.182,Thunder Bay Transit
-banff,https://bowvalley.tmix.se/gtfs-realtime/vehiclepositions.pb,data/banff/,51.23940943,-115.76420785,51.050576,-116.2144757,51.42824286,-115.31394,Roam Transit
-medicine_hat,https://medicinehat.tmix.se/gtfs-realtime/vehicleupdates.pb,data/medicine_hat/,50.02885295,-110.6767874,49.9940059090001,-110.728568386335,50.0637,-110.6250065,Medicine Hat Transit
+victoria,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=48,https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/?operatorIds=48,48.4284,-123.3656,48.33716,-123.79543,48.69776,-123.28558,BCTransit
+kelowna,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=47,https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/?operatorIds=47,49.888,-119.496,49.75194,-119.7902,50.07352,-119.34723,BCTransit
+williams_lake,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=33,https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/?operatorIds=33,52.1415,-122.1446,52.10826,-122.16661,52.16798,-121.99199,BCTransit
+edmonton,http://gtfs.edmonton.ca/TMGTFSRealTimeWebService/Vehicle/VehiclePositions.pb,https://gtfs.edmonton.ca/TMGTFSRealTimeWebService/GTFS/GTFS.zip,53.53373722862122,-113.50623156659651,53.250444,-113.934863,53.714491,-113.203377,ETS
+sandy,https://passio3.com/sandyor/passioTransit/gtfs/realtime/vehiclePositions,https://passio3.com/sandyor/passioTransit/gtfs/google_transit.zip,45.35498573923931,-122.21275854617372,35.367956292,-122.573786124,45.503002352,-94.385062243,Sandy Area Metro
+boise,https://s3.amazonaws.com/etatransit.gtfs/valleyregionaltransit.etaspot.net/position_updates.pb,https://www.valleyregionaltransit.org/GTFS/vrt_transit1.zip,43.615,-116.2023,43.55,-116.3,43.70,-116.05,Valley Regional Transit
+whistler,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=44,https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/?operatorIds=44,50.114562384105945,-122.97294165562923,50.07712,-123.04364,50.15907,-122.92684,BCTransit
+louisville,https://tarc.rideralerts.com/InfoPoint/GTFS-realtime.ashx?Type=VehiclePosition,https://tarc.rideralerts.com/InfoPoint/gtfs-zip.ashx,38.22633725232825,-85.72716963911533,38.095435,-85.897127,38.383245,-85.502994,TARC
+greenville,https://gtfsrt.greenlink.cadavl.com/ProfilGtfsRt2_0RSProducer-GTA/VehiclePosition.pb,https://gtfs.greenlink.cadavl.com/GTA/GTFS/GTFS_GTA.zip,34.8526,-82.3940,34.80,-82.45,34.90,-82.35,Greenlink
+guelph,https://glphprdtmgtfs.glphtrpcloud.com/tmgtfsrealtimewebservice/vehicle/vehiclepositions.pb,http://guelph.ca/uploads/google/google_transit.zip,43.53460236006555,-80.2444817397707,43.482661,-80.322631,43.580844,-80.175244,Guelph Transit
+connecticut,https://cttprdtmgtfs.ctttrpcloud.com/TMGTFSRealTimeWebService/Vehicle/VehiclePositions.pb,https://www.cttransit.com/sites/default/files/gtfs/googlect_transit.zip,41.54385470028601,-72.87131377651757,41.000207,-73.773779,42.02084,-71.794509,Connecticut Transit
+torrance,http://www.mybusinfo.com/gtfsrt/vehicles,https://transit.torranceca.gov/home/showdocument?id=16673,33.854953535714266,-118.31939815943879,33.768175,-118.399852,34.058811,-118.189549,Torrance Transit
+san_antonio,http://gtfs.viainfo.net/vehicle/vehiclepositions.pb,http://www.viainfo.net/BusService/google_transit.zip,29.455011762225197,-98.52142129225446,29.27663,-98.712169,29.650497,-98.306831,VIA Metro
+skagit_county,https://strweb.skagittransit.org/GTFS/GTFS_VehiclePositions.pb,https://strweb.skagittransit.org/GTFS/google_transit.zip,48.45948886089011,-122.30248042189274,47.974461,-122.688354,48.750672,-121.738907,Skagit Transit
+lexington,https://mystop.lextran.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,https://mystop.lextran.com/InfoPoint/gtfs-zip.ashx,38.03667425795456,-84.49089583068188,37.970649,-84.604828,38.104458,-84.405562,LexTran
+hazleton,https://realtimehpts.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,https://realtimehpts.availtec.com/InfoPoint/gtfs-zip.ashx,40.97213678095238,-75.96194295238097,40.900944,-76.104251,41.268238,-75.812443,HPT
+tulsa,https://tulsa.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,https://tulsa.rideralerts.com/InfoPoint/GTFS-Zip.ashx,36.13276719960558,-95.93963617629824,36.02251,-96.12021,36.245017,-95.790735962,Tulsa Transit
+south_florida,http://gtfsr.tri-rail.com/download.aspx?file=position_updates.pb,https://gtfs.tri-rail.com/gtfs.zip,26.16686885945652,-80.15583584136088,25.7809696198,-80.2596206665,26.7587432861,-80.062538147,SFRTA
+colorado,https://www.rtd-denver.com/files/bustang/gtfs-rt/Bustang_VehiclePosition.pb,https://www.rtd-denver.com/files/gtfs/bustang-co-us.zip,39.782274509433954,-105.52309620754718,38.835175,-108.564,40.59005,-104.814988,Bustang
+lincoln,https://startran.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,https://startran.connexionz.net/rtt/public/resource/gtfs.zip,40.81105568749996,-96.67868512132345,40.726212,-96.789195,40.879581,-96.593608,StarTran
+wichita,https://bus.wichitatransit.org/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,https://bus.wichitatransit.org/InfoPoint/gtfs-zip.ashx,37.68739371503045,-97.31692418174565,37.605752,-97.46302,37.757113,-97.189437,Wichita Transit
+austin,https://data.texas.gov/download/eiei-9rpf/application%2Foctet-stream,https://data.texas.gov/download/r4v4-vz24/application/zip,30.2672,-97.7431,30.1000,-97.9000,30.4000,-97.6000,Capital Metro
+portland,https://gtfsrt.gptd.cadavl.com/ProfilGtfsRt2_0RSProducer-GPTD/VehiclePosition.pb,https://gtfs.gptd.cadavl.com/GPTD/GTFS/GTFS_GPTD.zip,43.67272001595902,-70.28606654231334,43.6142311,-70.4481677,43.913782,-69.8139105,METRO
+raleigh,https://www.goraleighlive.org/gtfsrt/vehicles,https://goraleigh.org/gr_gtfs,35.79792596433667,-78.63254381740364,35.573105,-78.80199,35.975332,-78.323486,GoRaleigh
+bloomington,https://s3.amazonaws.com/etatransit.gtfs/bloomingtontransit.etaspot.net/position_updates.pb,https://s3.amazonaws.com/etatransit.gtfs/bloomingtontransit.etaspot.net/gtfs.zip,39.1653,-86.5264,39.0923,-86.6678,39.2502,-86.3953,Bloomington Transit
+MRC_Pierre-De_Saurel,https://zenbus.net/gtfs/rt/poll.proto?dataset=pierre-de-saurel,https://zenbus.net/gtfs/static/download.zip?dataset=pierre-de-saurel,46.00508856249999,-73.14402663068184,45.52362,-73.52084,46.04632,-73.09252,STC Pierre-De Saurel
+lafayette,https://bus.gocitybus.com/GTFSRT/GTFS_VehiclePositions.pb,https://bus.gocitybus.com/GTFSRT/citybus-lafayette-in-us.zip,40.41987803110682,-86.88557686856849,40.365249,-86.9620151465779,40.4808805498724,-86.804833,CityBus
+green_bay,https://gbm.cadavl.com:4435/ProfilGtfsRt2_0RSProducer-GBM/VehiclePosition.pb,https://greenbaywi.gov/DocumentCenter/View/12124/Transit-Data-August-2024,44.50418701802052,-88.02456554798638,44.4446313,-88.128791,44.5402422,-87.9221852,Green Bay Metro
+wenatchee,https://link.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,https://link.rideralerts.com/InfoPoint/gtfs-zip.ashx,47.4915981589924,-120.29351179159383,47.3625030518,-120.67411,47.8850250244,-120.014694,LINK Transit
+peoria,https://clk.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=vehicleposition,https://clk.rideralerts.com/InfoPoint/gtfs-zip.ashx,40.70499657835392,-89.60647642728286,40.538532,-89.694888,40.816821,-89.481697,CityLink
+bismarck,https://passio3.com/bisman/passioTransit/gtfs/realtime/vehiclePositions,https://passio3.com/bisman/passioTransit/gtfs/google_transit.zip,46.8143,-100.7694,46.6700,-100.9000,46.9600,-100.6000,Bis-Man Transit
+minneapolis,https://svc.metrotransit.org/mtgtfs/vehiclepositions.pb,https://svc.metrotransit.org/mtgtfs/gtfs.zip,44.98254536471279,-93.241624844963,44.707082,-94.157367,45.560123,-92.805903,Metro Transit
+hamilton,https://opendata.hamilton.ca/GTFS-RT/GTFS_VehiclePositions.pb,https://opendata.hamilton.ca/GTFS-Static/google_transit.zip,43.2348322833262,-79.85429088298335,43.156343,-80.031354,43.337134,-79.63931,Hamilton Street Railway
+saskatoon,https://saskprdtmgtfs.sasktrpcloud.com/TMGTFSRealTimeWebService/Vehicle/VehiclePositions.pb,http://apps2.saskatoon.ca/app/data/google_transit.zip,52.13035565904063,-106.64661393357945,52.078661,-106.760746,52.202189,-106.532035,Saskatoon Transit
+pasadena,http://rt.pasadenatransit.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,http://rt.pasadenatransit.net/rtt/public/utility/gtfs.aspx,34.15416497539148,-118.13360699105142,34.10971,-118.19336,34.197933,-118.068852,Pasadena Transit
+halifax,http://gtfs.halifax.ca/realtime/Vehicle/VehiclePositions.pb,http://gtfs.halifax.ca/static/google_transit.zip,44.68161448465748,-63.596723873896536,44.565098,-63.858243,44.886253,-63.28321,Halifax Transit
+calgary,https://data.calgary.ca/download/am7c-qe3u/application/octet-stream,https://data.calgary.ca/download/npk7-z3bj/application/zip,51.05,-114.06,50.90,-114.20,51.20,-113.90,Calgary Transit
+fort_mcmurray,https://rmwb-gtfsrt.civilia.ca/pb/vehiclePositions.pb,https://rmwb-gtfsrt.civilia.ca/gtfs,56.72803214182554,-111.41480875040013,56.65002691,-111.484988,56.77636751,-111.2309651,Woosh
+new_york,http://nycferry.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,http://nycferry.connexionz.net/rtt/public/utility/gtfs.aspx,40.649899559999994,-73.89629720000002,40.566157,-74.074231,40.805455,-73.76914,NYC Ferry
+state_college,https://realtime.catabus.com/infopoint/GTFS-Realtime.ashx?Type=VehiclePosition,https://catabus.com/wp-content/uploads/google_transit.zip,40.80091146226363,-77.86752921226456,40.761013,-77.925545,40.8381401156,-77.7963361222,CATA
+thunder_bay,http://api.nextlift.ca/gtfs-realtime/vehicleupdates.pb,http://api.nextlift.ca/gtfs.zip,48.40800392710674,-89.2577520414102,48.34626,-89.38849,48.47868,-89.182,Thunder Bay Transit
+banff,https://bowvalley.tmix.se/gtfs-realtime/vehiclepositions.pb,https://bowvalley.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/,51.23940943,-115.76420785,51.050576,-116.2144757,51.42824286,-115.31394,Roam Transit
+medicine_hat,https://medicinehat.tmix.se/gtfs-realtime/vehicleupdates.pb,https://medicinehat.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/,50.02689819916891,-110.67097442500753,49.9940059090001,-110.728568386335,50.0637,-110.6250065,Medicine Hat Transit
+lancaster,https://track-it.avta.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,https://www.avta.com/userfiles/files/AVTA_GTFS.zip,34.3811585,-118.21064935000001,34.043438,-118.597604,34.718879,-117.8236947,AVTA
+culver_city,https://nextccbus.org/gtfsrt/vehicles,https://www.culvercity.org/files/assets/public/documents/information-technology/maps/gtfsexport.zip,34.00665455220421,-118.40974813596303,33.950849,-118.471525,34.068294,-118.36869,Culver CityBus
+fresno,https://gis4u.fresno.gov/TMGTFSRealTimeWebService/Vehicle/VehiclePositions.pb,https://gis4u.fresno.gov/downloads/zip/fax_gtfs.zip,36.774111987417186,-119.78531641059594,36.678042,-119.908969,36.888538,-119.677657,Fresno Area Express
+vancouver,https://gtfsapi.translink.ca/v3/gtfsposition,https://gtfs-static.translink.ca/gtfs/google_transit.zip,49.21241596908031,-122.94410131090133,49.004383,-123.423063,49.474111,-122.30486,TransLink
+denver,https://www.rtd-denver.com/files/gtfs-rt/VehiclePosition.pb,https://www.rtd-denver.com/files/gtfs/google_transit.zip,39.7793275879709,-104.99420738493053,39.456877,-105.584149,40.206556,-104.669533,Regional Transportation District
+whatcom_county,https://bustracker.ridewta.com/gtfsrt/vehicles,https://github.com/whatcomtrans/publicwtadata/raw/master/GTFS/wta_gtfs_latest.zip,48.800744994407154,-122.48376933668905,48.418167,-122.787478,48.999226,-122.13584,WTA
+yakima,http://yakima.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,https://yakima.connexionz.net/rtt/public/utility/gtfs.aspx,46.59538880399999,-120.53692042799997,46.562974,-120.6359,46.622504,-120.477214,Yakima Transit
+kitsap,https://kttracker.com/gtfsrt/vehicles,https://pride.kitsaptransit.com/gtfs/google_transit.zip,47.609018161562005,-122.62156699310884,47.411738,-122.85144,47.854812,-122.338923,Kitsap Transit
+columbus,https://gtfs-rt.cota.vontascloud.com/TMGTFSRealTimeWebService/Vehicle/VehiclePositions.pb,https://www.cota.com/data/cota.gtfs.zip,39.99222407625419,-82.98514489197348,39.830163,-83.162651,40.154474,-82.722975,COTA
+normal,https://rideconnecttransit.com/gtfs-rt/vehiclepositions,https://rideconnecttransit.com/gtfs,40.493526158199415,-88.98071900311977,40.448509,-89.05615,40.53687,-88.910779,Connect Transit
+commerce,https://citycommbus.com/gtfs-rt/vehiclepositions,https://citycommbus.com/gtfs,34.00528940175751,-118.15751881860668,33.965568,-118.264252,34.063141,-118.127642,City of Commerce Municipal Bus
+albany,http://gtfs.cdta.org:8080/gtfsrealtime/VehiclePositions,https://www.cdta.org/schedules/google_transit.zip,42.80556490933672,-73.80192626625917,42.467161,-74.219321,43.558901,-73.451967,Capital District Transportation Authority
+springfield,http://ride.smtd.org/gtfsrt/vehicles,http://data.smtd.org/gtfs/smtd_gtfs_feed.zip,39.78624667149753,-89.65292463285029,39.706586,-89.752394,39.860092,-89.594535,SMTD
+akron,https://realtimemetro.availtec.com/infopoint/GTFS-Realtime.ashx?&Type=VehiclePosition,https://www.yourmetrobus.org/Data/Sites/2/gtfs-data/metro_rta_gtfs.zip,41.10307654311726,-81.51622939475108,40.910604,-81.697065,41.514208,-81.383453,Metro RTA
+chico,https://planmyride.blinetransit.com/gtfsrealtime/GTFS_VehiclePositions.pb,https://d16k74nzx9emoe.cloudfront.net/c4326823-2c12-4f59-82f1-3fc4d987e12b/google_transit.zip,39.69456636219526,-121.75074144160725,39.3632006265641,-121.898691618365,39.8491485326975,-121.463442830053,B-Line
+pottstown,https://part.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,https://part.rideralerts.com/InfoPoint/gtfs-zip.ashx,40.26085855102041,-75.63129228571427,40.228407,-75.687774,40.333906,-75.570766,Pottstown Area Rapid Transit
+boulder,https://passio3.com/viaboulder/passioTransit/gtfs/realtime/vehiclePositions,https://passio3.com/viaboulder/passioTransit/gtfs/google_transit.zip,40.02050449812192,-105.28326691971954,39.648778612,-105.525464188,40.22544,-105.168429784,HOP Bus
+University_of_Georgia,https://passio3.com/uga/passioTransit/gtfs/realtime/vehiclePositions,https://passio3.com/uga/passioTransit/gtfs/google_transit.zip,33.940427999611515,-83.37566522117272,33.894542,-83.4043,33.9645,-83.345267893,University of Georgia Campus Transit
+athens,https://bustracker.accgov.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,https://bustracker.accgov.com/InfoPoint/GTFS-Zip.ashx,33.952158317738814,-83.37530856530222,33.911022,-83.473231,34.029076,-83.302761,Athens Transit System
+springfield (MA),https://bustracker.pvta.com/infopoint/GTFS-Realtime.ashx?Type=VehiclePosition,http://www.pvta.com/g_trans/google_transit.zip,42.1779210041972,-72.57671956033583,42.018114,-72.796658,42.596031,-71.795179,PVTA

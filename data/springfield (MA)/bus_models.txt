@@ -1,0 +1,50 @@
+1320-1323,New Flyer Xcelsior CHARGE XE35,2021,Electric,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_1320-1323
+1324-1325,New Flyer Xcelsior CHARGE XE35,2023,Electric,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_1324-1325
+1410-1412,Proterra Catalyst BE40,2016,Electric,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_1410-1412
+1413-1416,Proterra ZX5 40',2020,Electric,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_1413-1416
+1420-1421,New Flyer Xcelsior CHARGE XE40,2021,Electric,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_1420-1421
+1422,New Flyer Xcelsior CHARGE XE40,2023,Electric,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_1422-1423
+1563-1578,Gillig Low Floor 35',2010,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_1563-1578
+1650-1664,Gillig Low Floor 40',2010,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_1650-1664
+1670-1673,Gillig Low Floor 40',2018,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_1670-1673
+1701,New Flyer XD35,2011,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_1701
+1710-1714,New Flyer XD35,2015,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_1710-1714
+1715-1720,New Flyer XD35,2020,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_1715-1720
+1721-1723,New Flyer XD35,2021,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_1721-1723
+1724-1729,New Flyer XD35,2022,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_1724-1729
+1730-1735,New Flyer XD35,2023,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_1730-1735
+1740-1742,New Flyer XDE35,2024,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_1740-1742
+1810-1819,New Flyer XD40,2011,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_1810-1819
+1821-1826,New Flyer XD40,2012,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_1821-1826
+1830-1837,New Flyer XD40,2014,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_1830-1837
+1840-1849,New Flyer XD40,2015,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_1840-1849
+1850-1856,New Flyer XD40,2020,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_1850-1856
+1857-1861,New Flyer XD40,2021,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_1857-1861
+1862-1864,New Flyer XD40,2022,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_1862-1864
+1865-1868,New Flyer XD40,2023,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_1865-1870
+1870-1880,New Flyer XDE40,2024,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_1870-1880
+7300-7301,New Flyer XE35,2023,Electric,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_7300-7301
+7553-7554,New Flyer XD35,2020,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_7553-7554
+7555,New Flyer XDE35,2024,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_7555
+7660-7662,Gillig Low Floor 40',2009,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_7660-7662
+7700,New Flyer Xcelsior CHARGE XE40,2021,Electric,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_7700
+7701,New Flyer Xcelsior CHARGE XE40,2023,Electric,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_7701
+7801-7802,New Flyer XD40,2011,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_7801-7802
+7811-7815,New Flyer XD40,2012,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_7811-7815
+7816,New Flyer XD40,2021,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_7816
+7817,New Flyer XD40,2022,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_7817
+7818-7819,New Flyer XD40,2023,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_7818-7819
+7820,New Flyer XDE40,2024,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_7820
+7901-7902,New Flyer XDE60,2013,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_7901-7902
+3226-3228,Gillig Low Floor 40',2009,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_3226-3228
+3301-3305,New Flyer XDE40,2011,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_3301-3305
+3306-3310,New Flyer XD35,2011,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_3306-3310
+3311-3315,New Flyer XD35,2014,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_3311-3315
+3316-3320,New Flyer XD40,2020,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_3316-3320
+3321-3323,New Flyer XD40,2021,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_3321-3323
+3324-3326,New Flyer XD40,2022,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_3324-3326
+3327-3330,New Flyer XD40,2023,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_3327-3330
+3331-3334,New Flyer XD35,2023,Diesel,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_3331-3334
+3401-3402,New Flyer XDE60,2013,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_3401-3402
+3501,New Flyer Xcelsior CHARGE XE40,2021,Electric,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_3501
+3502-3503,New Flyer Xcelsior CHARGE XE40,2023,Electric,https://cptdb.ca/wiki/index.php/Pioneer_Valley_Transit_Authority_3502-3503

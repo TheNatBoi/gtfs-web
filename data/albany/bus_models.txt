@@ -1,0 +1,49 @@
+40-43,Gillig Low Floor 29',2019,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_40-43
+44,Gillig Low Floor 29',2022,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_44
+45-46,Gillig Low Floor 29',2023,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_45-46
+62-63,Coach and Equipment Phoenix,2018,Gasoline(?),https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_62-63
+327-328,MCI D4500CT,2012,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_327-328
+329-330,MCI D4500CT,2015,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_329-330
+331-333,MCI D4500CT,2017,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_331-333
+334-335,MCI D4500CT,2019,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_334-335
+336-337,MCI D4500CT,2020,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_336-337
+338-339,MCI D4500CT,2022,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_338-339
+340-341,MCI D45CRT,2024,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_340-341
+1103-1104,Hometown Manufacturing Villager,2017,Gasoline(?),https://cptdb.ca/wiki/index.php?title=Capital_District_Transportation_Authority_1103-1104
+1105-1106,Hometown Manufacturing Villager,2018,Gasoline(?),https://cptdb.ca/wiki/index.php?title=Capital_District_Transportation_Authority_1105-1106
+1107,Hometown Manufacturing Villager,2019,Gasoline(?),https://cptdb.ca/wiki/index.php?title=Capital_District_Transportation_Authority_1107
+1108,Hometown Manufacturing Villager,2021,Gasoline(?),https://cptdb.ca/wiki/index.php?title=Capital_District_Transportation_Authority_1108
+1109,Hometown Manufacturing Villager,2023,Gasoline(?),https://cptdb.ca/wiki/index.php?title=Capital_District_Transportation_Authority_1109
+1110,SVMC Supreme,2025,Gasoline(?),https://cptdb.ca/wiki/index.php?title=Capital_District_Transportation_Authority_1110
+1111-1113,Double K Mainstreet,2017,Diesel(?),https://cptdb.ca/wiki/index.php?title=Capital_District_Transportation_Authority_1111-1113
+1114-1115,Double K Mainstreet,2020,Diesel(?),https://cptdb.ca/wiki/index.php?title=Capital_District_Transportation_Authority_1114-1115
+1116-1117,Hometown Manufacturing Villager,2024,Gasoline(?),https://cptdb.ca/wiki/index.php?title=Capital_District_Transportation_Authority_1116-1117
+1900E-1903E,New Flyer XE40,2019,Electric,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_1900E-1903E
+1904E-1907E,New Flyer XE40,2022,Electric,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_1904E-1907E
+2200-2219,Gillig BRT 40',2020,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_2200-2219
+2220,New Flyer XD60,2023,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_2220
+3300-3315,New Flyer XD60,2023,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_3300-3315
+4056-4072,Gillig Low Floor 40',2010,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_4056-4072
+4073-4092,Gillig Low Floor 40',2012,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_4073-4092
+4093-4108,Gillig Low Floor 40',2013,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_4093-4108
+4109H-4112H,Gillig Low Floor HEV 40',2013,Diesel Hybrid,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_4109H-4112H
+4113-4127,Gillig Low Floor 40',2014,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_4113-4127
+4128-4139,Gillig Low Floor 40',2015,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_4128-4139
+4140-4149,Gillig Low Floor 40',2016,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_4140-4149
+4150-4170,Gillig Low Floor 40',2017,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_4150-4170
+4171-4182,Gillig Low Floor 40',2018,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_4171-4182
+4183-4194,Gillig Low Floor 40',2019,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_4183-4194
+4195-4206,Gillig Low Floor 40',2020,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_4195-4206
+4207-4242,Gillig Low Floor 40',2022,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_4207-4242
+4243-4252,Gillig Low Floor 40',2024,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_4243-4252
+5500H-5514H,Gillig BRT HEV 40',2010,Diesel Hybrid,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_5500H-5514H
+5515-5516,Gillig BRT 40',2016,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_5515-5516
+5517,Gillig BRT 40',2017,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_5517
+5518,New Flyer XD60,2018,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_5518
+5519-5522,New Flyer XD60,2021,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_5519-5522
+5523-5524,New Flyer XD60,2024,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_5523-5524
+5525-5532,Gillig BRT 40',2024,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_5525-5532
+6000-6001,New Flyer XD60,2015,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_6000-6001
+6002-6007,New Flyer XD60,2017,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_6002-6007
+6008,New Flyer XD60,2018,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_6008
+6009-6024,New Flyer XD60,2022,Diesel,https://cptdb.ca/wiki/index.php/Capital_District_Transportation_Authority_6009-6024

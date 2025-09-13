@@ -1,0 +1,9 @@
+1301-1305,Gillig Low Floor 29',2013,Diesel,https://cptdb.ca/wiki/index.php/Sangamon_Mass_Transit_District_1301-1305
+1306-1312,New Flyer XN35,2013,CNG,https://cptdb.ca/wiki/index.php/Sangamon_Mass_Transit_District_1306-1312
+1401-1407,Gillig Low Floor 35',2014,Diesel,https://cptdb.ca/wiki/index.php/Sangamon_Mass_Transit_District_1401-1407
+1701-1702,New Flyer XD35,2017,Diesel,https://cptdb.ca/wiki/index.php/Sangamon_Mass_Transit_District_1701-1702
+1801-1808,New Flyer XD35,2018,Diesel,https://cptdb.ca/wiki/index.php/Sangamon_Mass_Transit_District_1801-1808
+1809-1817,New Flyer XN35,2018,CNG,https://cptdb.ca/wiki/index.php/Sangamon_Mass_Transit_District_1809-1817
+1901-1906,New Flyer XN35,2019,CNG,https://cptdb.ca/wiki/index.php/Sangamon_Mass_Transit_District_1901-1906
+2301-2304,New Flyer XN35,2023,CNG,https://cptdb.ca/wiki/index.php/Sangamon_Mass_Transit_District_2301-2304
+2401-2408,Gillig BRTPlus HEV 35',2024,Diesel Hybrid,https://cptdb.ca/wiki/index.php/Sangamon_Mass_Transit_District_2401-2408

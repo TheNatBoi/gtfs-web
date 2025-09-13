@@ -1,0 +1,2 @@
+51-55,Gillig BRT 35',2019,Diesel,https://cptdb.ca/wiki/index.php?title=Pottstown_Area_Rapid_Transit_51-55_(3rd)
+57-58,Gillig BRT 35',2021,Diesel,https://cptdb.ca/wiki/index.php?title=Pottstown_Area_Rapid_Transit_57-58_(3rd)

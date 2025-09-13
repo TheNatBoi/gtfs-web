@@ -1,0 +1,9 @@
+745,Gillig Low Floor 40',2009,Diesel,https://cptdb.ca/wiki/index.php/Athens_Transit_System_745
+746-749,Gillig Low Floor 40',2011,Diesel,https://cptdb.ca/wiki/index.php/Athens_Transit_System_746-749
+750-753,Gillig Low Floor 40',2013,Diesel,https://cptdb.ca/wiki/index.php/Athens_Transit_System_750-753
+754-755,Gillig BRT 40',2015,Diesel,https://cptdb.ca/wiki/index.php/Athens_Transit_System_754-755
+756-767,Gillig BRTPlus HEV 40',2018,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/Athens_Transit_System_756-767
+768-770,Gillig BRTPlus HEV 40',2019,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/Athens_Transit_System_768-770
+771-772,Gillig BRT HEV 40',2020,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/Athens_Transit_System_771-772
+773-774,Gillig BRT HEV 35',2020,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/Athens_Transit_System_773-774
+775-776,Gillig BRT HEV 35',2021,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/Athens_Transit_System_775-776

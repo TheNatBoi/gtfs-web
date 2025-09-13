@@ -1,0 +1,7 @@
+1103-1106,Gillig BRT 35',2011,Diesel,https://cptdb.ca/wiki/index.php/Butte_Regional_Transit_1103-1106
+1401-1406,Gillig BRT 40',2014,Diesel,https://cptdb.ca/wiki/index.php/Butte_Regional_Transit_1401-1406
+1701-1705,Gillig BRT 40',2017,Diesel,https://cptdb.ca/wiki/index.php/Butte_Regional_Transit_1701-1705
+1706-1710,Gillig BRT 40',2018,Diesel,https://cptdb.ca/wiki/index.php/Butte_Regional_Transit_1706-1710
+1711-1713,Gillig BRT 40',2018,Diesel,https://cptdb.ca/wiki/index.php/Butte_Regional_Transit_1711-1713
+2001-2004,Gillig Low Floor 40',2020,Diesel,https://cptdb.ca/wiki/index.php/Butte_Regional_Transit_2001-2004
+2005-2006,Gillig Low Floor 35',2020,Diesel,https://cptdb.ca/wiki/index.php/Butte_Regional_Transit_2005-2006

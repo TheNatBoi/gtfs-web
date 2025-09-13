@@ -116,7 +116,10 @@
   let latestBusData = {};
   const REGION_ZOOM_THRESHOLD = 12;
 
-  const map = L.map('map', {preferCanvas: true});
+  const map = L.map('map', {
+    preferCanvas: false,
+    worldCopyJump: true,
+  });
 
   const busLayer = L.layerGroup().addTo(map);
   let regionLabels = [];
@@ -145,7 +148,9 @@
 
       map.fitBounds(allBounds);
 
-      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+      L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+      }).addTo(map);
 
       showRegionLabels();
 
@@ -157,7 +162,7 @@
 
       setInterval(() => {
         visibleCities.forEach(city => fetchBusData(city));
-      }, 5000);
+      }, 15000);
 
       handleZoomChange();
 
@@ -197,73 +202,28 @@
     regionLabels.forEach(label => map.removeLayer(label));
     regionLabels = [];
   }
+  const iconExistsCache = {};
 
-  function getBusIconForCity(cityName, bus) {
-    const operator = CITY_DATA[cityName]?.operator || "Default";
+  function checkIconExists(operator) {
+    return new Promise((resolve) => {
+      if (iconExistsCache[operator] !== undefined) {
+        resolve(iconExistsCache[operator]);
+        return;
+      }
 
-    if (cityName === "austin") {
-      if (bus.vehicle_id[0] !== "M" &&((Number(bus.vehicle_id) >= 101 && Number(bus.vehicle_id) <= 106) ||(Number(bus.vehicle_id) >= 201 && Number(bus.vehicle_id) <= 204))) {
-        return L.icon({
-          iconUrl: `/static/icons/rail.png`,
-          iconSize: [32, 32],
-          iconAnchor: [16, 32],
-          popupAnchor: [0, -32]
-        });
-      }
-    } else if (cityName === "minneapolis" && (bus.route === "METRO Blue Line" || bus.route === "METRO Green Line")) {
-      return L.icon({
-        iconUrl: `/static/icons/rail.png`,
-        iconSize: [32, 32],
-        iconAnchor: [16, 32],
-        popupAnchor: [0, -32]
-      });
-    } else if (cityName === "washington" && (bus.route).length === 2 && !(["0","1","2","3","4","5","6","7","8","9"].includes(bus.route[0]))) {
-      return L.icon({
-        iconUrl: `/static/icons/rail.png`,
-        iconSize: [32, 32],
-        iconAnchor: [16, 32],
-        popupAnchor: [0, -32]
-      });
-    } else if (cityName === "vancouver") {
-      if ((Number(bus.vehicle_id) >= 19001 && Number(bus.vehicle_id) <= 19047) ||
-          (Number(bus.vehicle_id) >= 18001 && Number(bus.vehicle_id) <= 18063)) {
-        return L.icon({
-          iconUrl: `/static/icons/RapidBus.png`,
-          iconSize: [32, 32],
-          iconAnchor: [16, 32],
-          popupAnchor: [0, -32]
-        });
-      } else if (Number(bus.vehicle_id) >=9277 && Number(bus.vehicle_id) <= 9285) {
-        return L.icon({
-          iconUrl: `/static/icons/Orion Suburban.png`,
-          iconSize: [32, 32],
-          iconAnchor: [16, 32],
-          popupAnchor: [0, -32]
-        });
-      } else if ((Number(bus.vehicle_id) >= 18451 && Number(bus.vehicle_id) <= 18473) ||
-        bus.vehicle_id >= 19101) {
-        return L.icon({
-          iconUrl: `/static/icons/ExpressBus.png`,
-          iconSize: [32, 32],
-          iconAnchor: [16, 32],
-          popupAnchor: [0, -32]
-        });
-      }
-    } else if (cityName === "new_york") {
-      if ((Number(bus.vehicle_id) === 27) || (bus.vehicle_id == 47)) {
-        return L.icon({
-          iconUrl: `/static/icons/default.png`,
-          iconSize: [32, 32],
-          iconAnchor: [16, 32],
-          popupAnchor: [0, -32]
-        });
-      }
-    }
-    return L.icon({
-      iconUrl: `/static/icons/${operator}.png`,
-      iconSize: [32, 32],
-      iconAnchor: [16, 32],
-      popupAnchor: [0, -32]
+      const url = `/static/icons/${operator}.png`;
+      const img = new Image();
+
+      img.onload = () => {
+        iconExistsCache[operator] = true;
+        resolve(true);
+      };
+      img.onerror = () => {
+        iconExistsCache[operator] = false;
+        resolve(false);
+      };
+
+      img.src = url;
     });
   }
   function updateBuses(city) {
@@ -281,11 +241,13 @@
     data.forEach(bus => {
       if (!bounds.contains([bus.lat, bus.lon])) return;
 
-      const markerKey = city + "_" + bus.vehicle_id;
+      const markerKey = bus.unique_id;
       activeKeys.add(markerKey);
+
       if (markerKey === selectedBusId && isPopupOpen) {
         setSidebar(bus);
       }
+
       let marker = markers[markerKey];
       const popupHtml =
         `<strong>Route:</strong> ${bus.route || 'N/A'}<br>` +
@@ -301,9 +263,14 @@
         };
         marker.setPopupContent(popupHtml);
       } else {
-        marker = L.marker([bus.lat, bus.lon], {
-          icon: getBusIconForCity(city, bus)
-        }).bindPopup(popupHtml, { autoPan: false });
+        const icon = L.icon({
+          iconUrl: `/static/icons/${bus.icon || "default.png"}`,
+          iconSize: [32, 32],
+          iconAnchor: [16, 32],
+          popupAnchor: [0, -32]
+        });
+
+        marker = L.marker([bus.lat, bus.lon], { icon }).bindPopup(popupHtml, { autoPan: false });
 
         marker.city = city;
         markerTargetPositions[markerKey] = [bus.lat, bus.lon];
@@ -313,9 +280,8 @@
           selectedCity = city;
           isPopupOpen = true;
           setSidebar(bus);
-          selectedBusId = city + "_" + bus.vehicle_id;
+          selectedBusId = markerKey;
           selectedBusTripId = bus.trip_id;
-
           drawRouteLine(bus.trip_id);
           marker.openPopup();
         });
@@ -339,7 +305,6 @@
     Object.keys(markers).forEach(markerKey => {
       const marker = markers[markerKey];
       const isSelected = (markerKey === selectedBusId);
-
       if (marker.city === city && !activeKeys.has(markerKey) && !isSelected) {
         busLayer.removeLayer(marker);
         delete markers[markerKey];
@@ -348,6 +313,7 @@
       }
     });
   }
+
 
   function animateMarkers() {
     const now = performance.now();
@@ -391,19 +357,20 @@
     }
   }
 
+  let stopMarkers = [];
+
   function hideRouteLine() {
     if (routeLine) {
       map.removeLayer(routeLine);
       routeLine = null;
     }
+    stopMarkers.forEach(m => map.removeLayer(m));
+    stopMarkers = [];
     currentRouteTripId = null;
   }
 
   function drawRouteLine(trip_id) {
-    if (!selectedCity) {
-      console.warn("No selected city set, cannot draw route line.");
-      return;
-    }
+    if (!selectedCity) return;
     if (trip_id === currentRouteTripId) return;
 
     hideRouteLine();
@@ -416,27 +383,33 @@
       .then(data => {
         if (Array.isArray(data.shape) && data.shape.length > 1) {
           const color = "#" + (data.route_color || "000000");
+
           routeLine = L.polyline(data.shape, {
             color,
             weight: 5,
             opacity: 0.7
           }).addTo(map);
 
+          stopMarkers = (data.stops || []).map(stop =>
+            L.circleMarker([stop.lat, stop.lon], {
+              radius: 6,
+              fillColor: "#ffffff",
+              fillOpacity: 1,
+              color: color,
+              weight: 2
+            }).bindPopup(`<strong>${stop.name}</strong>`).addTo(map)
+          );
+
           currentRouteTripId = trip_id;
 
-          Object.values(markers).forEach(m => {
-            if (m && typeof m.bringToFront === "function") {
-              m.bringToFront();
-            }
-          });
+          Object.values(markers).forEach(m => m?.bringToFront?.());
         } else {
           console.warn("No valid shape returned for trip:", trip_id);
         }
       })
-      .catch(err => {
-        console.error("Error fetching/drawing route line:", err);
-      });
+      .catch(err => console.error("Error fetching/drawing route line:", err));
   }
+
   let visibleCities = [];
 
   function fetchBusData(city) {
@@ -468,6 +441,13 @@
       hideRouteLine();
       setSidebar(null);
       showRegionLabels();
+
+      Object.keys(markers).forEach(markerKey => {
+        busLayer.removeLayer(markers[markerKey]);
+        delete markers[markerKey];
+        delete markerTargetPositions[markerKey];
+        delete markerAnimationStart[markerKey];
+      });
       visibleCities = [];
       return;
     }
@@ -476,16 +456,13 @@
 
     const newlyVisibleCities = detectVisibleCities();
 
-    visibleCities.forEach(city => {
-      if (!newlyVisibleCities.includes(city)) {
-        Object.keys(markers).forEach(markerKey => {
-          if (markers[markerKey].city === city) {
-            busLayer.removeLayer(markers[markerKey]);
-            delete markers[markerKey];
-            delete markerTargetPositions[markerKey];
-            delete markerAnimationStart[markerKey];
-          }
-        });
+    Object.keys(markers).forEach(markerKey => {
+      const marker = markers[markerKey];
+      if (!newlyVisibleCities.includes(marker.city)) {
+        busLayer.removeLayer(marker);
+        delete markers[markerKey];
+        delete markerTargetPositions[markerKey];
+        delete markerAnimationStart[markerKey];
       }
     });
 
@@ -499,6 +476,7 @@
 
     if (!map.hasLayer(busLayer)) map.addLayer(busLayer);
   }
+
 
   function getBoundsIntersectionArea(bounds1, bounds2) {
     const sw1 = bounds1.getSouthWest();

@@ -4,3 +4,4 @@ API_KEYS.txt
 /data/cache
 package.json
 /node_modules
+package-lock.json

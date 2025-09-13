@@ -1,6 +1,0 @@
-route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
-zenbus:Line:694670001:LOC,,10,Ligne 10,,3,,00B2FF,FFFFFF,0,,
-zenbus:Line:707750001:LOC,,750,Express 750,,3,,46858E,FCFCFC,0,,
-zenbus:Line:714890001:LOC,,751,Express 751,,3,,60D656,FCFCFC,0,,
-zenbus:Line:5113183358418944:LOC,,752,Express 752,,3,,0019E6,FFFFFF,0,,
-zenbus:Line:4921406539169792:LOC,,753,Express 753,,3,,E01B1B,FCF5F5,0,,

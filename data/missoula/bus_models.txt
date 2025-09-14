@@ -1,0 +1,8 @@
+7,Chance AH-28,1996,Diesel?,https://cptdb.ca/wiki/index.php/Missoula_Urban_Transportation_District_7
+421-430,Gillig BRT 29',2009,Diesel,https://cptdb.ca/wiki/index.php/Missoula_Urban_Transportation_District_421-430
+501-504,ElDorado National EZ Rider II BRT 32',2010,Diesel,https://cptdb.ca/wiki/index.php/Missoula_Urban_Transportation_District_501-504
+505-507,Gillig BRT 35',2014,Diesel,https://cptdb.ca/wiki/index.php/Missoula_Urban_Transportation_District_505-507
+19601-19606,Proterra Catalyst BE35,2019,Electric,https://cptdb.ca/wiki/index.php/Missoula_Urban_Transportation_District_19601-19606
+21201-21202,New Flyer XE35,2021,Electric,https://cptdb.ca/wiki/index.php/Missoula_Urban_Transportation_District_21201-21202
+21701-21704,Gillig Low Floor Plus EV 35',2021,Electric,https://cptdb.ca/wiki/index.php/Missoula_Urban_Transportation_District_21701-21704
+23705-23708,Gillig Low Floor Plus EV 35',2024,Electric,https://cptdb.ca/wiki/index.php?title=Missoula_Urban_Transportation_District_23705-23708

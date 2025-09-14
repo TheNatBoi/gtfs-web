@@ -60,3 +60,4 @@ Transit data for University of Georgia provided by [University of Georgia Campus
 Transit data for Athens, Georgia provided by [Athens Transit System](https://www.accgov.com/199/Transit).<br>
 Transit data for Springfield, Massachusetts provided by [Pioneer Valley Transit Authority](http://www.pvta.com/).<br>
 Transit data for Anchorage, Alaska provided by [Anchorage People Mover](https://www.muni.org/departments/transit/peoplemover/Pages/default.aspx). Data provided courtesy of MOA.<br>
+Transit data for Missoula, Minnesota provided by [Mountain Line](http://www.mountainline.com/).<br>

@@ -1,0 +1,8 @@
+60251-60268,New Flyer D40LF,2008,Diesel,https://cptdb.ca/wiki/index.php/People_Mover_(Anchorage)_60251-60268
+60269-60283,New Flyer D40LFR,2010,Diesel,https://cptdb.ca/wiki/index.php/People_Mover_(Anchorage)_60269-60283
+60284-60291,New Flyer D40LFR,2011,Diesel,https://cptdb.ca/wiki/index.php/People_Mover_(Anchorage)_60284-60291
+60292-60302,New Flyer D40LFR,2013,Diesel,https://cptdb.ca/wiki/index.php/People_Mover_(Anchorage)_60292-60302
+60303-60313,New Flyer XD40,2022,Diesel,https://cptdb.ca/wiki/index.php/People_Mover_(Anchorage)_60303-60313
+60314-60328,New Flyer XD40,2024,Diesel,https://cptdb.ca/wiki/index.php/People_Mover_(Anchorage)_60314-60328
+60329-60335,New Flyer XD40,2024,Diesel,https://cptdb.ca/wiki/index.php/People_Mover_(Anchorage)_60329-60339
+60336-60339,New Flyer XD40,2025,Diesel,https://cptdb.ca/wiki/index.php/People_Mover_(Anchorage)_60329-60339

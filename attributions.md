@@ -63,3 +63,4 @@ Transit data for Anchorage, Alaska provided by [Anchorage People Mover](https://
 Transit data for Missoula, Minnesota provided by [Mountain Line](http://www.mountainline.com/).<br>
 Transit data for Waterloo, Ontario provided by [Grand River Transit](http://www.grt.ca).<br>
 Transit data for York, Ontario provided by [York Region Transit](https://www.yrt.ca/en/index.aspx).<br>
+Transit data for London, Ontario provided by [London Transit Commission](https://www.londontransit.ca/).<br>

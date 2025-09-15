@@ -66,3 +66,4 @@ anchorage,https://bustracker.muni.org/InfoPoint/GTFS-Realtime.ashx?Type=VehicleP
 missoula,https://bt.mountainline.com/gtfsrt/vehicles,https://mountainline.com/files/MUTD_GTFS.zip,46.86311657428568,-114.0067176057143,46.819761,-114.08799,46.924218,-113.865247,Mountain Line
 waterloo,http://webapps.regionofwaterloo.ca/api/grt-routes/api/vehiclepositions,http://www.regionofwaterloo.ca/opendatadownloads/GRT_GTFS.zip,43.430431288346185,-80.44766004712942,43.33648,-80.714774,43.600223,-80.271672,Grand River Transit
 york,http://rtu.york.ca/gtfsrealtime/VehiclePositions,https://www.yrt.ca/google/google_transit.zip,43.898197571907886,-79.4276112700208,43.729119,-79.659397,44.32131,-79.212178,York Region Transit
+london,http://gtfs.ltconline.ca/Vehicle/VehiclePositions.pb,http://www.londontransit.ca/gtfsfeed/google_transit.zip,42.98164159600611,-81.24263378801824,42.905244,-81.36311,43.051188,-81.132066,London Transit Commission

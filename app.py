@@ -131,6 +131,9 @@ def get_icon_for_vehicle(city, route_name, vehicle_id):
     elif city == "kitsap":
         if vehicle_id in ["AdmPete", "Wtrman", "CII", "Enetai", "Relnce", "Solano"]:
             icon_name = "ferry.png"
+    elif city == "waterloo":
+        if len(vehicle_id) == 3:
+            icon_name = "lightrail.png"
     else:
         operator = CITY_CONFIG.get(city, {}).get("operator", "")
         if operator:
@@ -241,7 +244,7 @@ def fetch_gtfs(city):
                     else:
                         vehicle_id = str(vehicle_id_raw) if vehicle_id_raw else ""
 
-                    timestamp = vehicle.timestamp if vehicle.HasField("timestamp") else None
+                    timestamp = vehicle.timestamp if vehicle.HasField("timestamp") else time.time()
                     route_id = vehicle.trip.route_id if vehicle.trip.HasField("route_id") else None
                     trip_id = vehicle.trip.trip_id if vehicle.trip.HasField("trip_id") else None
                     next_stop_id = vehicle.stop_id if vehicle.HasField("stop_id") else None

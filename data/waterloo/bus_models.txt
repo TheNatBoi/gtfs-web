@@ -1,0 +1,19 @@
+20907,Nova Bus LFS,2009,Diesel,https://cptdb.ca/wiki/index.php/Grand_River_Transit_20901-20913
+20913,Nova Bus LFS,2009,Diesel,https://cptdb.ca/wiki/index.php/Grand_River_Transit_20901-20913
+21001-21008,Nova Bus LFS,2010,Diesel,https://cptdb.ca/wiki/index.php/Grand_River_Transit_21001-21008
+21101-21115,Nova Bus LFS,2011,Diesel,https://cptdb.ca/wiki/index.php/Grand_River_Transit_21101-21115
+21201-21220,Nova Bus LFS,2012,Diesel,https://cptdb.ca/wiki/index.php/Grand_River_Transit_21201-21220
+21301-21333,New Flyer XD40,2013,Diesel,https://cptdb.ca/wiki/index.php/Grand_River_Transit_21301-21333
+21401-21405,New Flyer XD40,2014,Diesel,https://cptdb.ca/wiki/index.php/Grand_River_Transit_21401-21405
+21501-21524,New Flyer XD40,2015,Diesel,https://cptdb.ca/wiki/index.php/Grand_River_Transit_21501-21524
+21701-21718,New Flyer XD40,2017,Diesel,https://cptdb.ca/wiki/index.php/Grand_River_Transit_21701-21718
+21719-21747,New Flyer XD40,2017,Diesel,https://cptdb.ca/wiki/index.php/Grand_River_Transit_21719-21757
+21748-21757,New Flyer XD40,2018,Diesel,https://cptdb.ca/wiki/index.php/Grand_River_Transit_21719-21757
+21901-21912,Nova Bus LFS,2019,Diesel,https://cptdb.ca/wiki/index.php/Grand_River_Transit_21901-21912
+22001-22031,Nova Bus LFS,2020,Diesel,https://cptdb.ca/wiki/index.php/Grand_River_Transit_22001-22031
+22101-22104,Nova Bus LFS HEV,2021,Hybrid,https://cptdb.ca/wiki/index.php/Grand_River_Transit_22101-22104
+22105-22108,Vicinity Motor Classic 30',2021,Diesel,https://cptdb.ca/wiki/index.php/Grand_River_Transit_22105-22108
+22201-22229,Nova Bus LFS HEV,2022,Hybrid,https://cptdb.ca/wiki/index.php/Grand_River_Transit_22201-22229
+22301-22311,Nova Bus LFSe+,2023,Electric,https://cptdb.ca/wiki/index.php/Grand_River_Transit_22301-22311
+22312-22318,Nova Bus LFS HEV,2023,Hybrid,https://cptdb.ca/wiki/index.php/Grand_River_Transit_22312-22318
+22401-22448,Nova Bus LFS HEV,2024,Hybrid,https://cptdb.ca/wiki/index.php/Grand_River_Transit_22401-22448

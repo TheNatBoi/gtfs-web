@@ -67,3 +67,4 @@ missoula,https://bt.mountainline.com/gtfsrt/vehicles,https://mountainline.com/fi
 waterloo,http://webapps.regionofwaterloo.ca/api/grt-routes/api/vehiclepositions,http://www.regionofwaterloo.ca/opendatadownloads/GRT_GTFS.zip,43.430431288346185,-80.44766004712942,43.33648,-80.714774,43.600223,-80.271672,Grand River Transit
 york,http://rtu.york.ca/gtfsrealtime/VehiclePositions,https://www.yrt.ca/google/google_transit.zip,43.898197571907886,-79.4276112700208,43.729119,-79.659397,44.32131,-79.212178,York Region Transit
 london,http://gtfs.ltconline.ca/Vehicle/VehiclePositions.pb,http://www.londontransit.ca/gtfsfeed/google_transit.zip,42.98164159600611,-81.24263378801824,42.905244,-81.36311,43.051188,-81.132066,London Transit Commission
+barrie,http://www.myridebarrie.ca/gtfs/GTFS_VehiclePositions.pb,http://www.myridebarrie.ca/gtfs/Google_transit.zip,44.37277959025865,-79.69067270373232,44.3218044,-79.7360251709694,44.42020676,-79.611327,Barrie Transit

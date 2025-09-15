@@ -1,0 +1,32 @@
+501-520,Van Hool A330,2005-2006,Diesel,https://cptdb.ca/wiki/index.php/York_Region_Transit_501-520
+521-536,Van Hool A330,2005,Diesel,https://cptdb.ca/wiki/index.php/York_Region_Transit_521-536
+571-585,New Flyer D40LF,2005,Diesel,https://cptdb.ca/wiki/index.php/York_Region_Transit_571-585
+601-609,New Flyer D40LF,2005,Diesel,https://cptdb.ca/wiki/index.php/York_Region_Transit_601-609
+610-618,New Flyer D40LF,2006,Diesel,https://cptdb.ca/wiki/index.php/York_Region_Transit_610-618
+701-730,New Flyer D40LF,2007,Diesel,https://cptdb.ca/wiki/index.php/York_Region_Transit_701-730
+801-819,New Flyer D40LF,2008,Diesel,https://cptdb.ca/wiki/index.php/York_Region_Transit_801-819
+901-945,New Flyer D40LF,2009,Diesel,https://cptdb.ca/wiki/index.php/York_Region_Transit_901-945
+1001-1019,New Flyer D40LF,2010,Diesel,https://cptdb.ca/wiki/index.php/York_Region_Transit_1001-1019
+1020-1038,New Flyer D40LFR,2010,Diesel,https://cptdb.ca/wiki/index.php/York_Region_Transit_1020-1038
+1065-1072,ElDorado E-Z Rider II BRT,2010,Diesel,https://cptdb.ca/wiki/index.php/York_Region_Transit_1065-1072
+1101-1120,New Flyer D40LFR,2011,Diesel,https://cptdb.ca/wiki/index.php/York_Region_Transit_1101-1120
+1160-1162,ElDorado E-Z Rider II BRT,2010,Diesel,https://cptdb.ca/wiki/index.php/York_Region_Transit_1160-1162
+1370-1396,Nova Bus LFS Artic,2013,Diesel,https://cptdb.ca/wiki/index.php/York_Region_Transit_1370-1396
+1401-1434,New Flyer XD40,2014,Diesel,https://cptdb.ca/wiki/index.php/York_Region_Transit_1401-1434
+1501-1518,Nova Bus LFS,2015-2016,Diesel,https://cptdb.ca/wiki/index.php/York_Region_Transit_1501-1518
+1601-1614,Nova Bus LFS,2016,Diesel,https://cptdb.ca/wiki/index.php/York_Region_Transit_1601-1614
+1615-1621,Nova Bus LFS,2016,Diesel,https://cptdb.ca/wiki/index.php/York_Region_Transit_1615-1621
+1701-1715,Nova Bus LFS,2016,Diesel,https://cptdb.ca/wiki/index.php/York_Region_Transit_1701-1715
+1770-1774,Nova Bus LFS Artic,2016,Diesel,https://cptdb.ca/wiki/index.php/York_Region_Transit_1770-1774
+1801-1826,New Flyer XD40,2018,Diesel,https://cptdb.ca/wiki/index.php/York_Region_Transit_1801-1826
+1901-1908,New Flyer XD40,2019,Diesel,https://cptdb.ca/wiki/index.php/York_Region_Transit_1901-1908
+1911-1914,New Flyer XE40,2019,Electric,https://cptdb.ca/wiki/index.php/York_Region_Transit_e1911-e1914
+1921-1922,Nova Bus LFSe,2020,Electric,https://cptdb.ca/wiki/index.php/York_Region_Transit_e1921-e1922
+1971-1980,Nova Bus LFS Artic,2019,Diesel,https://cptdb.ca/wiki/index.php/York_Region_Transit_1971-1980
+2001-2028,New Flyer XD60,2020,Diesel,https://cptdb.ca/wiki/index.php/York_Region_Transit_2001-2028
+2101-2106,New Flyer XE40,2021,Electric,https://cptdb.ca/wiki/index.php/York_Region_Transit_e2101-e2106
+2201-2202,New Flyer XE40,2022,Electric,https://cptdb.ca/wiki/index.php/York_Region_Transit_e2201-e2202
+2206-2240,New Flyer XD40,2022,Diesel,https://cptdb.ca/wiki/index.php/York_Region_Transit_2206-2240
+2241-2264,New Flyer XD60,2022,Diesel,https://cptdb.ca/wiki/index.php/York_Region_Transit_2241-2264
+2270-2295,Nova Bus LFS Artic,2023,Diesel,https://cptdb.ca/wiki/index.php/York_Region_Transit_2270-2295
+5101-5160,Van Hool A330,2005-2006,Diesel,https://cptdb.ca/wiki/index.php/York_Region_Transit_5101-5160

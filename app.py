@@ -129,7 +129,7 @@ def get_icon_for_vehicle(city, route_name, vehicle_id):
     elif city == "denver" and route_name in ["101H", "E", "R", "A", "101D", "G", "B", "N", "L", "W"]:
         icon_name = "rail.png"
     elif city == "kitsap":
-        if vehicle_id in ["AdmPete", "Wtrman", "CII", "Enetai", "Relnce", "Solano"]:
+        if vehicle_id in ["AdmPete", "Wtrman", "CII", "Enetai", "Relnce", "Solano","LdySwft","Finest"]:
             icon_name = "ferry.png"
     elif city == "waterloo":
         if len(vehicle_id) == 3:

@@ -61,3 +61,4 @@ Transit data for Athens, Georgia provided by [Athens Transit System](https://www
 Transit data for Springfield, Massachusetts provided by [Pioneer Valley Transit Authority](http://www.pvta.com/).<br>
 Transit data for Anchorage, Alaska provided by [Anchorage People Mover](https://www.muni.org/departments/transit/peoplemover/Pages/default.aspx). Data provided courtesy of MOA.<br>
 Transit data for Missoula, Minnesota provided by [Mountain Line](http://www.mountainline.com/).<br>
+Transit data for Waterloo, Ontario provided by [Grand River Transit](http://www.grt.ca).<br>

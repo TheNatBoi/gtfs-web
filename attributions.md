@@ -65,3 +65,4 @@ Transit data for Waterloo, Ontario provided by [Grand River Transit](http://www.
 Transit data for York, Ontario provided by [York Region Transit](https://www.yrt.ca/en/index.aspx).<br>
 Transit data for London, Ontario provided by [London Transit Commission](https://www.londontransit.ca/).<br>
 Transit data for Barrie, Ontario provided by [Barrie Transit](https://myridebarrie.ca).<br>
+Transit data for Durham, Ontario provided by [Durham Region Transit](https://www.durhamregiontransit.com).<br>

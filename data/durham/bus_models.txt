@@ -1,0 +1,31 @@
+1007-1008,NFI D40LF,2005,Diesel,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_1007-1015
+1011-1012,NFI D40LF,2005,Diesel,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_1007-1015
+1009-1010,NFI D40LFR,2006,Diesel,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_1007-1015
+1013-1015,NFI D40LFR,2006,Diesel,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_1007-1015
+6100-6112,Nova Bus LFS,2018,Diesel,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_6100-6112
+6113-6116,Nova Bus LFS,2019,Diesel,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_6113-6116
+6117-6119,Nova Bus LFS,2021,Diesel,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_6117-6119
+6120-6129,Nova Bus LFS HEV,2022,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_6120-6129
+6130-6135,Nova Bus LFSe+,2024,Electric,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_6130-6135
+6136-6150,Nova Bus LFS,2024,Diesel,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_6136-6150
+6151-6157,Nova Bus LFS,2024,Diesel,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_6151-6157
+7100-7103,Nova Bus LFS,2018,Diesel,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_7100-7103
+7104-7117,Nova Bus LFS,2021,Diesel,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_7104-7117
+7118-7122,Nova Bus LFS,2022,Diesel,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_7118-7122
+7123-7124,Nova Bus LFS,2023,Diesel,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_7123-7124
+8470,NFI D40LF,2009,Diesel,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_8460-8470
+8471-8473,NFI D40LF,2010,Diesel,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_8471-8473
+8501-8515,NFI XD40,2011,Diesel,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_8501-8515
+8516-8523,NFI XD40,2012,Diesel,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_8516-8523
+8524-8535,NFI XD40,2012,Diesel,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_8524-8535
+8536-8543,NFI XD40,2013,Diesel,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_8536-8543
+8544-8547,NFI XD40,2014,Diesel,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_8544-8547
+8551-8553,Nova Bus LFS,2015,Diesel,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_8551-8553
+8554-8559,Nova Bus LFS,2015,Diesel,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_8554-8559
+8560-8565,Nova Bus LFS,2016,Diesel,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_8560-8565
+8566-8578,Nova Bus LFS,2017,Diesel,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_8566-8578
+8579-8589,Nova Bus LFS,2018,Diesel,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_8579-8589
+8590-8592,NFI XD40,2014,Diesel,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_8590-8592
+8601-8626,NFI XD40,2013,Diesel,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_8601-8626
+9100-9105,Nova Bus LFS Artic,2020,Diesel,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_9100-9105
+9106-9107,Nova Bus LFS Artic,2021,Diesel,https://cptdb.ca/wiki/index.php/Durham_Region_Transit_9106-9107

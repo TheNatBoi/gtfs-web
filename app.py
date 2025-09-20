@@ -243,6 +243,8 @@ def fetch_gtfs(city):
                         vehicle_id = "60" + str(vehicle_id_raw)
                     elif city in ["york"]:
                         vehicle_id = str(vehicle_id_raw)[1:]
+                    elif city in ["kingston"]:
+                        vehicle_id = str(vehicle_id_raw)[-5:]
                     else:
                         vehicle_id = str(vehicle_id_raw) if vehicle_id_raw else ""
 

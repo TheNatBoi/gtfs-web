@@ -66,3 +66,4 @@ Transit data for York, Ontario provided by [York Region Transit](https://www.yrt
 Transit data for London, Ontario provided by [London Transit Commission](https://www.londontransit.ca/).<br>
 Transit data for Barrie, Ontario provided by [Barrie Transit](https://myridebarrie.ca).<br>
 Transit data for Durham, Ontario provided by [Durham Region Transit](https://www.durhamregiontransit.com).<br>
+Transit data for Kingston, Ontario provided by [Kingston Transit](http://www.cityofkingston.ca/residents/transportation/transit/index.asp). Contains information licensed under the Open Data Licence – City of Kingston.<br>

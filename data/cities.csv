@@ -69,3 +69,4 @@ york,http://rtu.york.ca/gtfsrealtime/VehiclePositions,https://www.yrt.ca/google/
 london,http://gtfs.ltconline.ca/Vehicle/VehiclePositions.pb,http://www.londontransit.ca/gtfsfeed/google_transit.zip,42.98164159600611,-81.24263378801824,42.905244,-81.36311,43.051188,-81.132066,London Transit Commission
 barrie,http://www.myridebarrie.ca/gtfs/GTFS_VehiclePositions.pb,http://www.myridebarrie.ca/gtfs/Google_transit.zip,44.37277959025865,-79.69067270373232,44.3218044,-79.7360251709694,44.42020676,-79.611327,Barrie Transit
 durham,https://drtonline.durhamregiontransit.com/gtfsrealtime/VehiclePositions,https://maps.durham.ca/OpenDataGTFS/GTFS_Durham_TXT.zip,43.90304688789491,-78.94019172334339,43.774202,-79.258755,44.43565000000001,-78.580493,Durham Region Transit
+kingston,https://api.cityofkingston.ca/gtfs-realtime/vehicleupdates.pb,https://api.cityofkingston.ca/gtfs/gtfs.zip,44.245066892648005,-76.54361952509828,44.17952,-76.78815,44.27897,-76.43906,Kingston Transit

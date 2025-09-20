@@ -3,11 +3,11 @@
 1201-1217,New Flyer XD40,2012,Diesel,https://cptdb.ca/wiki/index.php/West_Vancouver_Municipal_Transit_1201-1217
 1601-1605,New Flyer XD40,2016,Diesel,https://cptdb.ca/wiki/index.php/West_Vancouver_Municipal_Transit_1601-1605
 1606-1614,New Flyer XD40,2016,Diesel,https://cptdb.ca/wiki/index.php/West_Vancouver_Municipal_Transit_1606-1614
-2101,New Flyer E40LF,2005,Electric,"https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_2101–2199,_2201–2289"
-2102-2186,New Flyer E40LFR,2006,Electric,"https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_2101–2199,_2201–2289"
-2187-2289,New Flyer E40LFR,2007,Electric,"https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_2101–2199,_2201–2289"
-2501,New Flyer E60LFR,2006,Electric,https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_2501–2540
-2502-2540,New Flyer E60LFR,2007,Electric,https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_2501–2540
+2101,New Flyer E40LF,2005,Electric,"https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_2101-2199,_2201-2289"
+2102-2186,New Flyer E40LFR,2006,Electric,"https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_2101-2199,_2201-2289"
+2187-2289,New Flyer E40LFR,2007,Electric,"https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_2101-2199,_2201-2289"
+2501,New Flyer E60LFR,2006,Electric,https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_2501-2540
+2502-2540,New Flyer E60LFR,2007,Electric,https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_2501-2540
 2541-2574,New Flyer E60LFR,2009,Electric,https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_2541-2574
 3309-3358,New Flyer C40LFR,2006,Natural Gas,https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_3309-3358
 7447-7499,New Flyer D40LFR,2006,Diesel,"https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_7447-7499,_7501-7504"
@@ -42,8 +42,8 @@
 19536-19549,Arboc Spirit of Mobility 28,2020,Gasoline,https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_19501-19549
 19550-19554,Girardin G5,2019,Gasoline,https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_19550-19554
 21001-21025,New Flyer XDE60,2021,Hybrid,https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_21001-21025
-21501-21509,Arboc Spirit of Freedom 27,2020,Gasoline,https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_21501–21562
-21510-21562,Arboc Spirit of Freedom 27,2021,Gasoline,https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_21501–21562
+21501-21509,Arboc Spirit of Freedom 27,2020,Gasoline,https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_21501-21562
+21510-21562,Arboc Spirit of Freedom 27,2021,Gasoline,https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_21501-21562
 21401-21425,Alexander Dennis Enviro500,2021,Diesel,https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_21401-21425
 22001-22015,New Flyer XDE60,2022-2023,Hybrid,https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_22001-22015
 23001-23015,New Flyer XDE60,2023,Hybrid,https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_23001-23015
@@ -53,7 +53,7 @@
 24001-24016,New Flyer XDE60,2023-2024,Hybrid,https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_24001-24016
 24101-24150,Nova Bus LFS Natural Gas,2023-2024,Natural Gas,https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_24101-24150
 24501-24548,Arboc Spirit of Freedom 27,2024,Gasoline,https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_24501-24548
-24601–24634,Girardin G5,2024,Gasoline,https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_24601-24634
+24601-24634,Girardin G5,2024,Gasoline,https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_24601-24634
 25101-25184,Nova Bus LFS Natural Gas,2024-2025,Natural Gas,https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_25101-25184
-25501–25527,Girardin G5,2025,Gasoline,https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_25501–25527
-25601–25627,Girardin G5,2025,Gasoline,https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_25601-24627
+25501-25527,Girardin G5,2025,Gasoline,https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_25501-25527
+25601-25627,Girardin G5,2025,Gasoline,https://cptdb.ca/wiki/index.php/Coast_Mountain_Bus_Company_25601-24627

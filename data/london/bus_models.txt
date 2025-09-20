@@ -6,7 +6,7 @@
 35-36,New Flyer XD60,2022,Diesel,https://cptdb.ca/wiki/index.php/London_Transit_Commission_35-36
 37,New Flyer XD60,2024,Diesel,https://cptdb.ca/wiki/index.php/London_Transit_Commission_37
 38-41,New Flyer XD60,2025,Diesel,https://cptdb.ca/wiki/index.php/London_Transit_Commission_38-41
-177-178,New Flyer XDE40,2012,Hybrid,https://cptdb.ca/wiki/index.php/London_Transit_Commission_177-178
+177-178,New Flyer XDE40,2012,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/London_Transit_Commission_177-178
 301-311,New Flyer XD40,2011,Diesel,https://cptdb.ca/wiki/index.php/London_Transit_Commission_301-311
 312-320,New Flyer XD40,2012,Diesel,https://cptdb.ca/wiki/index.php/London_Transit_Commission_312-320
 321-332,New Flyer XD40,2013,Diesel,https://cptdb.ca/wiki/index.php/London_Transit_Commission_321-332

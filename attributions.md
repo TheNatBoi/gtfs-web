@@ -67,3 +67,4 @@ Transit data for Durham, Ontario provided by [Durham Region Transit](https://www
 Transit data for Kingston, Ontario provided by [Kingston Transit](http://www.cityofkingston.ca/residents/transportation/transit/index.asp). Contains information licensed under the Open Data Licence – City of Kingston.<br>
 Transit data for Burlington, Ontario provided by [Burlington Transit](https://www.burlingtontransit.ca/)
 Transit data for Mississauga, Ontario provided by [MiWay](https://www.miway.ca).<br>
+Transit data for Cary, North Carolina provided by [GoCary](https://gocary.org/). Except as otherwise noted, the content of this section is licensed under the Creative Commons Attribution 3.0 License.<br>

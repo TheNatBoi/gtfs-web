@@ -74,3 +74,4 @@ burlington,https://opendata.burlington.ca/gtfs-rt/GTFS_VehiclePositions.pb,https
 mississauga,https://www.miapp.ca/GTFS_RT/Vehicle/VehiclePositions.pb,https://www.miapp.ca/GTFS/google_transit.zip,43.60441327555015,-79.66141215330073,43.4693,-79.797798,43.838078,-79.512877,MiWay
 cary,https://www.gocarylive.org/gtfs/Realtime/GTFS_VehiclePositions.pb,https://www.gocary.org/_GTFS,35.776738046650046,-78.79877999489645,35.714045,-78.896151,35.831696,-78.720693,GoCary
 rochester,https://api.rgrta.com/rtgvehicles?key=00e2dbf6b15742febb37d0a1d7d3acd5,http://scheduledata.rgrta.com/google_transit.zip,43.14431102752759,-77.61409900300302,42.558157,-77.991184,43.297343,-76.99252,RGRTA
+palm_springs,https://infopoint.sunline.org/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,http://infopoint.sunline.org/InfoPoint/gtfs-zip.ashx,33.76488099652778,-116.36623854340272,33.522632,-117.326156,34.179853,-115.921462,SunLine Transit Agency

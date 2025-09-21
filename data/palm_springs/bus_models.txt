@@ -1,0 +1,13 @@
+575-594,601-621,New Flyer C40LF,2008,CNG,https://cptdb.ca/wiki/index.php/SunLine_Transit_Agency_575-594_601-621
+622-627,New Flyer XN40,2016,CNG,https://cptdb.ca/wiki/index.php/SunLine_Transit_Agency_622-627
+628-637,New Flyer XN40,2020,CNG,https://cptdb.ca/wiki/index.php/SunLine_Transit_Agency_628-637
+638-652,Gillig BRTPlus CNG 40',2013-2014,CNG,https://cptdb.ca/wiki/index.php/SunLine_Transit_Agency_638-652
+811-814,BYD K9M,2019,Electric,https://cptdb.ca/wiki/index.php/SunLine_Transit_Agency_811-814
+2007-2008,MCI D4500CT CNG,2020,CNG,https://cptdb.ca/wiki/index.php/SunLine_Transit_Agency_2007-2008
+2010,MCI D4500CT,2023,Diesel,https://cptdb.ca/wiki/index.php/SunLine_Transit_Agency_2010
+FC8-FC12,ENC Axess BRT Fuel Cell 40',2018,Hydrogen Fuel Cell,https://cptdb.ca/wiki/index.php/SunLine_Transit_Agency_FC8-FC12
+FC14-FC18,New Flyer XHE40,2018,Hydrogen Fuel Cell,https://cptdb.ca/wiki/index.php/SunLine_Transit_Agency_FC14-FC18
+FC19,ENC Axess BRT Fuel Cell 40',2015,Hydrogen Fuel Cell,https://cptdb.ca/wiki/index.php/SunLine_Transit_Agency_FC19
+FC20-FC24,New Flyer XHE40,2021,Hydrogen Fuel Cell,https://cptdb.ca/wiki/index.php/SunLine_Transit_Agency_FC20-FC24
+FC25-FC29,New Flyer XHE40,2021,Hydrogen Fuel Cell,https://cptdb.ca/wiki/index.php/SunLine_Transit_Agency_FC25-FC29
+FC30-FC37,New Flyer XHE40,2024,Hydrogen Fuel Cell,https://cptdb.ca/wiki/index.php/SunLine_Transit_Agency_FC30-FC37

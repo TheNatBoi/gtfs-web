@@ -69,3 +69,4 @@ Transit data for Burlington, Ontario provided by [Burlington Transit](https://ww
 Transit data for Mississauga, Ontario provided by [MiWay](https://www.miway.ca).<br>
 Transit data for Cary, North Carolina provided by [GoCary](https://gocary.org/). Except as otherwise noted, the content of this section is licensed under the Creative Commons Attribution 3.0 License.<br>
 Transit data for Rochester, New York provided by [Rochester-Genesee Regional Transportation Authority (RGRTA)](https://www.myrts.com)
+Transit data for Palm Springs, California provided by [SunLine Transit Agency](https://www.sunline.org)

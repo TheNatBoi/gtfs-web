@@ -73,3 +73,4 @@ kingston,https://api.cityofkingston.ca/gtfs-realtime/vehicleupdates.pb,https://a
 burlington,https://opendata.burlington.ca/gtfs-rt/GTFS_VehiclePositions.pb,https://opendata.burlington.ca/gtfs-rt/GTFS_Data.zip,43.35691531432194,-79.80165680861845,43.256679,-79.892603,43.411717,-79.725184,Burlington Transit
 mississauga,https://www.miapp.ca/GTFS_RT/Vehicle/VehiclePositions.pb,https://www.miapp.ca/GTFS/google_transit.zip,43.60441327555015,-79.66141215330073,43.4693,-79.797798,43.838078,-79.512877,MiWay
 cary,https://www.gocarylive.org/gtfs/Realtime/GTFS_VehiclePositions.pb,https://www.gocary.org/_GTFS,35.776738046650046,-78.79877999489645,35.714045,-78.896151,35.831696,-78.720693,GoCary
+rochester,https://api.rgrta.com/rtgvehicles?key=00e2dbf6b15742febb37d0a1d7d3acd5,http://scheduledata.rgrta.com/google_transit.zip,43.14431102752759,-77.61409900300302,42.558157,-77.991184,43.297343,-76.99252,RGRTA

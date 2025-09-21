@@ -1,0 +1,13 @@
+371-390,New Flyer XD60,2013,Diesel,https://cptdb.ca/wiki/index.php/Rochester-Genesee_Regional_Transportation_Authority_371-390
+901-921,Gillig Low Floor 40',2011,Diesel,https://cptdb.ca/wiki/index.php/Rochester-Genesee_Regional_Transportation_Authority_901-921
+1291-1295,New Flyer XD40,2012,Diesel,https://cptdb.ca/wiki/index.php/Rochester-Genesee_Regional_Transportation_Authority_1291-1295
+1301-1333,New Flyer XD40,2013,Diesel,https://cptdb.ca/wiki/index.php/Rochester-Genesee_Regional_Transportation_Authority_1301-1333
+1401-1419,New Flyer XD40,2014,Diesel,https://cptdb.ca/wiki/index.php/Rochester-Genesee_Regional_Transportation_Authority_1401-1419
+1601-1621,New Flyer XD40,2016,Diesel,https://cptdb.ca/wiki/index.php/Rochester-Genesee_Regional_Transportation_Authority_1601-1621
+1801-1815,New Flyer XD40,2018,Diesel,https://cptdb.ca/wiki/index.php/Rochester-Genesee_Regional_Transportation_Authority_1801-1815
+1901-1910,Nova Bus LFS,2019,Diesel,https://cptdb.ca/wiki/index.php/Rochester-Genesee_Regional_Transportation_Authority_1901-1910
+2001-2010,New Flyer XE40,2020,Electric,https://cptdb.ca/wiki/index.php/Rochester-Genesee_Regional_Transportation_Authority_2001-2010
+2201-2210,New Flyer XE40,2022,Electric,https://cptdb.ca/wiki/index.php/Rochester-Genesee_Regional_Transportation_Authority_2201-2210
+2221-2247,Nova Bus LFS,2022,Diesel,https://cptdb.ca/wiki/index.php/Rochester-Genesee_Regional_Transportation_Authority_2221-2247
+2301-2309,Nova Bus LFS,2023,Diesel,https://cptdb.ca/wiki/index.php/Rochester-Genesee_Regional_Transportation_Authority_2301-2309
+2401-2403,New Flyer XHE40,2024,Hydrogen Fuel Cell,https://cptdb.ca/wiki/index.php/Rochester-Genesee_Regional_Transportation_Authority_2401-2403

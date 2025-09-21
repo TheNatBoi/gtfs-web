@@ -41,7 +41,6 @@ Transit data for Lancaster, California provided by [Antelope Valley Transit Auth
 Transit data for Culver City, California provided by [Culver CityBus](https://www.culvercitybus.com/).<br>
 Transit data for Fresno, California provided by [Fresno Area Express](https://www.fresno.gov/transportation/fax/).<br>
 Transit data for Vancouver, British Columbia provided by [TransLink](https://www.translink.ca). Route and arrival data used in this product or service is provided by permission of TransLink. TransLink assumes no responsibility for the accuracy or currency of the Data used in this product or service.<br>
-Transit data for San Francisco, California provided by [511.org](https://511.org). Data provided by 511.org<br>
 Transit data for Denver, Colorado provided by [Regional Transportation District](http://rtd-denver.com).<br>
 Transit data for Whatcom County, Washington provided by [Whatcom Transportation Authority](https://www.ridewta.com/).<br>
 Transit data for Yakima, Washington provided by [Yakima Transit](https://yakimatransit.org/).<br>
@@ -51,7 +50,6 @@ Transit data for Bloomington, Illinois provided by [Connect Transit](https://www
 Transit data for Commerce, California provided by [City of Commerce Municipal Bus Lines](https://www.ci.commerce.ca.us/city-hall/transportation).<br>
 Transit data for Albany, New York provided by [Capital District Transportation Authority](http://www.cdta.org).<br>
 Transit data for Springfield, Illinois provided by [Springfield Mass Transit District](https://www.smtd.org).<br>
-Transit data for Toronto, Ontario provided by [Toronto Transit Commission](http://www.ttc.ca). Contains information licensed under the Open Government Licence - Toronto.<br>
 Transit data for Akron, Ohio provided by [Akron Metro Regional Transit Authority](https://www.yourmetrobus.org/).<br>
 Transit data for Chico, California provided by [Butte Regional Transit](https://www.blinetransit.com).<br>
 Transit data for Pottstown, Pennsylvania provided by [Pottstown Area Rapid Transit](https://www.pottstown.org/181/Transit).<br>

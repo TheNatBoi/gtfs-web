@@ -71,3 +71,4 @@ barrie,http://www.myridebarrie.ca/gtfs/GTFS_VehiclePositions.pb,http://www.myrid
 durham,https://drtonline.durhamregiontransit.com/gtfsrealtime/VehiclePositions,https://maps.durham.ca/OpenDataGTFS/GTFS_Durham_TXT.zip,43.90304688789491,-78.94019172334339,43.774202,-79.258755,44.43565000000001,-78.580493,Durham Region Transit
 kingston,https://api.cityofkingston.ca/gtfs-realtime/vehicleupdates.pb,https://api.cityofkingston.ca/gtfs/gtfs.zip,44.245066892648005,-76.54361952509828,44.17952,-76.78815,44.27897,-76.43906,Kingston Transit
 burlington,https://opendata.burlington.ca/gtfs-rt/GTFS_VehiclePositions.pb,https://opendata.burlington.ca/gtfs-rt/GTFS_Data.zip,43.35691531432194,-79.80165680861845,43.256679,-79.892603,43.411717,-79.725184,Burlington Transit
+mississauga,https://www.miapp.ca/GTFS_RT/Vehicle/VehiclePositions.pb,https://www.miapp.ca/GTFS/google_transit.zip,43.60441327555015,-79.66141215330073,43.4693,-79.797798,43.838078,-79.512877,MiWay

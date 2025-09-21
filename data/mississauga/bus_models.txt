@@ -1,0 +1,19 @@
+1001-1020,Orion VII EPA10 BRT,2010,Diesel,https://cptdb.ca/wiki/index.php/MiWay_1001-1020
+1031-1045,Orion VII EPA10 HEV,2010,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/MiWay_1031-1045
+1101-1143,New Flyer XD40,2011,Diesel,https://cptdb.ca/wiki/index.php/MiWay_1101-1143
+1201-1215,Orion VII EPA10 BRT,2012,Diesel,https://cptdb.ca/wiki/index.php/MiWay_1201-1215
+1301-1314,New Flyer XD40,2013,Diesel,https://cptdb.ca/wiki/index.php/MiWay_1301-1314
+1351-1360,New Flyer XD60,2013,Diesel,https://cptdb.ca/wiki/index.php/MiWay_1351-1360
+1401-1407,New Flyer XD40,2014,Diesel,https://cptdb.ca/wiki/index.php/MiWay_1401-1407
+1701-1727,New Flyer XD40,2017,Diesel,https://cptdb.ca/wiki/index.php/MiWay_1701-1727
+1730-1766,Nova Bus LFS,2017,Diesel,https://cptdb.ca/wiki/index.php/MiWay_1730-1766
+1770-1799,Nova Bus LFS Artic,2017,Diesel,https://cptdb.ca/wiki/index.php/MiWay_1770-1799
+1801-1812,Nova Bus LFS,2018,Diesel,https://cptdb.ca/wiki/index.php/MiWay_1801-1812
+1901-1910,Nova Bus LFS HEV,2019,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/MiWay_1901-1910
+2051-2061,New Flyer XDE60,2020,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/MiWay_2051-2061
+2151-2155,New Flyer XDE60,2021,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/MiWay_2151-2155
+2201-2274,New Flyer XDE40,2022,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/MiWay_2201-2274
+2275-2290,New Flyer XDE60,2022,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/MiWay_2275-2290
+2301-2353,New Flyer XDE40,2023,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/MiWay_2301-2353
+2375-2396,New Flyer XDE60,2023,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/MiWay_2375-2396
+2401-2482,New Flyer XDE40,2024,Diesel-Electric Hybrid,https://cptdb.ca/wiki/index.php/MiWay_2401-2482

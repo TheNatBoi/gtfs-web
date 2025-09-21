@@ -68,3 +68,4 @@ Transit data for Barrie, Ontario provided by [Barrie Transit](https://myridebarr
 Transit data for Durham, Ontario provided by [Durham Region Transit](https://www.durhamregiontransit.com).<br>
 Transit data for Kingston, Ontario provided by [Kingston Transit](http://www.cityofkingston.ca/residents/transportation/transit/index.asp). Contains information licensed under the Open Data Licence – City of Kingston.<br>
 Transit data for Burlington, Ontario provided by [Burlington Transit](https://www.burlingtontransit.ca/)
+Transit data for Mississauga, Ontario provided by [MiWay](https://www.miway.ca).<br>

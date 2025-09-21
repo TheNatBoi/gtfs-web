@@ -230,7 +230,7 @@ def fetch_gtfs(city):
                 if entity.HasField("vehicle"):
                     vehicle = entity.vehicle
                     pos = vehicle.position
-                    if city in ["guelph", "connecticut", "fresno", "saskatoon", "halifax", "fort_mcmurray", "ohio","london"]:
+                    if city in ["guelph", "connecticut", "fresno", "saskatoon", "halifax", "fort_mcmurray", "ohio","london","mississauga"]:
                         vehicle_id_raw = entity.id
                     else:
                         vehicle_id_raw = vehicle.vehicle.id

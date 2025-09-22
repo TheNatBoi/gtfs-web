@@ -73,3 +73,4 @@ Transit data for Palm Springs, California provided by [SunLine Transit Agency](h
 Transit data for Orlando, Florida provided by [Central Florida Regional Transit Authority (LYNX)](https://www.golynx.com).<br>
 Transit data for Mansfield, Pennsylvania provided by [Endless Mountains Transportation Authority (BeST Transit)](https://www.gobesttransit.com/).<br>
 Transit data for Bradenton, Florida provided by [Manatee County Area Transit](https://www.ridemcat.org/).<br>
+Transit data for Sarasota, Florida provided by [Breeze Transit](https://www.scgov.net/government/breeze-transit).<br>

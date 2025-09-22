@@ -1,0 +1,16 @@
+1000-1010,Nova Bus LFSe+,2022,Battery-Electric,https://cptdb.ca/wiki/index.php/Milwaukee_County_Transit_System_1000-1014
+1011-1014,Nova Bus LFSe+,2023,Battery-Electric,https://cptdb.ca/wiki/index.php/Milwaukee_County_Transit_System_1000-1014
+5100-5189,New Flyer D40LFR,2010,Diesel,https://cptdb.ca/wiki/index.php/Milwaukee_County_Transit_System_5100-5189
+5200-5234,New Flyer D40LFR,2011,Diesel,https://cptdb.ca/wiki/index.php/Milwaukee_County_Transit_System_5200-5234
+5300-5354,New Flyer D40LFR,2012,Diesel,https://cptdb.ca/wiki/index.php/Milwaukee_County_Transit_System_5300-5354
+5400-5454,New Flyer XD40,2013,Diesel,https://cptdb.ca/wiki/index.php/Milwaukee_County_Transit_System_5400-5454
+5500-5534,New Flyer XD40,2014,Diesel,https://cptdb.ca/wiki/index.php/Milwaukee_County_Transit_System_5500-5534
+5600-5627,New Flyer XD40,2015,Diesel,https://cptdb.ca/wiki/index.php/Milwaukee_County_Transit_System_5600-5627
+5700-5729,New Flyer XD40,2016,Diesel,https://cptdb.ca/wiki/index.php/Milwaukee_County_Transit_System_5700-5729
+5800-5814,New Flyer XD40,2017,Diesel,https://cptdb.ca/wiki/index.php/Milwaukee_County_Transit_System_5800-5814
+5900-5927,Gillig BRT 40',2019,Diesel,https://cptdb.ca/wiki/index.php/Milwaukee_County_Transit_System_5900-5927
+6000-6022,Gillig BRT 40',2020,Diesel,https://cptdb.ca/wiki/index.php/Milwaukee_County_Transit_System_6000-6022
+6100-6113,Gillig BRT 40',2021,Diesel,https://cptdb.ca/wiki/index.php/Milwaukee_County_Transit_System_6100-6113
+6200-6258,Gillig BRT 40',2022,Diesel,https://cptdb.ca/wiki/index.php/Milwaukee_County_Transit_System_6200-6229
+6300-6327,Gillig Low Floor 40',2024,Diesel,https://cptdb.ca/wiki/index.php/Milwaukee_County_Transit_System_6300-6327
+6400-6429,Gillig Low Floor 40',2025,Diesel,https://cptdb.ca/wiki/index.php/Milwaukee_County_Transit_System_6400-6429

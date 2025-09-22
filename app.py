@@ -170,6 +170,28 @@ def load_city_data(city):
     feed = gk.read_feed(tmpfile.name, dist_units="km")
     os.unlink(tmpfile.name)
 
+    def clean_str_col(df, col):
+        if col in df.columns:
+            df[col] = df[col].astype(str).str.strip()
+
+    if hasattr(feed, "trips") and feed.trips is not None:
+        clean_str_col(feed.trips, "trip_id")
+        clean_str_col(feed.trips, "shape_id")
+        clean_str_col(feed.trips, "route_id")
+
+    if hasattr(feed, "shapes") and feed.shapes is not None:
+        clean_str_col(feed.shapes, "shape_id")
+
+    if hasattr(feed, "routes") and feed.routes is not None:
+        clean_str_col(feed.routes, "route_id")
+
+    if hasattr(feed, "stop_times") and feed.stop_times is not None:
+        clean_str_col(feed.stop_times, "trip_id")
+        clean_str_col(feed.stop_times, "stop_id")
+
+    if hasattr(feed, "stops") and feed.stops is not None:
+        clean_str_col(feed.stops, "stop_id")
+
     if city == "new_york":
         bus_models_path = "data/nyc_ferry/bus_models.txt"
     elif city == "MRC_Pierre-De_Saurel":
@@ -337,6 +359,11 @@ def api_route_shape(city, trip_id):
         return jsonify({"error": "City not found"}), 404
 
     feed = data["feed"]
+    feed.trips["trip_id"] = feed.trips["trip_id"].astype(str).str.strip()
+    feed.trips["shape_id"] = feed.trips["shape_id"].astype(str).str.strip()
+    feed.shapes["shape_id"] = feed.shapes["shape_id"].astype(str).str.strip()
+    feed.stop_times["trip_id"] = feed.stop_times["trip_id"].astype(str).str.strip()
+    trip_id = trip_id.strip()
     trip_row = feed.trips.query("trip_id == @trip_id")
     if trip_row.empty:
         return jsonify({"error": "Unknown trip_id"}), 404

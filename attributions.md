@@ -70,3 +70,4 @@ Transit data for Mississauga, Ontario provided by [MiWay](https://www.miway.ca).
 Transit data for Cary, North Carolina provided by [GoCary](https://gocary.org/). Except as otherwise noted, the content of this section is licensed under the Creative Commons Attribution 3.0 License.<br>
 Transit data for Rochester, New York provided by [Rochester-Genesee Regional Transportation Authority (RGRTA)](https://www.myrts.com).<br>
 Transit data for Palm Springs, California provided by [SunLine Transit Agency](https://www.sunline.org).<br>
+Transit data for Orlando, Florida provided by [Central Florida Regional Transit Authority (LYNX)](https://www.golynx.com).<br>

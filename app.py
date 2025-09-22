@@ -224,13 +224,8 @@ def get_city_data(city):
 latest_vehicle_positions = {}
 
 def get_pb(url, city):
-    if city == "washington":
-        headers = {"api_key": API_KEYS.get("WMATA", ""), "Cache-Control": "no-cache"}
-        response = requests.get(url, headers=headers)
-    elif city == "vancouver":
+    if city == "vancouver":
         response = requests.get(url + "?apikey=" + API_KEYS.get("TransLink", ""))
-    elif city == "san_francisco":
-        response = requests.get(url + str(API_KEYS.get("Various", "")))
     else:
         response = requests.get(url)
     return response

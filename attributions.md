@@ -72,3 +72,4 @@ Transit data for Rochester, New York provided by [Rochester-Genesee Regional Tra
 Transit data for Palm Springs, California provided by [SunLine Transit Agency](https://www.sunline.org).<br>
 Transit data for Orlando, Florida provided by [Central Florida Regional Transit Authority (LYNX)](https://www.golynx.com).<br>
 Transit data for Mansfield, Pennsylvania provided by [Endless Mountains Transportation Authority (BeST Transit)](https://www.gobesttransit.com/).<br>
+Transit data for Bradenton, Florida provided by [Manatee County Area Transit](https://www.ridemcat.org/).<br>

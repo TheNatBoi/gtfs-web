@@ -1,0 +1,18 @@
+121-122,Gillig Low Floor 35',2008,Diesel,https://cptdb.ca/wiki/index.php/Duluth_Transit_Authority_121-122
+123-126,Gillig Low Floor 40',2009,Diesel,https://cptdb.ca/wiki/index.php/Duluth_Transit_Authority_123-126
+127-130,Gillig Low Floor 40' HEV,2009,Hybrid,https://cptdb.ca/wiki/index.php/Duluth_Transit_Authority_127-130
+131-140,Gillig Low Floor 40',2010,Diesel,https://cptdb.ca/wiki/index.php/Duluth_Transit_Authority_131-140
+141-150,Gillig Low Floor 40',2013,Diesel,https://cptdb.ca/wiki/index.php/Duluth_Transit_Authority_141-150
+151-160,Gillig Low Floor 40',2014,Diesel,https://cptdb.ca/wiki/index.php/Duluth_Transit_Authority_151-160_(2nd)
+161-166,Gillig Low Floor 40',2016,Diesel,https://cptdb.ca/wiki/index.php/Duluth_Transit_Authority_161-166_(2nd)
+291-300,Gillig Low Floor 40',2006,Diesel,https://cptdb.ca/wiki/index.php/Duluth_Transit_Authority_291-300
+412-413,Chance Trolley 27',2002,Diesel,https://cptdb.ca/wiki/index.php/Duluth_Transit_Authority_412-413
+1501,Gillig Trolley Replica 29',2015,Diesel,https://cptdb.ca/wiki/index.php/Duluth_Transit_Authority_1501
+1800-1809,Gillig Low Floor 40',2018,Diesel,https://cptdb.ca/wiki/index.php/Duluth_Transit_Authority_1800-1809
+1810-1816,Proterra Catalyst BE40,2018,Battery-Electric,https://cptdb.ca/wiki/index.php/Duluth_Transit_Authority_1810-1816
+1901,Hometown Manufacturing Trolley,2019,Diesel,https://cptdb.ca/wiki/index.php/Duluth_Transit_Authority_1901
+2000-2005,Gillig Low Floor 40',2020,Diesel,https://cptdb.ca/wiki/index.php/Duluth_Transit_Authority_2000-2005
+2006-2009,Gillig Low Floor 35',2020,Diesel,https://cptdb.ca/wiki/index.php/Duluth_Transit_Authority_2006-2009
+2101,Hometown Manufacturing Streetcar,2021,Diesel,https://cptdb.ca/wiki/index.php/Duluth_Transit_Authority_2101
+2300-2310,Gillig BRT Plus 40',2023,Diesel,https://cptdb.ca/wiki/index.php/Duluth_Transit_Authority_2300-2310
+2500-2504,Gillig BRT Plus 40',2025,Diesel,https://cptdb.ca/wiki/index.php/Duluth_Transit_Authority_2500-2504

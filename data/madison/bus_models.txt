@@ -1,0 +1,13 @@
+020-021,Gillig BRT HEV 40',2014,Hybrid,https://cptdb.ca/wiki/index.php/Madison_Metro_020-021
+100,Gillig Low Floor 40',2013,Diesel,"https://cptdb.ca/wiki/index.php/Madison_Metro_983-999,_100"
+101-115,Gillig Low Floor 40',2015,Diesel,https://cptdb.ca/wiki/index.php/Madison_Metro_101-115
+116-130,Gillig Low Floor 40',2016,Diesel,https://cptdb.ca/wiki/index.php/Madison_Metro_116-130
+131-145,Gillig Low Floor 40',2017,Diesel,https://cptdb.ca/wiki/index.php/Madison_Metro_131-145
+146-160,Gillig Low Floor 40',2018,Diesel,https://cptdb.ca/wiki/index.php/Madison_Metro_146-160
+969-982,Gillig Low Floor 40',2012,Diesel,https://cptdb.ca/wiki/index.php/Madison_Metro_969-982
+983-999,Gillig Low Floor 40',2013,Diesel,"https://cptdb.ca/wiki/index.php/Madison_Metro_983-999,_100"
+1901-1915,NFI XD40,2019,Diesel,https://cptdb.ca/wiki/index.php/Madison_Metro_1901-1915
+2001-2003,Proterra Catalyst BE40,2020,Battery-Electric,https://cptdb.ca/wiki/index.php/Madison_Metro_2001-2003
+2004-2015,NFI XD40,2020,Diesel,https://cptdb.ca/wiki/index.php/Madison_Metro_2004-2015
+2201-2215,NFI XD40,2022,Diesel,https://cptdb.ca/wiki/index.php/Madison_Metro_2201-2215
+2301-2362,NFI XE60,2024,Battery-Electric,https://cptdb.ca/wiki/index.php/Madison_Metro_2301-2362

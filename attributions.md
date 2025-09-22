@@ -76,3 +76,4 @@ Transit data for Bradenton, Florida provided by [Manatee County Area Transit](ht
 Transit data for Sarasota, Florida provided by [Breeze Transit](https://www.scgov.net/government/breeze-transit).<br>
 Transit data for Lansing, Michigan provided by [Capital Area Transportation Authority (CATA)](https://www.cata.org).<br>
 Transit data for Milwaukee, Wisonsin provided by [Milwaukee County Transit System (MCTS)](https://www.ridemcts.com).<br>
+Transit data for Madison, Wisonsin provided by [Metro Transit - City of Madison](http://www.cityofmadison.com/metro/).<br>

@@ -131,9 +131,12 @@ def get_icon_for_vehicle(city, route_name, vehicle_id):
     elif city == "kitsap":
         if vehicle_id in ["AdmPete", "Wtrman", "CII", "Enetai", "Relnce", "Solano","LdySwft","Finest"]:
             icon_name = "ferry.png"
-    elif city == "waterloo":
+    elif city in ["waterloo"]:
         if len(vehicle_id) == 3:
             icon_name = "lightrail.png"
+    elif city in ["phoenix"]:
+        if len(vehicle_id) == 3 and route_name in ["A","B","S"]:
+            icon_name = "lightrail.png"            
     else:
         operator = CITY_CONFIG.get(city, {}).get("operator", "")
         if operator:

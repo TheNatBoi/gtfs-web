@@ -1,0 +1,66 @@
+1605-1611,ENC E-Z Rider II BRT 32' CNG,2017,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_1605-1611
+1612,ENC E-Z Rider II BRT 32' CNG,2018,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_1612
+1617-1622,Freightliner ARBOC XB-Series Spirit of Liberty 29',2018,Diesel,https://cptdb.ca/wiki/index.php/Valley_Metro_1617-1622
+1623-1627,ENC E-Z Rider II BRT 32' CNG,2018,CNG,"https://cptdb.ca/wiki/index.php/Valley_Metro_1612,_1623-1627"
+1628-1630,Freightliner StarTrans S2,2018,Diesel,https://cptdb.ca/wiki/index.php/Valley_Metro_1628-1630
+1631-1642,ENC E-Z Rider II BRT 32' CNG,2019,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_1631-1642
+1643,Chevrolet ARBOC G4500 Freedom,2020,Diesel,https://cptdb.ca/wiki/index.php/Valley_Metro_1643
+1644-1649,ARBOC Equess CNG,2020,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_1644-1649
+1650-1666,Gillig Low Floor CNG 29',2021,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_1650-1666
+1667-1672,Gillig Low Floor CNG 29',2022,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_1667-1672
+2401-2420,Gillig Low Floor CNG 40',2024,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_2401-2420
+3003-3005,Ford Starcraft E-450 Allstar,2016,Diesel,https://cptdb.ca/wiki/index.php/Valley_Metro_3003-3005
+3006-3008,Ford Starcraft E-450 Allstar,2020,Diesel,https://cptdb.ca/wiki/index.php/Valley_Metro_3006-3008
+3009-3011,Ford Starcraft Allstar,2021,Diesel,https://cptdb.ca/wiki/index.php/Valley_Metro_3009-3011
+3012-3018,Ford Starcraft Allstar,2022,Diesel,https://cptdb.ca/wiki/index.php/Valley_Metro_3012-3018
+3019-3022,Ford Starcraft Allstar,2023,Diesel,https://cptdb.ca/wiki/index.php/Valley_Metro_3019-3022
+4501-4504,Gillig Trolley Replica HEV 29',2013,Hybrid,https://cptdb.ca/wiki/index.php/Valley_Metro_4501-4504
+4505-4508,Gillig Low Floor HEV 29',2013,Hybrid,https://cptdb.ca/wiki/index.php/Valley_Metro_4505-4508
+4509-4513,Gillig Low Floor HEV 35',2013,Hybrid,https://cptdb.ca/wiki/index.php/Valley_Metro_4509-4513
+4514-4517,Gillig Low Floor CNG 35',2017,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_4514-4517
+4518-4521,Gillig Low Floor CNG 29',2018,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_4518-4521
+4522-4524,Gillig Low Floor CNG 35',2020,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_4522-4524
+5001-5120,New Flyer C40LFR,2014,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_5001-5120
+5121-5200,Gillig Low Floor CNG 40',2015-2016,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_5121-5200
+5201-5240,Gillig Low Floor CNG 40',2017,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_5201-5240
+5241-5274,Gillig Low Floor CNG 40',2018,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_5241-5274
+5275-5278,New Flyer XN40,2020,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_5275-5278
+5279-5318,Gillig Low Floor CNG 40',2023,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_5279-5318
+5319-5336,Gillig Low Floor CNG 40',2023,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_5319-5336
+5337-5353,Gillig Low Floor CNG 40',2024,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_5337-5353
+5600-5611,Gillig Low Floor 40',2018,Diesel,https://cptdb.ca/wiki/index.php/Valley_Metro_5600-5611
+5612-5644,Gillig Low Floor 40',2019,Diesel,https://cptdb.ca/wiki/index.php/Valley_Metro_5612-5644
+5645-5661,New Flyer XD40,2020,Diesel,https://cptdb.ca/wiki/index.php/Valley_Metro_5645-5661
+5662-5691,New Flyer XD40,2021,Diesel,https://cptdb.ca/wiki/index.php/Valley_Metro_5662-5691
+5692-5711,New Flyer XDE40,2024,Hybrid,https://cptdb.ca/wiki/index.php/Valley_Metro_5692-5711
+6676-6697,New Flyer C40LFR,2011,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_6676-6697
+6698-6713,New Flyer C40LFR,2012,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_6698-6713
+6714-6733,New Flyer C40LFR,2012,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_6714-6733
+6734-6749,New Flyer C40LFR,2013,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_6734-6749
+6750-6758,Gillig Low Floor CNG 40',2016,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_6750-6758
+6759-6770,Gillig Low Floor CNG 40',2017,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_6759-6770
+6771-6810,Gillig Low Floor CNG 40',2018,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_6771-6810
+6811-6822,New Flyer XN40,2018,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_6811-6822
+6823-6846,New Flyer XN40,2019,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_6823-6846
+6847-6873,New Flyer XN40,2020,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_6847-6873
+6874-6885,New Flyer XD40,2021,Diesel,https://cptdb.ca/wiki/index.php/Valley_Metro_6874-6885
+6886-6898,New Flyer XN40,2021,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_6886-6898
+7001-7009,New Flyer D40LFA,2010,Diesel,https://cptdb.ca/wiki/index.php/Valley_Metro_7001-7009
+7010-7013,MCI D45 CRT LE,2020,Diesel,https://cptdb.ca/wiki/index.php/Valley_Metro_7010-7013
+7014-7033,MCI D45 CRT LE,2021,Diesel,https://cptdb.ca/wiki/index.php/Valley_Metro_7014-7033
+7165-7172,New Flyer XN60,2016,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_7165-7172
+7173-7174,New Flyer XN60,2018,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_7173-7174
+7175-7185,New Flyer XN60,2019,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_7175-7185
+7186-7192,New Flyer XN60,2020,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_7186-7192
+7300-7309,New Flyer XN40,2017,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_7300-7309
+7310-7323,New Flyer XN40,2019,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_7310-7323
+7324-7328,New Flyer XN40,2020,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_7324-7328
+8065-8081,New Flyer DE60LFR,2011,Hybrid,https://cptdb.ca/wiki/index.php/Valley_Metro_8065-8081
+8082-8101,New Flyer XD60,2016,Diesel,https://cptdb.ca/wiki/index.php/Valley_Metro_8082-8101
+8102-8121,New Flyer XD60,2017,Diesel,https://cptdb.ca/wiki/index.php/Valley_Metro_8102-8121
+8122-8127,New Flyer XD60,2019,Diesel,https://cptdb.ca/wiki/index.php/Valley_Metro_8122-8127
+8128-8155,New Flyer XD60,2020,Diesel,https://cptdb.ca/wiki/index.php/Valley_Metro_8128-8155
+8521-8530,New Flyer XN60,2017,CNG,https://cptdb.ca/wiki/index.php/Valley_Metro_8521-8530
+101-150,Kinki Sharyo LFLRV,2008,Pantograph,https://cptdb.ca/wiki/index.php/Valley_Metro_101-150
+201-225,Siemens S700,2020-2021,Pantograph,https://cptdb.ca/wiki/index.php/Valley_Metro_201-225
+180-185,Brookville Liberty,2021,Pantograph,https://cptdb.ca/wiki/index.php/Valley_Metro_180-185

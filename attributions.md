@@ -78,3 +78,4 @@ Transit data for Lansing, Michigan provided by [Capital Area Transportation Auth
 Transit data for Milwaukee, Wisonsin provided by [Milwaukee County Transit System (MCTS)](https://www.ridemcts.com).<br>
 Transit data for Madison, Wisonsin provided by [Metro Transit - City of Madison](http://www.cityofmadison.com/metro/).<br>
 Transit data for Duluth, Minnesota provided by [Duluth Transit](http://www.duluthtransit.com/).<br>
+Transit data for Phoenix, Arizona provided by [Valley Metro](https://www.valleymetro.org/).<br>

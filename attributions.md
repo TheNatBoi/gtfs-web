@@ -79,3 +79,4 @@ Transit data for Milwaukee, Wisonsin provided by [Milwaukee County Transit Syste
 Transit data for Madison, Wisonsin provided by [Metro Transit - City of Madison](http://www.cityofmadison.com/metro/).<br>
 Transit data for Duluth, Minnesota provided by [Duluth Transit](http://www.duluthtransit.com/).<br>
 Transit data for Phoenix, Arizona provided by [Valley Metro](https://www.valleymetro.org/).<br>
+Transit data for Jefferson Parish, Louisiana provided by [Jefferson Parish Transit](https://jptransit.org).<br>

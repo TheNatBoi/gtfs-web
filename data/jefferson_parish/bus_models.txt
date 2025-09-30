@@ -1,0 +1,9 @@
+H01-H03,Gillig BRTPlus HEV 40',2024,Hybrid,https://cptdb.ca/wiki/index.php/Jefferson_Transit_(LA)_H01-H03
+401-417,Gillig BRT 40',2010,Diesel,https://cptdb.ca/wiki/index.php/Jefferson_Transit_(LA)_401-417
+418-425,Gillig BRT 40',2012,Diesel,https://cptdb.ca/wiki/index.php/Jefferson_Transit_(LA)_418-425
+426-436,Gillig Low Floor 40',2019,Diesel,https://cptdb.ca/wiki/index.php/Jefferson_Transit_(LA)_426-436
+437-442,Gillig Low Floor 40',2021,Diesel,https://cptdb.ca/wiki/index.php/Jefferson_Transit_(LA)_437-442
+443-447,Gillig BRTPlus 40',2024,Diesel,https://cptdb.ca/wiki/index.php/Jefferson_Transit_(LA)_443-447
+501,Gillig BRT 29',2010,Diesel,https://cptdb.ca/wiki/index.php/Jefferson_Transit_(LA)_501
+502-505,Gillig BRT 29',2013,Diesel,https://cptdb.ca/wiki/index.php/Jefferson_Transit_(LA)_502-505
+506-508,Gillig BRTPlus 35',2024,Diesel,https://cptdb.ca/wiki/index.php/Jefferson_Transit_(LA)_506-508

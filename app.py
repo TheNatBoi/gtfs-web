@@ -196,13 +196,13 @@ def load_city_data(city):
         clean_str_col(feed.stops, "stop_id")
 
     if city == "new_york":
-        bus_models_path = "data/nyc_ferry/bus_models.txt"
+        bus_models_path = "data/nyc_ferry.txt"
     elif city == "MRC_Pierre-De_Saurel":
-        bus_models_path = "data/pierre-de_saurel/bus_models.txt"
+        bus_models_path = "data/pierre-de_saurel.txt"
     elif city == "williams_lake":
-        bus_models_path = "data/williamslake/bus_models.txt"
+        bus_models_path = "data/williamslake.txt"
     elif city == "portland":
-        bus_models_path = "data/portland-ME/bus_models.txt"
+        bus_models_path = "data/portland-ME.txt"
     else:
         bus_models_path = f"data/{city}.txt"
 

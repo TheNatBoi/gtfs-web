@@ -1,0 +1,11 @@
+167-178,Gillig Low Floor 35',2014,Diesel,https://cptdb.ca/wiki/index.php/Capital_Area_Transit_System_167-178
+179-183,Gillig Low Floor 35',2015,Diesel,https://cptdb.ca/wiki/index.php/Capital_Area_Transit_System_179-183
+184-195,Gillig Low Floor 35',2016,Diesel,https://cptdb.ca/wiki/index.php/Capital_Area_Transit_System_184-195
+196-207,Gillig Low Floor 35',2017,Diesel,https://cptdb.ca/wiki/index.php/Capital_Area_Transit_System_196-207
+208-215,Gillig Low Floor 35',2018,Diesel,https://cptdb.ca/wiki/index.php/Capital_Area_Transit_System_208-215
+216-219,Gillig Low Floor 35',2023,Diesel,https://cptdb.ca/wiki/index.php/Capital_Area_Transit_System_216-219
+220-222,Gillig Low Floor 35',2024,Diesel,https://cptdb.ca/wiki/index.php/Capital_Area_Transit_System_220-222
+400-402,BYD K9S,2019,Electric,https://cptdb.ca/wiki/index.php/Capital_Area_Transit_System_400-402
+403-405,BYD K8M,2020,Electric,https://cptdb.ca/wiki/index.php/Capital_Area_Transit_System_403-405
+406-408,BYD K8M,2021,Electric,https://cptdb.ca/wiki/index.php/Capital_Area_Transit_System_406-408
+409-414,BYD K7M-ER,2023,Electric,https://cptdb.ca/wiki/index.php/Capital_Area_Transit_System_409-414

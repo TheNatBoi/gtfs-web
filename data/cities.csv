@@ -89,3 +89,4 @@ santa_fe,https://bluebustracker.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=V
 grand_forks,https://catprowler.org/gtfs-rt/vehiclepositions,https://catprowler.org/gtfs,47.91450055763161,-97.05995918854046,47.874916,-97.109759,47.947736669648535,-97.012532,Cities Area Transit
 maui,https://mauibus.org/gtfs-rt/vehiclepositions,https://mauibus.org/gtfs,20.85711503866892,-156.4860773686386,20.686865,-156.693993,20.997756,-156.31062,Maui Bus
 kuauʻi,https://thekauaibus.com/gtfs-rt/vehiclepositions,https://thekauaibus.com/gtfs,22.006896077320693,-159.44764685360556,21.876408,-159.721686,22.213158,-159.305271,Kauaʻi Bus
+hawaiʻi,https://myheleonbus.org/gtfs-rt/vehiclepositions,https://myheleonbus.org/gtfs,19.679600597550486,-155.43598739266494,19.060294,-156.040487,20.238104,-154.936251,Hele-On Bus

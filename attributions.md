@@ -84,3 +84,4 @@ Transit data for Santa Fe, Española, and Taos, New Mexico provided by [North Ce
 Transit data for Grand Forks, North Dakota and East Grand Forks, Minnesota provided by [Cities Area Transit](https://catprowler.org).<br>
 Transit data for Maui, Hawaiʻi provided by [County of Maui Department of Transportation (Maui Bus)](https://mauibus.org).<br>
 Transit data for Kauaʻi, Hawaiʻi provided by [County of Kauaʻi - Transportation Agency](https://thekauaibus.com).<br>
+Transit data for the county of Hawaiʻi, Hawaiʻi provided by [County of Hawaiʻi Mass Transit Agency (Hele-On Bus)](https://myheleonbus.org).<br>

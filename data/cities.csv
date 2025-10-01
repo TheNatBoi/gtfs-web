@@ -90,3 +90,4 @@ grand_forks,https://catprowler.org/gtfs-rt/vehiclepositions,https://catprowler.o
 maui,https://mauibus.org/gtfs-rt/vehiclepositions,https://mauibus.org/gtfs,20.85711503866892,-156.4860773686386,20.686865,-156.693993,20.997756,-156.31062,Maui Bus
 kuauʻi,https://thekauaibus.com/gtfs-rt/vehiclepositions,https://thekauaibus.com/gtfs,22.006896077320693,-159.44764685360556,21.876408,-159.721686,22.213158,-159.305271,Kauaʻi Bus
 hawaiʻi,https://myheleonbus.org/gtfs-rt/vehiclepositions,https://myheleonbus.org/gtfs,19.679600597550486,-155.43598739266494,19.060294,-156.040487,20.238104,-154.936251,Hele-On Bus
+brampton,https://gtfs-rt-merge.prod.bt-cadavl.com/BramptonTransit/GTFS/merged_VehiclePosition.pb,https://www.arcgis.com/sharing/rest/content/items/a355aabd5a8c490186bdce559c9c75fb/data,43.713934921502975,-79.74363112613219,43.54785,-79.861498,43.892836,-79.527869,Brampton Transit

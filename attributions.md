@@ -85,3 +85,4 @@ Transit data for Grand Forks, North Dakota and East Grand Forks, Minnesota provi
 Transit data for Maui, Hawaiʻi provided by [County of Maui Department of Transportation (Maui Bus)](https://mauibus.org).<br>
 Transit data for Kauaʻi, Hawaiʻi provided by [County of Kauaʻi - Transportation Agency](https://thekauaibus.com).<br>
 Transit data for the county of Hawaiʻi, Hawaiʻi provided by [County of Hawaiʻi Mass Transit Agency (Hele-On Bus)](https://myheleonbus.org).<br>
+Transit data for Brampton, Ontario provided by [Brampton Transit](https://www.bramptontransit.com) (CC-BY-4.0).<br>

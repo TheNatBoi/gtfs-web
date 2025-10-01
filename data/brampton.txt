@@ -1,0 +1,39 @@
+0601-0621,Nova Bus LFS 40102,2005-2006,Diesel,https://cptdb.ca/wiki/index.php/Brampton_Transit_0601-0621
+0622-0638,Nova Bus LFS 40102,2006,Diesel,https://cptdb.ca/wiki/index.php/Brampton_Transit_0622-0638
+0701-0715,Nova Bus LFS 40102,2007,Diesel,https://cptdb.ca/wiki/index.php/Brampton_Transit_0701-0715
+0730-0739,Nova Bus LFS,2007-2008,Diesel,https://cptdb.ca/wiki/index.php/Brampton_Transit_0730-0739
+0801-0810,Nova Bus LFS 40102,2008,Diesel,https://cptdb.ca/wiki/index.php/Brampton_Transit_0801-0810
+0811-0827,Nova Bus LFS 40102,2008,Diesel,https://cptdb.ca/wiki/index.php/Brampton_Transit_0811-0827
+0830-0838,NFI D40LF,2008-2010,Diesel,https://cptdb.ca/wiki/index.php/Brampton_Transit_0830-0838
+0839,NFI D60LF,2008,Diesel,https://cptdb.ca/wiki/index.php/Brampton_Transit_0839
+0901-0916,Nova Bus LFS 40102,2009,Diesel,https://cptdb.ca/wiki/index.php/Brampton_Transit_0901-0916
+0917-0926,Nova Bus LFS 40102,2009,Diesel,https://cptdb.ca/wiki/index.php/Brampton_Transit_0917-0926
+1050-1074,NFI XDE40,2010,Hybrid,https://cptdb.ca/wiki/index.php/Brampton_Transit_1050-1074
+1101-1130,NFI XD40,2010-2011,Diesel,https://cptdb.ca/wiki/index.php/Brampton_Transit_1101-1130
+1150-1165,NFI XDE40,2011,Hybrid,https://cptdb.ca/wiki/index.php/Brampton_Transit_1150-1165
+1201-1218,NFI XD40,2012,Diesel,https://cptdb.ca/wiki/index.php/Brampton_Transit_1201-1218
+1250-1251,NFI XDE40,2012,Hybrid,https://cptdb.ca/wiki/index.php/Brampton_Transit_1250-1251
+1275-1294,NFI XDE60,2012,Hybrid,https://cptdb.ca/wiki/index.php/Brampton_Transit_1275-1294
+1301-1319,NFI XD40,2012,Diesel,https://cptdb.ca/wiki/index.php/Brampton_Transit_1301-1319
+1401-1415,Nova Bus LFS,2014,Diesel,https://cptdb.ca/wiki/index.php/Brampton_Transit_1401-1415
+1475-1484,NFI XDE60,2013,Hybrid,https://cptdb.ca/wiki/index.php/Brampton_Transit_1475-1484
+1501-1519,Nova Bus LFS,2015,Diesel,https://cptdb.ca/wiki/index.php/Brampton_Transit_1501-1519
+1575-1579,NFI XDE60,2014,Hybrid,https://cptdb.ca/wiki/index.php/Brampton_Transit_1575-1579
+1580-1592,NFI XDE60,2015,Hybrid,https://cptdb.ca/wiki/index.php/Brampton_Transit_1580-1592
+1601-1623,Nova Bus LFS,2016,Diesel,https://cptdb.ca/wiki/index.php/Brampton_Transit_1601-1623
+1675-1682,NFI XDE60,2016,Hybrid,https://cptdb.ca/wiki/index.php/Brampton_Transit_1675-1682
+1701-1713,Nova Bus LFS,2017,Diesel,https://cptdb.ca/wiki/index.php/Brampton_Transit_1701-1713
+1775-1785,NFI XDE60,2017,Hybrid,https://cptdb.ca/wiki/index.php/Brampton_Transit_1775-1785
+1801-1823,Nova Bus LFS,2018,Diesel,https://cptdb.ca/wiki/index.php/Brampton_Transit_1801-1823
+1875-1885,NFI XDE60,2018,Hybrid,https://cptdb.ca/wiki/index.php/Brampton_Transit_1875-1885
+1901-1916,Nova Bus LFS,2019,Diesel,https://cptdb.ca/wiki/index.php/Brampton_Transit_1901-1916
+1975-1976,NFI XDE60,2019,Hybrid,https://cptdb.ca/wiki/index.php/Brampton_Transit_1975-1976
+2007-2024,Nova Bus LFS,2020,Diesel,https://cptdb.ca/wiki/index.php/Brampton_Transit_2007-2024
+2075-2084,NFI XDE60,2020,Hybrid,https://cptdb.ca/wiki/index.php/Brampton_Transit_2075-2084
+2101-2108,Nova Bus LFS,2021,Diesel,https://cptdb.ca/wiki/index.php/Brampton_Transit_2101-2108
+2150-2151,Nova Bus LFSe,2020,Electric,https://cptdb.ca/wiki/index.php/Brampton_Transit_2150-2151
+2152-2157,NFI XE40,2020-2021,Electric,https://cptdb.ca/wiki/index.php/Brampton_Transit_2152-2157
+2201-2224,Nova Bus LFS,2022,Diesel,https://cptdb.ca/wiki/index.php/Brampton_Transit_2201-2224
+2401-2422,NFI XDE40,2024,Hybrid,https://cptdb.ca/wiki/index.php/Brampton_Transit_2401-2422
+2475-2492,NFI XD60,2024,Diesel,https://cptdb.ca/wiki/index.php/Brampton_Transit_2475-2492
+2550-2559,Nova Bus LFSe+,2025,Electric,https://cptdb.ca/wiki/index.php/Brampton_Transit_2550-2559

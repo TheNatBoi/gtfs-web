@@ -204,7 +204,7 @@ def load_city_data(city):
     elif city == "portland":
         bus_models_path = "data/portland-ME/bus_models.txt"
     else:
-        bus_models_path = f"data/{city}/bus_models.txt"
+        bus_models_path = f"data/{city}.txt"
 
     bus_models = load_bus_models(bus_models_path)
     return {

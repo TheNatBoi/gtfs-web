@@ -83,3 +83,4 @@ Transit data for Jefferson Parish, Louisiana provided by [Jefferson Parish Trans
 Transit data for Santa Fe, Española, and Taos, New Mexico provided by [North Central Regional Transit District](https://www.ncrtd.org).<br>
 Transit data for Grand Forks, North Dakota and East Grand Forks, Minnesota provided by [Cities Area Transit](https://catprowler.org).<br>
 Transit data for Maui, Hawaiʻi provided by [County of Maui Department of Transportation (Maui Bus)](https://mauibus.org).<br>
+Transit data for Kauaʻi, Hawaiʻi provided by [County of Kauaʻi - Transportation Agency](https://thekauaibus.com).<br>

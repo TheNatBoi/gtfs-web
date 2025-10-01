@@ -88,3 +88,4 @@ jefferson_parish,https://jetapp.jptransit.org/gtfsrt/vehicles,https://drive.goog
 santa_fe,https://bluebustracker.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,https://bluebustracker.availtec.com/InfoPoint/GTFS-Zip.ashx,36.09871836662046,-105.9295438002844,35.000311,-106.585395,36.978963,-105.209957,North Central Regional Transit District
 grand_forks,https://catprowler.org/gtfs-rt/vehiclepositions,https://catprowler.org/gtfs,47.91450055763161,-97.05995918854046,47.874916,-97.109759,47.947736669648535,-97.012532,Cities Area Transit
 maui,https://mauibus.org/gtfs-rt/vehiclepositions,https://mauibus.org/gtfs,20.85711503866892,-156.4860773686386,20.686865,-156.693993,20.997756,-156.31062,Maui Bus
+kuauʻi,https://thekauaibus.com/gtfs-rt/vehiclepositions,https://thekauaibus.com/gtfs,22.006896077320693,-159.44764685360556,21.876408,-159.721686,22.213158,-159.305271,Kauaʻi Bus

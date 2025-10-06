@@ -90,3 +90,4 @@ Transit data for Baton Rouge, Louisiana provided by [Capital Area Transit System
 Transit data for Santa Clarita, California provided by [City of Santa Clarita Transit](https://santaclaritatransit.com).<br>
 Transit data for Montebello, California provided by [Montebello Bus Lines](https://www.montebelloca.gov/departments/transit).<br>
 Transit data for Orange County, California provided by [Orange County Transportation Authority (OCTA)](https://octa.net).<br>
+Transit data for Santa Cruz, California provided by [Santa Cruz Metropolitan Transit District (METRO)](https://scmtd.com/en).<br>

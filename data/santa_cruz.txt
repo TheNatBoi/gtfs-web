@@ -1,0 +1,35 @@
+120-420,Proterra ZX5 40',2020,Battery Electric,https://cptdb.ca/wiki/index.php/Santa_Cruz_Metropolitan_Transit_District_120-420
+0121-0321,Gillig BRTPlus CNG 35',2021,CNG,https://cptdb.ca/wiki/index.php/Santa_Cruz_Metropolitan_Transit_District_0121-0321
+0122-0422,Gillig BRTPlus CNG 35',2022,CNG,https://cptdb.ca/wiki/index.php/Santa_Cruz_Metropolitan_Transit_District_0122-0422
+0123-0523,Gillig Low Floor EV 40',2023,Battery Electric,https://cptdb.ca/wiki/index.php/Santa_Cruz_Metropolitan_Transit_District_0123-0523
+0421-0621,Gillig BRTPlus CNG 40',2021,CNG,https://cptdb.ca/wiki/index.php/Santa_Cruz_Metropolitan_Transit_District_0421-0621
+1001-1005,NFI C40LFR,2010,CNG,https://cptdb.ca/wiki/index.php/Santa_Cruz_Metropolitan_Transit_District_1001-1005
+1201-1211,NFI C40LFR,2012,CNG,https://cptdb.ca/wiki/index.php/Santa_Cruz_Metropolitan_Transit_District_1201-1211
+1301-1306,NFI XN35,2013,CNG,https://cptdb.ca/wiki/index.php/Santa_Cruz_Metropolitan_Transit_District_1301-1306
+1610-1612,NFI XN40,2012,CNG,https://cptdb.ca/wiki/index.php/Santa_Cruz_Metropolitan_Transit_District_1610-1612
+1901-1905,Gillig BRTPlus CNG 40',2019,CNG,https://cptdb.ca/wiki/index.php/Santa_Cruz_Metropolitan_Transit_District_1901-1905
+2001,Gillig BRTPlus CNG 40',2020,CNG,https://cptdb.ca/wiki/index.php/Santa_Cruz_Metropolitan_Transit_District_2001
+2210-2224,NFI D35LF,2003,CNG,https://cptdb.ca/wiki/index.php/Santa_Cruz_Metropolitan_Transit_District_2210-2224
+2225-2238,NFI D40LF,2003,CNG,https://cptdb.ca/wiki/index.php/Santa_Cruz_Metropolitan_Transit_District_2225-2238
+2316,2318,2322,2333,NFI D60LF,2002,Diesel,https://cptdb.ca/wiki/index.php/Santa_Cruz_Metropolitan_Transit_District_2316-2333
+2601-2602,NFI C40LF,2006,CNG,https://cptdb.ca/wiki/index.php/Santa_Cruz_Metropolitan_Transit_District_2601-2602
+2801-2813,NFI C40LF,2008,CNG,https://cptdb.ca/wiki/index.php/Santa_Cruz_Metropolitan_Transit_District_2801-2813
+4201-4210,Gillig Low Floor HEV 40',2014,Hybrid Diesel-Electric,https://cptdb.ca/wiki/index.php/Santa_Cruz_Metropolitan_Transit_District_4201-4210
+5503,NFI C40LFR,2007-2008,CNG,"https://cptdb.ca/wiki/index.php/Santa_Cruz_Metropolitan_Transit_District_5503,_5529-5531,_5535,_5541,_5544,_5550,_5553,_5566,_7503,_7511,_7519"
+5529-5531,NFI C40LFR,2007-2008,CNG,"https://cptdb.ca/wiki/index.php/Santa_Cruz_Metropolitan_Transit_District_5503,_5529-5531,_5535,_5541,_5544,_5550,_5553,_5566,_7503,_7511,_7519"
+5535,NFI C40LFR,2007-2008,CNG,"https://cptdb.ca/wiki/index.php/Santa_Cruz_Metropolitan_Transit_District_5503,_5529-5531,_5535,_5541,_5544,_5550,_5553,_5566,_7503,_7511,_7519"
+5541,NFI C40LFR,2007-2008,CNG,"https://cptdb.ca/wiki/index.php/Santa_Cruz_Metropolitan_Transit_District_5503,_5529-5531,_5535,_5541,_5544,_5550,_5553,_5566,_7503,_7511,_7519"
+5544,NFI C40LFR,2007-2008,CNG,"https://cptdb.ca/wiki/index.php/Santa_Cruz_Metropolitan_Transit_District_5503,_5529-5531,_5535,_5541,_5544,_5550,_5553,_5566,_7503,_7511,_7519"
+5550,NFI C40LFR,2007-2008,CNG,"https://cptdb.ca/wiki/index.php/Santa_Cruz_Metropolitan_Transit_District_5503,_5529-5531,_5535,_5541,_5544,_5550,_5553,_5566,_7503,_7511,_7519"
+5553,NFI C40LFR,2007-2008,CNG,"https://cptdb.ca/wiki/index.php/Santa_Cruz_Metropolitan_Transit_District_5503,_5529-5531,_5535,_5541,_5544,_5550,_5553,_5566,_7503,_7511,_7519"
+5566,NFI C40LFR,2007-2008,CNG,"https://cptdb.ca/wiki/index.php/Santa_Cruz_Metropolitan_Transit_District_5503,_5529-5531,_5535,_5541,_5544,_5550,_5553,_5566,_7503,_7511,_7519"
+7503,NFI C40LFR,2007-2008,CNG,"https://cptdb.ca/wiki/index.php/Santa_Cruz_Metropolitan_Transit_District_5503,_5529-5531,_5535,_5541,_5544,_5550,_5553,_5566,_7503,_7511,_7519"
+7511,NFI C40LFR,2007-2008,CNG,"https://cptdb.ca/wiki/index.php/Santa_Cruz_Metropolitan_Transit_District_5503,_5529-5531,_5535,_5541,_5544,_5550,_5553,_5566,_7503,_7511,_7519"
+7519,NFI C40LFR,2007-2008,CNG,"https://cptdb.ca/wiki/index.php/Santa_Cruz_Metropolitan_Transit_District_5503,_5529-5531,_5535,_5541,_5544,_5550,_5553,_5566,_7503,_7511,_7519"
+9801-9818,NFI D35LF,1998,Diesel,https://cptdb.ca/wiki/index.php/Santa_Cruz_Metropolitan_Transit_District_9801-9818
+9819-9830,NFI D40LF,1998,Diesel,https://cptdb.ca/wiki/index.php/Santa_Cruz_Metropolitan_Transit_District_9819-9830
+11012,NFI XN60,2013,CNG,"https://cptdb.ca/wiki/index.php?title=Santa_Cruz_Metropolitan_Transit_District_11012,_11016,_11018-11019,_11022-11023,_11025-11028"
+11016,NFI XN60,2013,CNG,"https://cptdb.ca/wiki/index.php?title=Santa_Cruz_Metropolitan_Transit_District_11012,_11016,_11018-11019,_11022-11023,_11025-11028"
+11018-11019,NFI XN60,2013,CNG,"https://cptdb.ca/wiki/index.php?title=Santa_Cruz_Metropolitan_Transit_District_11012,_11016,_11018-11019,_11022-11023,_11025-11028"
+11022-11023,NFI XN60,2013,CNG,"https://cptdb.ca/wiki/index.php?title=Santa_Cruz_Metropolitan_Transit_District_11012,_11016,_11018-11019,_11022-11023,_11025-11028"
+11025-11028,NFI XN60,2013,CNG,"https://cptdb.ca/wiki/index.php?title=Santa_Cruz_Metropolitan_Transit_District_11012,_11016,_11018-11019,_11022-11023,_11025-11028"

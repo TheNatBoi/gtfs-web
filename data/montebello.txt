@@ -1,0 +1,11 @@
+1001-1003,NFI C40LFR,2010,CNG,https://cptdb.ca/wiki/index.php/Montebello_Bus_Lines_1001-1003
+1101-1104,NFI C40LFR,2012,CNG,https://cptdb.ca/wiki/index.php/Montebello_Bus_Lines_1101-1104
+1301-1308,NFI XN40,2013,CNG,https://cptdb.ca/wiki/index.php/Montebello_Bus_Lines_1301-1308
+1601-1607,NFI XN40,2016,CNG,https://cptdb.ca/wiki/index.php/Montebello_Bus_Lines_1601-1607
+1801-1805,NFI XN40,2018,CNG,https://cptdb.ca/wiki/index.php/Montebello_Bus_Lines_1801-1805
+2020,NFI XN40,2021,CNG,https://cptdb.ca/wiki/index.php/Montebello_Bus_Lines_2020
+2021-2029,NFI XN40,2022,CNG,https://cptdb.ca/wiki/index.php/Montebello_Bus_Lines_2021-2029
+2030-2036,NFI XN40,2023,CNG,https://cptdb.ca/wiki/index.php/Montebello_Bus_Lines_2030-2036
+2801-2815,NFI GE40LFR,2008,Gasoline-electric hybrid,https://cptdb.ca/wiki/index.php/Montebello_Bus_Lines_2801-2815
+2901-2908,NFI GE35LFR,2009,Gasoline-electric hybrid,https://cptdb.ca/wiki/index.php/Montebello_Bus_Lines_2901-2908
+2909-2925,NFI GE40LFR,2010,Gasoline-electric hybrid,https://cptdb.ca/wiki/index.php/Montebello_Bus_Lines_2909-2925

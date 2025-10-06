@@ -323,9 +323,11 @@ def fetch_gtfs(city):
 
         positions = parse_feed(get_pb(gtfs_url, city).content)
 
-        if city == "washington":
-            wmata_url = "https://api.wmata.com/gtfs/bus-gtfsrt-vehiclepositions.pb"
-            positions.extend(parse_feed(get_pb(wmata_url, city).content))
+        import math
+        for p in positions:
+            for k, v in p.items():
+                if isinstance(v, float) and (math.isnan(v) or math.isinf(v)):
+                    p[k] = None
 
         return positions
     except Exception as e:

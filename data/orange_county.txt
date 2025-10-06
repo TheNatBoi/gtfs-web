@@ -1,0 +1,24 @@
+1111-1120,NFI XHE40,2018,Hydrogen Fuel Cell,https://cptdb.ca/wiki/index.php/Orange_County_Transportation_Authority_1111-1120
+1201-1202,NFI XE40,2021,Battery Electric,https://cptdb.ca/wiki/index.php/Orange_County_Transportation_Authority_1201-1210
+1203-1210,NFI XE40,2022,Battery Electric,https://cptdb.ca/wiki/index.php/Orange_County_Transportation_Authority_1201-1210
+2101,Gillig Low Floor Plus CNG 40',2021,CNG,https://cptdb.ca/wiki/index.php/Orange_County_Transportation_Authority_2101
+2102-2171,Gillig Low Floor Plus CNG 40',2022,CNG,"https://cptdb.ca/wiki/index.php/Orange_County_Transportation_Authority_2102-2199,_2201-2266,_2301-2336"
+2172-2199,Gillig Low Floor Plus CNG 40',2023,CNG,"https://cptdb.ca/wiki/index.php/Orange_County_Transportation_Authority_2102-2199,_2201-2266,_2301-2336"
+2201-2266,Gillig Low Floor Plus CNG 40',2023,CNG,"https://cptdb.ca/wiki/index.php/Orange_County_Transportation_Authority_2102-2199,_2201-2266,_2301-2336"
+2301-2334,Gillig Low Floor Plus CNG 40',2023,CNG,"https://cptdb.ca/wiki/index.php/Orange_County_Transportation_Authority_2102-2199,_2201-2266,_2301-2336"
+2335-2336,Gillig Low Floor Plus CNG 40',2024,CNG,"https://cptdb.ca/wiki/index.php/Orange_County_Transportation_Authority_2102-2199,_2201-2266,_2301-2336"
+5121-5150,NFI C40LFR,2008,CNG,https://cptdb.ca/wiki/index.php/Orange_County_Transportation_Authority_5121-5150
+5501-5599,NFI C40LFR,2006-2008,CNG,https://cptdb.ca/wiki/index.php/Orange_County_Transportation_Authority_5501-5599
+5601-5674,NFI C40LFR,2006-2008,CNG,https://cptdb.ca/wiki/index.php/Orange_County_Transportation_Authority_5601-5674
+5701,NFI XN40,2015,CNG,https://cptdb.ca/wiki/index.php/Orange_County_Transportation_Authority_5701-5799
+5702-5799,NFI XN40,2016,CNG,https://cptdb.ca/wiki/index.php/Orange_County_Transportation_Authority_5701-5799
+5801-5845,NFI XN40,2016,CNG,https://cptdb.ca/wiki/index.php/Orange_County_Transportation_Authority_5801-5858
+5846-5858,NFI XN40,2017,CNG,https://cptdb.ca/wiki/index.php/Orange_County_Transportation_Authority_5801-5858
+5861-5866,NFI XN40,2018,CNG,https://cptdb.ca/wiki/index.php/Orange_County_Transportation_Authority_5861-5866
+6351-6364,Ford ElDorado National Aero Elite,2014,CNG,https://cptdb.ca/wiki/index.php/Orange_County_Transportation_Authority_6351-6364
+6371-6377,Ford Starcraft Allstar XL,2016,Gasoline,https://cptdb.ca/wiki/index.php/Orange_County_Transportation_Authority_6371-6377
+6381,Gillig Low Floor CNG 29',2020,CNG,https://cptdb.ca/wiki/index.php/Orange_County_Transportation_Authority_6381-6392
+6382-6392,Gillig Low Floor CNG 29',2021,CNG,https://cptdb.ca/wiki/index.php/Orange_County_Transportation_Authority_6381-6392
+7530-7592,NFI C40LFR,2008,CNG,https://cptdb.ca/wiki/index.php/Orange_County_Transportation_Authority_7530-7592
+7601-7620,NFI XN60,2013,CNG,https://cptdb.ca/wiki/index.php/Orange_County_Transportation_Authority_7601-7620
+7621-7636,NFI XN60,2016,CNG,https://cptdb.ca/wiki/index.php/Orange_County_Transportation_Authority_7621-7636

@@ -1,0 +1,5 @@
+56,Gillig BRTPlus CNG 35',2023,CNG,"https://cptdb.ca/wiki/index.php/Altoona_Metro_Transit_56,_1023-1024"
+900-902,Gillig Low Floor HEV 35',2012,Hybrid,https://cptdb.ca/wiki/index.php/Altoona_Metro_Transit_900-902
+1000-1015,Gillig Low Floor CNG 35',2018,CNG,https://cptdb.ca/wiki/index.php/Altoona_Metro_Transit_1000-1015
+1016-1022,Gillig Low Floor CNG 35',2021,CNG,https://cptdb.ca/wiki/index.php/Altoona_Metro_Transit_1016-1022
+1023-1024,Gillig BRTPlus CNG 35',2023,CNG,"https://cptdb.ca/wiki/index.php/Altoona_Metro_Transit_56,_1023-1024"

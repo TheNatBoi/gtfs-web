@@ -96,3 +96,4 @@ santa_clarita,http://apps.santaclaritatransit.com/rtt/public/utility/gtfsrealtim
 montebello,https://mbl.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,https://mbl.rideralerts.com/infopoint/gtfs-zip.ashx,34.01322701910282,-118.12331006789779,33.891737,-118.266356,34.11098,-117.994749,Montebello Bus Lines
 orange_county,https://api.octa.net/GTFSRealTime/protoBuf/VehiclePositions.aspx,https://www.octa.net/current/google_transit.zip,33.73807383868496,-117.8830244111237,33.396269,-118.119155,33.939472,-117.577689,OC Bus
 santa_cruz,https://rt.scmetro.org/gtfsrt/vehicles,https://developer.scmetro.org/gtfs.zip,36.99287170409512,-121.9527676486131,36.90448,-122.222061,37.338436,-121.732437,Santa Cruz Metro
+irvine,https://passio3.com/irvine/passioTransit/gtfs/realtime/vehiclePositions,https://passio3.com/irvine/passioTransit/gtfs/google_transit.zip,33.68518378750588,-117.77439161094114,33.651539,-117.809192,33.731875,-117.73284,City of Irvine

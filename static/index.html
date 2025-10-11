@@ -340,16 +340,16 @@
       document.body.classList.add('sidebar-active');
       document.getElementById('sidebar-content').innerHTML = `
         <div><strong>Vehicle ID:</strong></div><div>${bus.vehicle_id}</div>
-          <div><strong>Model:</strong></div><div>${bus.model}</div>
-          <div><strong>Year:</strong></div><div>${bus.year}</div>
-          <div><strong>Fuel:</strong></div><div>${bus.fuel_type}</div>
-          <div><strong>Route:</strong></div><div>${bus.route || 'N/A'}</div>
-          <div><strong>Next Stop:</strong></div><div>${bus.next_stop || 'N/A'}</div>
-          <div><strong>Terminus:</strong></div><div>${bus.terminus_stop || 'N/A'}</div>
-          <div><strong>Last update:</strong></div><div id="timeUpdated">${bus.timestamp ? new Date(bus.timestamp * 1000).toLocaleTimeString() : "N/A"}</div>
-          ${bus.fleet_link ? `<div><strong></strong></div><div><a href="${bus.fleet_link}" target="_blank" rel="noopener">View on cptdb.ca<span class="external-link-icon"></span></a></div>` : ''}
-        `;
-      document.getElementById("timeUpdated").textContent = (new Date(bus.timestamp * 1000)).toLocaleTimeString();
+        <div><strong>Model:</strong></div><div>${bus.model}</div>
+        <div><strong>Year:</strong></div><div>${bus.year}</div>
+        <div><strong>Fuel:</strong></div><div>${bus.fuel_type}</div>
+        <div><strong>Route:</strong></div><div>${bus.route || 'N/A'}</div>
+        <div><strong>Next Stop:</strong></div><div>${bus.next_stop || 'N/A'}</div>
+        <div><strong>Terminus:</strong></div><div>${bus.terminus_stop || 'N/A'}</div>
+        <div><strong>Operator:</strong></div><div>${bus.operator || 'N/A'}</div>
+        <div><strong>Last update:</strong></div><div id="timeUpdated">${bus.timestamp ? new Date(bus.timestamp * 1000).toLocaleTimeString() : "N/A"}</div>
+        ${bus.fleet_link ? `<div><strong></strong></div><div><a href="${bus.fleet_link}" target="_blank" rel="noopener">View on cptdb.ca<span class="external-link-icon"></span></a></div>` : ''}
+      `;
     } else {
       sidebar.classList.add('hide');
       document.body.classList.remove('sidebar-active');

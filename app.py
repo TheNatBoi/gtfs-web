@@ -317,7 +317,8 @@ def fetch_gtfs(city):
                         "terminus_stop": terminus_stop_name,
                         "trip_id": trip_id if trip_id else "",
                         "route_id": route_id if route_id else "",
-                        "icon": icon
+                        "icon": icon,
+                        "operator": CITY_CONFIG.get(city, {}).get("operator", "Unknown")
                     })
             return parsed_positions
 

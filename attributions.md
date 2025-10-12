@@ -93,3 +93,4 @@ Transit data for Orange County, California provided by [Orange County Transporta
 Transit data for Santa Cruz, California provided by [Santa Cruz Metropolitan Transit District (METRO)](https://scmtd.com/en).<br>
 Transit data for Irvine, California provided by [City of Irvine](https://cityofirvine.org/transportation/public-transportation).<br>
 Transit data for Altoona, Pennsylvania provided by [Altoona Metro Transit](https://www.amtran.org).<br>
+Transit data for Iowa City, Iowa provided by [Iowa City Area Transit Services](https://icareatransit.org).<br>

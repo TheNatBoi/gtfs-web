@@ -1,0 +1,18 @@
+1060-1080,Gillig Low Floor 40',2012,Diesel,https://cptdb.ca/wiki/index.php/The_Rapid_1060-1080
+1081-1082,Gillig Low Floor 40',2012,Diesel,https://cptdb.ca/wiki/index.php/The_Rapid_1081-1082
+1083-1090,Gillig Low Floor 40',2013,Diesel,https://cptdb.ca/wiki/index.php/The_Rapid_1083-1090
+1091-1100,Gillig BRTPlus HEV 40',2014,Hybrid,https://cptdb.ca/wiki/index.php/The_Rapid_1091-1100
+1101,Gillig Low Floor CNG 40',2016,CNG,https://cptdb.ca/wiki/index.php/The_Rapid_1101
+1102-1128,Gillig Low Floor CNG 40',2017,CNG,https://cptdb.ca/wiki/index.php/The_Rapid_1102-1128
+1129-1148,Gillig Low Floor CNG 40',2018,CNG,https://cptdb.ca/wiki/index.php/The_Rapid_1129-1148
+2001-2010,Gillig Low Floor CNG 40',2020,CNG,https://cptdb.ca/wiki/index.php/The_Rapid_2001-2010
+2101-2115,Gillig Low Floor CNG 40',2021,CNG,https://cptdb.ca/wiki/index.php/The_Rapid_2101-2115
+2301-2302,Gillig Low Floor CNG 40',2023,CNG,https://cptdb.ca/wiki/index.php/The_Rapid_2301-2302
+2401-2410,Gillig Low Floor CNG 40',2024,CNG,https://cptdb.ca/wiki/index.php/The_Rapid_2401-2410
+6001-6002,New Flyer XN60,2019,CNG,https://cptdb.ca/wiki/index.php/The_Rapid_6001-6002
+6003-6016,New Flyer XN60,2020,CNG,https://cptdb.ca/wiki/index.php/The_Rapid_6003-6016
+6017,New Flyer XN60,2023,CNG,https://cptdb.ca/wiki/index.php/The_Rapid_6017
+7501-7541,Gillig Low Floor 29',2011,Diesel,https://cptdb.ca/wiki/index.php/The_Rapid_7501-7541
+7504-7514,Gillig Low Floor CNG 35',2024,CNG,https://cptdb.ca/wiki/index.php/The_Rapid_7504_to_7514
+7527-7567,Gillig Low Floor CNG 35',2017,CNG,https://cptdb.ca/wiki/index.php/The_Rapid_7527_to_7567
+7509-7539,Gillig Low Floor CNG 35',2019,CNG,https://cptdb.ca/wiki/index.php/The_Rapid_7509_to_7539

@@ -96,3 +96,4 @@ Transit data for Altoona, Pennsylvania provided by [Altoona Metro Transit](https
 Transit data for Iowa City, Iowa provided by [Iowa City Area Transit Services](https://icareatransit.org).<br>
 Transit data for University of Michigan, Michigan provided by [University of Michigan Transit Services](https://ltp.umich.edu/).<br>
 Transit data for San Angelo, Texas provided by [Concho Valley Transit District](https://cvtd.org).<br>
+Transit data for Grand Rapids, Michigan provided by [The Rapid](http://www.ridetherapid.org).<br>

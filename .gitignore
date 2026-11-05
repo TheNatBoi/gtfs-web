@@ -5,3 +5,4 @@ API_KEYS.txt
 package.json
 /node_modules
 package-lock.json
+.DS_Store

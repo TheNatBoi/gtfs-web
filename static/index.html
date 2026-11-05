@@ -1,434 +1,556 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <title>Live Bus Locations</title>
-  <meta charset="utf-8">
-  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
-  <style>
-    html, body {
-      height: 100%;
-      margin: 0;
-      padding: 0;
-    }
-    #map {
-      height: 100vh;
-      width: 100vw;
-      transition: width 0.2s;
-    }
-    #sidebar {
-      position: fixed;
-      top: 20px;
-      bottom: 20px;
-      right: 20px;
-      width: 320px;
-      background: #ffffff;
-      border: 2px solid rgba(0, 0, 0, 0.2);
-      border-radius: 12px;
-      box-shadow: 0 3px 14px rgba(0, 0, 0, 0.4);
-      overflow-y: auto;
-      padding: 18px;
-      z-index: 1001;
-      font-family: "Segoe UI", Roboto, sans-serif;
-      font-size: 16px;
-      line-height: 1.5;
-      color: #2c3e50;
-    }
+    <head>
+        <title>Live Bus Locations</title>
+        <meta charset="utf-8">
+        <!-- MapLibre GL JS CSS -->
+        <link href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" rel="stylesheet" />
+        <style>
+            :root {
+                --panel-bg: rgba(255, 255, 255, 0.94);
+                --panel-border: rgba(15, 23, 42, 0.1);
+                --panel-shadow: 0 8px 30px rgba(2, 8, 20, 0.14);
+                --text-main: #1f2937;
+                --text-muted: #6b7280;
+                --accent: #0f766e;
+                --label-bg: rgba(255, 255, 255, 0.82);
+                --label-border: rgba(15, 23, 42, 0.12);
+            }
+            
+            html, body {
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            
+            #map {
+                height: 100vh;
+                width: 100vw;
+            }
+            
+            body {
+                margin: 0;
+                padding-right: 0;
+                width: 100vw;
+                overflow-x: hidden;
+                font-family: Inter, "Segoe UI", Roboto, system-ui, -apple-system, sans-serif;
+                color: var(--text-main);
+            }
+            
+            /* Sidebar */
+            #sidebar {
+                position: fixed;
+                top: 16px;
+                bottom: 16px;
+                right: 16px;
+                width: min(340px, calc(100vw - 32px));
+                background: var(--panel-bg);
+                border: 1px solid var(--panel-border);
+                border-radius: 14px;
+                box-shadow: var(--panel-shadow);
+                overflow-y: auto;
+                z-index: 1001;
+                backdrop-filter: blur(8px);
+                -webkit-backdrop-filter: blur(8px);
+            }
+            
+            #sidebar.hide {
+                display: none;
+            }
+            
+            #sidebar h2 {
+                position: sticky;
+                top: 0;
+                margin: 0;
+                padding: 14px 16px;
+                font-size: 1rem;
+                font-weight: 700;
+                letter-spacing: 0.2px;
+                color: #0f172a;
+                background: linear-gradient(to bottom, rgba(255,255,255,0.96), rgba(255,255,255,0.86));
+                border-bottom: 1px solid rgba(15, 23, 42, 0.08);
+                backdrop-filter: blur(6px);
+                z-index: 2;
+            }
+            
+            #sidebar-content {
+                display: grid;
+                grid-template-columns: 110px 1fr;
+                column-gap: 10px;
+                row-gap: 10px;
+                align-items: start;
+                padding: 14px 16px 16px;
+                font-size: 14px;
+                line-height: 1.45;
+                color: var(--text-main);
+            }
+            
+            #sidebar-content strong {
+                display: block;
+                color: var(--text-muted);
+                font-weight: 600;
+                letter-spacing: 0.1px;
+            }
+            
+            #sidebar a {
+                color: var(--accent);
+                text-decoration: none;
+                font-weight: 600;
+            }
+            
+            #sidebar a:hover {
+                text-decoration: underline;
+            }
+            
+            @media (max-width: 800px) {
+                #map {
+                    height: 60vh;
+                    width: 100vw;
+                }
+                
+                #sidebar {
+                    top: auto;
+                    bottom: 10px;
+                    right: 10px;
+                    left: 10px;
+                    width: auto;
+                    max-height: 34vh;
+                    border-radius: 12px;
+                }
+                
+                #sidebar-content {
+                    grid-template-columns: 96px 1fr;
+                    font-size: 13px;
+                    row-gap: 8px;
+                }
+            }
 
-    #sidebar h2 {
-      margin-top: 0;
-      font-size: 1.25em;
-      margin-bottom: 0.75em;
-      color: #1a3c5a;
-    }
+            /* Region Label Styling */
+            .region-label .label-card {
+                background: rgba(255, 255, 255, 0.9);
+                border: 2px solid #507ba1;
+                border-radius: 10px;
+                padding: 8px 10px;
+                min-height: 44px;
+                min-width: 96px;
+                max-width: 150px;
+                width: max-content;
+                box-sizing: border-box;
 
-    #sidebar strong {
-      display: inline-block;
-      min-width: 100px;
-      color: #0078A8;
-      font-weight: 600;
-    }
+                box-shadow: 0 4px 14px rgba(2, 8, 20, 0.12);
+                backdrop-filter: blur(4px);
+                -webkit-backdrop-filter: blur(4px);
 
-    #sidebar a {
-      color: #0078A8;
-      text-decoration: none;
-      font-weight: 500;
-    }
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                text-align: center;
+                gap: 2px;
 
-    #sidebar a:hover {
-      text-decoration: underline;
-    }
-    #sidebar.hide {
-      display: none;
-    }
-    #sidebar-content {
-      display: grid;
-      grid-template-columns: max-content 1fr;
-      column-gap: 12px;
-      row-gap: 8px;
-      align-items: start;
-      font-size: 16px;
-      line-height: 1.5;
-      color: #2c3e50;
-    }
+                color: #0f172a;
+                line-height: 1.2;
+                cursor: pointer;
+                user-select: none;
+            }
 
-    #sidebar-content strong {
-      display: block;
-      color: #0078A8;
-      font-weight: 600;
-    }
+            .region-label .label-operator {
+                font-size: 10px;
+                font-weight: 700;
+                letter-spacing: 0.25px;
+                text-transform: uppercase;
+                color: #0f766e;
+                max-width: 100%;
+                white-space: normal;
+                overflow-wrap: anywhere;
+                word-break: break-word;
+            }
 
-    body {
-      margin: 0;
-      padding-right: 0;
-      width: 100vw;
-      overflow-x: hidden;
-    }
+            .region-label .label-city {
+                font-size: 12px;
+                font-weight: 600;
+                color: #111827;
+                max-width: 100%;
+                white-space: normal;
+                overflow-wrap: anywhere;
+                word-break: break-word;
+            }
 
-    @media (max-width: 800px) {
-      #map {
-        height: 60vh;
-        width: 100vw;
-      }
-    }
-
-    .region-label div {
-      background: white;
-      border: 2px solid #507ba1;
-      padding: 6px 10px;
-      border-radius: 6px;
-      font-size: 14px;
-      text-align: center;
-      color: #333;
-      box-shadow: 0 1px 5px rgba(0,0,0,0.2);
-    }
-  </style>
-</head>
+            #no-buses-msg {
+                position: fixed;
+                bottom: 20px;
+                left: 20px;
+                background: rgba(255,255,255,0.95);
+                border: 2px solid #ccc;
+                padding: 10px 16px;
+                border-radius: 6px;
+                font-size: 14px;
+                font-family: sans-serif;
+                color: #333;
+                box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+                display: none;
+                z-index: 1002;
+            }
+        </style>
+    </head>
 <body>
   <div id="map"></div>
   <div id="sidebar" class="hide">
     <h2>Bus Details</h2>
     <div id="sidebar-content"></div>
   </div>
-  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+  <div id="no-buses-msg">No buses currently in this region</div>
+
+  <!-- MapLibre GL JS -->
+  <script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
   <script>
   let CITY_DATA = {};
   let selectedCity = null;
   let latestBusData = {};
-  const REGION_ZOOM_THRESHOLD = 12;
+  const REGION_ZOOM_THRESHOLD = 11;
 
-  const map = L.map('map', {
-    preferCanvas: false,
-    worldCopyJump: true,
+  const map = new maplibregl.Map({
+    container: 'map',
+    style: 'https://tiles.openfreemap.org/styles/bright',
+    center: [-98.5795, 39.8283],
+    zoom: 3
   });
 
-  const busLayer = L.layerGroup().addTo(map);
-  let regionLabels = [];
-  let markers = {};
-  let markerTargetPositions = {};
-  let markerAnimationStart = {};
-  const animationDuration = 1000;
-  let routeLine = null;
-  let currentRouteTripId = null;
-  let selectedBusId = null;
-  let selectedBusTripId = null;
-  let isPopupOpen = false;
+  map.addControl(new maplibregl.NavigationControl(), 'top-left');
 
+  let regionLabelMarkers = [];
+  let visibleCities = [];
+  let selectedBusId = null;
+  let currentRouteTripId = null;
+  let activePopup = null;
+  let lastSidebarVehicleKey = null;
+  let lastSidebarTimestamp = null;
+
+  const routeShapeCache = new Map();
+  const iconLoadingPromises = new Map();
+
+  // Interpolation state
+  let currentVehiclePositions = {};
+  let targetPositions = {};
+  let animStartPositions = {};
+  let animatingKeys = new Set();
+  let animationHandle = null;
+  const animationDuration = 1000;
+
+  // Bounding box collision helper
+  function boundsOverlap(b1, b2) {
+    return !(b1.getWest() > b2.getEast() ||
+             b1.getEast() < b2.getWest() ||
+             b1.getSouth() > b2.getNorth() ||
+             b1.getNorth() < b2.getSouth());
+  }
+
+  // Deduplicated Icon loader for MapLibre GPU Atlas
+  // Deduplicated Icon loader that normalizes high-res PNGs to 36x36 px
+  async function ensureIconLoaded(iconName) {
+    if (!iconName) iconName = "bus.png";
+    if (map.hasImage(iconName)) return iconName;
+
+    if (iconLoadingPromises.has(iconName)) {
+      return iconLoadingPromises.get(iconName);
+    }
+
+    const promise = (async () => {
+      try {
+        const img = new Image();
+        img.src = `/static/icons/${iconName}`;
+        await new Promise((resolve, reject) => {
+          img.onload = resolve;
+          img.onerror = reject;
+        });
+
+        // Scale any input image size down to a standard 36x36 pixel icon
+        const targetSize = 36;
+        const canvas = document.createElement('canvas');
+        canvas.width = targetSize;
+        canvas.height = targetSize;
+        const ctx = canvas.getContext('2d');
+        ctx.drawImage(img, 0, 0, targetSize, targetSize);
+
+        const imageData = ctx.getImageData(0, 0, targetSize, targetSize);
+        if (!map.hasImage(iconName)) {
+          map.addImage(iconName, imageData);
+        }
+        return iconName;
+      } catch (err) {
+        if (iconName !== "bus.png") {
+          return await ensureIconLoaded("bus.png");
+        }
+        return "bus.png";
+      }
+    })();
+
+    iconLoadingPromises.set(iconName, promise);
+    return promise;
+  }
+
+  map.on('load', async () => {
+    // 1. Setup Sources
+    map.addSource('bounds-source', {
+      type: 'geojson',
+      data: { type: 'FeatureCollection', features: [] }
+    });
+
+    map.addSource('route-source', {
+      type: 'geojson',
+      data: { type: 'FeatureCollection', features: [] }
+    });
+
+    map.addSource('stops-source', {
+      type: 'geojson',
+      data: { type: 'FeatureCollection', features: [] }
+    });
+
+    map.addSource('vehicles-source', {
+      type: 'geojson',
+      data: { type: 'FeatureCollection', features: [] }
+    });
+
+    // 2. Setup Vector Layers
+    map.addLayer({
+      id: 'bounds-fill',
+      type: 'fill',
+      source: 'bounds-source',
+      paint: {
+        'fill-color': '#d0d0d0',
+        'fill-opacity': 0.15
+      }
+    });
+
+    map.addLayer({
+      id: 'bounds-line',
+      type: 'line',
+      source: 'bounds-source',
+      paint: {
+        'line-color': '#8a8a8a',
+        'line-width': 1
+      }
+    });
+
+    map.addLayer({
+      id: 'route-line',
+      type: 'line',
+      source: 'route-source',
+      paint: {
+        'line-color': ['get', 'route_color'],
+        'line-width': 5,
+        'line-opacity': 0.8
+      }
+    });
+
+    map.addLayer({
+      id: 'stops-layer',
+      type: 'circle',
+      source: 'stops-source',
+      paint: {
+        'circle-radius': 6,
+        'circle-color': '#ffffff',
+        'circle-stroke-color': ['get', 'color'],
+        'circle-stroke-width': 2
+      }
+    });
+
+    map.addLayer({
+      id: 'vehicles-layer',
+      type: 'symbol',
+      source: 'vehicles-source',
+      layout: {
+        'icon-image': ['get', 'icon'],
+        'icon-size': 1,
+        'icon-allow-overlap': true,
+        'icon-ignore-placement': true
+      }
+    });
+    
+    // 3. Setup Interactions
+    map.on('mouseenter', 'vehicles-layer', () => map.getCanvas().style.cursor = 'pointer');
+    map.on('mouseleave', 'vehicles-layer', () => map.getCanvas().style.cursor = '');
+    map.on('mouseenter', 'stops-layer', () => map.getCanvas().style.cursor = 'pointer');
+    map.on('mouseleave', 'stops-layer', () => map.getCanvas().style.cursor = '');
+
+    map.on('click', 'vehicles-layer', (e) => {
+      const bus = e.features[0].properties;
+      const coords = e.features[0].geometry.coordinates.slice();
+
+      selectedCity = bus.city;
+      selectedBusId = bus.markerKey;
+
+      if (activePopup) activePopup.remove();
+
+      const popupHtml =
+        `<strong>Route:</strong> ${bus.route || 'N/A'}<br>` +
+        `<strong>Next Stop:</strong> ${bus.next_stop || 'N/A'}<br>` +
+        `<strong>Terminus:</strong> ${bus.terminus_stop || 'N/A'}`;
+
+      activePopup = new maplibregl.Popup({ closeOnClick: false, offset: 15 })
+        .setLngLat(coords)
+        .setHTML(popupHtml)
+        .addTo(map);
+
+      activePopup.on('close', () => {
+        clearSelection();
+      });
+
+      setSidebar(bus);
+      lastSidebarVehicleKey = bus.markerKey;
+      lastSidebarTimestamp = bus.timestamp;
+
+      if (bus.trip_id) {
+        drawRouteLine(bus.trip_id);
+      }
+    });
+
+    map.on('click', 'stops-layer', (e) => {
+      const stop = e.features[0].properties;
+      const coords = e.features[0].geometry.coordinates.slice();
+
+      new maplibregl.Popup()
+        .setLngLat(coords)
+        .setHTML(`<strong>${stop.name}</strong>`)
+        .addTo(map);
+    });
+
+    map.on('click', (e) => {
+      const features = map.queryRenderedFeatures(e.point, {
+        layers: ['vehicles-layer', 'stops-layer']
+      });
+      if (features.length === 0) {
+        clearSelection();
+      }
+    });
+
+    map.on('moveend', handleZoomChange);
+
+    await loadCityData();
+  });
+
+  function clearSelection() {
+    selectedBusId = null;
+    hideRouteLine();
+    setSidebar(null);
+    lastSidebarVehicleKey = null;
+    lastSidebarTimestamp = null;
+    if (activePopup) {
+      activePopup.remove();
+      activePopup = null;
+    }
+  }
 
   async function loadCityData() {
     try {
       const res = await fetch('/api/cities');
       CITY_DATA = await res.json();
 
+      const boundsFeatures = [];
+      let minLon = 180, maxLon = -180, minLat = 90, maxLat = -90;
+
       for (const [city, info] of Object.entries(CITY_DATA)) {
-        info.boundsObj = L.latLngBounds(info.bounds);
+        const sw = info.bounds[0];
+        const ne = info.bounds[1];
+
+        minLat = Math.min(minLat, sw[0], ne[0]);
+        maxLat = Math.max(maxLat, sw[0], ne[0]);
+        minLon = Math.min(minLon, sw[1], ne[1]);
+        maxLon = Math.max(maxLon, sw[1], ne[1]);
+
+        boundsFeatures.push({
+          type: 'Feature',
+          properties: { city },
+          geometry: {
+            type: 'Polygon',
+            coordinates: [[
+              [sw[1], sw[0]],
+              [ne[1], sw[0]],
+              [ne[1], ne[0]],
+              [sw[1], ne[0]],
+              [sw[1], sw[0]]
+            ]]
+          }
+        });
       }
 
-      const allBounds = Object.values(CITY_DATA)
-        .reduce((acc, c) => acc.extend(c.boundsObj), L.latLngBounds([]));
+      map.fitBounds([[minLon, minLat], [maxLon, maxLat]], { padding: 40 });
 
-      map.fitBounds(allBounds);
-
-      L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-      }).addTo(map);
-
-      showRegionLabels();
-
-      map.on('zoomend moveend', handleZoomChange);
-
-      map.on('moveend zoomend', () => {
-        visibleCities.forEach(city => updateBuses(city));
+      map.getSource('bounds-source').setData({
+        type: 'FeatureCollection',
+        features: boundsFeatures
       });
+
+      createRegionLabels();
+      handleZoomChange();
 
       setInterval(() => {
         visibleCities.forEach(city => fetchBusData(city));
       }, 15000);
 
-      handleZoomChange();
-
-      animateMarkers();
       setInterval(() => {
         visibleCities.forEach(city => updateBuses(city));
       }, 5000);
+
     } catch (err) {
       console.error('Failed to load city data:', err);
     }
   }
 
-
-  function showRegionLabels() {
-    regionLabels.forEach(label => map.removeLayer(label));
-    regionLabels = [];
+  function createRegionLabels() {
+    regionLabelMarkers.forEach(m => m.remove());
+    regionLabelMarkers = [];
 
     for (const [city, info] of Object.entries(CITY_DATA)) {
-      const operator = info.operator || "Transit";
-      const center = info.center;
+      const operatorText = info.operator || "Transit";
+      const cityName = city.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
 
-      const label = L.marker(center, {
-        icon: L.divIcon({
-          className: 'region-label',
-          html: `<div><strong>${operator}</strong><br>${city.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase())}</div>`,
-          iconSize: [120, 50],
-          iconAnchor: [60, 25]
-        }),
-        interactive: false
-      }).addTo(map);
-
-      regionLabels.push(label);
-    }
-  }
-
-  function hideRegionLabels() {
-    regionLabels.forEach(label => map.removeLayer(label));
-    regionLabels = [];
-  }
-  const iconExistsCache = {};
-
-  function checkIconExists(operator) {
-    return new Promise((resolve) => {
-      if (iconExistsCache[operator] !== undefined) {
-        resolve(iconExistsCache[operator]);
-        return;
-      }
-
-      const url = `/static/icons/${operator}.png`;
-      const img = new Image();
-
-      img.onload = () => {
-        iconExistsCache[operator] = true;
-        resolve(true);
-      };
-      img.onerror = () => {
-        iconExistsCache[operator] = false;
-        resolve(false);
-      };
-
-      img.src = url;
-    });
-  }
-  function updateBuses(city) {
-    if (!city || !latestBusData[city]) return;
-
-    const data = latestBusData[city];
-    const noBusesMsg = document.getElementById("no-buses-msg");
-    const cityHasBuses = data.length > 0 && map.getZoom() >= 10;
-
-    noBusesMsg.style.display = cityHasBuses ? "none" : "block";
-
-    const bounds = map.getBounds().pad(0.5);
-    const activeKeys = new Set();
-
-    data.forEach(bus => {
-      if (!bounds.contains([bus.lat, bus.lon])) return;
-
-      const markerKey = bus.unique_id;
-      activeKeys.add(markerKey);
-
-      if (markerKey === selectedBusId && isPopupOpen) {
-        setSidebar(bus);
-      }
-
-      let marker = markers[markerKey];
-      const popupHtml =
-        `<strong>Route:</strong> ${bus.route || 'N/A'}<br>` +
-        `<strong>Next Stop:</strong> ${bus.next_stop || 'N/A'}<br>` +
-        `<strong>Terminus:</strong> ${bus.terminus_stop || 'N/A'}`;
-
-      if (marker) {
-        markerTargetPositions[markerKey] = [bus.lat, bus.lon];
-        markerAnimationStart[markerKey] = {
-          from: marker.getLatLng(),
-          to: L.latLng(bus.lat, bus.lon),
-          startTime: performance.now()
-        };
-        marker.setPopupContent(popupHtml);
-      } else {
-        const icon = L.icon({
-          iconUrl: `/static/icons/${bus.icon || "default.png"}`,
-          iconSize: [32, 32],
-          iconAnchor: [16, 32],
-          popupAnchor: [0, -32]
-        });
-
-        marker = L.marker([bus.lat, bus.lon], { icon }).bindPopup(popupHtml, { autoPan: false });
-
-        marker.city = city;
-        markerTargetPositions[markerKey] = [bus.lat, bus.lon];
-        markerAnimationStart[markerKey] = null;
-
-        marker.on('click', () => {
-          selectedCity = city;
-          isPopupOpen = true;
-          setSidebar(bus);
-          selectedBusId = markerKey;
-          selectedBusTripId = bus.trip_id;
-          drawRouteLine(bus.trip_id);
-          marker.openPopup();
-        });
-
-        marker.on('popupclose', () => {
-          selectedBusId = null;
-          selectedBusTripId = null;
-          hideRouteLine();
-          setSidebar(null);
-        });
-
-        marker.on('popupopen', () => {
-          isPopupOpen = true;
-        });
-
-        marker.addTo(busLayer);
-        markers[markerKey] = marker;
-      }
-    });
-
-    Object.keys(markers).forEach(markerKey => {
-      const marker = markers[markerKey];
-      const isSelected = (markerKey === selectedBusId);
-      if (marker.city === city && !activeKeys.has(markerKey) && !isSelected) {
-        busLayer.removeLayer(marker);
-        delete markers[markerKey];
-        delete markerTargetPositions[markerKey];
-        delete markerAnimationStart[markerKey];
-      }
-    });
-  }
-
-
-  function animateMarkers() {
-    const now = performance.now();
-    Object.keys(markers).forEach(markerKey => {
-      const marker = markers[markerKey];
-      const target = markerTargetPositions[markerKey];
-      const anim = markerAnimationStart[markerKey];
-
-      if (target && anim && anim.from && anim.to) {
-        const t = Math.min((now - anim.startTime) / animationDuration, 1);
-        const lat = anim.from.lat + (anim.to.lat - anim.from.lat) * t;
-        const lng = anim.from.lng + (anim.to.lng - anim.from.lng) * t;
-        marker.setLatLng([lat, lng]);
-        if (t >= 1) markerAnimationStart[markerKey] = null;
-      }
-    });
-    requestAnimationFrame(animateMarkers);
-  }
-
-  function setSidebar(bus) {
-    const sidebar = document.getElementById('sidebar');
-    if (bus) {
-      sidebar.classList.remove('hide');
-      document.body.classList.add('sidebar-active');
-      document.getElementById('sidebar-content').innerHTML = `
-        <div><strong>Vehicle ID:</strong></div><div>${bus.vehicle_id}</div>
-        <div><strong>Model:</strong></div><div>${bus.model}</div>
-        <div><strong>Year:</strong></div><div>${bus.year}</div>
-        <div><strong>Fuel:</strong></div><div>${bus.fuel_type}</div>
-        <div><strong>Route:</strong></div><div>${bus.route || 'N/A'}</div>
-        <div><strong>Next Stop:</strong></div><div>${bus.next_stop || 'N/A'}</div>
-        <div><strong>Terminus:</strong></div><div>${bus.terminus_stop || 'N/A'}</div>
-        <div><strong>Operator:</strong></div><div>${bus.operator || 'N/A'}</div>
-        <div><strong>Last update:</strong></div><div id="timeUpdated">${bus.timestamp ? new Date(bus.timestamp * 1000).toLocaleTimeString() : "N/A"}</div>
-        ${bus.fleet_link ? `<div><strong></strong></div><div><a href="${bus.fleet_link}" target="_blank" rel="noopener">View on cptdb.ca<span class="external-link-icon"></span></a></div>` : ''}
+      const el = document.createElement('div');
+      el.className = 'region-label';
+      el.innerHTML = `
+        <div class="label-card">
+          <div class="label-operator">${operatorText}</div>
+          <div class="label-city">${cityName}</div>
+        </div>
       `;
-    } else {
-      sidebar.classList.add('hide');
-      document.body.classList.remove('sidebar-active');
-      document.getElementById('sidebar-content').innerHTML = "";
+
+      el.addEventListener('click', () => {
+        const sw = info.bounds[0];
+        const ne = info.bounds[1];
+        map.fitBounds([[sw[1], sw[0]], [ne[1], ne[0]]], { padding: 40 });
+      });
+
+      const marker = new maplibregl.Marker({ element: el })
+        .setLngLat([info.center[1], info.center[0]])
+        .addTo(map);
+
+      regionLabelMarkers.push(marker);
     }
   }
 
-  let stopMarkers = [];
-
-  function hideRouteLine() {
-    if (routeLine) {
-      map.removeLayer(routeLine);
-      routeLine = null;
-    }
-    stopMarkers.forEach(m => map.removeLayer(m));
-    stopMarkers = [];
-    currentRouteTripId = null;
-  }
-
-  function drawRouteLine(trip_id) {
-    if (!selectedCity) return;
-    if (trip_id === currentRouteTripId) return;
-
-    hideRouteLine();
-
-    fetch(`/api/${selectedCity}/route_shape/${trip_id}`)
-      .then(r => {
-        if (!r.ok) throw new Error(`HTTP ${r.status}`);
-        return r.json();
-      })
-      .then(data => {
-        if (Array.isArray(data.shape) && data.shape.length > 1) {
-          const color = "#" + (data.route_color || "000000");
-
-          routeLine = L.polyline(data.shape, {
-            color,
-            weight: 5,
-            opacity: 0.7
-          }).addTo(map);
-
-          stopMarkers = (data.stops || []).map(stop =>
-            L.circleMarker([stop.lat, stop.lon], {
-              radius: 6,
-              fillColor: "#ffffff",
-              fillOpacity: 1,
-              color: color,
-              weight: 2
-            }).bindPopup(`<strong>${stop.name}</strong>`).addTo(map)
-          );
-
-          currentRouteTripId = trip_id;
-
-          Object.values(markers).forEach(m => m?.bringToFront?.());
-        } else {
-          console.warn("No valid shape returned for trip:", trip_id);
-        }
-      })
-      .catch(err => console.error("Error fetching/drawing route line:", err));
-  }
-
-  let visibleCities = [];
-
-  function fetchBusData(city) {
-    fetch(`/api/${city}/vehicles`).then(r => r.json()).then(data => {
-      latestBusData[city] = data;
-      updateBuses(city);
-    }).catch(err => console.error("Failed to fetch bus data:", err));
+  function toggleRegionLabels(visible) {
+    regionLabelMarkers.forEach(m => {
+      const el = m.getElement();
+      if (el) el.style.display = visible ? 'block' : 'none';
+    });
   }
 
   function detectVisibleCities() {
-    const mapBounds = map.getBounds().pad(0.5);
     const zoom = map.getZoom();
     if (zoom < REGION_ZOOM_THRESHOLD) return [];
 
+    const mapBounds = map.getBounds();
     let detected = [];
+
     for (const [city, info] of Object.entries(CITY_DATA)) {
-      const cityBounds = L.latLngBounds(info.bounds);
-      const overlap = getBoundsIntersectionArea(mapBounds, cityBounds);
-      if (overlap > 0) detected.push(city);
+      const sw = info.bounds[0];
+      const ne = info.bounds[1];
+      const cityBounds = new maplibregl.LngLatBounds([sw[1], sw[0]], [ne[1], ne[0]]);
+
+      if (boundsOverlap(mapBounds, cityBounds)) {
+        detected.push(city);
+      }
     }
     return detected;
   }
@@ -437,32 +559,37 @@
     const zoom = map.getZoom();
 
     if (zoom < REGION_ZOOM_THRESHOLD) {
-      if (map.hasLayer(busLayer)) map.removeLayer(busLayer);
+      map.setLayoutProperty('bounds-fill', 'visibility', 'visible');
+      map.setLayoutProperty('bounds-line', 'visibility', 'visible');
+      toggleRegionLabels(true);
       hideRouteLine();
-      setSidebar(null);
-      showRegionLabels();
+      clearSelection();
 
-      Object.keys(markers).forEach(markerKey => {
-        busLayer.removeLayer(markers[markerKey]);
-        delete markers[markerKey];
-        delete markerTargetPositions[markerKey];
-        delete markerAnimationStart[markerKey];
-      });
+      currentVehiclePositions = {};
+      targetPositions = {};
+      animStartPositions = {};
+      animatingKeys.clear();
+      renderVehicleGeoJSON();
+
       visibleCities = [];
+      document.getElementById("no-buses-msg").style.display = "none";
       return;
     }
 
-    hideRegionLabels();
+    map.setLayoutProperty('bounds-fill', 'visibility', 'none');
+    map.setLayoutProperty('bounds-line', 'visibility', 'none');
+    toggleRegionLabels(false);
 
     const newlyVisibleCities = detectVisibleCities();
 
-    Object.keys(markers).forEach(markerKey => {
-      const marker = markers[markerKey];
-      if (!newlyVisibleCities.includes(marker.city)) {
-        busLayer.removeLayer(marker);
-        delete markers[markerKey];
-        delete markerTargetPositions[markerKey];
-        delete markerAnimationStart[markerKey];
+    // Clean up vehicles leaving view
+    Object.keys(currentVehiclePositions).forEach(key => {
+      const v = currentVehiclePositions[key];
+      if (!newlyVisibleCities.includes(v.city) && key !== selectedBusId) {
+        delete currentVehiclePositions[key];
+        delete targetPositions[key];
+        delete animStartPositions[key];
+        animatingKeys.delete(key);
       }
     });
 
@@ -473,42 +600,263 @@
     });
 
     visibleCities = newlyVisibleCities;
-
-    if (!map.hasLayer(busLayer)) map.addLayer(busLayer);
+    renderVehicleGeoJSON();
   }
 
-
-  function getBoundsIntersectionArea(bounds1, bounds2) {
-    const sw1 = bounds1.getSouthWest();
-    const ne1 = bounds1.getNorthEast();
-    const sw2 = bounds2.getSouthWest();
-    const ne2 = bounds2.getNorthEast();
-
-    const latOverlap = Math.max(0, Math.min(ne1.lat, ne2.lat) - Math.max(sw1.lat, sw2.lat));
-    const lngOverlap = Math.max(0, Math.min(ne1.lng, ne2.lng) - Math.max(sw1.lng, sw2.lng));
-
-    return latOverlap * lngOverlap;
+  function fetchBusData(city) {
+    fetch(`/api/${city}/vehicles`)
+      .then(r => r.json())
+      .then(data => {
+        latestBusData[city] = data;
+        updateBuses(city);
+      })
+      .catch(err => console.error("Failed to fetch bus data:", err));
   }
 
+  async function updateBuses(city) {
+    if (!city || !latestBusData[city]) return;
 
-  loadCityData();
-</script>
+    const data = latestBusData[city];
+    const noBusesMsg = document.getElementById("no-buses-msg");
+    const cityHasBuses = data.length > 0 && map.getZoom() >= REGION_ZOOM_THRESHOLD;
 
-  <div id="no-buses-msg" style="
-       position: fixed;
-       bottom: 20px;
-       left: 20px;
-       background: rgba(255,255,255,0.95);
-       border: 2px solid #ccc;
-       padding: 10px 16px;
-       border-radius: 6px;
-       font-size: 14px;
-       font-family: sans-serif;
-       color: #333;
-       box-shadow: 0 2px 6px rgba(0,0,0,0.2);
-       display: none;
-       z-index: 1002;">
-       No buses currently in this region
-     </div>
+    noBusesMsg.style.display = cityHasBuses ? "none" : "block";
+
+    const mapBounds = map.getBounds();
+    const activeKeys = new Set();
+
+    for (const bus of data) {
+      if (bus.lat === null || bus.lon === null) continue;
+
+      const lngLat = new maplibregl.LngLat(bus.lon, bus.lat);
+      if (!mapBounds.contains(lngLat)) continue;
+
+      const markerKey = `${city}_${bus.vehicle_id}`;
+      activeKeys.add(markerKey);
+
+      bus.city = city;
+      bus.markerKey = markerKey;
+      bus.icon = await ensureIconLoaded(bus.icon);
+
+      if (markerKey === selectedBusId && activePopup) {
+        activePopup.setLngLat([bus.lon, bus.lat]);
+        if (lastSidebarVehicleKey !== markerKey || lastSidebarTimestamp !== bus.timestamp) {
+          setSidebar(bus);
+          lastSidebarVehicleKey = markerKey;
+          lastSidebarTimestamp = bus.timestamp;
+        }
+      }
+
+      const existing = currentVehiclePositions[markerKey];
+      if (existing) {
+        const from = { lat: existing.lat, lon: existing.lon };
+        const to = { lat: bus.lat, lon: bus.lon };
+
+        targetPositions[markerKey] = to;
+        animStartPositions[markerKey] = { from, to, startTime: performance.now() };
+        animatingKeys.add(markerKey);
+
+        Object.assign(existing, bus);
+      } else {
+        currentVehiclePositions[markerKey] = { ...bus };
+        targetPositions[markerKey] = { lat: bus.lat, lon: bus.lon };
+      }
+    }
+
+    Object.keys(currentVehiclePositions).forEach(key => {
+      const v = currentVehiclePositions[key];
+      if (v.city === city && !activeKeys.has(key) && key !== selectedBusId) {
+        delete currentVehiclePositions[key];
+        delete targetPositions[key];
+        delete animStartPositions[key];
+        animatingKeys.delete(key);
+      }
+    });
+
+    ensureAnimationLoop();
+    renderVehicleGeoJSON();
+  }
+
+  function stepAnimation() {
+    const now = performance.now();
+    const keys = Array.from(animatingKeys);
+
+    for (const key of keys) {
+      const v = currentVehiclePositions[key];
+      const anim = animStartPositions[key];
+
+      if (!v || !anim) {
+        animatingKeys.delete(key);
+        continue;
+      }
+
+      const t = Math.min((now - anim.startTime) / animationDuration, 1);
+      v.lat = anim.from.lat + (anim.to.lat - anim.from.lat) * t;
+      v.lon = anim.from.lon + (anim.to.lon - anim.from.lon) * t;
+
+      if (t >= 1) {
+        animStartPositions[key] = null;
+        animatingKeys.delete(key);
+      }
+    }
+
+    renderVehicleGeoJSON();
+
+    if (animatingKeys.size > 0) {
+      animationHandle = requestAnimationFrame(stepAnimation);
+    } else {
+      animationHandle = null;
+    }
+  }
+
+  function ensureAnimationLoop() {
+    if (animationHandle === null && animatingKeys.size > 0) {
+      animationHandle = requestAnimationFrame(stepAnimation);
+    }
+  }
+
+  function renderVehicleGeoJSON() {
+    const source = map.getSource('vehicles-source');
+    if (!source) return;
+
+    const features = Object.values(currentVehiclePositions).map(v => ({
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [v.lon, v.lat]
+      },
+      properties: v
+    }));
+
+    source.setData({
+      type: 'FeatureCollection',
+      features
+    });
+  }
+
+  function setSidebar(bus) {
+    const sidebar = document.getElementById('sidebar');
+
+    if (bus) {
+      sidebar.classList.remove('hide');
+
+      const currentYear = new Date().getFullYear();
+      const busYearNum = Number.parseInt(bus.year, 10);
+      let yearWithAge = bus.year || "N/A";
+
+      if (Number.isFinite(busYearNum) && busYearNum > 1900 && busYearNum <= currentYear + 1) {
+        const yearsOld = Math.max(0, currentYear - busYearNum);
+        yearWithAge += ` (${yearsOld} year${yearsOld === 1 ? "" : "s"} old)`;
+      }
+
+      let lastUpdateText = "N/A";
+      if (bus.timestamp) {
+        const tsMs = Number(bus.timestamp) * 1000;
+        if (Number.isFinite(tsMs)) {
+          const nowMs = Date.now();
+          const diffSec = Math.max(0, Math.floor((nowMs - tsMs) / 1000));
+
+          let rel;
+          if (diffSec < 60) {
+            rel = `${diffSec} second${diffSec === 1 ? "" : "s"} ago`;
+          } else if (diffSec < 3600) {
+            const mins = Math.floor(diffSec / 60);
+            rel = `${mins} minute${mins === 1 ? "" : "s"} ago`;
+          } else {
+            const hrs = Math.floor(diffSec / 3600);
+            rel = `${hrs} hour${hrs === 1 ? "" : "s"} ago`;
+          }
+
+          const absolute = new Date(tsMs).toLocaleTimeString();
+          lastUpdateText = `${absolute} (${rel})`;
+        }
+      }
+
+      document.getElementById('sidebar-content').innerHTML = `
+        <div><strong>Vehicle ID:</strong></div><div>${bus.vehicle_id}</div>
+        <div><strong>Model:</strong></div><div>${bus.model}</div>
+        <div><strong>Year:</strong></div><div>${yearWithAge}</div>
+        <div><strong>Fuel:</strong></div><div>${bus.fuel_type}</div>
+        <div><strong>Route:</strong></div><div>${bus.route || 'N/A'}</div>
+        <div><strong>Next Stop:</strong></div><div>${bus.next_stop || 'N/A'}</div>
+        <div><strong>Terminus:</strong></div><div>${bus.terminus_stop || 'N/A'}</div>
+        <div><strong>Operator:</strong></div><div>${bus.operator || 'N/A'}</div>
+        <div><strong>Last update:</strong></div><div id="timeUpdated">${lastUpdateText}</div>
+        ${bus.fleet_link ? `<div><strong></strong></div><div><a href="${bus.fleet_link}" target="_blank" rel="noopener">View on cptdb.ca</a></div>` : ''}
+      `;
+    } else {
+      sidebar.classList.add('hide');
+      document.getElementById('sidebar-content').innerHTML = "";
+    }
+  }
+
+  function hideRouteLine() {
+    if (map.getSource('route-source')) {
+      map.getSource('route-source').setData({ type: 'FeatureCollection', features: [] });
+    }
+    if (map.getSource('stops-source')) {
+      map.getSource('stops-source').setData({ type: 'FeatureCollection', features: [] });
+    }
+    currentRouteTripId = null;
+  }
+
+  function drawRouteLine(trip_id) {
+    if (!selectedCity || trip_id === currentRouteTripId) return;
+
+    hideRouteLine();
+
+    const cached = routeShapeCache.get(trip_id);
+    if (cached) {
+      renderRouteFromData(cached);
+      currentRouteTripId = trip_id;
+      return;
+    }
+
+    fetch(`/api/${selectedCity}/route_shape/${trip_id}`)
+      .then(r => {
+        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+        return r.json();
+      })
+      .then(data => {
+        routeShapeCache.set(trip_id, data);
+        renderRouteFromData(data);
+        currentRouteTripId = trip_id;
+      })
+      .catch(err => console.error("Error fetching route shape:", err));
+  }
+
+  function renderRouteFromData(data) {
+    if (Array.isArray(data.shape) && data.shape.length > 1) {
+      const routeColor = "#" + (data.route_color || "000000");
+      const lineCoords = data.shape.map(p => [p[1], p[0]]);
+
+      map.getSource('route-source').setData({
+        type: 'FeatureCollection',
+        features: [{
+          type: 'Feature',
+          properties: { route_color: routeColor },
+          geometry: {
+            type: 'LineString',
+            coordinates: lineCoords
+          }
+        }]
+      });
+
+      const stopFeatures = (data.stops || []).map(stop => ({
+        type: 'Feature',
+        properties: { name: stop.name, color: routeColor },
+        geometry: {
+          type: 'Point',
+          coordinates: [stop.lon, stop.lat]
+        }
+      }));
+
+      map.getSource('stops-source').setData({
+        type: 'FeatureCollection',
+        features: stopFeatures
+      });
+    }
+  }
+  </script>
 </body>
 </html>
